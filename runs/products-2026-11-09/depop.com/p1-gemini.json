@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.depop.com/products/zoeyaliviaw12-gray-cropped-hoodie-with-star-eafc/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the request was blocked by the website",
+ "finish": "STOP",
+ "cost_usd": 8e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the request was blocked by the website",
+       "thoughtSignature": "EnMKcQFpFH0ThheJJsLT3oE6IUWUbcC7X5rHaMFzumaJZEP7MmV1OIGiAIyFKSmWE+tcjRW+LSFJvJKyaV6mWLFuIAJCZVwKNVmrwW2FkBuHBqlHh825q07My3OHth1wzrEj7WTNs0X0iRPPsFRUBIThQpuL"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.depop.com/products/zoeyaliviaw12-gray-cropped-hoodie-with-star-eafc/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 141,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 571,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 141
+    }
+   ],
+   "toolUsePromptTokenCount": 360,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 360
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ZxTyas61Hdqgz7IP2pOa6Qk"
+ }
+}

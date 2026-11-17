@@ -1,0 +1,60 @@
+{
+ "domain": "homedepot.com",
+ "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+ "idx": 1,
+ "at": "2026-11-09T12:24:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15179 chars, copy dated 2026-11-05 (3 days old)",
+   "parsed": true,
+   "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+   "price": 539.0,
+   "price_raw": "$539.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:16:51+00:00",
+   "age_days": 3,
+   "cost_usd": 0.17165
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+   "price": 519.0,
+   "price_raw": "$519.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00063
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+   "price": 519.0,
+   "price_raw": "$519.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01244
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash T03",
+   "price": 519.0,
+   "price_raw": "$519.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00521
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+  "https://www.kroger.com/p/death-wish-coffee-medium-roast-ground-coffee/0081006334306",
+  "https://www.kroger.com/q/death+wish+ground+coffee",
+  "https://www.kroger.com/pb/death-wish-coffee/ground-coffee/0400300003",
+  "https://www.kroger.com/q/death+wish+coffee",
+  "https://www.kroger.com/q/death+wish",
+  "https://www.kroger.com/q/coffee",
+  "https://www.kroger.com/p/death-wish-coffee-coconut-caramel-ground-coffee/0081006334431",
+  "https://www.kroger.com/q/coffee+death",
+  "https://www.kroger.com/q/coffee+can"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Death Wish Coffee Co.® Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Death Wish Coffee Co.® Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+   "https://www.kroger.com/p/death-wish-coffee-medium-roast-ground-coffee/0081006334306",
+   "https://www.kroger.com/q/death+wish+ground+coffee",
+   "https://www.kroger.com/pb/death-wish-coffee/ground-coffee/0400300003",
+   "https://www.kroger.com/q/death+wish+coffee",
+   "https://www.kroger.com/q/death+wish",
+   "https://www.kroger.com/q/coffee",
+   "https://www.kroger.com/p/death-wish-coffee-coconut-caramel-ground-coffee/0081006334431",
+   "https://www.kroger.com/q/coffee+death",
+   "https://www.kroger.com/q/coffee+can"
+  ],
+  "created": 1794082556,
+  "id": "resp_b792a931-20ce-4113-b137-94dafbe4cd56",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "Death Wish Coffee Co.® Medium Roast Ground Coffee, 10 oz - Kroger\nat Harrisonburg\n...\n250 Item Limit Exceeded\n...\n4. Death Wish Coffee Co.® Medium Roast Ground Coffee\n# Death Wish Coffee Co.® Medium Roast Ground Coffee\n4.73 891\nUPC: 0081006334306\nLocated in AISLE 10\n$13.99$13.99\n$1.40/oz\nSNAP EBT El...",
+    "source": "web",
+    "title": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306"
+   },
+   {
+    "date": "2025-07-07",
+    "last_updated": "2025-07-22",
+    "place_metadata": null,
+    "snippet": "Item 1 of 4 is selected.\n# Death Wish Coffee® Medium Roast Ground Coffee4.73(818)View All Reviews10 ozUPC: 0081006334306Located in AISLE 11Low Stock\n$14\n.99$1.50/ozPurchase Options:PickupPickupDelivery\n## Product Information\n- Fiercely strong coffee\n- Organic\n- Fair trade\n...\n### ReviewsAverage Cust...",
+    "source": "web",
+    "title": "Kroger - Death Wish Coffee® Medium Roast Ground Coffee, 10 oz",
+    "url": "https://www.kroger.com/p/death-wish-coffee-medium-roast-ground-coffee/0081006334306"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# death wish ground coffee\n## 268 results\n268 products loaded\nSponsored\n$13.99$13.99\n$1.40/oz\nDeath Wish Coffee Co.® Medium Roast Ground Coffee\n10 oz\nSNAP EBT\n$13.99$13.99\n$1.40/oz",
+    "source": "web",
+    "title": "Death Wish Ground Coffee",
+    "url": "https://www.kroger.com/q/death+wish+ground+coffee"
+   },
+   {
+    "date": "2026-10-17",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Death Wish Coffee Ground Coffee\n## 5 results\n5 products loaded\n$13.99$13.99\n$1.40/oz\nDeath Wish Coffee Co.® Medium Roast Ground Coffee\n10 oz\nSNAP EBT\n$13.99$13.99",
+    "source": "web",
+    "title": "Death Wish Coffee Ground Coffee - Kroger",
+    "url": "https://www.kroger.com/pb/death-wish-coffee/ground-coffee/0400300003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "$10.99$13.99Sale: $10.99 discounted from $13.99\n$1.10/oz\nDeath Wish Coffee Co.® Medium Roast Ground Coffee\n10 oz\nSNAP EBT\nSave $2 each when you buy 3 or moreView Offer\n…",
+    "source": "web",
+    "title": "death wish coffee - Kroger",
+    "url": "https://www.kroger.com/q/death+wish+coffee"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# death wish\n## 161 results\n161 products loaded\nAisle 10\n$10.99$13.99Sale: $10.99 discounted from $13.99\n$1.10/oz\n### Death Wish Coffee Co® Dark Roast Ground Coffee\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$10.99$13.99Sale: $10.99 discounted from $13.99\n$1.22/oz\n...\n### Death Wish Co...",
+    "source": "web",
+    "title": "death wish",
+    "url": "https://www.kroger.com/q/death+wish"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### Death Wish Coffee Co.® Medium Roast Ground Coffee\nSave $2 each when you buy 3 or moreView 1 Offer\n…\n...\n### Death Wish Coffee Co® Organic and Fair Trade Vanilla Flavored Ground Coffee\nSave $2 each when you buy 3 or moreView 1 Offer",
+    "source": "web",
+    "title": "Coffee - Kroger",
+    "url": "https://www.kroger.com/q/coffee"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "Death Wish Coffee® Coconut Caramel Ground Coffee, 9 oz - Kroger\nat Harrisonburg\n...\n# Death Wish Coffee® Coconut Caramel Ground Coffee\n4.78 323\nUPC: 0081006334431\nPrices May Vary\n...\nThis selection is unavailable.\nPlease choose another option.\n### Item Availability\nPickupUnavailable\nKroger DeliveryU...",
+    "source": "web",
+    "title": "Death Wish Coffee® Coconut Caramel Ground Coffee, 9 oz",
+    "url": "https://www.kroger.com/p/death-wish-coffee-coconut-caramel-ground-coffee/0081006334431"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# coffee death\n## 259 results\n259 products loaded\nAisle 10\n$10.99$13.99Sale: $10.99 discounted from $13.99\n$1.10/oz\n### Death Wish Coffee Co.® Medium Roast Ground Coffee\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$10.99$13.99Sale: $10.99 discounted from $13.99\n$1.10/oz",
+    "source": "web",
+    "title": "coffee death - Kroger",
+    "url": "https://www.kroger.com/q/coffee+death"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### Death Wish Coffee® Organic Dark Roast Whole Bean Coffee\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$12.99$12.99\n$1.08/oz\n...\n### Death Wish Coffee Co® Espresso Roast Ground Coffee\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$9.09$9.78Sale: $9.09 discounted from $9.78\n$...",
+    "source": "web",
+    "title": "coffee can - Kroger",
+    "url": "https://www.kroger.com/q/coffee+can"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 30,
+   "cost": {
+    "input_tokens_cost": 0.00123,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00397
+   },
+   "prompt_tokens": 128,
+   "search_context_size": "low",
+   "total_tokens": 158
+  }
+ }
+}

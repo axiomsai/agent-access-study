@@ -1,0 +1,60 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+ "idx": 5,
+ "at": "2026-11-09T12:44:01-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "14210 chars, copy dated 2026-09-30 (40 days old)",
+   "parsed": true,
+   "name": "Kroger® Original Medium Roast Ground Coffee, 29 oz",
+   "price": 14.49,
+   "price_raw": "$14.49",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-09-30T00:34:36+00:00",
+   "age_days": 40,
+   "cost_usd": 0.1035
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Kroger® Original Medium Roast Ground Coffee",
+   "price": 14.49,
+   "price_raw": "$14.49",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00051
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01131
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Kroger® Original Medium Roast Ground Coffee",
+   "price": 13.99,
+   "price_raw": "$13.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

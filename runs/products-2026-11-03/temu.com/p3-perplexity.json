@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.temu.com/de-en/gc/home-garden/household-appliances/vacuums-619.html",
+  "https://www.temu.com/nl-en/cordless-lightweight-vacuum-cleaner-2026-new--and-major-upgrade-35-70kpa-with-anti--brush-multiple-suction-levels-and-a-long--of-up-to-45-minutes-suitable-for-carpets-pet-hair-and-hardwood-floors-during--g-601104401651169.html",
+  "https://www.temu.com/de-en/-portable-cordless-handheld-vacuum-cleaner-suitable-for-cars-offices-home-rechargeable-wireless-stick-vacuum-with-strong-suction--low-voltage-motor-compact-for-car-sofa-bed-cleaning-powerful--g-601101561520344.html",
+  "https://www.temu.com/de-en/2-in-1-handheld-vacuum-cleaner-usb-charging-model-cordless-model-with--display-including-crevice-tool-brush-attachment-multiple-nozzles-9kpa-strong--household-cleaning-car-dust-removal-g-601102637716053.html",
+  "https://www.temu.com/mu/cordless-vacuum-cleaners-5030025908328-s.html",
+  "https://www.temu.com/cy-en/gc/home-garden/household-appliances/vacuums-619.html?page=3",
+  "https://www.temu.com/pl-en/-38000pa-46000pa-cordless-vacuum-cleaner-2l-cordless-vacuum-cleaner-with-led-display--free-brush-4x-hepa-filter-suitable-for-hard-floors-carpets-pet-hair-christmas-halloween-gifts-g-601099702682794.html",
+  "https://www.temu.com/it-en/-3-in-1-cordless-wet-dry-vacuum-cleaner-mop-combo-20kpa-vacuum--self-cleaning-with-one-click-hepa-filtered--reminder-6mm-edge-cleaning-for-pet-hair-carpets-home-cleaning--mode-g-601103015255647.html",
+  "https://www.temu.com/be/vacuum-cleaner-car-vacuum-cleaner-household-vacuum-cleaner-6000pa-super-suction-handheld-vacuum-cleaner-2000mah-large-capacity---with-5-matching-accessories-mini-vacuum-cleaner-for-car-interior-cleaning-pet--g-601102813264054.html",
+  "https://www.temu.com/pt-en/portable-mini-car-vacuum-cleaner-usb-rechargeable-powerful-suction-handheld-air-duster-for-interior-cleaning-durable-abs-body-g-601099776651105.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page could not be opened reliebly",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page could not be opened reliebly",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.temu.com/de-en/gc/home-garden/household-appliances/vacuums-619.html",
+   "https://www.temu.com/nl-en/cordless-lightweight-vacuum-cleaner-2026-new--and-major-upgrade-35-70kpa-with-anti--brush-multiple-suction-levels-and-a-long--of-up-to-45-minutes-suitable-for-carpets-pet-hair-and-hardwood-floors-during--g-601104401651169.html",
+   "https://www.temu.com/de-en/-portable-cordless-handheld-vacuum-cleaner-suitable-for-cars-offices-home-rechargeable-wireless-stick-vacuum-with-strong-suction--low-voltage-motor-compact-for-car-sofa-bed-cleaning-powerful--g-601101561520344.html",
+   "https://www.temu.com/de-en/2-in-1-handheld-vacuum-cleaner-usb-charging-model-cordless-model-with--display-including-crevice-tool-brush-attachment-multiple-nozzles-9kpa-strong--household-cleaning-car-dust-removal-g-601102637716053.html",
+   "https://www.temu.com/mu/cordless-vacuum-cleaners-5030025908328-s.html",
+   "https://www.temu.com/cy-en/gc/home-garden/household-appliances/vacuums-619.html?page=3",
+   "https://www.temu.com/pl-en/-38000pa-46000pa-cordless-vacuum-cleaner-2l-cordless-vacuum-cleaner-with-led-display--free-brush-4x-hepa-filter-suitable-for-hard-floors-carpets-pet-hair-christmas-halloween-gifts-g-601099702682794.html",
+   "https://www.temu.com/it-en/-3-in-1-cordless-wet-dry-vacuum-cleaner-mop-combo-20kpa-vacuum--self-cleaning-with-one-click-hepa-filtered--reminder-6mm-edge-cleaning-for-pet-hair-carpets-home-cleaning--mode-g-601103015255647.html",
+   "https://www.temu.com/be/vacuum-cleaner-car-vacuum-cleaner-household-vacuum-cleaner-6000pa-super-suction-handheld-vacuum-cleaner-2000mah-large-capacity---with-5-matching-accessories-mini-vacuum-cleaner-for-car-interior-cleaning-pet--g-601102813264054.html",
+   "https://www.temu.com/pt-en/portable-mini-car-vacuum-cleaner-usb-rechargeable-powerful-suction-handheld-air-duster-for-interior-cleaning-durable-abs-body-g-601099776651105.html"
+  ],
+  "created": 1793751226,
+  "id": "resp_1f4ca5ad-eedd-450a-94cc-0487145d745b",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "### USB Rechargeable Powerful Cordless Vacuum Cleaner, Household Handheld Vacuum Cleaner, with * Blowing and Suction Functions, Mini and Portable. Suitable for Cleaning Dust, Snack *, Hair, and Applicable to Sofas, Carpets, Desktops, and Stairs. Open in new tab.\n...\n### *: 2026 NEW 20000Pa Powerful ...",
+    "source": "web",
+    "title": "Your Cleaning with Our High-Powered Vacuums - Temu Germany",
+    "url": "https://www.temu.com/de-en/gc/home-garden/household-appliances/vacuums-619.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-29",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "cordless lightweight vacuum cleaner anti brush 35 - Temu Netherlands",
+    "url": "https://www.temu.com/nl-en/cordless-lightweight-vacuum-cleaner-2026-new--and-major-upgrade-35-70kpa-with-anti--brush-multiple-suction-levels-and-a-long--of-up-to-45-minutes-suitable-for-carpets-pet-hair-and-hardwood-floors-during--g-601104401651169.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-04",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "portable cordless handheld vacuum cleaner suitable - Temu Germany",
+    "url": "https://www.temu.com/de-en/-portable-cordless-handheld-vacuum-cleaner-suitable-for-cars-offices-home-rechargeable-wireless-stick-vacuum-with-strong-suction--low-voltage-motor-compact-for-car-sofa-bed-cleaning-powerful--g-601101561520344.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-12",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "2 in 1 handheld vacuum cleaner usb charging model ...",
+    "url": "https://www.temu.com/de-en/2-in-1-handheld-vacuum-cleaner-usb-charging-model-cordless-model-with--display-including-crevice-tool-brush-attachment-multiple-nozzles-9kpa-strong--household-cleaning-car-dust-removal-g-601102637716053.html"
+   },
+   {
+    "date": "2023-08-21",
+    "last_updated": "2025-09-06",
+    "place_metadata": null,
+    "snippet": "# cordless vacuum cleaners\n## Wireless 3-in-1 Stick Vacuum Cleaner - Corded, Lightweight & Portable Upright with * Handle, 3-* USB Charging for Dust and * Suction Handheld Use. Ideal Household/Car Floor Carpet Pet Hair Removal\n...\n## * Handheld Vacuum Cleaner Ultra Lightweight Cordless Stick Vac - 8...",
+    "source": "web",
+    "title": "cordless vacuum cleaners - Mauritius",
+    "url": "https://www.temu.com/mu/cordless-vacuum-cleaners-5030025908328-s.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "### 2026 Wireless Vacuum Cleaner 26000PA Brushless * Vacuum, USB Rechargeable Strong Suction Handheld Dust Collector for Pet Hair * Hair, Portable Mini Vacuum Cleaner for * Office, Cute Car Additions for Women, * Gift Open in new tab.\n...\n### Cordless Vacuum Cleaner for Home And Car Use, Featuring P...",
+    "source": "web",
+    "title": "Your Cleaning with Our High-Powered Vacuums - Temu Cyprus -",
+    "url": "https://www.temu.com/cy-en/gc/home-garden/household-appliances/vacuums-619.html?page=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-09",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "38000pa/46000pa cordless vacuum cleaner, 2l ...",
+    "url": "https://www.temu.com/pl-en/-38000pa-46000pa-cordless-vacuum-cleaner-2l-cordless-vacuum-cleaner-with-led-display--free-brush-4x-hepa-filter-suitable-for-hard-floors-carpets-pet-hair-christmas-halloween-gifts-g-601099702682794.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-16",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "3 in 1 cordless wet dry vacuum cleaner mop combo",
+    "url": "https://www.temu.com/it-en/-3-in-1-cordless-wet-dry-vacuum-cleaner-mop-combo-20kpa-vacuum--self-cleaning-with-one-click-hepa-filtered--reminder-6mm-edge-cleaning-for-pet-hair-carpets-home-cleaning--mode-g-601103015255647.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-06",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "Vacuum Cleaner, Car Vacuum Cleaner, Household ...",
+    "url": "https://www.temu.com/be/vacuum-cleaner-car-vacuum-cleaner-household-vacuum-cleaner-6000pa-super-suction-handheld-vacuum-cleaner-2000mah-large-capacity---with-5-matching-accessories-mini-vacuum-cleaner-for-car-interior-cleaning-pet--g-601102813264054.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-09",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "wireless portable vacuum cleaner - with strong suction ...",
+    "url": "https://www.temu.com/pt-en/portable-mini-car-vacuum-cleaner-usb-rechargeable-powerful-suction-handheld-air-duster-for-interior-cleaning-durable-abs-body-g-601099776651105.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 27,
+   "cost": {
+    "input_tokens_cost": 0.00164,
+    "output_tokens_cost": 0.00032,
+    "request_cost": 0.0025,
+    "total_cost": 0.00446
+   },
+   "prompt_tokens": 161,
+   "search_context_size": "low",
+   "total_tokens": 188
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/",
+ "started": "2026-11-07T13:25:45-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.etsy.com/",
+  "bytes": 776,
+  "error": null,
+  "title": "etsy.com",
+  "markers": [
+   "captcha"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "12708 chars, copy dated 2026-10-27 (11 days old)",
+   "answer": "I opened the page successfully.\n\n- **Page title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n- **One category on the page:** Home Favorites",
+   "cost_usd": 0.0974
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Page Title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\n**Product or Category Name:** Holiday Decor",
+   "cost_usd": 0.00036
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone  \nCategory/product name: Gifts ([etsy.com](https://www.etsy.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone; Everyday Accessories[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

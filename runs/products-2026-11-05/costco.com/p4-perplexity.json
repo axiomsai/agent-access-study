@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna--red-light-wands/4201023343",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/saunas.html",
+  "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+  "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1",
+  "https://www.costco.com/opt/luxury-outdoor-saunas",
+  "https://www.costco.com/opt/gifts-for-sauna-owners",
+  "https://customerservice.costco.com/app/answers/list/p/2161/categoryRecordID/RN_PRODUCT_2161",
+  "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164",
+  "https://www.costco.com/saunas.html?brand=dynamic-saunas&srchKeyword=sauna&refine=%7C%7CBrand_attr-Dynamic+Saunas"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna--red-light-wands/4201023343",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/saunas.html",
+   "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+   "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1",
+   "https://www.costco.com/opt/luxury-outdoor-saunas",
+   "https://www.costco.com/opt/gifts-for-sauna-owners",
+   "https://customerservice.costco.com/app/answers/list/p/2161/categoryRecordID/RN_PRODUCT_2161",
+   "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164",
+   "https://www.costco.com/saunas.html?brand=dynamic-saunas&srchKeyword=sauna&refine=%7C%7CBrand_attr-Dynamic+Saunas"
+  ],
+  "created": 1793907361,
+  "id": "resp_e6ab8b28-ad39-4c5b-8352-8902ff244315",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | Costco\n...\n3. Sports & Fitness\n...\n# Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands\nItem 3849544 | Model 3849544-18POD\n...\n## How To Get It\nChange My WarehouseUnavailable\n- Deep Steam Heat - Up to 135°F ...",
+    "source": "web",
+    "title": "Homedics 2-in-1 Portable Steam Sauna with Dual Red ...",
+    "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna--red-light-wands/4201023343"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Online\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nOnline Only\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nItem 3849544\nLimit 5.\n$199.99\nAfter $100 OFF\nValid 10/23/26 - 11/15/26\nValid 10/30/26 - 11/15/26\nBuy Online",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Saunas\n## Home Saunas & Personal Spas: Relax, Unwind and Recharge\n- **Indoor, Outdoor & Portable:** Indoor saunas, outdoor saunas and portable saunas offer instant relaxation.\n- **Compact 2-Person Saunas:** Energy-efficient 2-person saunas for master suites, home gyms, or tight spaces.",
+    "source": "web",
+    "title": "Saunas - Costco Wholesale",
+    "url": "https://www.costco.com/saunas.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Costco Same-Day\n# Costco favorites delivered in as fast as 1 hour",
+    "source": "web",
+    "title": "Homedics Premium Steam Sauna, Black - Costco Same-Day Delivery",
+    "url": "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Homedics Infrared & Red Light Pain Therapy Wrap | Costco\n...\n3. Health & Personal Care\n...\n5. Home Health Care\n...\n# Homedics Infrared & Red Light Pain Therapy Wrap\nItem 1900871\n...\n## How To Get It\n- 20, 850 Nm Infrared LEDs Penetrate for Muscle Relief\n- 20, 660 Nm LEDs Boost Blood Flow, Speeding U...",
+    "source": "web",
+    "title": "Homedics Infrared & Red Light Pain Therapy Wrap",
+    "url": "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Luxury Outdoor Saunas\nBackyard Discovery Bennett 2-4 Person Outdoor Sauna with Remote Wi-Fi Heating EDLP",
+    "source": "web",
+    "title": "Luxury Outdoor Saunas",
+    "url": "https://www.costco.com/opt/luxury-outdoor-saunas"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Gifts For Sauna Owners\nGifts for Sauna Owners are a thoughtful way to enhance relaxation and elevate the at-home spa experience.",
+    "source": "web",
+    "title": "Gifts For Sauna Owners",
+    "url": "https://www.costco.com/opt/gifts-for-sauna-owners"
+   },
+   {
+    "date": "2026-03-02",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\n## Search Results\nCurrently, products on Costco.com are available for U.S. delivery only.",
+    "source": "web",
+    "title": "Order Status/Shipping - Find Answers - Costco Wholesale",
+    "url": "https://customerservice.costco.com/app/answers/list/p/2161/categoryRecordID/RN_PRODUCT_2161"
+   },
+   {
+    "date": "2026-03-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\n## Search Results\nTo search for a product online at Costco.com, enter a keyword or an item number into the search engine at the top.",
+    "source": "web",
+    "title": "Product Availability - Costco Customer Service",
+    "url": "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Saunas\n## Home Saunas & Personal Spas: Relax, Unwind and Recharge\n- **Indoor, Outdoor & Portable:** Indoor saunas, outdoor saunas and portable saunas offer instant relaxation.\n- **Compact 2-Person Saunas:** Energy-efficient 2-person saunas for master suites, home gyms, or tight spaces.",
+    "source": "web",
+    "title": "Dynamic Saunas - Costco",
+    "url": "https://www.costco.com/saunas.html?brand=dynamic-saunas&srchKeyword=sauna&refine=%7C%7CBrand_attr-Dynamic+Saunas"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00109,
+    "output_tokens_cost": 0.00028,
+    "request_cost": 0.0025,
+    "total_cost": 0.00387
+   },
+   "prompt_tokens": 139,
+   "search_context_size": "low",
+   "total_tokens": 174
+  }
+ }
+}

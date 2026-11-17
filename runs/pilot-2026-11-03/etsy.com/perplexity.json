@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/pages",
+  "https://www.etsy.com/c",
+  "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/es/",
+  "https://www.etsy.com/legal/prohibited/",
+  "https://www.etsy.com/ipreporting",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/about",
+  "https://www.etsy.com/seller-handbook/article/1276491338090"
+ ],
+ "cited_store": true,
+ "answer": "Blocked: the exact URL could not be opened.",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Blocked: the exact URL could not be opened.",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/pages",
+   "https://www.etsy.com/c",
+   "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/es/",
+   "https://www.etsy.com/legal/prohibited/",
+   "https://www.etsy.com/ipreporting",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/about",
+   "https://www.etsy.com/seller-handbook/article/1276491338090"
+  ],
+  "created": 1793749441,
+  "id": "resp_94460fbf-4d80-497f-8a00-0ff4b9fb48e3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy Pages\n# Etsy Pages\nExplore the marketplace through your favorite tastemakers.",
+    "source": "web",
+    "title": "Etsy Pages",
+    "url": "https://www.etsy.com/pages"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "All Categories - Etsy\n# All Categories\nHome & Living\nAccessories\n(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n...\n- ### Blind Same Hour Psychic Reading, No Questions Asked, Accurate Sp...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What’s the Link for My Shop?\nYou can type your shop web address (URL) directly in a web browser's address bar using either of these formats:\n- *shopname*.etsy.com\n- www.etsy.com/shop/*shopname*\nThese links will only work once your shop is open.",
+    "source": "web",
+    "title": "What's the Link for My Shop?",
+    "url": "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\n5,000+ items",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy Spain - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy España - Compra regalos hechos a mano, vintage ...",
+    "url": "https://www.etsy.com/es/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Prohibited Items Policy\n## 8. Violent Items: Items that Promote, Support, or Glorify Violence\n### Examples of What is Allowed:\nAt the bottom of a listing page, you can click Report this item to Etsy.",
+    "source": "web",
+    "title": "Prohibited Items Policy - Our House Rules",
+    "url": "https://www.etsy.com/legal/prohibited/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "## Protect your brand with our new Etsy Reporting Portal\n### Powerful:\nUse keywords related to your brand to search millions of listings, then browse, compile, and report any suspected infringing listings to our dedicated team.\n...\n### Dedicated support:\nOnce reported, our team jumps into action to ...",
+    "source": "web",
+    "title": "Etsy Reporting Portal",
+    "url": "https://www.etsy.com/ipreporting"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n985+ items\n...\nDigital Download\n- ## https://www.etsy.com/shop/CCTeeDesign?ref=shop_sugg_market",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Keep Commerce Human\n## How Etsy Works\nFor investor news and presentations, SEC filings and leadership and governance information, visit our Investor Relations site.\n...\n- ### I'm ready to shop.\nWhere do I begin?\nVisit etsy.com to start exploring.\nIf you're looking for something specific, search aw...",
+    "source": "web",
+    "title": "About Etsy",
+    "url": "https://www.etsy.com/about"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "How Etsy Is Protecting Creativity and Self-Expression\n### July 9, 2024 | 4 minute read",
+    "source": "web",
+    "title": "How Etsy Is Protecting Creativity and Self-Expression",
+    "url": "https://www.etsy.com/seller-handbook/article/1276491338090"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 10,
+   "cost": {
+    "input_tokens_cost": 0.00055,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00308
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 67
+  }
+ }
+}

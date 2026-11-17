@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Lowe's Home Improvement\n**Product or Category Name:** Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00048,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Lowe's Home Improvement\n**Product or Category Name:** Appliances",
+       "thoughtSignature": "EnMKcQFpFH0THz1if7EjGTUkKV4K77dQ6jthITLEF3YYFIR1MfDnk55S1hTZKvERIFTfSxdNDLivnWAU5rReAlZMU0RX2n/UdLHQjbVXQrTelXaX3I/MI+liQn5w1K9toSGbt3YmIVH6Qg9WBSp60kzQkrSH"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.lowes.com/",
+        "title": "Lowe's Home Improvement"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 39,
+        "text": "**Page Title:** Lowe's Home Improvement"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 40,
+        "endIndex": 80,
+        "text": "**Product or Category Name:** Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 47,
+   "totalTokenCount": 4652,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4543,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4543
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "y3HqapvzHNefqtsPt_XugAM"
+ }
+}

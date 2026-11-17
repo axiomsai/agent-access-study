@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/",
+  "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+  "https://www.bestbuy.com/site/small-appliances/coffee-tea-espresso/pcmcat367400050002.c?id=pcmcat367400050002",
+  "https://www.bestbuy.com/product/asus-rog-strix-scar-18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5090-2tb-storage-off-black/JJGGLHXJY3/sku/6613957/reviews",
+  "https://www.bestbuy.com/product/xyz/6671015",
+  "https://www.bestbuy.com/product/apple-airpods-5-true-wireless-active-noise-cancelling-earbuds-white/JJGCQP68Y2",
+  "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews",
+  "https://www.bestbuy.com/site/pc-gaming/gaming-monitors/pcmcat304600050011.c?id=pcmcat304600050011",
+  "https://www.bestbuy.com/site/shop/health-products",
+  "https://www.bestbuy.com/site/shop/health-essentials"
+ ],
+ "cited_store": true,
+ "answer": "Best Buy | Official Online Store | Shop Now & Save  \nSoundbars",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Best Buy | Official Online Store | Shop Now & Save  \nSoundbars",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/",
+   "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+   "https://www.bestbuy.com/site/small-appliances/coffee-tea-espresso/pcmcat367400050002.c?id=pcmcat367400050002",
+   "https://www.bestbuy.com/product/asus-rog-strix-scar-18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5090-2tb-storage-off-black/JJGGLHXJY3/sku/6613957/reviews",
+   "https://www.bestbuy.com/product/xyz/6671015",
+   "https://www.bestbuy.com/product/apple-airpods-5-true-wireless-active-noise-cancelling-earbuds-white/JJGCQP68Y2",
+   "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews",
+   "https://www.bestbuy.com/site/pc-gaming/gaming-monitors/pcmcat304600050011.c?id=pcmcat304600050011",
+   "https://www.bestbuy.com/site/shop/health-products",
+   "https://www.bestbuy.com/site/shop/health-essentials"
+  ],
+  "created": 1794079607,
+  "id": "resp_a230a387-6778-4a0b-a852-9f9c3e9ec236",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n## Early Black Friday Deals",
+    "source": "web",
+    "title": "Cheap Soundbar For Tv - Best Buy",
+    "url": "https://www.bestbuy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "iRobot Roomba 205 DustCompactor Vacuum Compacts Dirt Inside, No Emptying for 60 Days, Bagless, Intense Suction Black - Best Buy\n...\n# Customer Ratings & Reviews\n## iRobot - Roomba 205 DustCompactor Vacuum - Compacts Dirt Inside, No Emptying for 60 Days, Bagless, Intense Suction - Black\n- **Model:**\n...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews - BestBuy.com",
+    "url": "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Coffee, Tea & Espresso: Hot Beverage Machines - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n# Coffee, Tea & Espresso\n## Filters\n...\n## Category\n...\n## Coffee, Tea & Espresso (1495)",
+    "source": "web",
+    "title": "Coffee, Tea & Espresso: Hot Beverage Machines - Best Buy",
+    "url": "https://www.bestbuy.com/site/small-appliances/coffee-tea-espresso/pcmcat367400050002.c?id=pcmcat367400050002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "ASUS ROG Strix SCAR 18 18\" 2.5K 240Hz Gaming Laptop Intel Core Ultra 9 HX 32GB Memory GeForce RTX 5090 2TB Storage Off Black - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n2. Computers & Tablets\n3. PC Gaming\n4. Gaming Laptops\n...\n## ASUS - ROG Strix SCAR 18 18\" 2.5K 240...",
+    "source": "web",
+    "title": "ASUS ROG Strix SCAR 18 18\" 2.5K 240Hz Gaming Laptop Intel ...",
+    "url": "https://www.bestbuy.com/product/asus-rog-strix-scar-18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5090-2tb-storage-off-black/JJGGLHXJY3/sku/6613957/reviews"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "ASUS Zenbook S14 14\" OLED 3K Touchscreen Intel Core Ultra 9 Processor 2026 32GB Memory 1TB Storage Copilot+ PC Scandinavian White - Best Buy\n1. Best Buy\n2. Computers & Tablets\n...\n# ASUS - Zenbook S14 14\" OLED 3K Touchscreen - Intel Core Ultra 9 Processor 2026 - 32GB Memory - 1TB Storage - Copilot+ ...",
+    "source": "web",
+    "title": "www.bestbuy.com › product › xyzASUS - Zenbook S14 14\" OLED 3K Touchscreen - Intel Core Ultra ...",
+    "url": "https://www.bestbuy.com/product/xyz/6671015"
+   },
+   {
+    "date": "2026-09-09",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Apple AirPods 5 True Wireless Active Noise Cancelling Earbuds White - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 9 am\n1. Best Buy\n...\n3. Earbud & In-Ear Headphones\n...\n# Apple - AirPods 5 True Wireless Active Noise Cancelling Earbuds - White\nModel: MKFW4LL/A\nSKU: 6376553\nRating 4.7 out ...",
+    "source": "web",
+    "title": "AirPods 5 True Wireless Active Noise Cancelling Earbuds",
+    "url": "https://www.bestbuy.com/product/apple-airpods-5-true-wireless-active-noise-cancelling-earbuds-white/JJGCQP68Y2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "MSI Cubi NUC 1MG Mini Desktop Intel Core 3 100U 2024 16GB Memory Intel Graphics 500GB Storage Black - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n2. Computers & Tablets\n3. Desktop & All-in-One Computers\n4. All Desktops\n...\n# Customer Ratings & Reviews\n## MSI - Cubi NUC...",
+    "source": "web",
+    "title": "MSI Cubi NUC 1MG Mini Desktop Intel Core 3 100U 2024 16GB ...",
+    "url": "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Gaming Monitors - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 9 am\n# Gaming Monitors",
+    "source": "web",
+    "title": "Gaming Monitors",
+    "url": "https://www.bestbuy.com/site/pc-gaming/gaming-monitors/pcmcat304600050011.c?id=pcmcat304600050011"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Health Products - Best Buy\n...\n- compression sleeves & braces\n- exercise bikes\n...\n# Health Products\nDiscover a wide range of Health Products designed to support your well-being and enhance your daily routine.\nFrom advanced fitness trackers to innovative wellness devices, our selection caters to var...",
+    "source": "web",
+    "title": "Health Products - Best Buy",
+    "url": "https://www.bestbuy.com/site/shop/health-products"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Health Essentials - Best Buy\nDoorBOOsters are hereEnds Sunday.\n...\n# Health Essentials",
+    "source": "web",
+    "title": "Health Essentials - Best Buy",
+    "url": "https://www.bestbuy.com/site/shop/health-essentials"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 14,
+   "cost": {
+    "input_tokens_cost": 0.00098,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00352
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 71
+  }
+ }
+}

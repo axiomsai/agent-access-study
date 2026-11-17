@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/opt/costco-groceries",
+  "https://www.costco.com/opt/affordable-workwear-essentials-for-men",
+  "https://www.costco.com/",
+  "https://www.costco.com/opt/pt/index",
+  "https://www.costco.com/appliances.html",
+  "https://www.costco.com/opt/smokers-with-wood-pellets",
+  "https://www.costco.com/costco-featured-products.html",
+  "https://www.costco.com/opt/cozy-home-essentials",
+  "https://www.costco.com/opt/floor-care-products",
+  "https://www.costco.com/sitemaps/categories"
+ ],
+ "cited_store": true,
+ "answer": "Costco Homepage — Shop All",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Costco Homepage — Shop All",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/opt/costco-groceries",
+   "https://www.costco.com/opt/affordable-workwear-essentials-for-men",
+   "https://www.costco.com/",
+   "https://www.costco.com/opt/pt/index",
+   "https://www.costco.com/appliances.html",
+   "https://www.costco.com/opt/smokers-with-wood-pellets",
+   "https://www.costco.com/costco-featured-products.html",
+   "https://www.costco.com/opt/cozy-home-essentials",
+   "https://www.costco.com/opt/floor-care-products",
+   "https://www.costco.com/sitemaps/categories"
+  ],
+  "created": 1794248352,
+  "id": "resp_82e1c651-c98b-47cd-918e-b14fad526a31",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Costco Groceries\nShop Costco groceries to stock up for everyday meals, weekly meal planning, and household gatherings.\nBrowse the selection with your shopping list in mind, comparing package sizes and quantities to find options that fit your routine and storage space.",
+    "source": "web",
+    "title": "Costco Groceries",
+    "url": "https://www.costco.com/opt/costco-groceries"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Affordable Workwear Essentials For Men | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Affordable Workwear Essentials For Men\nAffordable Workwear Essentials for Men offers a curated selection of versatile and stylish options designed to keep you looking sharp and professional every day....",
+    "source": "web",
+    "title": "Affordable Workwear Essentials For Men",
+    "url": "https://www.costco.com/opt/affordable-workwear-essentials-for-men"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Welcome to Costco Wholesale\n# Costco Homepage\n**Shop All**\nValid 10/30/26 - 11/30/26",
+    "source": "web",
+    "title": "Costco Homepage",
+    "url": "https://www.costco.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "- ### Shop Savings by Department\n...\n### Shop by Department\n1.",
+    "source": "web",
+    "title": "Product Collections",
+    "url": "https://www.costco.com/opt/pt/index"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Appliances\n# Appliances\nHoliday Appliance Savings From LG, Samsung, Whirlpool and More\n...\n## Why Buy Appliances at Costco?\nSee product page for details.",
+    "source": "web",
+    "title": "Appliances",
+    "url": "https://www.costco.com/appliances.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Smokers With Wood Pellets | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Smokers With Wood Pellets\nElevate your backyard gatherings and culinary adventures with smokers with wood pellets, designed to bring rich, smoky flavor to your favorite dishes.\nDiscover a wide selection of options...",
+    "source": "web",
+    "title": "Smokers With Wood Pellets",
+    "url": "https://www.costco.com/opt/smokers-with-wood-pellets"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Featured Products  | Costco\n- Prices and Availability Will Vary\n- ### Costco Business Center\n...\n### Shop by Department\nBeverages\n...\nDisposables\n...\nCommercial Appliances",
+    "source": "web",
+    "title": "Featured Products | Costco",
+    "url": "https://www.costco.com/costco-featured-products.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Cozy Home Essentials | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Cozy Home Essentials\nTransform your space into a warm and inviting retreat with cozy home essentials designed to elevate comfort and style.",
+    "source": "web",
+    "title": "Cozy Home Essentials | Costco",
+    "url": "https://www.costco.com/opt/cozy-home-essentials"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Floor Care Products | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Floor Care Products\nDiscover a world of pristine floors with our exceptional selection of floor care products.\nWhether you're dealing with hardwood, tile, carpet, or laminate, maintaining the beauty and longevity of you...",
+    "source": "web",
+    "title": "Floor Care Products | Costco",
+    "url": "https://www.costco.com/opt/floor-care-products"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Site Map | Costco\n# Site Map\n## Warehouses By State\n## Member Medications List",
+    "source": "web",
+    "title": "Site Map",
+    "url": "https://www.costco.com/sitemaps/categories"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 6,
+   "cost": {
+    "input_tokens_cost": 0.00061,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00313
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 63
+  }
+ }
+}

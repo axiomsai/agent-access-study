@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/category/200003189/category.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+  "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/item/1005006244678789.html",
+  "https://he.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/item/1005005940354757.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page not accessible",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page not accessible",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/category/200003189/category.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+   "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/item/1005006244678789.html",
+   "https://he.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/item/1005005940354757.html"
+  ],
+  "created": 1793907649,
+  "id": "resp_632c438d-9b05-4e86-bc3d-820954e282da",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Today's deals\n### Dollar Express\n3 from $0.99",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2024-04-03",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Kaufen Sie https aliexpress mit kostenlosem Versand auf ...",
+    "url": "https://de.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items-AliExpress\n...\n# Results for items\nThe search term items is commonly used on AliExpress to refer to products or goods available for purchase.",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### APEXEL Professional HB100U with LED Light Macro LenPhotography Lens for iPhone Samsung and All Smartphones, Aluminum Phone Camera Lens Kit with Universal Clip. Phone Lens Attachment",
+    "source": "web",
+    "title": "X",
+    "url": "https://www.aliexpress.com/category/200003189/category.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Results for aliexpress com item\n## What is an AliExpress .com Item and How Can I Identify It?\n**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should i...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-03-06",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Related Searches\nhttps www.aliexpress.com item 3256806768589834.html",
+    "source": "web",
+    "title": "www. aliexpress - Acquista www. aliexpress con spedizione gratuita ...",
+    "url": "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   },
+   {
+    "date": "2023-12-13",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "### 99J Burgundy Deep Wave 13x4 Lace Frontal Human Hair Wig For Women Brazilian Transparent Human Hair Lace Frontal Wig Pre Plucked",
+    "source": "web",
+    "title": "Https Aliexpress",
+    "url": "https://he.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "4K DisplayPort to HDMI Cable Adapter 3.3ft 1m DP ...",
+    "url": "https://www.aliexpress.com/item/1005005940354757.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.00079,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00349
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

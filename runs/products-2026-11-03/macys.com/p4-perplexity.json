@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+  "https://www.macys.com/shop/beauty/fragrance?id=277259",
+  "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers?id=211965",
+  "https://www.macys.com/shop/brands/macys-exclusives/beauty?id=72195",
+  "https://www.macys.com/shop/new-trending/new-arrivals?id=135248",
+  "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043",
+  "https://www.macys.com/shop/mens?id=1",
+  "https://www.macys.com/shop/makeup-and-perfume/all-beauty-category/travel-size-minis/Gender/Women?id=214310",
+  "https://www.macys.com/shop/sale/by-category?id=384073",
+  "https://www.macys.com/shop/all-brands?id=63538"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: $157.25 | STOCK: UNKNOWN | OPENED: NO: exact product page content unavailable",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: $157.25 | STOCK: UNKNOWN | OPENED: NO: exact product page content unavailable",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+   "https://www.macys.com/shop/beauty/fragrance?id=277259",
+   "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers?id=211965",
+   "https://www.macys.com/shop/brands/macys-exclusives/beauty?id=72195",
+   "https://www.macys.com/shop/new-trending/new-arrivals?id=135248",
+   "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043",
+   "https://www.macys.com/shop/mens?id=1",
+   "https://www.macys.com/shop/makeup-and-perfume/all-beauty-category/travel-size-minis/Gender/Women?id=214310",
+   "https://www.macys.com/shop/sale/by-category?id=384073",
+   "https://www.macys.com/shop/all-brands?id=63538"
+  ],
+  "created": 1793751422,
+  "id": "resp_99c21cf1-8bcc-4108-8b13-1f50567cb609",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-07-01",
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "You can search by:\n- Item name\n- Short description\n- Brand name\n- Web ID (from a catalog)",
+    "source": "web",
+    "title": "How can I find an item online or in store?",
+    "url": "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "(1,369)\n- Viktor & Rolf\n### 4-Piece Flowerbomb Eau de Parfum Gift Set\n$157.25; 15% off; with code FRIEND;$157.25 (15% off)\nFRIEND applied\nPrevious price $185.00;$185.00$275.00 value\n(2,510)",
+    "source": "web",
+    "title": "Fragrances for Women and Men | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Mini Gifts & Stocking Stuffers\n### 2-Piece Flowerbomb Eau de Parfum Mini Gift Set",
+    "source": "web",
+    "title": "Holiday Minis & Stocking Stuffers | Macy's",
+    "url": "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers?id=211965"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "- ## Are you shopping for a specific brand?\n- Viktor & Rolf\n### 3-Piece Flowerbomb Eau de Parfum Gift Set, Macy's Exclusive\nCurrent price $131.75; 15% off; with code FRIEND;$131.75 (15% off)\nFRIEND applied\n; Previous price $155.00; $155.00\n(2,441)\n- Created For Macy's\n...\n- Carolina Herrera",
+    "source": "web",
+    "title": "Beauty Macy's Exclusives",
+    "url": "https://www.macys.com/shop/brands/macys-exclusives/beauty?id=72195"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### 4-Piece Eau de Parfum Spray Mini Gift Set\n$42.50; 15% off; with code FRIEND;$42.50 (15% off)",
+    "source": "web",
+    "title": "New at Macy's",
+    "url": "https://www.macys.com/shop/new-trending/new-arrivals?id=135248"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Gifts & Value Sets\n### 4-Piece Flora Eau de Parfum Spray Gift Set\n$59.50; 15% off; with code FRIEND;$59.50 (15% off)",
+    "source": "web",
+    "title": "Beauty Gift Sets & Value Sets | Macy's",
+    "url": "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Men's Fashion, Shoes & Accessories\n## Winter layers to wear all season 30-60% OFF\n### 3-Piece Sauvage Eau de Parfum Gift Set\nCurrent price $165.75; 15% off; with code FRIEND;$165.75 (15% off)",
+    "source": "web",
+    "title": "Men's Fashion & Accessories",
+    "url": "https://www.macys.com/shop/mens?id=1"
+   },
+   {
+    "date": "2025-10-23",
+    "last_updated": "2025-12-03",
+    "place_metadata": null,
+    "snippet": "Luxury Mini Fragrance Set\n...\n- Viktor & Rolf\n### Flowerbomb 2 pc. Mini Perfume Holiday Discovery Set$29.75; 15% off; with code FRIEND;Previous price $35.00;free gift with purchase\n...\n### A Little Happiness Perfume Mini Gift Set - A $44 Value, Created for Macy's$17.00; 15% off; with code FRIEND;Pre...",
+    "source": "web",
+    "title": "Women Travel Size & Mini Beauty Products - Macy's",
+    "url": "https://www.macys.com/shop/makeup-and-perfume/all-beauty-category/travel-size-minis/Gender/Women?id=214310"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Shop by Category\n### 3-Piece La Bomba Eau de Parfum Gift Set",
+    "source": "web",
+    "title": "Shop by Category | Sale | Macy's",
+    "url": "https://www.macys.com/shop/sale/by-category?id=384073"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "```\n# All Brands\n...\n© 2026 Macy’s.\nAll rights reserved.",
+    "source": "web",
+    "title": "Featured Designers for All Brands",
+    "url": "https://www.macys.com/shop/all-brands?id=63538"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 42,
+   "cost": {
+    "input_tokens_cost": 0.0009,
+    "output_tokens_cost": 0.00029,
+    "request_cost": 0.0025,
+    "total_cost": 0.00369
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 178
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/144387248424",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=1&_oac=1&LH_PrefLoc=3&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_ipg=50&LH_PrefLoc=1&_udlo=45&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0",
+  "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069531&_ssn=testuser_nomar_seller&_oac=1&LH_All=1&_udhi=25&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/20697/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_oac=1&LH_All=1&_dmd=2&_sop=1&LH_PrefLoc=98&LH_BOPIS=1",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2"
+ ],
+ "cited_store": true,
+ "answer": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar Generator | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar Generator | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/144387248424",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=1&_oac=1&LH_PrefLoc=3&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_ipg=50&LH_PrefLoc=1&_udlo=45&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0",
+   "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069531&_ssn=testuser_nomar_seller&_oac=1&LH_All=1&_udhi=25&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/20697/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_oac=1&LH_All=1&_dmd=2&_sop=1&LH_PrefLoc=98&LH_BOPIS=1",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2"
+  ],
+  "created": 1794080098,
+  "id": "resp_00a5c44f-c081-4327-894c-1831e00a84de",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2022-06-09",
+    "last_updated": "2025-04-08",
+    "place_metadata": null,
+    "snippet": "# EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar GeneratorUS $1,623.75\n## WasUS $2,899.00(44% off) -US $1,275.25Item priceUS $1,623.75ShippingFREEEstimated totalUS $1,623.75*You save: US $1,275.25No Interest if paid in full in ...",
+    "source": "web",
+    "title": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay",
+    "url": "https://www.ebay.com/itm/144387248424"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n- New(404) (404) Items\n...\n# 404 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "404 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=1&_oac=1&LH_PrefLoc=3&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(111) (111) Items\nBuy It Now(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- START KIT RELAY FOR COMPRESSOR EMBRACO 1/5HP 220V 50/60HZ\nBrand New\n$21.02\nBuy It Now\nFree shipping\n- DANFOSS BEND...",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 783 results\n- UGOLINI COVER 20 LT BOWL 22900-00100 for MONACO FOODSERVICE BRAS 00651L\nBrand New\n$67.66",
+    "source": "web",
+    "title": "783 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_ipg=50&LH_PrefLoc=1&_udlo=45&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(112) (112) Items\n...\n# 112 results\n...\n- Buy It Now\n...\n- WorldwideRemove filter",
+    "source": "web",
+    "title": "112 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- Buy It Now(13) (13) Items\nAccepts Offers",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(12) (12) Items\nBuy It Now(12) (12) Items\nAccepts Offers\n# 12 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter\n...\n- VACUUM CLEANER HEPA FILTER COMPATIBLE DYSON 967478-01 965661-01\nBrand New\n$13.11\nBuy It Now",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069531&_ssn=testuser_nomar_seller&_oac=1&LH_All=1&_udhi=25&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-22",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nSponsored\nSponsored\nSponsored\nInclude description\nFilter\nCategory\nAll\nHome & Garden\nLamps, Lighting & Ceiling Fans\nChandeliers & Ceiling Fixtures\nWall Fixtures\nHealth & Beauty\nComputers/Tablets & Networking\neBay Motors\nJewelry & Watches\nClothing, Shoes & Acc...",
+    "source": "web",
+    "title": "3 results",
+    "url": "https://www.sandbox.ebay.com/sch/20697/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_oac=1&LH_All=1&_dmd=2&_sop=1&LH_PrefLoc=98&LH_BOPIS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- Buy It Now(14) (14) Items\nAccepts Offers\n# 14 results\n...\n- Buy It Now\n...\n- Under $15.00Remove filter\n- COIL VALVE T&P 12V DC\nBrand New\n$11.45\nBuy It Now\nFree shipping\n- SOLENOID COIL T&P 220V AC for C...",
+    "source": "web",
+    "title": "14 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(11) (11) Items",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 60,
+   "cost": {
+    "input_tokens_cost": 0.00139,
+    "output_tokens_cost": 0.00029,
+    "request_cost": 0.0025,
+    "total_cost": 0.00418
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 174
+  }
+ }
+}

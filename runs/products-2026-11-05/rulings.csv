@@ -1,0 +1,4 @@
+key,coder_a,coder_b,ruling,ruled_by,ruled_on,reason
+temu.com|1|openai,claude:blind_to_price,gemini:shell_or_challenge,shell_or_challenge,karen-spinner,2026-11-05,"says OPENED: YES but names no product"
+wayfair.com|5|claude,gemini:blind_to_price,gpt:shell_or_challenge,shell_or_challenge,karen-spinner,2026-11-05,"only site menus came back; PREREG counts an empty shell as turned away"
+*refused_or_error vs shell_or_challenge (20 keys in coding-summary.json),,,turned_away (either class),karen-spinner,2026-11-05,"both classes are turned away under PREREG; no rate changes"

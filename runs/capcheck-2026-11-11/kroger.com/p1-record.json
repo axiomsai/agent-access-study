@@ -1,0 +1,25 @@
+{
+ "domain": "kroger.com",
+ "idx": 1,
+ "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "1051 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: error (no product details loaded)",
+   "doc_chars": 1051,
+   "input_tokens": 16095,
+   "cost_usd": 0.07034
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "15236 chars, copy dated 2026-09-10 (62 days old)",
+   "price": 15.49,
+   "opened": "YES",
+   "doc_chars": 15236,
+   "input_tokens": 23390,
+   "cost_usd": 0.10438
+  }
+ }
+}

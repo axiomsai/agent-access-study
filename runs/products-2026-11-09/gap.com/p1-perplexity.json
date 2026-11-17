@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=1188295092",
+  "https://www.gap.com/shop/athletic-wear-for-women-0abz54c",
+  "https://www.gap.com/shop/womens-athleisure-0adz01c",
+  "https://www.gap.com/shop/mens-outdoor-clothing-1aaz41b",
+  "https://www.gap.com/shop/classic-sweater-for-men-0aez00a",
+  "https://www.gap.com/shop/womens-handbags",
+  "https://www.gap.com/",
+  "https://www.gap.com/shop/womens-fashion-tops-1aaz23b",
+  "https://www.gap.com/shop/rain-coat-1aaz21d",
+  "https://www.gap.com/browse/category.do?cid=81692"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=1188295092",
+   "https://www.gap.com/shop/athletic-wear-for-women-0abz54c",
+   "https://www.gap.com/shop/womens-athleisure-0adz01c",
+   "https://www.gap.com/shop/mens-outdoor-clothing-1aaz41b",
+   "https://www.gap.com/shop/classic-sweater-for-men-0aez00a",
+   "https://www.gap.com/shop/womens-handbags",
+   "https://www.gap.com/",
+   "https://www.gap.com/shop/womens-fashion-tops-1aaz23b",
+   "https://www.gap.com/shop/rain-coat-1aaz21d",
+   "https://www.gap.com/browse/category.do?cid=81692"
+  ],
+  "created": 1794249833,
+  "id": "resp_78a002bf-f72d-49e9-8601-d93092d1087e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "CashSoft Oversized Rollneck Sweater | Gap\n...\n# CashSoft Oversized Rollneck Sweater\n# CashSoft Oversized Rollneck Sweater\n$89.95\n$89.95\n$53.00\n...\n## Product details\n- Supersoft cotton-blend sweater.\nIn an oversized fit and slightly cropped length.\n- Rollneck.\n- Long sleeves with drop shoulders.\n- P...",
+    "source": "web",
+    "title": "CashSoft Oversized Rollneck Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=1188295092"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Athletic Wear for Women\n- Filter & Sort\n...\n## All Products\n### GapFit Sky High Rise Power Flare Leggings",
+    "source": "web",
+    "title": "Athletic Wear for Women - Gap",
+    "url": "https://www.gap.com/shop/athletic-wear-for-women-0abz54c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "### VintageSoft Oversized Mockneck Logo Sweatshirt\n$94.95",
+    "source": "web",
+    "title": "Women's Athleisure",
+    "url": "https://www.gap.com/shop/womens-athleisure-0adz01c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Men's Outdoor Clothing\n## All Products\n### Satin Bomber Jacket\n$148.00$118.00",
+    "source": "web",
+    "title": "Men's Outdoor Clothing - Gap",
+    "url": "https://www.gap.com/shop/mens-outdoor-clothing-1aaz41b"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Classic Sweater For Men | Black Friday Deals | Gap | Gap\n...\n# Kids’ Clothes\n## Shop all Baby\nHome / Classic Sweater For Men\n# Classic Sweater For Men\n- Filter & Sort\n...\n### 100% Cotton Relaxed Quarter-Zip Sweater",
+    "source": "web",
+    "title": "Classic Sweater For Men - Gap",
+    "url": "https://www.gap.com/shop/classic-sweater-for-men-0aez00a"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Women's Handbags\n- Filter & Sort\n...\n## All Products\n+1\n### Canvas Favorite Tote",
+    "source": "web",
+    "title": "Women's Handbags - Gap",
+    "url": "https://www.gap.com/shop/womens-handbags"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n...\nThree unique choirs.\nTogether in CashSoft.",
+    "source": "web",
+    "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### Flocked Dot Denim Peplum Top\n...\n### GapFit Smooth Crewneck T-Shirt",
+    "source": "web",
+    "title": "Women's Fashion Tops",
+    "url": "https://www.gap.com/shop/womens-fashion-tops-1aaz23b"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "### Belted Midi Trench Coat\n$148.00$118.00",
+    "source": "web",
+    "title": "www.gap.com · shop · rain-coatRain Coat - Gap",
+    "url": "https://www.gap.com/shop/rain-coat-1aaz21d"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00074,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00345
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

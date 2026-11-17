@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Welcome to Costco Wholesale\nProduct/Category: Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00021,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Welcome to Costco Wholesale\nProduct/Category: Appliances",
+       "thoughtSignature": "EnMKcQFpFH0ThFFt3q0mX8x1KvAR4BpNq2oE9fzJGjVRUw+mZ8nKna7X/Uzw2H2hUZ+UZFMVA/kdip2728ioQ0m2xvCCZ1xOZGl+aWxBso7vZ0RPOX6Vz6OLDUYHAQcvKMb4cayNWEEjywMFjRck9r3taZDD"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 32,
+   "totalTokenCount": 2035,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1941,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1941
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "X3vvat3_D6ujqtsPo7TP-AQ"
+ }
+}

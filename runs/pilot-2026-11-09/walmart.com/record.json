@@ -1,0 +1,102 @@
+{
+ "domain": "walmart.com",
+ "url": "https://www.walmart.com/",
+ "started": "2026-11-09T12:18:28-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.walmart.com/",
+  "bytes": 399984,
+  "error": null,
+  "title": "Walmart | Save Money. Live better.",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "12776 chars, copy dated 2026-10-27 (13 days old)",
+   "answer": "I opened the page with no error, block or captcha.\n\n- **Page title:** Walmart | Save Money. Live better.\n- **A category on the page:** Halloween costumes. A banner says \"Eek! Halloween's almost here. Get costumes & more ASAP\" and links to the all-Halloween shop.",
+   "cost_usd": 0.19279
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Walmart | Save Money. Live better.\nProduct/Category Name: Grocery",
+   "cost_usd": 0.00072
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: **Walmart | Save Money. Live better.**  \nOne category name: **Grocery** ([walmart.com](https://www.walmart.com/))",
+   "cost_usd": 0.01188
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Walmart | Save Money. Live better. — Bedding, decor & more[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

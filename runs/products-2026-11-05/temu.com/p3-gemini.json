@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page appears to be a scraper-blocked or dynamically rendered page that did not return product details.",
+ "finish": "STOP",
+ "cost_usd": 0.00218,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page appears to be a scraper-blocked or dynamically rendered page that did not return product details.",
+       "thoughtSignature": "EnMKcQFpFH0TZ7rxYVCCWyrp+GYcXvT0okFTjcseZYtbs8OMWj9epa4qqdZKgs//iAFamEPZaqVfFEg+aLjgr2gd+5eAJlq9CGG6yN1P0xxJB2UvH0vFowmpgmwReA7iVhcNyQYI4Ci7iTkIl7z+nAwyfd3t"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 193,
+   "candidatesTokenCount": 135,
+   "totalTokenCount": 21376,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 193
+    }
+   ],
+   "toolUsePromptTokenCount": 21048,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21048
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "QNXsavnjBeKjqtsPiYussA0"
+ }
+}

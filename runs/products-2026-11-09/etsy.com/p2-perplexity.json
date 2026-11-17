@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/c/art-and-collectibles",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/personalized",
+  "https://www.etsy.com/",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/market/meal_planner"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/c/art-and-collectibles",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/personalized",
+   "https://www.etsy.com/",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/market/meal_planner"
+  ],
+  "created": 1794248709,
+  "id": "resp_5c76e124-6800-4131-aca1-57400b8a4b98",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/1867001060/comfort-colors-wake-and-bake-shirt-funny",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Art & Collectibles\nCustom artwork, portraits, and totally original paintings and prints to turn your home into a gallery",
+    "source": "web",
+    "title": "Art & Collectibles",
+    "url": "https://www.etsy.com/c/art-and-collectibles"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Accessories\n- ### Personalized Pet Fur Keepsake Keychain, Dog Hair Memorial Holder, Leather Pouch for Pet Loss Gift, Custom Memory Keyring for Dog Lovers",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Personalized - Etsy\n# Personalized\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Personalized - Etsy",
+    "url": "https://www.etsy.com/market/personalized"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Etsy Com Shop\n222+ items\n...\n- ## https://www.etsy.com/your/shops/me/listing-editor/copy/4566434047#media",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Everyday Accessories\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\nAccessories\n(1,000+ items)\n- ### Let Me Manifest For You | Love, Money, Career, Luck Or Any Wish, Same Day\n(2,227)\nStar Seller\n...\n- ### Blind Same Hour Psychic Reading, No Questions Asked, Accurate Spirit Guide Message, Deep Intuitive Insight",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Meal Planner - Etsy\n...\n- ## Weekly Meal Planner, Grocery List Template, Google Sheets Menu Organizer, Digital Food Prep Tool\n(68)\nSale Price $2.70 $2.70\n$4.50 Original Price $4.50 (40% off)\nDigital Download",
+    "source": "web",
+    "title": "Meal Planner - Etsy",
+    "url": "https://www.etsy.com/market/meal_planner"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0007,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.0034
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

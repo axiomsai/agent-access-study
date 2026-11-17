@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908887122",
+  "https://bananarepublic.gap.com/browse/category.do?cid=41352",
+  "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+  "https://www.gap.com/browse/product.do?pid=8434730120009",
+  "https://www.gap.com/browse/product.do?pid=9139220020009",
+  "https://www.gap.com/browse/product.do?pid=9113530020001",
+  "https://www.gap.com/browse/product.do?pid=6263760120003",
+  "https://www.gap.com/browse/product.do?pid=9113570020005",
+  "https://www.gap.com/browse/product.do?pid=11797880023232",
+  "https://www.gap.com/browse/product.do?pid=424278052"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908887122",
+   "https://bananarepublic.gap.com/browse/category.do?cid=41352",
+   "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+   "https://www.gap.com/browse/product.do?pid=8434730120009",
+   "https://www.gap.com/browse/product.do?pid=9139220020009",
+   "https://www.gap.com/browse/product.do?pid=9113530020001",
+   "https://www.gap.com/browse/product.do?pid=6263760120003",
+   "https://www.gap.com/browse/product.do?pid=9113570020005",
+   "https://www.gap.com/browse/product.do?pid=11797880023232",
+   "https://www.gap.com/browse/product.do?pid=424278052"
+  ],
+  "created": 1793751442,
+  "id": "resp_f83ca4eb-ea7c-4520-bf6f-5a58ab693767",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "CashSoft Crew Sweater | Gap\nExclusions apply.\nEnds 11/2.\n...\n# CashSoft Crew Sweater\n# CashSoft Crew Sweater\n$79.95\n$79.95\n...\n## Color:\nHappy Stripe\n...\nRegularTallPetite\n## Size\nXXS\n...\nOur bestselling fabric that feels cashmere-soft.Crafted in a midweight plush yarn.\nRefined with a special brushe...",
+    "source": "web",
+    "title": "CashSoft Crew Sweater - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=908887122"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)",
+    "source": "web",
+    "title": "Banana Republic | Timeless Style for Women, Men, Baby & Home",
+    "url": "https://bananarepublic.gap.com/browse/category.do?cid=41352"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "3.5\" Linen Pull-On Sailor Short | Banana Republic\n# 3.5\" Linen Pull-On Sailor Short\n# 3.5\" Linen Pull-On Sailor Short\n$90.00\n$34.97\n...\n- Magnolia Flower Ivory is fully lined.\nAll other colors unlined.\n- Product #903088",
+    "source": "web",
+    "title": "3.5\" Linen Pull-On Sailor Short",
+    "url": "https://bananarepublic.gap.com/browse/product.do?pid=903088012"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Featherweight Turtleneck\nOut of Stock\n…\n## Color",
+    "source": "web",
+    "title": "Featherweight Turtleneck",
+    "url": "https://www.gap.com/browse/product.do?pid=8434730120009"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- [Fragrance](https://www.gap.com/browse/info.do?cid=3055880)",
+    "source": "web",
+    "title": "Denim Big Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=9139220020009"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Denim Oversized Shirt Jacket | Gap\n…\n- [Shop the CashSoft Collection](https://www.gap.com/browse/women/cashsoft-shop?cid=3022755)\n- New & Featured\n...\n# Denim Oversized Shirt Jacket\n## Product details\n- Product #911353",
+    "source": "web",
+    "title": "Denim Oversized Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9113530020001"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "100% Cotton Relaxed Sweater | Gap\n...\n# 100% Cotton Relaxed Sweater\n$79.95\n$59.97\nImage of 5 stars, 4.63 are filled, 224 Ratings\n...\nFinal sale",
+    "source": "web",
+    "title": "100% Cotton Relaxed Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=6263760120003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Denim Oversized Shirt Jacket | Gap\n…\n- [Fragrance](https://www.gap.com/browse/info.do?cid=3055880)\n...\n- [Sweatshirts & Sweatpants](https://www.gap.com/browse/category.do?cid=1066503#pageId=0&department=75)\n...\n- [Gap × Malbon](https://www.gap.com/browse/category.do?cid=3047264)",
+    "source": "web",
+    "title": "Denim Oversized Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9113570020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Gap × A.P.C. Boot Jeans\n$148.00\nImage of 5 stars, 0 are filled, 0 Ratings\n...\nExcluded from promotions\n...\n## Waist\nSize Guide\n32W33W34W36W",
+    "source": "web",
+    "title": "Gap × A.P.C. Boot Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=11797880023232"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "High Rise Vintage Soft Joggers | Gap\n# High Rise Vintage Soft Joggers\nOut of Stock\n# High Rise Vintage Soft Joggers\n$54.95\n$39.97\n...\nXXL\n...\n- Product #424278",
+    "source": "web",
+    "title": "High Rise Vintage Soft Joggers - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=424278052"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0008900000000000001,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00359
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

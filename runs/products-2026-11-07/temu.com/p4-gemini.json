@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Kitchen Cabinet Cleaner Spray Suitable For Wood Cabinets Grease Remover With Foam Formula | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "finish": "STOP",
+ "cost_usd": 0.00218,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Kitchen Cabinet Cleaner Spray Suitable For Wood Cabinets Grease Remover With Foam Formula | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+       "thoughtSignature": "EnMKcQFpFH0TYcm5UXIHJcmf6PgWvgVrvkRuUQqhfG7WcefIAmbEjHEEvNutxCJmQYY79Hkh8ShyzmcVTN/VXtxSVOEjfFE7gYD1nFjPnAdyTQh57Ti9I0WIr15cMfIRw6n1uuB+YFLHjasZwjo7Yi60nJfd"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 204,
+   "candidatesTokenCount": 140,
+   "totalTokenCount": 21424,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 204
+    }
+   ],
+   "toolUsePromptTokenCount": 21080,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21080
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "iHzvarG6C_DUz7IPg-LYyAI"
+ }
+}

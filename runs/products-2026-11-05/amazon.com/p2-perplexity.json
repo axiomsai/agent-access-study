@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/clp/B079VP6DH5",
+  "https://www.amazon.com/dp/B079VP6DH5",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011",
+  "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator",
+  "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/clp/B079VP6DH5",
+   "https://www.amazon.com/dp/B079VP6DH5",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011",
+   "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator",
+   "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+  ],
+  "created": 1793905966,
+  "id": "resp_5e8de46a-308f-43db-a22f-b996590f9a7d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Bounty Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls\n4.8 (238.2K)\n...\nRegular Price $43.49 Join Prime to get FREE delivery Tomorrow, Nov 5\n...\nSPARKLE Sparkle Pick-A-Size Kitchen Paper Towels, 24 Double Rolls, 2 Ply | Keep Sparkle paper towels ready with household essenti...",
+    "source": "web",
+    "title": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = ...",
+    "url": "https://www.amazon.com/clp/B079VP6DH5"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $43.49 $ 43 . 49 $2.54 per Sheets ( $2.54 $2.54 /100 Sheets) FREE delivery Monday, November 2 Ships from: Amazon.com So...",
+    "source": "web",
+    "title": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household",
+    "url": "https://www.amazon.com/dp/B079VP6DH5"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Visit the help section\n...\ncontact us\n...\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n...\nPrice, product page$6.95$6.95 ($1.05$1.05/feet) Typical: $7.82\nTypical: $7.82$7.82\n...\n## Amazon Basics DisplayPort 1.4 Cable, 32.4Gbps High-Speed, 8K@60Hz, 4K@120Hz, Dynamic HDR and 3D, Gold-Plated Plugs, HBR3 Compatible, 6 Foot, Black\n4.7*4.7 out of 5 stars*\n(16.2K)\n3K+ bought ...",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Laptop Screen Extender,15.6\" Portable Monitor, FHD 1080P Ultra-Slim Travel Monitor with Speakers, Triple Display Extension, Compatible with 13-17.3\" Laptops\n4.4*4.4 out of 5 stars*\n...\nPrice, product page$259.99$259.99",
+    "source": "web",
+    "title": "Amazon.com: Laptop Accessories",
+    "url": "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : amazon.co.jp\n# 1-48 of over 1,000 results for \"amazon.co.jp\"",
+    "source": "web",
+    "title": "Amazon.com: Amazon.co.jp",
+    "url": "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp vibrator\n...\n## Wearable Remote Control Vibrator - BIG SHOCKED Adult Sex Toys for Women Couples Female Sex Toy G Spot Vibrators Clitoral Penis Vibrator with 10 Powerful Vibrating Double-Ended Dildos Vibrating Panties\n4.3*4.3 out of 5 stars*\n...\n## DP Fantasy Ring Powerful 10 Speed Bu...",
+    "source": "web",
+    "title": "Amazon.com: Dp Vibrator",
+    "url": "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Skip to main content\nSee products\n...\nSell on Amazon\nSell apps on Amazon",
+    "source": "web",
+    "title": "Home",
+    "url": "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 39,
+   "cost": {
+    "input_tokens_cost": 0.00096,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.0037
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

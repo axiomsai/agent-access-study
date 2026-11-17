@@ -1,0 +1,60 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+ "idx": 5,
+ "at": "2026-11-09T12:43:12-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15326 chars, copy dated 2026-11-07 (1 days old)",
+   "parsed": true,
+   "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-07T20:14:57+00:00",
+   "age_days": 1,
+   "cost_usd": 0.14204
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+   "price": 34.0,
+   "price_raw": "$34.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0008
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+   "price": 34.0,
+   "price_raw": "$34.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02357
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "3-Piece Bum Bum Jet Set",
+   "price": 34.0,
+   "price_raw": "$34.00",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00516
+  }
+ }
+}

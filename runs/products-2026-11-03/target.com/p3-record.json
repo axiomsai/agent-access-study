@@ -1,0 +1,60 @@
+{
+ "domain": "target.com",
+ "url": "https://www.target.com/p/athena-club-hair-38-body-mist-bare-gold-6-fl-oz/-/A-1009560051",
+ "idx": 3,
+ "at": "2026-11-03T18:14:28-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0694
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+   "price": 15.99,
+   "price_raw": "$15.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00069
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+   "price": 15.99,
+   "price_raw": "$15.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01237
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+   "price": 15.99,
+   "price_raw": "$15.99",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

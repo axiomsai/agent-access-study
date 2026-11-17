@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/mucinex-sinus-nasal-spray-decongestant-0-75-oz/-/A-51277128",
+  "https://www.target.com/",
+  "https://www.target.com/c/women-s-brief-underwear-intimates-clothing-shoes-accessories/jacquard-weave/-/N-3gqxwZvc8b2julp51",
+  "https://www.target.com/p/vital-proteins-collagen-peptides-supplement-powder/-/A-86898225",
+  "https://www.target.com/c/women/-/N-5xtd3",
+  "https://www.target.com/c/christmas-wrapping-paper-supplies/-/N-4y5jk",
+  "https://www.target.com/p/women-ribbed-long-sleeve-top-crew-neck-eyelet-cuff-casual-soft-knit-tunic-blouse/-/A-1015323532",
+  "https://www.target.com/llms.txt",
+  "https://www.target.com/c/shop-all-categories/-/n-5xsxf",
+  "https://www.target.com/sitemap_facet-categories-index.xml.gz"
+ ],
+ "cited_store": true,
+ "answer": "Homepage — Toys[1]",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Homepage — Toys[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/mucinex-sinus-nasal-spray-decongestant-0-75-oz/-/A-51277128",
+   "https://www.target.com/",
+   "https://www.target.com/c/women-s-brief-underwear-intimates-clothing-shoes-accessories/jacquard-weave/-/N-3gqxwZvc8b2julp51",
+   "https://www.target.com/p/vital-proteins-collagen-peptides-supplement-powder/-/A-86898225",
+   "https://www.target.com/c/women/-/N-5xtd3",
+   "https://www.target.com/c/christmas-wrapping-paper-supplies/-/N-4y5jk",
+   "https://www.target.com/p/women-ribbed-long-sleeve-top-crew-neck-eyelet-cuff-casual-soft-knit-tunic-blouse/-/A-1015323532",
+   "https://www.target.com/llms.txt",
+   "https://www.target.com/c/shop-all-categories/-/n-5xsxf",
+   "https://www.target.com/sitemap_facet-categories-index.xml.gz"
+  ],
+  "created": 1793905825,
+  "id": "resp_d3bc8d50-9628-4f87-bd7d-b89ccd610ddc",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Mucinex Sinus Nasal Spray Decongestant- 0.75 oz: Cold, Cough or Flu Treatment, Oxymetazoline Hydrochloride, Menthol : Target\n1. Medicines & Treatments\n2. Allergy & Sinus Treatment\n...\n# Mucinex Sinus Nasal Spray Decongestant- 0.75 oz: Cold, Cough or Flu Treatment, Oxymetazoline Hydrochloride, Mentho...",
+    "source": "web",
+    "title": "Mucinex Sinus Nasal Spray Decongestant- 0.75 oz",
+    "url": "https://www.target.com/p/mucinex-sinus-nasal-spray-decongestant-0-75-oz/-/A-51277128"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Homepage\n# Homepage\n3 days only!\nEnds Saturday.",
+    "source": "web",
+    "title": "Target : Expect More. Pay Less.",
+    "url": "https://www.target.com/"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Explore more of what's going on right now",
+    "source": "web",
+    "title": "Jacquard Weave : Women's Brief Underwear",
+    "url": "https://www.target.com/c/women-s-brief-underwear-intimates-clothing-shoes-accessories/jacquard-weave/-/N-3gqxwZvc8b2julp51"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Vital Proteins Unflavored Collagen Peptides Powder - 10oz\n4.45 out of 5 stars",
+    "source": "web",
+    "title": "Vital Proteins Collagen Peptides Supplement Powder",
+    "url": "https://www.target.com/p/vital-proteins-collagen-peptides-supplement-powder/-/A-86898225"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's Clothing & Fashion : Target\n# Women’s Clothing\n1. Clothing, Shoes & Accessories\n2. Women’s Clothing",
+    "source": "web",
+    "title": "Women's Clothing & Fashion",
+    "url": "https://www.target.com/c/women/-/N-5xtd3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Christmas Wrapping Paper & Supplies : Target\n# Christmas Wrapping Paper & Supplies\n1. Target\n2. Holiday Shop\n3. Christmas\n4. Christmas Wrapping Paper & Supplies",
+    "source": "web",
+    "title": "Christmas Wrapping Paper & Supplies",
+    "url": "https://www.target.com/c/christmas-wrapping-paper-supplies/-/N-4y5jk"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Easy to match with jeans, skinny pants, leggings and skirts for countless casual outfits",
+    "source": "web",
+    "title": "Women Ribbed Long Sleeve Top Crew Neck Eyelet Cuff Casual Soft Knit Tunic Blouse",
+    "url": "https://www.target.com/p/women-ribbed-long-sleeve-top-crew-neck-eyelet-cuff-casual-soft-knit-tunic-blouse/-/A-1015323532"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# Target.com\n> Target is a leading U.S. retailer offering affordable everyday essentials, seasonal merchandise, and curated brands.\nGuests can shop in-store, online, via Drive Up, Order Pickup, Same Day Delivery, and fast shipping.\n> Note: Target product pages follow the format /p/{product slug}/-/A...",
+    "source": "web",
+    "title": "Target's llms.txt",
+    "url": "https://www.target.com/llms.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-18",
+    "place_metadata": null,
+    "snippet": "redsky.target.com\n# This site can’t be reached\nThe webpage at **https://redsky.target.com/captcha?trackingId=a2eb4942-163e-4379-ad95-6ca43b54270f&parentOrigin=https%3A%2F%2Fwww.target.com** might be temporarily down or it may have moved permanently to a new web address.\nERR_FAILED\nThe webpage at **h...",
+    "source": "web",
+    "title": "Shop All Categories : Target",
+    "url": "https://www.target.com/c/shop-all-categories/-/n-5xsxf"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-13",
+    "place_metadata": null,
+    "snippet": "https://www.target.com/fc/sitemap_0001.xml.gz https://www.target.com/fc/sitemap_0002.xml.gz https://www.target.com/fc/sitemap_0003.xml.gz https://www.target.com/fc/sitemap_0004.xml.gz https://www.target.com/fc/",
+    "source": "web",
+    "title": "[XML] https://www.target.com/sitemap_facet-categories-index.xml.gz",
+    "url": "https://www.target.com/sitemap_facet-categories-index.xml.gz"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 6,
+   "cost": {
+    "input_tokens_cost": 0.00082,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00334
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 62
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://news.depop.com/who-we-are/about/",
+  "https://www.depop.com/",
+  "https://www.depop.com/blog/how-does-depop-work/",
+  "https://news.depop.com/",
+  "https://www.depop.com/brands/clarins/",
+  "https://www.depop.com/category/womens/",
+  "https://www.depop.com/products/esteala_luna-closet-navy-blue-with-white-0f9a/",
+  "https://www.depop.com/products/d_stackw-speedo-navy-blue-swim-shorts-643b/",
+  "https://www.depop.com/products/lollikopstreasures-elevate-your-everyday-wardrobe-basics-7bb3/",
+  "https://www.depop.com/theme/app/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://news.depop.com/who-we-are/about/",
+   "https://www.depop.com/",
+   "https://www.depop.com/blog/how-does-depop-work/",
+   "https://news.depop.com/",
+   "https://www.depop.com/brands/clarins/",
+   "https://www.depop.com/category/womens/",
+   "https://www.depop.com/products/esteala_luna-closet-navy-blue-with-white-0f9a/",
+   "https://www.depop.com/products/d_stackw-speedo-navy-blue-swim-shorts-643b/",
+   "https://www.depop.com/products/lollikopstreasures-elevate-your-everyday-wardrobe-basics-7bb3/",
+   "https://www.depop.com/theme/app/"
+  ],
+  "created": 1793751453,
+  "id": "resp_53422626-66d7-4e9a-916a-413cca8d9c0f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "# We’re here to make secondhand second nature\n### Our story\nDepop is a peer-to-peer circular fashion marketplace where anyone can buy, sell and discover secondhand fashion.",
+    "source": "web",
+    "title": "About Depop",
+    "url": "https://news.depop.com/who-we-are/about/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# Buy preloved. Wear it your way\nItems\nfor sale",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2025-04-04",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# How Does Depop Work?\n### A Quick Guide to Buying and Selling\nDepop is the fashion marketplace app for everyone, from trendsetters and vintage lovers to everyday style-seekers and first-time sellers.",
+    "source": "web",
+    "title": "How Does Depop Work?",
+    "url": "https://www.depop.com/blog/how-does-depop-work/"
+   },
+   {
+    "date": "2026-10-25",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# DEPOP AND BURTON OPEN THE ARCHIVE TO CELEBRATE 50 YEARS OF SNOWBOARD CULTURE\n## Latest news\n### adidas Originals partners with Depop to launch the new era of Stan Smith with ‘Style Reworked’",
+    "source": "web",
+    "title": "Depop newsroom: Home page",
+    "url": "https://news.depop.com/"
+   },
+   {
+    "date": "2026-09-26",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Clarins\nFind new and never-used Clarins double serum, containing 21 active plant extracts for anti-ageing.",
+    "source": "web",
+    "title": "Clarins | Skincare & Makeup Products | Depop",
+    "url": "https://www.depop.com/brands/clarins/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Women's Clothing\nGet your next wardrobe update right here.\nFrom staples like dresses, shirts and jeans to the trending designer and vintage items.",
+    "source": "web",
+    "title": "See All Womenswear",
+    "url": "https://www.depop.com/category/womens/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Navy blue & white polka dot wrap dress 💙🤍",
+    "source": "web",
+    "title": "Navy blue & white polka dot wrap dress 💙🤍 Super... | Depop",
+    "url": "https://www.depop.com/products/esteala_luna-closet-navy-blue-with-white-0f9a/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Speedo Men's Navy and Blue Swim-briefs-shorts\n$11.20",
+    "source": "web",
+    "title": "Speedo navy blue swim shorts with red and blue... | Depop",
+    "url": "https://www.depop.com/products/d_stackw-speedo-navy-blue-swim-shorts-643b/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Elevate your everyday wardrobe basics with this...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Old Navy Women's White Shirt",
+    "source": "web",
+    "title": "Elevate your everyday wardrobe basics with this... | Depop",
+    "url": "https://www.depop.com/products/lollikopstreasures-elevate-your-everyday-wardrobe-basics-7bb3/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### F1\n### Yoga\n...\n# App\n(27.4K results)",
+    "source": "web",
+    "title": "App - Depop",
+    "url": "https://www.depop.com/theme/app/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00075,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00346
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

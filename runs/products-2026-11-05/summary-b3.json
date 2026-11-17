@@ -1,0 +1,902 @@
+[
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "idx": 1,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool returned the error url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06945
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00075
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01234
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+  "idx": 2,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (web tool returned url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0701
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00089
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0124
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/athena-club-hair-38-body-mist-bare-gold-6-fl-oz/-/A-1009560051",
+  "idx": 3,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the fetch tool returned \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06978
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00067
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+  "idx": 4,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06938
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00073
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+  "idx": 5,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0694
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01234
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+  "idx": 1,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "11760 chars, copy dated 2026-10-16 (19 days old)",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-16T23:19:56+00:00",
+    "age_days": 19,
+    "cost_usd": 0.20047
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": 1799.0,
+    "price_raw": "$1,799.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00142
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": 1799.0,
+    "price_raw": "$1,799.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01251
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00523
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+  "idx": 2,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "9853 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:25:49+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14234
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8-Drawer Steel Tool Chest (Black)",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00133
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01242
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+  "idx": 3,
+  "at": "2026-11-05T13:25:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "9404 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:25:49+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10276
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00109
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01243
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+  "idx": 4,
+  "at": "2026-11-05T13:25:58-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "11190 chars, copy dated 2026-10-23 (13 days old)",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-23T14:19:01+00:00",
+    "age_days": 13,
+    "cost_usd": 0.14724
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0012
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01239
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+  "idx": 5,
+  "at": "2026-11-05T13:25:59-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "6820 chars, copy dated 2026-10-21 (15 days old)",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack 8 Ah 8 Ah Lithium-ion )",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-21T13:22:20+00:00",
+    "age_days": 15,
+    "cost_usd": 0.10448
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah)",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00022
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+    "price": 449.0,
+    "price_raw": "$449.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01239
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+    "price": 449.0,
+    "price_raw": "$449.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+  "idx": 1,
+  "at": "2026-11-05T13:26:01-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0698
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00031
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+    "price": 8.99,
+    "price_raw": "$8.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+  "idx": 2,
+  "at": "2026-11-05T13:26:01-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6303 chars, copy dated 2026-11-04 (1 days old)",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:14:57+00:00",
+    "age_days": 1,
+    "cost_usd": 0.10134
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00031
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01133
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+  "idx": 3,
+  "at": "2026-11-05T13:26:01-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "5668 chars, copy dated 2026-11-01 (4 days old)",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-01T02:48:01+00:00",
+    "age_days": 4,
+    "cost_usd": 0.10199
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00021
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (timeout)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+  "idx": 4,
+  "at": "2026-11-05T13:26:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06981
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0003
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (timeout)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01137
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+  "idx": 5,
+  "at": "2026-11-05T13:26:09-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7076 chars, copy dated 2026-11-04 (1 days old)",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:07+00:00",
+    "age_days": 1,
+    "cost_usd": 0.10237
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00038
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ }
+]

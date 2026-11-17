@@ -1,0 +1,104 @@
+{
+ "domain": "target.com",
+ "url": "https://www.target.com/",
+ "started": "2026-11-03T17:43:58-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.target.com/",
+  "bytes": 399927,
+  "error": null,
+  "title": "Target : Expect More. Pay Less.",
+  "markers": [
+   "captcha"
+  ],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "411 chars, copy dated 2025-09-21 (408 days old)",
+   "answer": "I opened the page successfully. It loaded without any error, block, or captcha.\n\n- **Page title:** The tool didn't return one (the title field was empty), so I can't tell you the title.\n- **One category name on the page:** \"bed & bath\" (part of a \"college life savers\" promotion).",
+   "cost_usd": 0.06664
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Page Title:** Target : Expect More. Pay Less.\n\n**Product/Category Name:** Toys & Games",
+   "cost_usd": 0.00058
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Target : Expect More. Pay Less.  \nProduct/category: Christmas ([target.com](https://www.target.com/))",
+   "cost_usd": 0.01228
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Target : Expect More. Pay Less. — Toys [1]",
+   "cost_usd": 0.00507
+  }
+ }
+}

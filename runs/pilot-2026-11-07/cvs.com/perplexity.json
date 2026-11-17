@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/",
+  "https://www.cvs.com/shop/brand-shop/n/neo-g",
+  "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+  "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids",
+  "https://www.cvs.com/shop/diet-nutrition/protein/protein-powders",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+  "https://www.cvs.com/bizcontent/otchs/catalog/260630.pdf",
+  "https://www.cvs.com/shop/household/clothing-accessories/rain-umbrellas",
+  "https://www.cvs.com/shop/seasonal-shops/holiday",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief"
+ ],
+ "cited_store": true,
+ "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Protein Powders[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Protein Powders[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/",
+   "https://www.cvs.com/shop/brand-shop/n/neo-g",
+   "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+   "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids",
+   "https://www.cvs.com/shop/diet-nutrition/protein/protein-powders",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+   "https://www.cvs.com/bizcontent/otchs/catalog/260630.pdf",
+   "https://www.cvs.com/shop/household/clothing-accessories/rain-umbrellas",
+   "https://www.cvs.com/shop/seasonal-shops/holiday",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief"
+  ],
+  "created": 1794079588,
+  "id": "resp_6d519652-fec1-427c-a712-8c832ebb9477",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information",
+    "source": "web",
+    "title": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health ...",
+    "url": "https://www.cvs.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Neo G\n...\n## Cannot change address\nYour cart contains pseudoephedrine or ephedrine.\nFederal law requires that CVS use your address on your verified ID to purchase.\nRemove the item to change your address.",
+    "source": "web",
+    "title": "Neo G - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/n/neo-g"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-02",
+    "place_metadata": null,
+    "snippet": "You can shop online for your favorite brand or category in a few quick and easy steps.\nTo search by department, you can use the navigation on the **Shop home page**.\n...\nYou also can search by typing the category, brand name or particular item you're looking for in the search window at the top of th...",
+    "source": "web",
+    "title": "Online Shopping",
+    "url": "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Snoring Aids & Snore Stoppers at CVS Pharmacy\nEasy Reorder\n- Health & Medicine\n- Sleep & Snoring Aids",
+    "source": "web",
+    "title": "Snoring Aids & Snore Stoppers at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids"
+   },
+   {
+    "date": "2021-12-16",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Protein Powders at CVS Pharmacy\nEasy Reorder\n- Diet & Nutrition\n...\n- Protein Powders\n# Protein Powders",
+    "source": "web",
+    "title": "Protein Powders at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/diet-nutrition/protein/protein-powders"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Cough, Cold & Flu\n**Schedule your FREE flu shot.**",
+    "source": "web",
+    "title": "Cold Medicine at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# How to manage your card\nYou can visit **CVS.com/AllinaHealthAetna** to manage your card.",
+    "source": "web",
+    "title": "Allina Health Aetna Medicare Extra Benefits Card - CVS",
+    "url": "https://www.cvs.com/bizcontent/otchs/catalog/260630.pdf"
+   },
+   {
+    "date": "2022-01-04",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Weather Accessories (Umbrellas & Ponchos) at CVS Pharmacy\n...\n# Weather Accessories",
+    "source": "web",
+    "title": "Weather Accessories (Umbrellas & Ponchos) at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/household/clothing-accessories/rain-umbrellas"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Best Holiday & Christmas Deals 2026 at at CVS Pharmacy\n...\n# Holiday\n## Make this your holiday happy place",
+    "source": "web",
+    "title": "Holiday at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/seasonal-shops/holiday"
+   },
+   {
+    "date": "2023-01-18",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Sinus & Nasal Congestion Relief\n...\n## Is Nasal Congestion Relief Over The Counter?\nYes, Nasal Congestion Relief is an over the counter product and can be purchased at CVS in stores and online.",
+    "source": "web",
+    "title": "Best Sinus Medicine for Relief at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.00057,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00313
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

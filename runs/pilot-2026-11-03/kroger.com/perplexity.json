@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/",
+  "https://www.kroger.com/p/product/0003760047371",
+  "https://www.kroger.com/q/sauce+mix",
+  "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858",
+  "https://www.kroger.com/q/beverage",
+  "https://www.kroger.com/q/tools",
+  "https://www.kroger.com/q/whole+milk",
+  "https://www.kroger.com/d/frozen",
+  "https://www.kroger.com/d/deli",
+  "https://www.kroger.com/q/pasta+kroger"
+ ],
+ "cited_store": true,
+ "answer": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Frozen Food & Groceries[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Frozen Food & Groceries[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/",
+   "https://www.kroger.com/p/product/0003760047371",
+   "https://www.kroger.com/q/sauce+mix",
+   "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858",
+   "https://www.kroger.com/q/beverage",
+   "https://www.kroger.com/q/tools",
+   "https://www.kroger.com/q/whole+milk",
+   "https://www.kroger.com/d/frozen",
+   "https://www.kroger.com/d/deli",
+   "https://www.kroger.com/q/pasta+kroger"
+  ],
+  "created": 1793749557,
+  "id": "resp_559c5ca4-5a1f-48ae-9e2e-4a8821d7b783",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nat Harrisonburg\n| 1790 E Market St\n...\n## GLP-1 friendly protein.\n### we support your weight loss journey.\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store",
+    "url": "https://www.kroger.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Hormel® Square Table® Slow Simmered Beef Roast Au Jus, NET WT 15 OZ (425g) - Kroger\nat Harrisonburg\n...\n# Hormel® Square Table® Slow Simmered Beef Roast Au Jus\n...\n## Why it matters\n### Ratings & Reviews\nAccessibility StatementIf you are using a screen reader and having difficulty with this website,...",
+    "source": "web",
+    "title": "Kroger - Hormel® Square Table® Slow Simmered Beef Roast Au Jus, NET WT 15 OZ (425g)",
+    "url": "https://www.kroger.com/p/product/0003760047371"
+   },
+   {
+    "date": "2026-09-23",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "sauce mix",
+    "url": "https://www.kroger.com/q/sauce+mix"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger® Black Tea Bags, 100 ct - Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# Kroger® Black Tea Bags",
+    "source": "web",
+    "title": "Kroger Black Tea Bags, 100 CT",
+    "url": "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "beverage - Kroger",
+    "url": "https://www.kroger.com/q/beverage"
+   },
+   {
+    "date": "2025-03-10",
+    "last_updated": "2025-03-12",
+    "place_metadata": null,
+    "snippet": "## Filter Products\n# tools\n## 115 results\n$19",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.kroger.com/q/tools"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Whole Milk - Kroger",
+    "url": "https://www.kroger.com/q/whole+milk"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Frozen Food & Groceries - Kroger\nat Harrisonburg\n| 1790 E Market St\n1. Shop All Departments\n2. Frozen Food & Groceries\n# frozen.\n## Our Exclusive Brands.\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Frozen Food & Groceries",
+    "url": "https://www.kroger.com/d/frozen"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Deli Meat, Cheese & Catering - Kroger\nat Harrisonburg\n| 1790 E Market St\n1. Shop All Departments\n2. Deli Meat, Cheese & Catering",
+    "source": "web",
+    "title": "Deli Meat, Cheese & Catering",
+    "url": "https://www.kroger.com/d/deli"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "pasta kroger",
+    "url": "https://www.kroger.com/q/pasta+kroger"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00053,
+    "output_tokens_cost": 7e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.0031
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 83
+  }
+ }
+}

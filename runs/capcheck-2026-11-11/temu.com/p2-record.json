@@ -1,0 +1,25 @@
+{
+ "domain": "temu.com",
+ "idx": 2,
+ "url": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart-4-all-terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded but showed only an empty shell titled \"Temu\" with no product details)",
+   "doc_chars": 459,
+   "input_tokens": 23259,
+   "cost_usd": 0.10398
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the fetch only returned an empty \"Temu\" page shell with no product details)",
+   "doc_chars": 459,
+   "input_tokens": 23264,
+   "cost_usd": 0.1023
+  }
+ }
+}

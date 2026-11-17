@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy Tab S12 Ultra | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00059,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy Tab S12 Ultra | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TNl7A9iI+MpjorHd4bQ6NQ/5Iwsb67ecx9kjCewZwcuX4ljwmgKDFM7lCXAXKrQHhCJYJ1Re+ahcztymg7lIXjSiDBebIwOa2DxuVF7//CXB3lvIWJYzovEoApq4y2svHWheagvHCCNUaZzy4"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 131,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 5747,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 131
+    }
+   ],
+   "toolUsePromptTokenCount": 5551,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5551
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "lX_vasz0G8iMqtsPmpLR4Ag"
+ }
+}

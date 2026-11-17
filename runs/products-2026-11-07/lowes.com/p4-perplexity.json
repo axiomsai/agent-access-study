@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/pd/delta-kylo-stainless-single-handle-pull-down-kitchen-faucet-with-deck-plate/5014640053",
+  "https://www.lowes.com/pd/Delta-Kylo-Matte-Black-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+  "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/deck-plate/4294735696-4294964697-4294398826",
+  "https://www.lowes.com/pl/Delta-kitchen-faucets/217204931",
+  "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/delta/3231755289-4294964697",
+  "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640045",
+  "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/pick-up-today/4294735696",
+  "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014633629",
+  "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/installation-available/3231755289-1512145587698",
+  "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/pull-down/4294735696-4294964697-4294768589"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Delta Kylo Stainless Steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate) | PRICE: $199.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Delta Kylo Stainless Steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate) | PRICE: $199.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/pd/delta-kylo-stainless-single-handle-pull-down-kitchen-faucet-with-deck-plate/5014640053",
+   "https://www.lowes.com/pd/Delta-Kylo-Matte-Black-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+   "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/deck-plate/4294735696-4294964697-4294398826",
+   "https://www.lowes.com/pl/Delta-kitchen-faucets/217204931",
+   "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/delta/3231755289-4294964697",
+   "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640045",
+   "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/pick-up-today/4294735696",
+   "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014633629",
+   "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/installation-available/3231755289-1512145587698",
+   "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/pull-down/4294735696-4294964697-4294768589"
+  ],
+  "created": 1794080400,
+  "id": "resp_dd7a532f-eadb-44db-ba57-6681b13172be",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-09-20",
+    "last_updated": "2026-09-28",
+    "place_metadata": null,
+    "snippet": "# Delta Kylo Stainless Steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate)\n...\n$199.00\n...\n**Manufacturer Color/Finish: ** Stainless Steel\n$199.00\n...\nDeltaKylo Stainless Steel Single Handle Deck-mount Touchless Pull-down Kitchen Faucet with Sprayer (Includes D...",
+    "source": "web",
+    "title": "Delta Kylo Stainless Steel Single Handle Pull-down Kitchen ...",
+    "url": "https://www.lowes.com/pd/delta-kylo-stainless-single-handle-pull-down-kitchen-faucet-with-deck-plate/5014640053"
+   },
+   {
+    "date": "2025-07-22",
+    "last_updated": "2025-08-19",
+    "place_metadata": null,
+    "snippet": "At a GlancePull-down/Pull-out SprayerStream or Spray OptionsSwivel500+ bought last week\n# Delta Kylo Stainless steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer ( Deck Plate Included )\nItem #1137669 |\nModel #19846Z-SS-DSTShop Delta\n**Manufacturer Color/Finish:**Stainless steel\n......",
+    "source": "web",
+    "title": "Delta Kylo Stainless steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer ( Deck Plate Included ) Lowes.com",
+    "url": "https://www.lowes.com/pd/Delta-Kylo-Matte-Black-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Delta Deck Plate Kitchen Faucets\n...\n### Delta Kylo Stainless steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer ( Deck Plate Included )\nFind My Store\nfor pricing and availability\n###### 4.5\nFaucet Type:Pull-downDual Function:Spray and Stream options\n...\n### Delta Kylo Touch2O St...",
+    "source": "web",
+    "title": "Delta Deck Plate Kitchen Faucets at Lowes.com",
+    "url": "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/deck-plate/4294735696-4294964697-4294398826"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-31",
+    "place_metadata": null,
+    "snippet": "# Delta Kitchen Faucets\n48 results\n...\nColor: Stainless Steel\n### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate)\nFind My Store\nfor pricing and availability\n##### 4.5\n...\n### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount...",
+    "source": "web",
+    "title": "Delta Kitchen Faucets at Lowes.com",
+    "url": "https://www.lowes.com/pl/Delta-kitchen-faucets/217204931"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# Delta Kitchen Faucets & Water Dispensers\n...\nColor: Stainless Steel\n### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)\nfor pricing and availability\n##### 4.5\n455\nColor: Stainless Steel\n### Delta\n#### Classic Stainless Steel Single Handle Deck-...",
+    "source": "web",
+    "title": "Delta Kitchen Faucets & Water Dispensers at Lowes.com",
+    "url": "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/delta/3231755289-4294964697"
+   },
+   {
+    "date": "2026-07-31",
+    "last_updated": "2026-08-02",
+    "place_metadata": null,
+    "snippet": "# Delta Kylo Black Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate)\n## Shop Delta\n408\nAt a Glance\nPull-down/Pull-out SprayerSpray and StreamSwivel\nAsk Mylow\nGet Pricing & Availability\n...\n**Manufacturer Color/Finish:** BlackInstall It Yourself",
+    "source": "web",
+    "title": "Delta Kylo Black Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate) Lowes.com",
+    "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)\nfor pricing and availability\n…\n...\nDeltaKylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)\n460",
+    "source": "web",
+    "title": "Kitchen Faucets Near Me at Lowes.com",
+    "url": "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/pick-up-today/4294735696"
+   },
+   {
+    "date": "2025-05-07",
+    "last_updated": "2025-07-27",
+    "place_metadata": null,
+    "snippet": "Item #5505657 |\nModel #19846Z-CZ-DST\nDelivery\nMagnaTite® Docking gold kitchen faucet uses a powerful integrated magnet to snap your faucet spray wand precisely into place and hold it there so it stays docked when not in use and doesn’t droop over time\n...\nSoft, rubber Touch-Clean® spray holes allow ...",
+    "source": "web",
+    "title": "Delta Kylo Gold Champagne Bronze Single Handle Deck-mount Pull-down Kitchen Faucet with Sprayer ( Deck Plate Included ) Lowes.com",
+    "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014633629"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)\nfor pricing and availability\n…\n...\n### Delta\n#### Trask Single Handle Deck-mount Touchless Pull-down Kitchen Faucet with Sprayer (Includes Deck Plate and Soap Dispenser)\n...\n#### Alpen SpotShiel...",
+    "source": "web",
+    "title": "Installation Available Kitchen Faucets & Water Dispensers at Lowes ...",
+    "url": "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/installation-available/3231755289-1512145587698"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# Delta Pull-down Kitchen Faucets\n...\n### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)\nfor pricing and availability\n##### 4.5\n448\nColor: SpotShield Stainless Steel\n...\n### Delta\n#### Kylo Stainless Steel Single Handle Deck-mount Touchless Pull...",
+    "source": "web",
+    "title": "Delta Pull-down Kitchen Faucets at Lowes.com",
+    "url": "https://www.lowes.com/pl/kitchen-faucets-water-dispensers/kitchen-faucets/delta/pull-down/4294735696-4294964697-4294768589"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.00141,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00421
+   },
+   "prompt_tokens": 138,
+   "search_context_size": "low",
+   "total_tokens": 179
+  }
+ }
+}

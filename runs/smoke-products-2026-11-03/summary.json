@@ -1,0 +1,302 @@
+[
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+  "idx": 1,
+  "at": "2026-11-03T18:12:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15236 chars, copy dated 2026-09-10 (54 days old)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-10T22:18:26+00:00",
+    "age_days": 54,
+    "cost_usd": 0.0998
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00052
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 14.99,
+    "price_raw": "$14.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01191
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+  "idx": 2,
+  "at": "2026-11-03T18:12:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "14407 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:12:38+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10344
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 10.99,
+    "price_raw": "$10.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00084
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.19,
+    "price_raw": "$13.19",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01182
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+  "idx": 3,
+  "at": "2026-11-03T18:12:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16635 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:12:36+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1323
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Dunkin' Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00055
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 7.99,
+    "price_raw": "$7.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01209
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+  "idx": 4,
+  "at": "2026-11-03T18:12:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16458 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:12:37+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1034
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0005
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 15.69,
+    "price_raw": "$15.69",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01204
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast, 25.9 Ounces",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "idx": 5,
+  "at": "2026-11-03T18:12:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "14210 chars, copy dated 2026-09-30 (34 days old)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee, 29 oz",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-30T00:34:36+00:00",
+    "age_days": 34,
+    "cost_usd": 0.1305
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00029
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01184
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ }
+]

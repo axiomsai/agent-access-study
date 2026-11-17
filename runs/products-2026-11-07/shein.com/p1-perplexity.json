@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/ark/default?scene=1&ad_type=DPA&goods_id=43105661&pf=PINTEREST&url_from=PINADSDPA",
+  "https://m.shein.com/us/ark/2437?goods_id=295176180&scene=2&pf=google&ad_type=DPA&language=en&siteuid=pwus&landing_page_id=2437&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-60w14en35mjx&ret=mus&skucode=I1d336n8c68c&onelink=0/googlefeed_au&ref=m&ismg=f51729135c2b76083e537b6e32cebc5f84044a32678160add9eb3c6284dc2e4d_01_1788338341&cdn_rsite=cf&currency=AUD&lang=en&rep=dir&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus",
+  "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=58229264&currency=USD&requestId=ssr-ff1ae340abcfaba2&landing_page_id=1&activity_id=5051&div_key=a54a1c2b34e225c9_f826957daf83687d",
+  "https://us.shein.com/SWYIYU-store-4288161097.html",
+  "https://m.shein.com/us/ark/2435?goods_id=494854161&scene=3&pf=google&ad_type=DPA&language=fr&siteuid=mca&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-5u0szlv9z0kd&ismg=2773fef552a090dc9673ffffc4a53bc7ca80bc25db531b8d72688c0bc1125ab8_01_1782474157&skucode=I8mq0am996zvdx&onelink=0/googlefeed_ca&currency=CAD&lang=fr&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus",
+  "https://us.shein.com/Kids%25252520Interactive%25252520Charts-c-7074.html",
+  "https://us.shein.com/Kids-Arts-Crafts-c-6995.html",
+  "https://ca.shein.com/Toys-Games-c-4328.html",
+  "https://us.shein.com/Kids-Craft-Kits-c-7003.html",
+  "https://us.shein.com/Toys%20Blind%20Box-c-14362.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: 1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squish | PRICE: $2.76 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.0053,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: 1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squish | PRICE: $2.76 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/ark/default?scene=1&ad_type=DPA&goods_id=43105661&pf=PINTEREST&url_from=PINADSDPA",
+   "https://m.shein.com/us/ark/2437?goods_id=295176180&scene=2&pf=google&ad_type=DPA&language=en&siteuid=pwus&landing_page_id=2437&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-60w14en35mjx&ret=mus&skucode=I1d336n8c68c&onelink=0/googlefeed_au&ref=m&ismg=f51729135c2b76083e537b6e32cebc5f84044a32678160add9eb3c6284dc2e4d_01_1788338341&cdn_rsite=cf&currency=AUD&lang=en&rep=dir&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus",
+   "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=58229264&currency=USD&requestId=ssr-ff1ae340abcfaba2&landing_page_id=1&activity_id=5051&div_key=a54a1c2b34e225c9_f826957daf83687d",
+   "https://us.shein.com/SWYIYU-store-4288161097.html",
+   "https://m.shein.com/us/ark/2435?goods_id=494854161&scene=3&pf=google&ad_type=DPA&language=fr&siteuid=mca&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-5u0szlv9z0kd&ismg=2773fef552a090dc9673ffffc4a53bc7ca80bc25db531b8d72688c0bc1125ab8_01_1782474157&skucode=I8mq0am996zvdx&onelink=0/googlefeed_ca&currency=CAD&lang=fr&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus",
+   "https://us.shein.com/Kids%25252520Interactive%25252520Charts-c-7074.html",
+   "https://us.shein.com/Kids-Arts-Crafts-c-6995.html",
+   "https://ca.shein.com/Toys-Games-c-4328.html",
+   "https://us.shein.com/Kids-Craft-Kits-c-7003.html",
+   "https://us.shein.com/Toys%20Blind%20Box-c-14362.html"
+  ],
+  "created": 1794082262,
+  "id": "resp_cf1bab7f-cecd-4f66-a6b6-ac0d3785699f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-27",
+    "place_metadata": null,
+    "snippet": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squish\n(10)\n5.0k+ Sold\n(10)\n5.0k...",
+    "source": "web",
+    "title": "gift",
+    "url": "https://us.shein.com/ark/default?scene=1&ad_type=DPA&goods_id=43105661&pf=PINTEREST&url_from=PINADSDPA"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Underwear & Sleepwear\n-23%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squis...",
+    "source": "web",
+    "title": "SHEIN",
+    "url": "https://m.shein.com/us/ark/2437?goods_id=295176180&scene=2&pf=google&ad_type=DPA&language=en&siteuid=pwus&landing_page_id=2437&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-60w14en35mjx&ret=mus&skucode=I1d336n8c68c&onelink=0/googlefeed_au&ref=m&ismg=f51729135c2b76083e537b6e32cebc5f84044a32678160add9eb3c6284dc2e4d_01_1788338341&cdn_rsite=cf&currency=AUD&lang=en&rep=dir&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "-23%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squish\n(1000+)\n10k+ Sold\n(1...",
+    "source": "web",
+    "title": "WELCOME TO SHEIN",
+    "url": "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=58229264&currency=USD&requestId=ssr-ff1ae340abcfaba2&landing_page_id=1&activity_id=5051&div_key=a54a1c2b34e225c9_f826957daf83687d"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "You May Also Like\nSave $0.84\n-23%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumplin...",
+    "source": "web",
+    "title": "Women's & Men's Clothing, Shop Online Fashion",
+    "url": "https://us.shein.com/SWYIYU-store-4288161097.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, Dumpling Squish\nCA$*3*.86\n-23%\nCA$5.03\nAP...",
+    "source": "web",
+    "title": "SHEIN",
+    "url": "https://m.shein.com/us/ark/2435?goods_id=494854161&scene=3&pf=google&ad_type=DPA&language=fr&siteuid=mca&middle_page_id=2435&ad_test_id=2730&ad_check=1&requestId=olw-5u0szlv9z0kd&ismg=2773fef552a090dc9673ffffc4a53bc7ca80bc25db531b8d72688c0bc1125ab8_01_1782474157&skucode=I8mq0am996zvdx&onelink=0/googlefeed_ca&currency=CAD&lang=fr&jump_type=1&cdn_rsite=cf&ref=m&rep=dir&ret=mus"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Home > Kids Interactive Charts\n## Product list\n$1.95\n$1.95\n600+ sold\nafter coupon\n-21%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Sof...",
+    "source": "web",
+    "title": "Home > Kids Interactive Charts",
+    "url": "https://us.shein.com/Kids%25252520Interactive%25252520Charts-c-7074.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Kids Arts & Crafts\n## Product list\n-23%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stre...",
+    "source": "web",
+    "title": "Fashion Kids Arts & Crafts - Shein",
+    "url": "https://us.shein.com/Kids-Arts-Crafts-c-6995.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home\n## Product list\n1pc Ice Cream Soft Squeeze Stress Ball, Soft Filled Squeezable Toy, Sensory Stress Relief Toy, Relieve Stress And Anxiety, Perfect Gift For Adults And Teens, Party Favor, Holiday Gift, Halloween Gift, Christmas Gift, Thanksgiving Gift, Party Toy\n...\n-10%\nsomoving 1pc Mint Coco...",
+    "source": "web",
+    "title": "Toys & Games",
+    "url": "https://ca.shein.com/Toys-Games-c-4328.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > Kids Craft Kits\n## Product list\n-23%\n1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress ...",
+    "source": "web",
+    "title": "Fashion Kids Craft Kits | SHEIN USA",
+    "url": "https://us.shein.com/Kids-Craft-Kits-c-7003.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > Toys Blind Box\n## Product list\n-18%\nMint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gifts, Party Gifts, Squishy, Squishy Toys, Squishy Stress Toy, ...",
+    "source": "web",
+    "title": "Home > Toys Blind Box",
+    "url": "https://us.shein.com/Toys%20Blind%20Box-c-14362.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 89,
+   "cost": {
+    "input_tokens_cost": 0.00156,
+    "output_tokens_cost": 0.00056,
+    "request_cost": 0.0025,
+    "total_cost": 0.00462
+   },
+   "prompt_tokens": 215,
+   "search_context_size": "low",
+   "total_tokens": 304
+  }
+ }
+}

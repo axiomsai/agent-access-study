@@ -1,0 +1,102 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/",
+ "started": "2026-11-05T13:09:53-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.temu.com/",
+  "bytes": 399398,
+  "error": null,
+  "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry &amp; More",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "546 chars, copy dated 2026-11-05 (0 days old)",
+   "answer": "I opened the page, but only its title came back. The rest of the page was empty: just invisible zero-width characters, with no products or categories in it. That usually means the content loads with JavaScript, which my fetch tool doesn't run.\n\n- **Page title:** Temu | Explore the Latest Clothing, B",
+   "cost_usd": 0.09935
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nProduct/Category: Jewelry",
+   "cost_usd": 0.00018
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More  \nProduct/category name: Clothing ([temu.com](https://www.temu.com/))",
+   "cost_usd": 0.0113
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Temu homepage — Pet Supplies",
+   "cost_usd": 0.00506
+  }
+ }
+}

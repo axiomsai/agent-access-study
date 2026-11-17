@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+  "https://www.samsung.com/galaxy-z-fold8",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971ulvaxau/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzwfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzgfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971uzkexaa/",
+  "https://news.samsung.com/us/samsung-making-most-new-galaxy-z-fold8/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971uzkaxau/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971ulvexaa/",
+  "https://www.samsung.com/us/shop/cell-phone-offers/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Galaxy Z Fold8 | PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Galaxy Z Fold8 | PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+   "https://www.samsung.com/galaxy-z-fold8",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971ulvaxau/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzwfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzgfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971uzkexaa/",
+   "https://news.samsung.com/us/samsung-making-most-new-galaxy-z-fold8/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971uzkaxau/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971ulvexaa/",
+   "https://www.samsung.com/us/shop/cell-phone-offers/"
+  ],
+  "created": 1794080649,
+  "id": "resp_45a931cd-396d-47e3-8fdb-28ae8290211c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 512GB in Pistachio | Samsung US\n...\n# Galaxy Z Fold8\n256GB | Pistachio | Unlocked\n**$1,899.99 or 79.17/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\nDual 50 MP Camera\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung...",
+    "source": "web",
+    "title": "Galaxy Z Fold8",
+    "url": "https://samsung.com/us/smartphones/galaxy-z-fold8/buy/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Galaxy Z Fold8\n- From $1,899.99 or $79.17/mo before trade-inᶿ\n# Galaxy Z Fold8\nAvailable now\nLight on weight, heavy on features.\nGet up to $800 instant trade‑in credit^θ^ or $300 off without trade‑in.^₤^ Plus, up to $1,100 in carrier deals.\nIntroducing the all-new Galaxy Z Fold8 — the world’s lig...",
+    "source": "web",
+    "title": "Explore Galaxy Z Fold8 | Foldable Phone | Samsung US",
+    "url": "https://www.samsung.com/galaxy-z-fold8"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Order the Galaxy Z Fold8 256GB in Lavender for T-Mobile | Samsung US\n...\n# Galaxy Z Fold8\n256GB | Lavender | T-Mobile\n**$66.67/mo** for **24** mos^⊕^\n...\nDual 50 MP Camera\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n...\nD...",
+    "source": "web",
+    "title": "Order the Galaxy Z Fold8 256GB in Lavender for T-Mobile",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971ulvaxau/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 1TB in Cream | Samsung US\n...\n# Galaxy Z Fold8\n1TB | Cream | Unlocked\n256GB\nwas: $1899.99 $1,599.99\n512GB\nwas: $2099.99 $1,799.99\n1TB\nwas: $2499.99 $2,199.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nPistachio\nLavender\nCream\nGraphite...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 1TB in Cream | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzwfxaa/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 1TB in Lavender | Samsung US\n...\n# Galaxy Z Fold8\n1TB | Pistachio | Unlocked\n**$2,499.99 or 104.17/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\nDual 50 MP Camera\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Exp...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 1TB in Lavender | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-1tb-unlocked-sku-sm-f971uzgfxaa/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 512GB in Graphite | Samsung US\n...\n# Galaxy Z Fold8\n512GB | Graphite | Unlocked\n**$2,099.99 or 87.51/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n....",
+    "source": "web",
+    "title": "Galaxy Z Fold8",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971uzkexaa/"
+   },
+   {
+    "date": "2026-08-04",
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "## Where can I purchase Galaxy Z Fold8 ?\nGalaxy Z Fold8 is available for pre-order now at major carriers, retailers, and Samsung Experience Stores nationwide as well as Samsung.com with general availability starting August 7, 2026.",
+    "source": "web",
+    "title": "Making the Most of Your New Galaxy Z Fold8 - news.samsung.com",
+    "url": "https://news.samsung.com/us/samsung-making-most-new-galaxy-z-fold8/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Order the Galaxy Z Fold8 256GB in Graphite for T-Mobile | Samsung US\n...\n# Galaxy Z Fold8\n256GB | Graphite | T-Mobile\n256GB\nwas: $1899.99 $1,599.99\n512GB\nwas: $2099.99 $1,799.99\n1TB\nwas: $2499.99 $2,199.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nPistachio\nLavende...",
+    "source": "web",
+    "title": "Order the Galaxy Z Fold8 256GB in Graphite for T-Mobile",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-t-mobile-sku-sm-f971uzkaxau/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 512GB in Lavender | Samsung US\n...\n# Galaxy Z Fold8\n512GB | Lavender | Unlocked\n**$2,099.99 or 87.51/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n....",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 512GB in Lavender | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-512gb-unlocked-sku-sm-f971ulvexaa/"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "## Galaxy Z Fold8 Series\n...\nGet up to $800 instant trade-in credit.^θ^\n...\nGalaxy Z Fold8 Ultra\nGet up to $800 instant trade-in credit.^θ^\nGalaxy Z Fold8\nGet up to $800 instant trade-in credit^θ^ or $300 off without trade-in.^₤^\n...\nMust purchase a Fold8/Flip8 Series, S26 Series, S25 Series, Fold7/...",
+    "source": "web",
+    "title": "Galaxy Cell Phone Deals & Offers | Samsung US",
+    "url": "https://www.samsung.com/us/shop/cell-phone-offers/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.0017,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00444
+   },
+   "prompt_tokens": 118,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

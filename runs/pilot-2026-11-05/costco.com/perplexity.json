@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/home-theater-systems.html",
+  "https://www.costco.com/bed-pillows.html",
+  "https://www.costco.com/opt/pt/index",
+  "https://www.costco.com/mini-pcs.html",
+  "https://www.costco.com/probiotics.html",
+  "https://www.costco.com/",
+  "https://www.costco.com/pharmacy/auto-tires.html",
+  "https://www.costco.com/widescreen-monitors.html",
+  "https://www.costco.com/catalog.html",
+  "https://www.costco.com/opt/bathroom-towels"
+ ],
+ "cited_store": true,
+ "answer": "Welcome to Costco Wholesale — Shop All[6]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Welcome to Costco Wholesale — Shop All[6]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/home-theater-systems.html",
+   "https://www.costco.com/bed-pillows.html",
+   "https://www.costco.com/opt/pt/index",
+   "https://www.costco.com/mini-pcs.html",
+   "https://www.costco.com/probiotics.html",
+   "https://www.costco.com/",
+   "https://www.costco.com/pharmacy/auto-tires.html",
+   "https://www.costco.com/widescreen-monitors.html",
+   "https://www.costco.com/catalog.html",
+   "https://www.costco.com/opt/bathroom-towels"
+  ],
+  "created": 1793905840,
+  "id": "resp_f6713220-1460-4faa-94c8-fb48a1739ddf",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Home Theater Sound Systems\n## Filter Results\n# Home Theater Sound Systems",
+    "source": "web",
+    "title": "Home Theater Sound Systems",
+    "url": "https://www.costco.com/home-theater-systems.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Bed Pillows\n## Filter Results\n# Bed Pillows\n## Shop Related Categories",
+    "source": "web",
+    "title": "Bed Pillows",
+    "url": "https://www.costco.com/bed-pillows.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Categories | Costco\n- ### Shop Savings by Department\n- ### Costco Business Center\n...\n### Shop by Department",
+    "source": "web",
+    "title": "Categories",
+    "url": "https://www.costco.com/opt/pt/index"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Mini PCs\n## Filter Results\n# Mini PCs\n## Shop Related Categories",
+    "source": "web",
+    "title": "Mini PCs",
+    "url": "https://www.costco.com/mini-pcs.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Probiotics\n## Filter Results\n# Probiotics\n## Shop Related Categories",
+    "source": "web",
+    "title": "Probiotics",
+    "url": "https://www.costco.com/probiotics.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Welcome to Costco Wholesale\n# Costco Homepage\n**Shop All**\nValid 10/30/26 - 11/30/26",
+    "source": "web",
+    "title": "Costco Homepage",
+    "url": "https://www.costco.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Tires & Auto | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Tires & Auto\n## Why Buy Tires at Costco?\n### Tire Purchase Includes Installation at No Charge 1\nSee Tire Sales desk for details.\n...\n## Shop Related Categories\nSo, whether you’re in the market for a heavy-duty diesel engine oi...",
+    "source": "web",
+    "title": "Tires & Auto - Costco Wholesale",
+    "url": "https://www.costco.com/pharmacy/auto-tires.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Widescreen Monitors\n## Filter Results\n# Widescreen Monitors",
+    "source": "web",
+    "title": "Widescreen Monitors - Costco",
+    "url": "https://www.costco.com/widescreen-monitors.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Catalog  | Costco\n- ### Costco Business Center\nFind an expanded product selection for all types of businesses, from\nprofessional offices to food service operations.\nOur Costco Business\nCenter warehouses are open to all members.\n### Shop by Department\n1.\nBeverages\n2.\nCandy & Snacks\n3.\nDisposables\n4.\n...",
+    "source": "web",
+    "title": "Catalog | Costco",
+    "url": "https://www.costco.com/catalog.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Bathroom Towels | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Bathroom Towels\nElevate your daily routine with a fresh selection of bathroom towels, designed to bring comfort and style to any space.\nWhether you’re updating your master bath, guest suite, or powder room, discover an arra...",
+    "source": "web",
+    "title": "Bathroom Towels",
+    "url": "https://www.costco.com/opt/bathroom-towels"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 10,
+   "cost": {
+    "input_tokens_cost": 0.0006,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00313
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 67
+  }
+ }
+}

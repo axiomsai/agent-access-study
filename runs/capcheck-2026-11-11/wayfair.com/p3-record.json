@@ -1,0 +1,25 @@
+{
+ "domain": "wayfair.com",
+ "idx": 3,
+ "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15631 chars, copy dated 2026-10-19 (23 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15631,
+   "input_tokens": 40367,
+   "cost_usd": 0.17679
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "77101 chars, copy dated 2026-10-19 (23 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 77101,
+   "input_tokens": 42415,
+   "cost_usd": 0.18518
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/browse/product.do?pid=908887122",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00048,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TnBiWa99x1TcK/ieKBJH1Tq8QFrYz8+Xxd4xEi6PnfKxsI53ErCV/XP+WDK7Lmqgnq1aBTaJzItNYFLvRhyQ8IlkrQxWNB8/5zrGWebf0aFeoJLb8+CnLjrUNXN7cpUHUuq06U8Y3D0kHh7MH"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/browse/product.do?pid=908887122",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 132,
+   "candidatesTokenCount": 61,
+   "totalTokenCount": 4639,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 132
+    }
+   ],
+   "toolUsePromptTokenCount": 4446,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4446
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ydvsatzsJeGUmtkPubyokQk"
+ }
+}

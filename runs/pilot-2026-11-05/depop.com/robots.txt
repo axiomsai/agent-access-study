@@ -1,0 +1,60 @@
+User-agent: *
+#Prevent Bot Crawl of applied search filters
+Disallow: /search/*
+
+#Prevent Bot Crawl of magic-link pages
+Disallow: /magic-link/
+Disallow: /*/magic-link/
+Disallow: /*/signup/magic-link/
+Disallow: /*/signup/email/magic-link/
+Disallow: /*/login/magic-link/
+Disallow: /*/email-change/magic-link/
+
+#Prevent Bot Crawl of deprioritised pages
+Disallow: /*/selling/*
+Disallow: /*/sold/*
+Disallow: /*/likes/*
+Disallow: /*/other/*
+
+#Prevent Bot Crawl of the new shop url during development
+Disallow: /shop/
+Disallow: /*/shop/
+
+#Prevent Bot Crawl of Query Params
+Disallow: *?from=*
+
+#Prevent Bot Crawl category & brand filters
+Disallow: *categories=*
+Disallow: *subcategories=*
+Disallow: *brands=*
+Disallow: *sizes=*
+Disallow: *priceMin=*
+Disallow: *priceMax=*
+Disallow: *hasFreeShipping=*
+Disallow: *isDiscounted=*
+Disallow: *colours=*
+Disallow: *conditions=*
+
+User-agent: Yandex
+Crawl-delay: 2.0 # sets a 2-second timeout
+Disallow: /search/?q=*&
+Disallow: /shop/
+Disallow: /*/shop/
+Disallow: *categories=*
+Disallow: *subcategories=*
+Disallow: *brands=*
+Disallow: *sizes=*
+Disallow: *priceMin=*
+Disallow: *priceMax=*
+Disallow: *hasFreeShipping=*
+Disallow: *isDiscounted=*
+Disallow: *colours=*
+Disallow: *conditions=*
+
+User-agent: GemIndexer
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://www.depop.com/sitemap_index.xml

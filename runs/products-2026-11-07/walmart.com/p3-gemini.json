@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray | PRICE: $199.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00062,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray | PRICE: $199.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TZ02LVxZKgp+YtORYXMI29JgTSXsAELBxhpXm84tHFSsKyLmvAVDle6sa6euNmQl+LVTv3Bk7IJvUihwPQ2qv/RnALuajRXPzOgUVjG2jgh+3EhmG2rlkk/HA4kY6QqoQpTITGWZquLN+d5js"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 168,
+   "candidatesTokenCount": 125,
+   "totalTokenCount": 5869,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 168
+    }
+   ],
+   "toolUsePromptTokenCount": 5576,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5576
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "eHzvauTQDp2gz7IP64W_8Qc"
+ }
+}

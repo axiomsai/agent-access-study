@@ -1,0 +1,60 @@
+{
+ "domain": "shein.com",
+ "url": "https://us.shein.com/Satin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html",
+ "idx": 4,
+ "at": "2026-11-05T13:35:51-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the page loaded but returned no product content, only empty page metadata, which suggests bot blocking)",
+   "retrieved_at": "2026-11-05T19:35:56+00:00",
+   "age_days": 0,
+   "cost_usd": 0.07185
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "success status but answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the page is blocked by a security challenge (crawler block)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00123
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Satin Halter Neck High Low Dress For Women, Feather Trim Sleeveless Flowy Dress, Backless Split Hem Elegant Night Out Party Dress",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01177
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

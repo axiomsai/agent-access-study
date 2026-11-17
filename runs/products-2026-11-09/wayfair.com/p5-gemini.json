@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Mahler 42\" W Console Table | PRICE: $99.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00182,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Mahler 42\" W Console Table | PRICE: $99.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TNNphcuKBmYqG5H22k2IWS+jFe99k8iJzszyRAM/p2sDYS01N/YaT1WeYbvlUFZFYglgxfEJDsbSz7whMubao71gfu1TY751hNxSJx/LsvBEgOyPZN85CZOQGGXFvmNpX8tsbfXqCQ1i2E65q"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 149,
+   "candidatesTokenCount": 83,
+   "totalTokenCount": 17975,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 149
+    }
+   ],
+   "toolUsePromptTokenCount": 17743,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 17743
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "axPyat-ZK7rQz7IP_pCO6Ak"
+ }
+}

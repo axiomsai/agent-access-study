@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00067,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TYz4DMMtpJPYM2K4wZ5BDRxnGw16jsQRjBcLlL6odeN0o/YU1OwrIojAsdj2sseslH7BFHXDYG5Zv2LP7sivUzl6y7QMsT4873cdyGUw3F+BYqx2xPlC0fnAALxfw5SY/KuGDlwp1jAkLTxCm"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 157,
+   "candidatesTokenCount": 95,
+   "totalTokenCount": 6440,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 157
+    }
+   ],
+   "toolUsePromptTokenCount": 6188,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 6188
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "m9rsau_PH_T0z7IP5qq_6QQ"
+ }
+}

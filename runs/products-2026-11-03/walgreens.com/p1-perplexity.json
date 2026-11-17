@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+  "https://www.walgreens.com/q/sinus+congestion+medications",
+  "https://www.walgreens.com/q/allergy+and+sinus",
+  "https://www.walgreens.com/store/c/productlist/N=118-2000010045-2000012554",
+  "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+  "https://www.walgreens.com/store/c/productlist/cane-accessories-walgreens-brand/N=359461-2000012829-100077052-2000012330-2000010680-2000014103-100079520-2000010021-2000011429-2000013895-2000013206",
+  "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045",
+  "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045",
+  "https://www.walgreens.com/q/antihistamines",
+  "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+   "https://www.walgreens.com/q/sinus+congestion+medications",
+   "https://www.walgreens.com/q/allergy+and+sinus",
+   "https://www.walgreens.com/store/c/productlist/N=118-2000010045-2000012554",
+   "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+   "https://www.walgreens.com/store/c/productlist/cane-accessories-walgreens-brand/N=359461-2000012829-100077052-2000012330-2000010680-2000014103-100079520-2000010021-2000011429-2000013895-2000013206",
+   "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045",
+   "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045",
+   "https://www.walgreens.com/q/antihistamines",
+   "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3"
+  ],
+  "created": 1793751356,
+  "id": "resp_16b9a537-3ecd-4b78-b064-08cb65d2fb1e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-16",
+    "place_metadata": null,
+    "snippet": "# Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea\n4.5 out of 5 stars.\n280 total reviews.\nNavigate to Ratings and Reviews section\n$7.79 $0.32/ea\nWhen ordered online\n...\nSave to shopping list\n- - Relieves symptoms due to hay fever\n- For sneezing & itchy, watery eyes\n- Pseudoephedrine fr...",
+    "source": "web",
+    "title": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Sinus Congestion Medications\n## Refine\nAdd to cartwill open overlay for Walgreens Daytime Severe Sinus Caplets Cool Blast\n- **Walgreens Daytime & Nighttime Sinus PE Congestion Tablets** - 20 ea\nWalgreens(68)\n...\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets** - 24 ea\nWalgreens(286)\n$7....",
+    "source": "web",
+    "title": "Sinus Congestion Medications | Walgreens",
+    "url": "https://www.walgreens.com/q/sinus+congestion+medications"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Allergy And Sinus\n## Refine\nPrice and inventory may vary from online to in store.\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets ** - 24 ea\nWalgreens(283)\n$7.79$0.32 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nS...",
+    "source": "web",
+    "title": "Allergy and Sinus | Walgreens",
+    "url": "https://www.walgreens.com/q/allergy+and+sinus"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Walgreens\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFFExtra 20% off select Walg...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Walgreens | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=118-2000010045-2000012554"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Walgreens - Allergy Medicine\nAdd to cartwill open overlay for Walgreens Multi-Symptom Allergy Gelcaps\n...\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets ** - 24 ea\nWalgreens(283)\n$7.79$0.32 / ea\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill op...",
+    "source": "web",
+    "title": "Walgreens - Allergy Medicine",
+    "url": "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Walgreens Brand\n**Walgreens Non-Drowsy Nasal Decongestant PE Tablets** - 36 ea\nWalgreens(308)\n$10.99$0.31 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Walgreens Non-Drowsy Nasal Decongestant...",
+    "source": "web",
+    "title": "Walgreens Brand | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/cane-accessories-walgreens-brand/N=359461-2000012829-100077052-2000012330-2000010680-2000014103-100079520-2000010021-2000011429-2000013895-2000013206"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaFall into Wellness: Extra...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Allergy Medications | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045"
+   },
+   {
+    "date": "2000-09-10",
+    "last_updated": "2025-06-27",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaPickup availableSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Walgreens | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Antihistamines\n## Refine\nPrice and inventory may vary from online to in store.\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets** - 24 ea\nWalgreens(286)\n$7.79$0.32 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd t...",
+    "source": "web",
+    "title": "Antihistamines",
+    "url": "https://www.walgreens.com/q/antihistamines"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaExtra 15% off $25+ Pickup...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Walgreens Brand Allergy & Sinus",
+    "url": "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 36,
+   "cost": {
+    "input_tokens_cost": 0.00136,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00413
+   },
+   "prompt_tokens": 133,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

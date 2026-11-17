@@ -1,0 +1,60 @@
+{
+ "domain": "target.com",
+ "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+ "idx": 2,
+ "at": "2026-11-05T13:25:43-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed (web tool returned url_not_allowed)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0701
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+   "price": 9.99,
+   "price_raw": "$9.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00089
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+   "price": 9.99,
+   "price_raw": "$9.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0124
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+   "price": 9.99,
+   "price_raw": "$9.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

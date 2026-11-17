@@ -1,0 +1,60 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+ "idx": 2,
+ "at": "2026-11-09T12:39:18-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15557 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-09T18:39:23+00:00",
+   "age_days": 0,
+   "cost_usd": 0.17864
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+   "price": 899.0,
+   "price_raw": "$899.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00133
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+   "price": 629.3,
+   "price_raw": "$629.30",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02342
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+   "price": 899.0,
+   "price_raw": "$899.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00524
+  }
+ }
+}

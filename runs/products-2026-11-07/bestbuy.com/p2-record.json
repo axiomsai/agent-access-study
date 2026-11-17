@@ -1,0 +1,60 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+ "idx": 2,
+ "at": "2026-11-07T13:43:49-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "10599 chars, copy dated 2026-11-05 (2 days old)",
+   "parsed": true,
+   "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T12:38:39+00:00",
+   "age_days": 2,
+   "cost_usd": 0.18423
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+   "price": 612.0,
+   "price_raw": "$612.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00137
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02377
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+   "price": 612.0,
+   "price_raw": "$612.00",
+   "stock": "OUT OF STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00522
+  }
+ }
+}

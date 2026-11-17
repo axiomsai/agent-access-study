@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00031,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0Td0MPIQUIDe3MtvsKAqkpPbroAEvI4+lI2RrCdF9ULk9w9d1fC3U5nwjdVAfnoWa4sb6Dh7IkwcuX1xCHizQQl5THVN3Lmf7AhUf5q452p4m0790x+3cb72zRTLntaeDAdi/P/C208cnUIMaz"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 152,
+   "candidatesTokenCount": 86,
+   "totalTokenCount": 2874,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 152
+    }
+   ],
+   "toolUsePromptTokenCount": 2636,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2636
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "MhHyataHJP6a6dkPvayKmA4"
+ }
+}

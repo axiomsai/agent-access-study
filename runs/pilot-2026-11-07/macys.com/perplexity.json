@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/",
+  "https://www.macys.com/shop/featured/evening-jackets",
+  "https://www.macys.com/shop/product/toms-womens-majorca-open-toe-strappy-sandals?ID=20449584",
+  "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+  "https://www.macys.com/shop/sale/by-category/beauty?id=66190",
+  "https://www.macys.com/shop/sale/by-category/womens/shoes?id=13604",
+  "https://www.macys.com/shop/featured/nude-heels",
+  "https://www.macys.com/shop/featured/layered-look-sweater",
+  "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+  "https://www.macys.com/shop/featured/maxi-dresses-on-sale"
+ ],
+ "cited_store": true,
+ "answer": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nWomen’s Cotton Shirts & Tops",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nWomen’s Cotton Shirts & Tops",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/",
+   "https://www.macys.com/shop/featured/evening-jackets",
+   "https://www.macys.com/shop/product/toms-womens-majorca-open-toe-strappy-sandals?ID=20449584",
+   "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+   "https://www.macys.com/shop/sale/by-category/beauty?id=66190",
+   "https://www.macys.com/shop/sale/by-category/womens/shoes?id=13604",
+   "https://www.macys.com/shop/featured/nude-heels",
+   "https://www.macys.com/shop/featured/layered-look-sweater",
+   "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+   "https://www.macys.com/shop/featured/maxi-dresses-on-sale"
+  ],
+  "created": 1794079596,
+  "id": "resp_1cb31e70-aa66-4bec-84ce-9952f2064aa8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com",
+    "source": "web",
+    "title": "Macy’s– Official Site",
+    "url": "https://www.macys.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Evening Jackets - Macy's\n```\n...\n# \"evening jackets\"\n(500+ items)",
+    "source": "web",
+    "title": "Evening Jackets",
+    "url": "https://www.macys.com/shop/featured/evening-jackets"
+   },
+   {
+    "date": "2026-02-07",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "TOMS Women's Majorca Open Toe Strappy Sandals - Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories\n2. Sandals\n# TOMS Women's Majorca Open Toe Strappy Sandals\n4.8 (16)\n...\nNow $70.00 (30% off)$100.00Details\nColor:Black Leather\nSize:7.5\n...\n## Product Details\n- Your go-to heeled platform sandal go...",
+    "source": "web",
+    "title": "TOMS Women's Majorca Open Toe Strappy Sandals - Macy's",
+    "url": "https://www.macys.com/shop/product/toms-womens-majorca-open-toe-strappy-sandals?ID=20449584"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's Cotton Tops - Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories/\n2. Women's Clothing/\n3. Tops\n# Women's Cotton Shirts & Tops\n(500+)",
+    "source": "web",
+    "title": "Women's Cotton Tops - Macy's",
+    "url": "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Beauty Products on Sale | Macy's\n...\n2. Shop by Category/",
+    "source": "web",
+    "title": "Macy's - Shop Fashion Clothing & Accessories - Official Site ...",
+    "url": "https://www.macys.com/shop/sale/by-category/beauty?id=66190"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women’s Shoes on Sale | Sandals, Heels, Sneakers, & Boots | Macy's\n...\n2. Shop by Category/\n3. Women's/\n4. Shoes\n# Women's Shoes on Sale\n(500+)",
+    "source": "web",
+    "title": "Women’s Shoes on Sale | Sandals, Heels, Sneakers, & Boots |...",
+    "url": "https://www.macys.com/shop/sale/by-category/womens/shoes?id=13604"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Nude Heels - Macy's\n```\n...\n# \"nude heels\"\n(500+ items)\n- Madden Girl\n...\n- Jessica Simpson",
+    "source": "web",
+    "title": "Nude Heels - Macy's",
+    "url": "https://www.macys.com/shop/featured/nude-heels"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Layered Look Sweater - Macy's\n...\n# \"layered look sweater\"\n(500+ items)\n...\n### Women's Cozy Extended Shoulder Color Blocked Sweater",
+    "source": "web",
+    "title": "Layered Look Sweater - Macy's",
+    "url": "https://www.macys.com/shop/featured/layered-look-sweater"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Women's Red Heels and Pumps | Macy's\n```\n...\n# Women's Red Heels\n(500+)\n- Medium Heels (2-2.99\")\n- High Heels (3-3.99\")",
+    "source": "web",
+    "title": "Women's Red Heels and Pumps | Macy's",
+    "url": "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Maxi Dresses On Sale - Macy's\n```\n...\n# \"maxi dresses on sale\"\n(500+ items)",
+    "source": "web",
+    "title": "Maxi Dresses On Sale - Macy's",
+    "url": "https://www.macys.com/shop/featured/maxi-dresses-on-sale"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.0006299999999999999,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00319
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 81
+  }
+ }
+}

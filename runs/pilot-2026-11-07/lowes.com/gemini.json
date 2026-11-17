@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.0004,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+       "thoughtSignature": "EnMKcQFpFH0Tzel95WovzN/Q3k2NxW7EUkD512fKS8zM41y/EHugJoK/IUGGC2INmVmLabJKBjFexwFN5hRug65duAz4cLyjS6Kps5lUC6uNbtmcnLmp3WpoPZPrqHocqgfqFn4LjZX4aeXHUGTvJJN6WFBb"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.lowes.com/",
+        "title": "Lowe's Home Improvement"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 39,
+        "text": "**Page Title:** Lowe's Home Improvement"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 40,
+        "endIndex": 77,
+        "text": "**Product/Category Name:** Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 47,
+   "totalTokenCount": 3854,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 3745,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3745
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "VXvvaqWuJJ_nqtsP8sCggAY"
+ }
+}

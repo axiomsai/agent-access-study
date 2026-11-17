@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: 3pcs Men's Sweatpants Casual Athletic Lounge Pants for Everyday Workout Relaxed Wear | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00216,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: 3pcs Men's Sweatpants Casual Athletic Lounge Pants for Everyday Workout Relaxed Wear | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TpKvLsIy2NmttoG+cQ5BYa8feF7PT+yHxIhJMKUb100koTw5RKXVGaSZ8xdoUFKmfmGNp/FuIjtL3DH2zmUxrS6GynW6Z1VD6cOPgATrAUInlFNPptwX/OOHIdJ2zKi/a6Qqo2SoKknynSA02"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 167,
+   "candidatesTokenCount": 105,
+   "totalTokenCount": 21242,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 167
+    }
+   ],
+   "toolUsePromptTokenCount": 20970,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 20970
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "QdXsaur6NMngqtsPzIjt2QM"
+ }
+}

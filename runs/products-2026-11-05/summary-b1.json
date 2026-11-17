@@ -1,0 +1,902 @@
+[
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B07BGLT25K",
+  "idx": 1,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06824
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01226
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B079VP6DH5",
+  "idx": 2,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06817
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03381
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+    "price": 43.49,
+    "price_raw": "$43.49",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B00MNV8E0C",
+  "idx": 3,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool returned \"url_not_allowed\" for this URL)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06917
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The page could not be accessed due to a block or restriction.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03379
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage",
+    "price": 15.29,
+    "price_raw": "$15.29",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B0DQYR6X8R",
+  "idx": 4,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06826
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the request was blocked by the target website",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls",
+    "price": 6.62,
+    "price_raw": "$6.62",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.04451
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B0FN4NH4K8",
+  "idx": 5,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the fetch tool returned the error url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06908
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong",
+    "price": 12.13,
+    "price_raw": "$12.13",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06586
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | Toilet Tissue",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+  "idx": 1,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16616 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:12:31+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13446
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": 269.0,
+    "price_raw": "$269.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00054
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01239
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": 269.0,
+    "price_raw": "$269.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+  "idx": 2,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15596 chars, copy dated 2026-10-27 (9 days old)",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-27T09:05:17+00:00",
+    "age_days": 9,
+    "cost_usd": 0.18048
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": 89.0,
+    "price_raw": "$89.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00053
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": 99.0,
+    "price_raw": "$99.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03472
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": 121.0,
+    "price_raw": "$121.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+  "idx": 3,
+  "at": "2026-11-05T13:12:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15330 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:12:36+00:00",
+    "age_days": 0,
+    "cost_usd": 0.17898
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00064
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02366
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+  "idx": 4,
+  "at": "2026-11-05T13:12:42-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15870 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the page opened but only the title and site menus came back; no product details, price or stock status loaded)",
+    "retrieved_at": "2026-11-05T19:12:49+00:00",
+    "age_days": 0,
+    "cost_usd": 0.21454
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": 23.0,
+    "price_raw": "$23.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Apple, Item Tracker, 2nd Generation, for Keys Wallet & More",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02364
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": 23.0,
+    "price_raw": "$23.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+  "idx": 5,
+  "at": "2026-11-05T13:12:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15274 chars, copy dated 2026-09-05 (61 days old)",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-09-05T01:30:39+00:00",
+    "age_days": 61,
+    "cost_usd": 0.1767
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver ChromeOS",
+    "price": 219.94,
+    "price_raw": "$219.94",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00064
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "New Acer Chromebook 315 Laptop - 15.6\" Celeron Processor, 4GB RAM, 64GB eMMC, Pure Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02367
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver, ChromeOS",
+    "price": 219.94,
+    "price_raw": "$219.94",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked by search-only access",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+  "idx": 1,
+  "at": "2026-11-05T13:12:47-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page only returned an empty \"Temu\" shell with no product content)",
+    "retrieved_at": "2026-11-05T19:12:51+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10168
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "Portable Tire Inflator Air Compressor Cordless Electric Bike Pump 200PSI Portable Tire Inflator with LCD Pressure Gauge and LED Light Ideal for Cars Bicycles Motorcycles and",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page provided no product details, price, or stock information because it was blocked or restricted.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00219
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01144
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart-4-all-terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+  "idx": 2,
+  "at": "2026-11-05T13:12:48-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product name, price or stock shown)",
+    "retrieved_at": "2026-11-05T19:12:52+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10218
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "680/ 450/380/220/30 LBS Heavy Duty Foldable Utility Cart, 4 Wheels, Durable Alloy and 600D Oxford Cloth, No , Height Adjustable Wagon Cart, Suitable for Camping, Gardening and Shopping-black/ Blue/ Re",
+    "price": 19.11,
+    "price_raw": "$19.11",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01147
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact page unavailable in search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+  "idx": 3,
+  "at": "2026-11-05T13:12:50-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "463 chars, copy dated 2026-10-09 (27 days old)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (page returned only a blank \"Temu\" shell with no product content)",
+    "retrieved_at": "2026-10-09T10:30:04+00:00",
+    "age_days": 27,
+    "cost_usd": 0.10254
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page appears to be a scraper-blocked or dynamically rendered page that did not return product details.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00218
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01144
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Powerful Handheld Vacuum Cleaner with Detachable Battery & Suitable for Pet Hair,, Floors, Lightweight Vertical Vacuum with 45-Min Runtime, 3-Speed Motor, LED Floor Brush, Voltage ( Plug) for Use",
+    "price": 42.94,
+    "price_raw": "$42.94",
+    "stock": "UNKNOWN",
+    "opened": "NO: the exact product page was not opened",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00523
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+  "idx": 4,
+  "at": "2026-11-05T13:12:50-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the web tool rejected the link as too long, so the page never loaded)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07018
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page did not load product details (blocked/no content)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00218
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01148
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "No Rinse Kitchen Cabinet Cleaner Spray Suitable for Wood Cabinets, Grease & Grime Remover with Foam Formula, Gentle Safe Formula for Painted Wood Surfaces, Suitable for Cupboards, Kitchen Stain Remove",
+    "price": 10.19,
+    "price_raw": "$10.19",
+    "stock": "UNKNOWN",
+    "opened": "NO: search result only, exact page not opened",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00526
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+  "idx": 5,
+  "at": "2026-11-05T13:12:53-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded but showed only the title \"Temu\", with no product name, price or stock)",
+    "retrieved_at": "2026-11-05T19:12:57+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10309
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "3pcs Men's Sweatpants Casual Athletic Lounge Pants for Everyday Workout Relaxed Wear",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00216
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01138
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ }
+]

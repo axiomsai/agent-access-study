@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7967919,6,22,mobile_web,0,0,0,0:0,0,0,0,0&th=1&tag=bfmelanie-20&channelId=1&plpRedirect=mhFallback",
+  "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+  "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+  "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/b?node=202448500011",
+  "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: $15.29 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: $15.29 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7967919,6,22,mobile_web,0,0,0,0:0,0,0,0,0&th=1&tag=bfmelanie-20&channelId=1&plpRedirect=mhFallback",
+   "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+   "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+   "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/b?node=202448500011",
+   "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+  ],
+  "created": 1794079871,
+  "id": "resp_4eafe21e-29ff-4474-b863-ebdb06617b10",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-06",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n# Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-l...",
+    "source": "web",
+    "title": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household",
+    "url": "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7967919,6,22,mobile_web,0,0,0,0:0,0,0,0,0&th=1&tag=bfmelanie-20&channelId=1&plpRedirect=mhFallback"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $15.29 $ 15 . 29 $0.32 per count ( $0.32 $0.32 / count) FREE delivery on ord...",
+    "source": "web",
+    "title": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High ...",
+    "url": "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "For example, here is a hypothetical macro tag for Google Ads returned from a call to the `macroTag` endpoint:\n…\nHere is an example landing page URL that the campaign will drive to:\n```\nhttps://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C\n```\n…\n```\nhttps://www.amazon...",
+    "source": "web",
+    "title": "how to use the Amazon Attribution API",
+    "url": "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to"
+   },
+   {
+    "date": "2025-03-02",
+    "last_updated": "2025-08-05",
+    "place_metadata": null,
+    "snippet": "\"ItemsResult\": {\n\"Items\": [\n\"ASIN\": \"B00MNV8E0C\",\n\"DetailPageURL\": \"https://www.amazon.com/dp/B00MNV8E0C?tag=example&linkCode=ogi&th=1&psc=1\",\n\"OffersV2\": {\n\"Listings\": [\n\"Availability\": {\n\"MaxOrderQuantity\": 1,\n\"MinOrderQuantity\": 1,\n\"Type\": \"IN_STOCK\"\n},\n\"Condition\": {\n\"ConditionNote\": \"\",\n\"SubCon...",
+    "source": "web",
+    "title": "results matching \" \"",
+    "url": "https://webservices.amazon.com/paapi5/documentation/offersV2.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\neero WiFi\nStream 4K Video",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n# 1-16 of over 20,000 results for \"dp\"\n...\n## Amazon Basics DisplayPort 1.4 Cable, 32.4Gbps High-Speed, 8K@60Hz, 4K@120Hz, Dynamic HDR and 3D, Gold-Plated Plugs, HBR3 Compatible, 6 Foot, Black\n4.7*4.7 out of 5 stars*\n(16.3K)\n3K+ bought in past month\nPrice, product page$10.24$10.24",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Handheld Rechargeable Milk Frother Wand | Rich Foam in Seconds, 2-IN-1 Dual Spring Whisk, Travel Cover included, Perfect Drink Mixer for Lattes & More\n4.4*4.4 out of 5 stars* (2.7K)",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=202448500011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: : Stores\nFilter byIn stock\n- Poly Voyager 5200 Wireless Headset (Plantronics) - Single-Ear Bluetooth Headset w/Noise-Canceling Mic - Ergonomic Design - Voice Controls - Lightweight - Connect to Mobile/Tablet via Bluetooth\n4.1*4.1 out of 5 stars* 25,8454.1 out of 5 stars.\n25,845 customer ...",
+    "source": "web",
+    "title": "Amazon.com: : Stores",
+    "url": "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 100,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 51,
+   "cost": {
+    "input_tokens_cost": 0.00186,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00463
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

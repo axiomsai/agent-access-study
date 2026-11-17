@@ -1,0 +1,60 @@
+{
+ "domain": "samsung.com",
+ "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+ "idx": 1,
+ "at": "2026-11-09T12:34:20-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "16049 chars, copy dated 2026-11-08 (1 days old)",
+   "parsed": true,
+   "name": "Galaxy S26 Ultra",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-08T14:44:36+00:00",
+   "age_days": 1,
+   "cost_usd": 0.17987
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Galaxy S26 Ultra",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00057
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01233
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Galaxy S26 Ultra 512GB Cobalt Violet Unlocked Smartphone",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

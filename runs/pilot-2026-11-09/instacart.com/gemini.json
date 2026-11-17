@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.instacart.com/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "Blocked",
+ "finish": "STOP",
+ "cost_usd": 3e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Blocked",
+       "thoughtSignature": "EnMKcQFpFH0TNj8t95GRMI+X0d4bh7LIyc2CVO+D/uuM3gx3TFXD/AgCPxcIyunpEZTiW6aQUyxBcrWEEaXleRAajY1L9/VTUr1bX1AZghYDseip/7eazzktNptmISf9mDjJ925Z1rz7Tr2ct19BhACJOeJM"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.instacart.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 21,
+   "totalTokenCount": 271,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 188,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 188
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ug7yasu7Otv0z7IP-_-j2Ao"
+ }
+}

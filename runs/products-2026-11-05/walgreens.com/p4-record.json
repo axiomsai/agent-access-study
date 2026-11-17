@@ -1,0 +1,60 @@
+{
+ "domain": "walgreens.com",
+ "url": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+ "idx": 4,
+ "at": "2026-11-05T13:31:29-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "12732 chars, copy dated 2026-11-04 (1 days old)",
+   "parsed": true,
+   "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:15:44+00:00",
+   "age_days": 1,
+   "cost_usd": 0.1497
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+   "price": 20.99,
+   "price_raw": "$20.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00044
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01193
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg - 30 ea",
+   "price": 24.99,
+   "price_raw": "$24.99",
+   "stock": "IN STOCK",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

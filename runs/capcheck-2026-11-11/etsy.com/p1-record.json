@@ -1,0 +1,25 @@
+{
+ "domain": "etsy.com",
+ "idx": 1,
+ "url": "https://www.etsy.com/listing/1016338618",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "18499 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 106.2,
+   "opened": "YES",
+   "doc_chars": 18499,
+   "input_tokens": 22631,
+   "cost_usd": 0.09974
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "39320 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 106.2,
+   "opened": "YES",
+   "doc_chars": 39320,
+   "input_tokens": 22819,
+   "cost_usd": 0.10054
+  }
+ }
+}

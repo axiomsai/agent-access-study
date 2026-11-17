@@ -1,0 +1,104 @@
+{
+ "domain": "homedepot.com",
+ "url": "https://www.homedepot.com/",
+ "started": "2026-11-03T17:43:42-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.homedepot.com/",
+  "bytes": 369,
+  "error": null,
+  "title": "Access Denied",
+  "markers": [
+   "access denied"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "14788 chars, copy dated 2026-11-03 (0 days old)",
+   "answer": "I opened the page without any trouble.\n\n- **Page title:** The Home Depot\n- **One category on the page:** Appliances",
+   "cost_usd": 0.06734
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: The Home Depot\nProduct/Category: Appliances",
+   "cost_usd": 0.00022
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: The Home Depot.  \nProduct/category: Appliances.",
+   "cost_usd": 0.01223
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Home Page — Popular Categories",
+   "cost_usd": 0.00506
+  }
+ }
+}

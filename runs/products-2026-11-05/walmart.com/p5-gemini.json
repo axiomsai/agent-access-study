@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver ChromeOS | PRICE: $219.94 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00064,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver ChromeOS | PRICE: $219.94 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0Tv0OzAIatJAEYC03Gr4MUMMXHyVOfZ52J2GYtqROPIKBLBbQR1m5jj4XHf2AMlHUtWh2tF6rt2yQV9v56Ef9cxrxOGaSWxBBcUBlnC/rKNvjEWyGyUJ+novhlRpkC5EwHmfkoSi3ukWW7uf4U"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 175,
+   "candidatesTokenCount": 135,
+   "totalTokenCount": 5963,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 175
+    }
+   ],
+   "toolUsePromptTokenCount": 5653,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5653
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "P9XsaoO8IKSlmtkPzbr-6Ac"
+ }
+}

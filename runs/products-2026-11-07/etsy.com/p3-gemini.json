@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.etsy.com/listing/4553600871/personalized-ceramic-celebration-plate",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate | PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00198,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate | PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TQ1eeC9BCAqPqP7xoe5UnKD2DZuuL4wAjtGoJBarrqXOUBnhdg0p7C454xa6It1Heyv+GBbv8hI1kv+dMeZjKOniswH1+eK+K/Jtai6Mce3MiWMrvuKKNI4cmKRnMhCnMt4ESuIx1FeWn2+0d"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.etsy.com/listing/4553600871/personalized-ceramic-celebration-plate",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 128,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 19525,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 128
+    }
+   ],
+   "toolUsePromptTokenCount": 19315,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 19315
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "W33vapi1FovVz7IP5qL04Qc"
+ }
+}

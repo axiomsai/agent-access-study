@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+  "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing",
+  "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/shop/Onestarcrochet?from_page=listing",
+  "https://www.etsy.com/market/listings"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20+ | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20+ | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+   "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing",
+   "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/shop/Onestarcrochet?from_page=listing",
+   "https://www.etsy.com/market/listings"
+  ],
+  "created": 1793906206,
+  "id": "resp_0fe8e175-d2bf-40d6-9994-dc8a69deb47d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-06-15",
+    "place_metadata": null,
+    "snippet": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy\n...\n- Home & Living\n...\n- Blankets & Throws\n...\nNow$106.20+\n$118.00+\n...\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift Fo...",
+    "source": "web",
+    "title": "Custom City Map Blanket, Personalized Blanket, Map ... - Etsy",
+    "url": "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "cozyloftdesigns - Etsy\n# cozyloftdesigns\nStar Seller\nStar Sellers have an outstanding track record for providing a great customer experience—they consistently earned 5-star reviews, shipped orders on time, and replied quickly to any messages they received.\nPhiladelphia, Pennsylvania\n...\n2175 Sales\n3...",
+    "source": "web",
+    "title": "cozyloftdesigns - Etsy",
+    "url": "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing"
+   },
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy UK\n- Blankets & Throws\n...\n- Hm, we’re having trouble loading this video.\n...\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gi...",
+    "source": "web",
+    "title": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy UK",
+    "url": "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4493552282/the-noble-couple-vintage-style",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Etsy.com\n$25.80 Original Price $25.80 (50% off)\n...\n- ## Comfort Colors® https://www.etsy.com/listing/4596137183",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Accessories - Etsy\n# Accessories\n- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Etsy&\n5,000+ items\n...\n- ## 280 Etsy Mockup Templates for Digital Products, Editable Canva Listing Mockup Bundle",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Everyday Accessories\n5,000+ items\n...\nDiscover unique everyday accessories, from elegant scarves to personalized keychains.\nExplore diverse styles, materials, and price points for gifts or personal treats.",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": "2024-06-25",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Onestarcrochet - Etsy\nSlide 1, current slideGo to slide 2\n...\n- All 1092\n- On sale 1092\n...\n26385 Sales\n4681 Admirers\nAll (1,092)\n...\n## About Onestarcrochet\nCustom Embroidered Sweatshirts & Hoodies\nSales\n26,385\nOn Etsy since 2024\nCustom Embroidered Sweatshirts & Hoodies",
+    "source": "web",
+    "title": "Onestarcrochet - Etsy",
+    "url": "https://www.etsy.com/shop/Onestarcrochet?from_page=listing"
+   },
+   {
+    "date": "2025-12-24",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Listings\n5,000+ items\n...\n- ## Wedding Guest List Tracker | Google Sheets Template (Digital Download)",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 53,
+   "cost": {
+    "input_tokens_cost": 0.00094,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.0037
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/NEMO-Equipment-Double-Convertible-Duffel/dp/B0FY3WWL55",
+  "https://www.developer.amazon.com/en-GB/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+  "https://www.amazon.com/clp/B0FHC12VJQ",
+  "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+  "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html",
+  "https://www.amazon.com/dp/B004EPS96Y",
+  "https://www.amazon.com/Hamilton-Beach-Programmable-Temperature-33969A/dp/B00EZI26GO",
+  "https://www.amazon.com/gp/aw/c",
+  "https://sellercentral.amazon.com/seller-forums/discussions/t/d10c16a134637beccbbd93f339c71cd2?mons_sel_locale=en_US"
+ ],
+ "cited_store": true,
+ "answer": "Amazon.com: Products[1]\n\nProducts[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Amazon.com: Products[1]\n\nProducts[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/NEMO-Equipment-Double-Convertible-Duffel/dp/B0FY3WWL55",
+   "https://www.developer.amazon.com/en-GB/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+   "https://www.amazon.com/clp/B0FHC12VJQ",
+   "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+   "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html",
+   "https://www.amazon.com/dp/B004EPS96Y",
+   "https://www.amazon.com/Hamilton-Beach-Programmable-Temperature-33969A/dp/B00EZI26GO",
+   "https://www.amazon.com/gp/aw/c",
+   "https://sellercentral.amazon.com/seller-forums/discussions/t/d10c16a134637beccbbd93f339c71cd2?mons_sel_locale=en_US"
+  ],
+  "created": 1794248324,
+  "id": "resp_303b5058-1e74-4969-a6a9-fe27f11a0f2d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com : products\n# 1-48 of over 1,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Unique design and construction allow the bag to be used as either a duffel or tote for ultimate versatility.",
+    "source": "web",
+    "title": "NEMO Equipment Double Haul Duffel & Tote Bag - Chimera",
+    "url": "https://www.amazon.com/NEMO-Equipment-Double-Convertible-Duffel/dp/B0FY3WWL55"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Opens a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on the current device.\n...\n|Property|Type|Default|Description|\n|--|--|--|--|\n|`source`|String|REQUIRED|The URL to open.|\n|`onFail...",
+    "source": "web",
+    "title": "OpenURL Command | Alexa Skills Kit",
+    "url": "https://www.developer.amazon.com/en-GB/docs/alexa/alexa-presentation-language/apl-open-url-command.html"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Editor's Notes: Carry as much as you like with this lightweight yet spacious women's bag in gorgeous suede with gold details, featuring an open interior that can fit a 13' laptop, removable zip pouch for easy access to all your essentials",
+    "source": "web",
+    "title": "COACH Suede Bleecker Bucket Bag, Olive Suede: Handbags: Amazon.com",
+    "url": "https://www.amazon.com/clp/B0FHC12VJQ"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Foldable Banana Hanger, Metal Banana Holder, Hold 20 Bananas, Space-Saving Design, Folding with Magnets When Not in Use : Home & Kitchen\n- Home & Kitchen\n...\n- Storage & Organization",
+    "source": "web",
+    "title": "Adhesive Banana Hook Under Cabinet, Under ... - Amazon.com",
+    "url": "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS"
+   },
+   {
+    "date": "2023-11-28",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "## OpenURL\n*`OpenURL` requires APL 1.1 or later.\nProvide an alternate experience for devices running older versions of APL.*\nOpen a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on th...",
+    "source": "web",
+    "title": "APL Standard Commands (APL 2022.2) | Alexa Skills Kit",
+    "url": "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Water, mustard seeds, vinegar, salt, mustard seed husks, aromatic herbs, leaves of tarragon (0.9%), natural flavour of tarragon, potassium metabisulphite, citric acid, sugar, spices.",
+    "source": "web",
+    "title": "Edmond Fallot - Moutarde Verte A L'estragon, 105 g (Pack of 6) : Amazon.co.uk: Grocery",
+    "url": "https://www.amazon.com/dp/B004EPS96Y"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Hamilton Beach Portable 6 Quart Set & Forget Programmable Slow Cooker | Temperature Probe | Lid Lock For Easy Travel | Dishwasher Safe Crock & Glass Lid | Stainless Steel | 33969AG: Home & Kitchen\n- Home & Kitchen\n...\n- Kitchen & Dining\n...\nThis item cannot be shipped to your selected de...",
+    "source": "web",
+    "title": "Hamilton Beach Portable 6 Quart Set & Forget Programmable Slow ...",
+    "url": "https://www.amazon.com/Hamilton-Beach-Programmable-Temperature-33969A/dp/B00EZI26GO"
+   },
+   {
+    "date": "2025-03-06",
+    "last_updated": "2025-03-12",
+    "place_metadata": null,
+    "snippet": "# All Carts\nSorry, there was a problem getting this information.\nPlease try again, or search for more options.",
+    "source": "web",
+    "title": "All Carts",
+    "url": "https://www.amazon.com/gp/aw/c"
+   },
+   {
+    "date": "2020-09-09",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Not really a Selling issue, but an issue nevertheless.\nThis started on Sept 8th, 2020 and only happens on Chrome (tried Firefox, Edge and IE, they all work).\n1. A+ contents are not showing on product listings.\nCopied the exact URL onto Firefix or Edge, display correctly.\n2. Best Seller Ranking not d...",
+    "source": "web",
+    "title": "Problem with Amazon.com (not SC) on Chrome?",
+    "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/d10c16a134637beccbbd93f339c71cd2?mons_sel_locale=en_US"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 11,
+   "cost": {
+    "input_tokens_cost": 0.0011,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00364
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 67
+  }
+ }
+}

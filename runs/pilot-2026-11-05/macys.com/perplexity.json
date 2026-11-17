@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/",
+  "https://www.macys.com/shop/featured/evening-jackets",
+  "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+  "https://www.macys.com/shop/featured/layered-look-sweater",
+  "https://www.macys.com/shop/featured/clearance-coach-outlet",
+  "https://www.macys.com/shop/brands/steve-madden?id=55765",
+  "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+  "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544",
+  "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+  "https://www.macys.com/shop/womens/clothing/plus-size?id=188853"
+ ],
+ "cited_store": true,
+ "answer": "Macy’s - Shop Fashion Clothing & Accessories - Official Site - Macys.com — Women’s Clothing",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Macy’s - Shop Fashion Clothing & Accessories - Official Site - Macys.com — Women’s Clothing",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/",
+   "https://www.macys.com/shop/featured/evening-jackets",
+   "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+   "https://www.macys.com/shop/featured/layered-look-sweater",
+   "https://www.macys.com/shop/featured/clearance-coach-outlet",
+   "https://www.macys.com/shop/brands/steve-madden?id=55765",
+   "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+   "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544",
+   "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+   "https://www.macys.com/shop/womens/clothing/plus-size?id=188853"
+  ],
+  "created": 1793905850,
+  "id": "resp_7ce616ea-5ba6-4afe-83ce-b29a0a8c0847",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com",
+    "source": "web",
+    "title": "Macy’s– Official Site",
+    "url": "https://www.macys.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Evening Jackets - Macy's\n```\n...\n# \"evening jackets\"\n(500+ items)",
+    "source": "web",
+    "title": "Evening Jackets",
+    "url": "https://www.macys.com/shop/featured/evening-jackets"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara - Macy's\n...\n# Lancôme Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara\n4.5 (988)\n$25.50 (15% off)FRIENDapplied$30.00Details\n...\n## Product Details\n- A waterproof lash-lifting & volumizing mascara that targets and volumizes every single ...",
+    "source": "web",
+    "title": "https://www.macys.com/shop/product/lash-idole-lash...",
+    "url": "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Layered Look Sweater - Macy's\n```\n...\n# \"layered look sweater\"\n(500+ items)\n...\n- ### Women's Layered Button-Trim V-Neck Sweater\nCurrent price $136.50; 30% off; with code FRIEND;$136.50 (30% off)",
+    "source": "web",
+    "title": "Layered Look Sweater - Macy's",
+    "url": "https://www.macys.com/shop/featured/layered-look-sweater"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Clearance Coach Outlet - Macy's\n```\n...\n# \"clearance coach outlet\"\n(500+ items)\nSales & Offers",
+    "source": "web",
+    "title": "Clearance Coach Outlet",
+    "url": "https://www.macys.com/shop/featured/clearance-coach-outlet"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Steve Madden | Macy's\n...\n# Steve Madden\n...\n### Featured categories\nWomen's ClothingWomen's ShoesHandbagsMen's ShoesMadden Girl",
+    "source": "web",
+    "title": "Steve Madden",
+    "url": "https://www.macys.com/shop/brands/steve-madden?id=55765"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's Cotton Tops - Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories/\n2. Women's Clothing/\n3. Tops\n# Women's Cotton Shirts & Tops\n(500+)",
+    "source": "web",
+    "title": "Women's Cotton Tops - Macy's",
+    "url": "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Jewelry & Watches | Macy's\n```\n...\n1. Jewelry & Watches\n# Jewelry & Watches\n(237)",
+    "source": "web",
+    "title": "Clip On Jewelry & Watches - Macy's",
+    "url": "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Women's Red Heels and Pumps | Macy's\n```\n...\n# Women's Red Heels\n(500+)\n- Medium Heels (2-2.99\")\n- High Heels (3-3.99\")",
+    "source": "web",
+    "title": "Women's Red Heels and Pumps | Macy's",
+    "url": "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Plus Size Clothing for Women | Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories/\n2. Women's Clothing/\n3. Plus Sizes\n# Plus Size Clothing\n(500+)",
+    "source": "web",
+    "title": "Plus Size Clothing for Women | Macy's",
+    "url": "https://www.macys.com/shop/womens/clothing/plus-size?id=188853"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 20,
+   "cost": {
+    "input_tokens_cost": 0.0006399999999999999,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.0032
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 77
+  }
+ }
+}

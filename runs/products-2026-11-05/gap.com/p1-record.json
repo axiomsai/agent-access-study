@@ -1,0 +1,60 @@
+{
+ "domain": "gap.com",
+ "url": "https://www.gap.com/browse/product.do?pid=1188295092",
+ "idx": 1,
+ "at": "2026-11-05T13:40:33-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "7517 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "CashSoft Oversized Rollneck Sweater",
+   "price": 53.0,
+   "price_raw": "$53.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:40:39+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10868
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "CashSoft Oversized Rollneck Sweater",
+   "price": 53.0,
+   "price_raw": "$53.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00041
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "CashSoft Oversized Rollneck Sweater",
+   "price": 53.0,
+   "price_raw": "$53.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01232
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "CashSoft Oversized Rollneck Sweater",
+   "price": 53.0,
+   "price_raw": "$53.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

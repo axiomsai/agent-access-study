@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+  "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast-9-6-oz-canister/0002550030401",
+  "https://www.kroger.com/q/folgers+coffee",
+  "https://www.kroger.com/q/folger",
+  "https://www.kroger.com/q/ground+coffee+folger",
+  "https://www.kroger.com/q/coffee",
+  "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030401",
+  "https://www.kroger.com/q/folger+classic+roast+coffee",
+  "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030419",
+  "https://www.kroger.com/q/folge"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Folgers Classic Roast Ground Coffee, Medium Roast | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Folgers Classic Roast Ground Coffee, Medium Roast | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+   "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast-9-6-oz-canister/0002550030401",
+   "https://www.kroger.com/q/folgers+coffee",
+   "https://www.kroger.com/q/folger",
+   "https://www.kroger.com/q/ground+coffee+folger",
+   "https://www.kroger.com/q/coffee",
+   "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030401",
+   "https://www.kroger.com/q/folger+classic+roast+coffee",
+   "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030419",
+   "https://www.kroger.com/q/folge"
+  ],
+  "created": 1794082553,
+  "id": "resp_e2e7250b-8916-4cc5-ba47-d8916b3cb338",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Folgers Classic Roast Ground Coffee, Medium Roast, 25.9 Ounces - Kroger\nat Harrisonburg\n...\n# Folgers Classic Roast Ground Coffee, Medium Roast\n4.06 1054\nUPC: 0002550030407\nLocated in AISLE 10\nLow Stock\n$16.99$16.99\n$0.66/oz\n## SNAP EBT Eligible Item\n### Item Availability\nPickupAvailable\nKroger Deli...",
+    "source": "web",
+    "title": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Folgers Classic Roast Ground Coffee, 9.6 Ounces - Kroger\n...\n# Folgers Classic Roast Ground Coffee\n4.07 1048\nUPC: 0002550030401\nLocated in AISLE 10\n$9.49$9.49\n$0.99/oz\nSNAP EBT Eligible Item\n...\n### Item Availability\nPickupAvailable\nKroger DeliveryUnavailable\n...\n## Product Information\n...\nFolgers C...",
+    "source": "web",
+    "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6 ...",
+    "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast-9-6-oz-canister/0002550030401"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# folgers coffee\n## 403 results\n403 products loaded\n...\n### Folgers Classic Roast Ground Coffee\nAisle 10\n$22.99$22.99\n$0.57/oz\n### Folgers Classic Roast Medium Roast Ground Coffee\nAisle 10\n$16.99$16.99\n$0.75/oz\n...\n### Folgers Classic Roast, Medium Roast Coffee, K-Cup Pods\nSave $2 each when you buy ...",
+    "source": "web",
+    "title": "Folgers Coffee",
+    "url": "https://www.kroger.com/q/folgers+coffee"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# folger\n## 391 results\n391 products loaded\n$16.99$16.99\n$0.66/oz\nFolgers Classic Roast Ground Coffee, Medium Roast\n25.9 Ounces\nSNAP EBT\n$20.99$20.99\n$0.62/oz\nFolgers Classic Roast Ground Coffee, Medium Roast\n33.7 Ounces\nSNAP EBT\n$9.49$9.49\n$0.99/oz\nFolgers Classic Roast Ground Coffee\n9.6 Ounces\nSNA...",
+    "source": "web",
+    "title": "folger",
+    "url": "https://www.kroger.com/q/folger"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# ground coffee folger\n## 404 results\n404 products loaded\n$15.99$16.98Sale: $15.99 discounted from $16.98\n$0.62/oz\nFolgers Classic Roast Ground Coffee, Medium Roast\n25.9 Ounces\nSNAP EBT\n$9.99 Each, Limit 5, Saturday thru MondayView Offer\n…\n...\nFolgers Classic Roast Ground Coffee\n9.6 Ounces\nSNAP EBT\n...",
+    "source": "web",
+    "title": "ground coffee folger",
+    "url": "https://www.kroger.com/q/ground+coffee+folger"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### FOLGERS 25.9 OUNCE CLASSIC ROAST Each\nAisle 10\n$15.79$15.79\n$1.32/oz\n...\n### Folgers Classic Roast Ground Coffee\nAisle 10\n$9.99$9.99\n$0.83/oz\n…",
+    "source": "web",
+    "title": "Coffee - Kroger",
+    "url": "https://www.kroger.com/q/coffee"
+   },
+   {
+    "date": "2025-11-03",
+    "last_updated": "2025-10-13",
+    "place_metadata": null,
+    "snippet": "Folgers Classic Roast ground coffee packs irresistible taste in every cup.\nFrom the very first sip of this rich medium roast coffee, you’re greeted by smooth, robust flavor that makes for some seriously easy drinking.\nBut it’s not just quality coffee you’re tasting — it’s the exceptional craft and p...",
+    "source": "web",
+    "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6 oz - Kroger",
+    "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030401"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# folger classic roast coffee\n## 377 results\n377 products loaded\nAisle 10\n$21.99$28.49Sale: $21.99 discounted from $28.49\n$0.69/each\n### Folgers Classic Roast, Medium Roast Coffee, K-Cup Pods\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$16.99$16.99\n$0.66/oz\n### Folgers Classic Roast Gro...",
+    "source": "web",
+    "title": "folger classic roast coffee",
+    "url": "https://www.kroger.com/q/folger+classic+roast+coffee"
+   },
+   {
+    "date": "2025-08-06",
+    "last_updated": "2025-10-13",
+    "place_metadata": null,
+    "snippet": "Folgers Classic Roast ground coffee packs irresistible taste in every cup.\nFrom the very first sip of this rich medium roast coffee, you’re greeted by smooth, robust flavor that makes for some seriously easy drinking.\nBut it’s not just quality coffee you’re tasting — it’s the exceptional craft and p...",
+    "source": "web",
+    "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 40.3 oz - Kroger",
+    "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030419"
+   },
+   {
+    "date": "2026-02-18",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## 84 results\n84 products loaded\nAisle 10\n$16.99$16.99\n$0.66/oz\n### FOLGERS 25.9 OUNCE CLASSIC ROAST Each\nAisle 10\n$20.99$20.99\n$0.62/oz\n...\n### Folgers Classic Roast Ground Coffee\nAisle 10\n$16.99$16.99\n$0.75/oz\n...\n### Folgers Classic Roast Medium Roast Ground Coffee\nAisle 10\n$13.99$13.99\n$1.17/oz\n...",
+    "source": "web",
+    "title": "Folge",
+    "url": "https://www.kroger.com/q/folge"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 30,
+   "cost": {
+    "input_tokens_cost": 0.00159,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00433
+   },
+   "prompt_tokens": 128,
+   "search_context_size": "low",
+   "total_tokens": 158
+  }
+ }
+}

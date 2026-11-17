@@ -1,0 +1,60 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+ "idx": 4,
+ "at": "2026-11-09T12:29:55-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "11190 chars, copy dated 2026-10-23 (17 days old)",
+   "parsed": true,
+   "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+   "price": 199.0,
+   "price_raw": "$199.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-10-23T14:19:01+00:00",
+   "age_days": 17,
+   "cost_usd": 0.18299
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Delta Kylo Stainless Steel Single Handle Pull-down Kitchen Faucet with Sprayer (Deck Plate Included)",
+   "price": 179.0,
+   "price_raw": "$179.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00118
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+   "price": 179.0,
+   "price_raw": "$179.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01239
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+   "price": 179.0,
+   "price_raw": "$179.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

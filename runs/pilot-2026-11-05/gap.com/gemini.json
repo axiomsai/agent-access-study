@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category: Holiday Collection",
+ "finish": "STOP",
+ "cost_usd": 0.00012,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category: Holiday Collection",
+       "thoughtSignature": "EnMKcQFpFH0TWcG6mw0M6Rxj/qmrK1StJpJKSrhyeNr55baYlZ6YVfjDplKRZB09rc4Iv1b3x9D1UfKztDf9GhzGSc8qj9md3alasAZEU+nnasmqv8i/ObnTjgLdlQ8OuVUP5KjlFe222QKqYFkj/FuOCIzg"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 45,
+   "totalTokenCount": 1046,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 940,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 940
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "udTsat2LMcyLqtsPiNWX4Ao"
+ }
+}

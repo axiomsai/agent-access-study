@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00083,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0ToKHqSACqaOc7oI4Kf9/QBPK+uFL8ms8ZKlaz1Y5A9H8741l2uz3vLqi+GfuTJESohInYL7gOQEv8HUDrMyGfQRvB8OwEeaCUlLa2/KISnaL+Lqa9FK1Yi13f5XoXI8CqDQ25RNICJhePtyJk"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 156,
+   "candidatesTokenCount": 96,
+   "totalTokenCount": 8056,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 156
+    }
+   ],
+   "toolUsePromptTokenCount": 7804,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7804
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "s9vsarDMNIWFz7IP4dG-oQU"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/",
+  "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+  "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+  "https://www.walgreens.com/store/c/productlist/N=20005820",
+  "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3",
+  "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3",
+  "https://www.walgreens.com/q/groceries",
+  "https://www.walgreens.com/q/body+wash",
+  "https://www.walgreens.com/q/b12",
+  "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+ ],
+ "cited_store": true,
+ "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Grocery & Beverages[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Grocery & Beverages[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/",
+   "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+   "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+   "https://www.walgreens.com/store/c/productlist/N=20005820",
+   "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3",
+   "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3",
+   "https://www.walgreens.com/q/groceries",
+   "https://www.walgreens.com/q/body+wash",
+   "https://www.walgreens.com/q/b12",
+   "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+  ],
+  "created": 1793749466,
+  "id": "resp_6456b389-8a80-42bf-9b53-01e57c854c13",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n# Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "source": "web",
+    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "url": "https://www.walgreens.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Grocery & Beverages | Walgreens\n# Grocery & Beverages\n## Refine\n...\n6156 items filtered*\nPrice and inventory may vary from online to in store.\n- In-stock items only\n...\n- **Diet Coke Soda Soft Drink 12 pack** - 12 fl oz x 12 pack",
+    "source": "web",
+    "title": "Grocery & Beverages",
+    "url": "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Cold and Flu Medicine | Walgreens\n# Cold and Flu Medicine\n## Up to 25% OFF",
+    "source": "web",
+    "title": "Cold and Flu Medicine - Walgreens",
+    "url": "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Sitewide: 15% OFF $40+ with code GIFT15 or 20% OFF $50+ with code GIFT20*\n## Refine\n419 items filtered*\nPrice and inventory may vary from online to in store.\n- In-stock items only\n...\n- **Dolce & Gabbana Intenso Eau De Toilette Spray for Men** - 2.5 fl oz",
+    "source": "web",
+    "title": "15% OFF $40+ with code GIFT15 or 20% OFF $50+ with code GIFT20",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20005820"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Cold Medicine | Walgreens\n- Adult Cold Remedies\n# Adult Cold Remedies",
+    "source": "web",
+    "title": "Cold Medicine | Walgreens",
+    "url": "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Allergy Medicine & Relief | Walgreens\n# Allergy Medicine\n## Refine\n...\n152 items filtered*",
+    "source": "web",
+    "title": "Allergy Medicine & Relief - Walgreens",
+    "url": "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Groceries | Walgreens\n# Groceries\n## Refine\n- - +1.25\n- 1.25 L Bottle\n...\n6185 items filtered*",
+    "source": "web",
+    "title": "Groceries",
+    "url": "https://www.walgreens.com/q/groceries"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Body Wash | Walgreens\n# Body Wash\n...\n## Refine\nPrice and inventory may vary from online to in store.\n- **Walgreens Creamy Cocoa Butter & Shea Body Wash** - 15 fl oz",
+    "source": "web",
+    "title": "Body Wash",
+    "url": "https://www.walgreens.com/q/body+wash"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "B12 Vitamins | Walgreens | Walgreens\n# B12\n## Refine\n- - 100 Servings\n...\n- **Walgreens Timed Release Vitamin B12 1000 mcg Tablets (300 days)** - 300 ea",
+    "source": "web",
+    "title": "b12 | Walgreens",
+    "url": "https://www.walgreens.com/q/b12"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Prenatal Multivitamins - Shop Brands & Sales | Walgreens\n# Prenatal Vitamins\n## Refine\n**Walgreens Brand**",
+    "source": "web",
+    "title": "Prenatal Multivitamins - Shop Brands & Sales",
+    "url": "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 22,
+   "cost": {
+    "input_tokens_cost": 0.00055,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00311
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 80
+  }
+ }
+}

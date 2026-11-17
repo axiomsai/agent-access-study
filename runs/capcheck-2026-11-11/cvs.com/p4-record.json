@@ -1,0 +1,25 @@
+{
+ "domain": "cvs.com",
+ "idx": 4,
+ "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "5611 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 5611,
+   "input_tokens": 22681,
+   "cost_usd": 0.10122
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "5611 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 5611,
+   "input_tokens": 22919,
+   "cost_usd": 0.10246
+  }
+ }
+}

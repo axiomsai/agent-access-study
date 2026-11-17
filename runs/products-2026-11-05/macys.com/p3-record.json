@@ -1,0 +1,60 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/shop/product/maison-francis-kurkdjian-3-piece-gentle-fluidity-gold-perfume-ritual-gift-set?ID=28809657",
+ "idx": 3,
+ "at": "2026-11-05T13:40:16-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15420 chars, copy dated 2026-11-04 (1 days old)",
+   "parsed": true,
+   "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:16:34+00:00",
+   "age_days": 1,
+   "cost_usd": 0.14299
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+   "price": 310.0,
+   "price_raw": "$310.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00224
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+   "price": 310.0,
+   "price_raw": "$310.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023629999999999998
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+   "price": 310.0,
+   "price_raw": "$310.00",
+   "stock": "UNKNOWN",
+   "opened": "NO: exact product page was not accessible",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

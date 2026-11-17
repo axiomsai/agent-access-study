@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+  "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y",
+  "https://www.target.com/s/hair+fragrance+mist?Nao=24",
+  "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569",
+  "https://www.target.com/s/grow+fragrance",
+  "https://www.target.com/c/-/N-5xu0oZ54uos",
+  "https://www.target.com/c/-/N-55r1xZq643leow42h",
+  "https://www.target.com/s/intimate+fragrance",
+  "https://www.target.com/c/new-in-beauty-trends/-/N-2jck6",
+  "https://www.target.com/c/beauty/-/N-55r1x"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+   "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y",
+   "https://www.target.com/s/hair+fragrance+mist?Nao=24",
+   "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569",
+   "https://www.target.com/s/grow+fragrance",
+   "https://www.target.com/c/-/N-5xu0oZ54uos",
+   "https://www.target.com/c/-/N-55r1xZq643leow42h",
+   "https://www.target.com/s/intimate+fragrance",
+   "https://www.target.com/c/new-in-beauty-trends/-/N-2jck6",
+   "https://www.target.com/c/beauty/-/N-55r1x"
+  ],
+  "created": 1793906761,
+  "id": "resp_529ff94f-30e6-42f7-83da-34f5f1137c1a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Athena Club products at Target\n...\n## 64 results\nHighly rated\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Super Pink - 6 fl oz\nAthena Club\n...\n4.5(363)\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬",
+    "source": "web",
+    "title": "Athena Club products at Target",
+    "url": "https://www.target.com/b/athena-club/-/N-q643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Highly rated\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\nAthena Club\n...\n# The best beauty gifts\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.7(16)",
+    "source": "web",
+    "title": "Athena Club : Body Mists & Sprays - Fragrances - Target",
+    "url": "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\nAthena Club\n4.4(418)\nLoved for: warm vanilla scent\n...\nAthena Club Full Size Women's Hair & Body Mist - Solar Muse - 6 fl oz\n...\nAthena Club Full Size Women's Hair & Body Mist - Salted Sunset - 6 fl oz\n...\nAthena Club Full Siz...",
+    "source": "web",
+    "title": "hair fragrance mist",
+    "url": "https://www.target.com/s/hair+fragrance+mist?Nao=24"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Amber Hours - 6 fl oz : Target\n...\n3. Body Mists & Sprays\n...\n# Athena Club Full Size Women's Hair & Body Mist - Amber Hours - 6 fl oz\n4.43 out of 5 stars\n119\n$15.99\nIn Stock\n...\n#### Highlights\n- ALL-OVER GLOW WITH EVERY SPRITZ: A dual-purpose fragra...",
+    "source": "web",
+    "title": "Athena Club Full Size Women's Hair & Body Mist - Amber Hours",
+    "url": "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.8(32)\n...\n### Recommendations for you\nAthena Club Hair & Body Mist - Up Close - 6 fl oz",
+    "source": "web",
+    "title": "Grow Fragrance Sprays & Air Fresheners - Target",
+    "url": "https://www.target.com/s/grow+fragrance"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# L'Oreal Paris : Fragrances\n## Trending scents\n- $15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\n- Bestseller\n...\n- Highly rated",
+    "source": "web",
+    "title": "L'Oreal Paris : Fragrances: Perfume, Cologne, Body Mists ...",
+    "url": "https://www.target.com/c/-/N-5xu0oZ54uos"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Make-Up Studio : Beauty\n## The Scent Bar\n- $15.99\nAthena Club Hair & Body Mist - Up Close - 6 fl oz\nAthena Club Hair & Body Mist - Up Close - 6 fl oz\n...\n- $15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\n...\nAthena Club Hair & Body Mist ...",
+    "source": "web",
+    "title": "Make-Up Studio : Beauty: Makeup, Skin Care, Hair Care & Fragrance",
+    "url": "https://www.target.com/c/-/N-55r1xZq643leow42h"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "$15.99\nAthena Club Full Size Women's Hair & Body Mist - Love Letter - 6 fl oz\nAthena Club\n4.2(414)\nLoved for: cute bottle\n...\n$15.99\n### Related deals\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.7(23)\n...\nAthena Club Hair & Body Mist - Sweet Talk - 6 fl oz\nAthena C...",
+    "source": "web",
+    "title": "Intimate Fragrance & Perfume",
+    "url": "https://www.target.com/s/intimate+fragrance"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- $15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\n- $11.99",
+    "source": "web",
+    "title": "Beauty New Arrivals & Trends - Target",
+    "url": "https://www.target.com/c/new-in-beauty-trends/-/N-2jck6"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- $15.99\nAthena Club Hair & Body Mist - Up Close - 6 fl oz\n...\n- $9.99\nAthena Club Mini Hair & Body Mist - Bare Gold - 2.0 fl oz\nAthena Club Mini Hair & Body Mist - Bare Gold - 2.0 fl oz",
+    "source": "web",
+    "title": "Beauty: Makeup, Skin Care, Hair Care & Fragrance",
+    "url": "https://www.target.com/c/beauty/-/N-55r1x"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 34,
+   "cost": {
+    "input_tokens_cost": 0.00108,
+    "output_tokens_cost": 0.00028,
+    "request_cost": 0.0025,
+    "total_cost": 0.00386
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 170
+  }
+ }
+}

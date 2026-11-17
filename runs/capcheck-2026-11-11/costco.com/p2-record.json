@@ -1,0 +1,25 @@
+{
+ "domain": "costco.com",
+ "idx": 2,
+ "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15594,
+   "cost_usd": 0.0694
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15642,
+   "cost_usd": 0.07005
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "ebay.com",
+ "url": "https://www.ebay.com/itm/157751149633",
+ "idx": 2,
+ "at": "2026-11-07T13:34:38-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15141 chars, copy dated 2026-11-04 (3 days old)",
+   "parsed": true,
+   "name": "adidas men VL Court 3.0 Shoes",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:13:46+00:00",
+   "age_days": 3,
+   "cost_usd": 0.24051
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "adidas men VL Court 3.0 Shoes",
+   "price": 22.0,
+   "price_raw": "$22.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00076
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "adidas men VL Court 3.0 Shoes",
+   "price": 22.0,
+   "price_raw": "$22.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02354
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00513
+  }
+ }
+}

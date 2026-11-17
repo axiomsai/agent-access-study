@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy_shop_search",
+  "https://www.etsy.com/market/handmade",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/de-en/listing/",
+  "https://www.etsy.com/in-en/listing/1850164000/?ls=r&pro=1&frs=1",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/etsy_seller"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy_shop_search",
+   "https://www.etsy.com/market/handmade",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/de-en/listing/",
+   "https://www.etsy.com/in-en/listing/1850164000/?ls=r&pro=1&frs=1",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/etsy_seller"
+  ],
+  "created": 1794080102,
+  "id": "resp_312c40a1-1767-4a40-8e86-cf371f5c16e6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/1867001060/comfort-colors-wake-and-bake-shirt-funny",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Etsy Shop Search\n310+ items\nSort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy Shop Search",
+    "url": "https://www.etsy.com/market/etsy_shop_search"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Handmade - Etsy\n# Handmade\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Handmade - Etsy",
+    "url": "https://www.etsy.com/market/handmade"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\n(1,000+ items)\n- ### Used Car History Report | Fast Delivery\n(123)\nStar Seller\nSale Price $4.99 $4.99\n...\n- ### Same Hour What Are They Thinking Psychic Reading, Love & Relationship Insight, PDF Delivery, Personalized Reading",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Etsy Com Shop\n222+ items\n...\n- ## https://www.etsy.com/your/shops/me/listing-editor/copy/4566434047#media",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Everyday Accessories\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n$30.00\n### Beaded White Swan Ornament, Hand Felted Wild White Bird, Handmade Christmas Classic Charm\n$19.64\n### Personalised New Home Christmas Bauble",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/de-en/listing/"
+   },
+   {
+    "date": "2024-01-01",
+    "last_updated": "2025-12-21",
+    "place_metadata": null,
+    "snippet": "Sorry, this item and shop are currently unavailable\nSome of the technologies we use are necessary for critical functions like security and site integrity, account authentication, security and privacy preferences, internal site usage and maintenance data, and to make the site work correctly for brows...",
+    "source": "web",
+    "title": "Read more",
+    "url": "https://www.etsy.com/in-en/listing/1850164000/?ls=r&pro=1&frs=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Accessories - Etsy\n# Accessories\n- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy Seller - Etsy\n# Etsy Seller\n- ## How to Sell on Etsy for Beginners: Step-by-Step Etsy Shop Setup, Etsy SEO, Listings, Marketing & Seller Success Guide\n...\n- ## Etsy Seller Guide: Complete Illustrated eBook (Digital Download)",
+    "source": "web",
+    "title": "Etsy Seller - Etsy",
+    "url": "https://www.etsy.com/market/etsy_seller"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00075,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00345
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

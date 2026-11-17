@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+  "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429178-product",
+  "https://www.walgreens.com/store/c/productlist/flonase-beauty-and-personal-care-lists/N=364396-414043",
+  "https://www.walgreens.com/q/flonase-nasal-spray",
+  "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000147206-9000161278-310909-414043",
+  "https://www.walgreens.com/store/c/productlist/flonase-nasal-sprays/N=361393-414043",
+  "https://www.walgreens.com/store/c/productlist/flonase-summer-wellness-&-first-aid/N=20006087-414043",
+  "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000158358-964-352583-4754-9000156741-9000161099-310032-354313-307404-9000158992-414043",
+  "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045",
+  "https://www.walgreens.com/store/c/productlist/nasalcrom-flonase/N=414043"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea | PRICE: $19.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea | PRICE: $19.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+   "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429178-product",
+   "https://www.walgreens.com/store/c/productlist/flonase-beauty-and-personal-care-lists/N=364396-414043",
+   "https://www.walgreens.com/q/flonase-nasal-spray",
+   "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000147206-9000161278-310909-414043",
+   "https://www.walgreens.com/store/c/productlist/flonase-nasal-sprays/N=361393-414043",
+   "https://www.walgreens.com/store/c/productlist/flonase-summer-wellness-&-first-aid/N=20006087-414043",
+   "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000158358-964-352583-4754-9000156741-9000161099-310032-354313-307404-9000158992-414043",
+   "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045",
+   "https://www.walgreens.com/store/c/productlist/nasalcrom-flonase/N=414043"
+  ],
+  "created": 1793907113,
+  "id": "resp_67c27f54-bc26-4f22-afa8-f3af2daf59a5",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-08-31",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "# Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea\n4.6 out of 5 stars.\n2002 total reviews.\n...\n$19.99 $52.61/oz\nWhen ordered online\n...\nWalgreens 24 Hour Allergy Relief Fluticasone Nasal Spray 11.1ml\n$14.99\n...\nUnlike most allergy pills*, Flonase Allergy Relief Nasal Spray, 24 Hour Non-Drowsy Allergy...",
+    "source": "web",
+    "title": "Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea",
+    "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product"
+   },
+   {
+    "date": "2026-08-10",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "# Flonase Non-Drowsy Allergy Nasal Spray, 144.0 ea\n4.6 out of 5 stars.\n1574 total reviews.\n...\n$31.99 $51.60/oz\nWhen ordered online\n...\nWalgreens 24 Hour Allergy Relief Fluticasone Nasal Spray 0.62fl oz\n$23.99\n...\nUnlike most allergy pills*, Flonase Allergy Relief Nasal Spray, 24-Hour Non-Drowsy All...",
+    "source": "web",
+    "title": "Flonase Non-Drowsy Allergy Nasal Spray, 144.0 ea",
+    "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429178-product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "# Flonase - Beauty and Personal Care Lists\n...\n6 items filtered*\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray ** - 72 ea\nFlonase(2015)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Flonase Non-Drowsy Allergy Nasal Spray...",
+    "source": "web",
+    "title": "Flonase - Beauty and Personal Care Lists | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/flonase-beauty-and-personal-care-lists/N=364396-414043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Flonase Nasal Spray | Walgreens\n# Flonase Nasal Spray\n## Refine\n...\n41 items filtered*\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray ** - 72 ea\nFlonase(2016)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Flonase Non-Drow...",
+    "source": "web",
+    "title": "Flonase Nasal Spray - Walgreens",
+    "url": "https://www.walgreens.com/q/flonase-nasal-spray"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "- In-stock items only\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray ** - 72 ea\nFlonase(2015)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Flonase Non-Drowsy Allergy Nasal Spray\n**Save** **$5.00** with Walgreens brand\n.....",
+    "source": "web",
+    "title": "Medicines & Treatments | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000147206-9000161278-310909-414043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Flonase - Nasal Sprays\n...\n6 items filtered*\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray** - 72 ea\nFlonase(2022)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Flonase Non-Drowsy Allergy Nasal Spray\n...\n- **Flonase No...",
+    "source": "web",
+    "title": "Flonase - Nasal Sprays",
+    "url": "https://www.walgreens.com/store/c/productlist/flonase-nasal-sprays/N=361393-414043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-19",
+    "place_metadata": null,
+    "snippet": "# Flonase - Summer Wellness & First Aid\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray ** - 72 ea\nFlonase\n$19.99$52.61 / oz\nExtra $10 off $50+ sitewi...- **Flonase Non-Drowsy Allergy Nasal Spray ** - 144 ea\nFlonase\n$31.99$51.60 / oz\nExtra $10 off $50+ sitewi...\n- **Flonase Non-Drowsy Allergy Nasal S...",
+    "source": "web",
+    "title": "Flonase - Summer Wellness & First Aid | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/flonase-summer-wellness-&-first-aid/N=20006087-414043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-09",
+    "place_metadata": null,
+    "snippet": "- **Flonase Non-Drowsy Allergy Nasal Spray ** - 72 ea\nFlonase\n$19.99$52.61 / oz\nExtra 15% off $35 with co...Flonase\n$19.99$58.79 / oz\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray ** - 144 ea\nFlonase\n$31.99$51.60 / oz\nExtra 15% off $35 with co...",
+    "source": "web",
+    "title": "Walgreens | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/flonase-medicines-&-treatments/N=359438-9000158358-964-352583-4754-9000156741-9000161099-310032-354313-307404-9000158992-414043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- **Flonase Non-Drowsy Allergy Nasal Spray** - 72 ea\nFlonase(2022)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Flonase Non-Drowsy Allergy Nasal Spray\n**Save** **$5.00** with Walgreens brand",
+    "source": "web",
+    "title": "Extra $10 off when you spend $50+ sitewide with code AUG10",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "| Walgreens\n# Flonase\n- In-stock items only\n- - 60\n7 items filtered*\nPrice and inventory may vary from online to in store.\n...\n- **Flonase Non-Drowsy Allergy Nasal Spray** - 72 ea\nFlonase(2022)\n$19.99$52.61 / oz\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\n...\n- **Flonas...",
+    "source": "web",
+    "title": "Flonase - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/nasalcrom-flonase/N=414043"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 37,
+   "cost": {
+    "input_tokens_cost": 0.00168,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00445
+   },
+   "prompt_tokens": 130,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

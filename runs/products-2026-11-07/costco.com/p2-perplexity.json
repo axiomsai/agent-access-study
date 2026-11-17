@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+  "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+  "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html",
+  "https://www.costco.com/s?keyword=ceyr26",
+  "https://www.costco.com/p/-/barcalounger-renwick-leather-power-recliner-with-zero-gravity-and-power-headrest/4201011285",
+  "https://www.costco.com/opt/recliners-with-power-headrests",
+  "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305",
+  "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+   "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+   "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html",
+   "https://www.costco.com/s?keyword=ceyr26",
+   "https://www.costco.com/p/-/barcalounger-renwick-leather-power-recliner-with-zero-gravity-and-power-headrest/4201011285",
+   "https://www.costco.com/opt/recliners-with-power-headrests",
+   "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305",
+   "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688"
+  ],
+  "created": 1794082260,
+  "id": "resp_bbb2d368-3431-4f67-bec8-0adfc49cb3ff",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | Costco\n...\n# Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\n...\n## How To Get It\n- Top Grain Leather with Vinyl Match\n- 3 Zero Gravity Power Recliners with Power Headrests\n- Storage Co...",
+    "source": "web",
+    "title": "Barcalounger Rowan Leather Power Reclining Sectional with Power ...",
+    "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nOnline Only\nBarcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\nLimit 5.\n$2,299.99\nAfter $1,000 OFF\nValid 10/23/26 - 11/15/26\nValid 10/30/26 - 11/15/26",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest\nItem 1414710\n...\n- Top Grain Leather with Polyurethane Match\n- Pocket Coil Seat Cushion\n- Sinuous Spring Suspension\n- Power Headrest\n- Le...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Glider Recliner with ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Reclining Sofa with Power Headrests | Costco\n...\n# Barcalounger Leather Power Reclining Sofa with Power Headrests\nItem 1441777\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushions\n- Sinuous Spring Suspension...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Reclining Sofa with Power Headrests",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\n...\n20147\n...\n# Product Not Available\nSorry, this product may be unavailable for delivery to 20147 or unavailable at the warehouse.",
+    "source": "web",
+    "title": "Product Not Available",
+    "url": "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Search | Costco\nBarcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF",
+    "source": "web",
+    "title": "Loading",
+    "url": "https://www.costco.com/s?keyword=ceyr26"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "*Certain items are not available for return or refund or may have limitations on their eligibility for return or refund.",
+    "source": "web",
+    "title": "Barcalounger Renwick Leather Power Recliner with Zero Gravity and Power Headrest",
+    "url": "https://www.costco.com/p/-/barcalounger-renwick-leather-power-recliner-with-zero-gravity-and-power-headrest/4201011285"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Recliners With Power Headrests\nFlexsteel Griffin Italian Leather Zero Gravity Reclining Sectional with Power Headrests",
+    "source": "web",
+    "title": "Recliners With Power Headrests | Costco",
+    "url": "https://www.costco.com/opt/recliners-with-power-headrests"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest\nItem 1435385 | Model 1435385\n...\n## How To Get It\n- Top Grain Leather with Polyurethane Match\n- Pocket Coil Seat Cushion\n- Sinuous Spring...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Glider Recliner with Power ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Reclining Loveseat with Power Headrests | Costco\n...\n# Barcalounger Leather Power Reclining Loveseat with Power Headrests\nItem 1441778\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushions\n- Sinuous Spring Su...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Reclining Loveseat with ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00166,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00442
+   },
+   "prompt_tokens": 133,
+   "search_context_size": "low",
+   "total_tokens": 168
+  }
+ }
+}

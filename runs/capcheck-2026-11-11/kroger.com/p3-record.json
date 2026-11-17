@@ -1,0 +1,25 @@
+{
+ "domain": "kroger.com",
+ "idx": 3,
+ "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15209 chars, copy dated 2026-09-10 (62 days old)",
+   "price": 10.99,
+   "opened": "YES",
+   "doc_chars": 15209,
+   "input_tokens": 23179,
+   "cost_usd": 0.10284
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "15209 chars, copy dated 2026-09-10 (62 days old)",
+   "price": 10.99,
+   "opened": "YES",
+   "doc_chars": 15209,
+   "input_tokens": 23856,
+   "cost_usd": 0.10418
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/",
+  "https://www.walmart.com/cp/clothing/5438",
+  "https://www.walmart.com/?country=US",
+  "https://www.walmart.com/cp/food/976759",
+  "https://www.walmart.com/all-departments",
+  "https://www.walmart.com/cp/tv-home-theater/1060825",
+  "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0",
+  "https://www.walmart.com/cp/new-arrivals/2593086",
+  "https://marketplacelearn.walmart.com/guides/Item%2520setup/Item%2520content,%2520imagery,%2520and%2520media/Product-Detail-Page:-overview",
+  "https://www.walmart.com/ip/SKULLCANDY-CRUSHER-540-ACTIVE-XT-WIRELESS-OVER-EAR-METAL/13741824390"
+ ],
+ "cited_store": true,
+ "answer": "Walmart | Save Money. Live better. — Bedding, decor & more[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walmart | Save Money. Live better. — Bedding, decor & more[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/",
+   "https://www.walmart.com/cp/clothing/5438",
+   "https://www.walmart.com/?country=US",
+   "https://www.walmart.com/cp/food/976759",
+   "https://www.walmart.com/all-departments",
+   "https://www.walmart.com/cp/tv-home-theater/1060825",
+   "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0",
+   "https://www.walmart.com/cp/new-arrivals/2593086",
+   "https://marketplacelearn.walmart.com/guides/Item%2520setup/Item%2520content,%2520imagery,%2520and%2520media/Product-Detail-Page:-overview",
+   "https://www.walmart.com/ip/SKULLCANDY-CRUSHER-540-ACTIVE-XT-WIRELESS-OVER-EAR-METAL/13741824390"
+  ],
+  "created": 1794248338,
+  "id": "resp_b3289c55-c78a-41b1-8759-1c5db0626ffa",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\nLive better.\n- $0.00\nPickup or delivery?\n# Walmart | Save Money. Live better.\n- Chic, cozy & festive\n...\n- Bedding, decor & more",
+    "source": "web",
+    "title": "Walmart | Save Money. Live better.",
+    "url": "https://www.walmart.com/"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Shop Clothing Online for Fashion Apparel and Accessories - Walmart.com\n- $0.00\n- Services are only available in the U.S., but you can still shop thousands of items online!\n...\n# Shop Clothing Online for Fashion Apparel and Accessories",
+    "source": "web",
+    "title": "Clothing",
+    "url": "https://www.walmart.com/cp/clothing/5438"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\n...\n# Walmart | Save Money. Live better.\n- Fill up on trick-or-treat fun\n...\n- Get it as fast as 30 min.",
+    "source": "web",
+    "title": "Walmart",
+    "url": "https://www.walmart.com/?country=US"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Shop Food Snacks and Treats Online - Walmart.com\n- $0.00\n...\n# Shop Food Snacks and Treats Online\n## Shop all food\nFrom fresh produce to pantry staples.\n## Shop everyday essentials\n- ### Best seller, Great Value Whole Vitamin D Milk, Gallon $3.82 3.0 ¢/fl oz\nBest seller\nAdd\n$382\ncurrent price $3.82\n...",
+    "source": "web",
+    "title": "Shop Food Snacks and Treats Online",
+    "url": "https://www.walmart.com/cp/food/976759"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "All Departments - Walmart.com\n- $0.00\n# Browse Departments",
+    "source": "web",
+    "title": "All Departments - Walmart.com",
+    "url": "https://www.walmart.com/all-departments"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "TVs & Smart TVs: 4K, OLED & QLED Televisions | Walmart - Walmart.com\n...\n- Services are only available in the U.S., but you can still shop thousands of items online!\n...\n# TVs & Smart TVs: 4K, OLED & QLED Televisions | Walmart",
+    "source": "web",
+    "title": "TVs & Smart TVs: 4K, OLED & QLED Televisions",
+    "url": "https://www.walmart.com/cp/tv-home-theater/1060825"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Help & customer support\n## 24. How to Contact Us\nIf you have any questions or comments, please contact us at https://walmart.com/help, or by mail at the following address: Walmart.com; 850 Cherry Ave., San Bruno, CA 94066.",
+    "source": "web",
+    "title": "Walmart.com Terms of Use",
+    "url": "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Shop New Arrivals for Home and Living - Walmart.com\n...\n# Shop New Arrivals for Home and Living",
+    "source": "web",
+    "title": "Shop New Arrivals for Home and Living - Walmart.com",
+    "url": "https://www.walmart.com/cp/new-arrivals/2593086"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "###### Packs & bundles\nIn this guide, you’ll learn about the product detail policy on Walmart.com.",
+    "source": "web",
+    "title": "Walmart's Product details policy - Guides | Marketplace Learn",
+    "url": "https://marketplacelearn.walmart.com/guides/Item%2520setup/Item%2520content,%2520imagery,%2520and%2520media/Product-Detail-Page:-overview"
+   },
+   {
+    "date": "2025-07-17",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Skullcandy Crusher 540 Active XT Wireless Over-Ear Headphones, Coal\n4.5 stars out of 8 reviews",
+    "source": "web",
+    "title": "Skullcandy Crusher 540 Active XT Wireless Over-Ear Headphones, Coal - Walmart.com",
+    "url": "https://www.walmart.com/ip/SKULLCANDY-CRUSHER-540-ACTIVE-XT-WIRELESS-OVER-EAR-METAL/13741824390"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00061,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00316
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

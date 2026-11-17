@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Women's Clothing, Women Fashion Sale | SHEIN USA\nProduct/Category: Women",
+ "finish": "STOP",
+ "cost_usd": 0.0001,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Women's Clothing, Women Fashion Sale | SHEIN USA\nProduct/Category: Women",
+       "thoughtSignature": "EnMKcQFpFH0T49xGyq8aIeC6Qmw6WAustsX7kKZ3wm/l3AXcfDushMW/9ZBwY117ixwGLMMSsIHrq5FQ8c5PxBWgt9C704VFKNRz5bbW8B7OnJ52vzPrkziFoHX0ne8OB0LQKPdEyJFOBDFEQWjwrbVDR3pn"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 40,
+   "totalTokenCount": 848,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 746,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 746
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "sNTsau2yKeesqtsPk8ym4A8"
+ }
+}

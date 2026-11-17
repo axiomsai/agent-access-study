@@ -1,0 +1,25 @@
+{
+ "domain": "macys.com",
+ "idx": 1,
+ "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15396 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15396,
+   "input_tokens": 39926,
+   "cost_usd": 0.17488
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "190402 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 175.0,
+   "opened": "YES",
+   "doc_chars": 190402,
+   "input_tokens": 23975,
+   "cost_usd": 0.10668
+  }
+ }
+}

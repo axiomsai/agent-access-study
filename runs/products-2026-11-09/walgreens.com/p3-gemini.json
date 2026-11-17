@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00036,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TiuZsISZmtsq07yC26Z2atgoVhYhOjnDj3qX5U/XE39ReQbqZFhG/mp89Xo8NfDwoa75w7vJyJXV7JTMqlLraPFsHbUQA9tuCjji2sxklHdYKB4ikbkp+HKqJarcEucpGXiNhBSickRd9TwY6"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 166,
+   "candidatesTokenCount": 108,
+   "totalTokenCount": 3266,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 166
+    }
+   ],
+   "toolUsePromptTokenCount": 2992,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2992
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "WhLyapmXC5Se6dkP45ih4QQ"
+ }
+}

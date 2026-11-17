@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants",
+  "https://www.gap.com/browse/category.do?cid=92915",
+  "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+  "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+  "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+  "https://www.gap.com/browse/product.do?pid=8638080023203",
+  "https://www.gap.com/browse/product.do?pid=8923910621105",
+  "https://www.gap.com/browse/product.do?pid=9157390020005",
+  "https://www.gap.com/browse/product.do?pid=8970000520003",
+  "https://www.gap.com/browse/product.do?pid=8431710020003"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants",
+   "https://www.gap.com/browse/category.do?cid=92915",
+   "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+   "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+   "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+   "https://www.gap.com/browse/product.do?pid=8638080023203",
+   "https://www.gap.com/browse/product.do?pid=8923910621105",
+   "https://www.gap.com/browse/product.do?pid=9157390020005",
+   "https://www.gap.com/browse/product.do?pid=8970000520003",
+   "https://www.gap.com/browse/product.do?pid=8431710020003"
+  ],
+  "created": 1793907665,
+  "id": "resp_d1933237-ead5-423b-9eed-d4836c9f4285",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Rib Beanie | Gap\n...\n# Kids CashSoft Rib Beanie\n# Kids CashSoft Rib Beanie\n$29.95\n$17.00\n...\n## Product details",
+    "source": "web",
+    "title": "Kids CashSoft Rib Beanie",
+    "url": "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Sign up for email",
+    "url": "https://www.gap.com/browse/category.do?cid=92915"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Limited time only | Early Black Friday Deals from $8 + Extra 20% Off in App only.",
+    "source": "web",
+    "title": "Girls' Multi Back To School Looks | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "This item is currently sold out.\nEnjoy exclusive perks with a Banana Republic Rewards Credit Card like 25% off your first purchase with a new card.",
+    "source": "web",
+    "title": "Women's Wedding & Special Occasion Attire - Banana Republic - Gap",
+    "url": "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# All Div Sorts\n## Feels like Gap Sweats\n[Matching set\n\\\nBest seller\n...\n$69.95$27.00](https://www.gap.com/browse/product.do?pid=883546022)",
+    "source": "web",
+    "title": "TESTING CID's All Div Sorts Feels like Gap Sweats",
+    "url": "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Mid Rise Relaxed Straight Jeans\nLearn more at gapinc.com/equity ., Product #863808](https://content.gapinc.com/b/0061/527/374/cn61527374.png?width=737)",
+    "source": "web",
+    "title": "Mid Rise Relaxed Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=8638080023203"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Kids Graphic T-Shirt | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=8923910621105&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Kids Graphic T-Shirt\n![Image 1 of 4, Soft cotton jersey graphic T-shirt in a cla...",
+    "source": "web",
+    "title": "Kids Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=8923910621105"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Relaxed T-Shirt | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=9157390020005&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Relaxed T-Shirt\n![Image 1 of 5, Soft cotton jersey T-shirt in a relaxed fit., Crewnec...",
+    "source": "web",
+    "title": "Relaxed T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=9157390020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "100% Cotton Cable-Knit Zip Cardigan | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=8970000520003&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# 100% Cotton Cable-Knit Zip Cardigan\nIn a slightly cropped fit., H...",
+    "source": "web",
+    "title": "100% Cotton Cable-Knit Zip Cardigan",
+    "url": "https://www.gap.com/browse/product.do?pid=8970000520003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# BiStretch Structured Button-Front Top\n## Product details\nA put-together feel with all-day flex.\n...\nCompared to virgin materials, using recycled materials helps reduce resource use and waste.\n- Product #843171",
+    "source": "web",
+    "title": "BiStretch Structured Button-Front Top",
+    "url": "https://www.gap.com/browse/product.do?pid=8431710020003"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.001,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00371
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 141
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+  "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864-reviews?skuId=671864",
+  "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Natrol/br",
+  "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/$25_and_over/fmpbTablets%252C_Capsules_%2526_Caplets/fm",
+  "https://www.cvs.com/shop/virtual-sleep-support",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/fmTablets,_Capsules_&_Caplets/fm",
+  "https://www.cvs.com/shop/brand-shop/n/natrol",
+  "https://www.cvs.com/shop/virtual-night-sleep-support",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements",
+  "https://es.cvs.com/shop/health-medicine/sleep-snoring-aids"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT | PRICE: $12.99 | STOCK: OUT OF STOCK | OPENED: YES",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT | PRICE: $12.99 | STOCK: OUT OF STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+   "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864-reviews?skuId=671864",
+   "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Natrol/br",
+   "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/$25_and_over/fmpbTablets%252C_Capsules_%2526_Caplets/fm",
+   "https://www.cvs.com/shop/virtual-sleep-support",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/fmTablets,_Capsules_&_Caplets/fm",
+   "https://www.cvs.com/shop/brand-shop/n/natrol",
+   "https://www.cvs.com/shop/virtual-night-sleep-support",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements",
+   "https://es.cvs.com/shop/health-medicine/sleep-snoring-aids"
+  ],
+  "created": 1794080405,
+  "id": "resp_248faa09-2872-4b7f-952e-604c34892226",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT - CVS Pharmacy\n- Health & Medicine\n- Cough, Cold & Flu\n...\n# Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5\n...\nNatrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, ...",
+    "source": "web",
+    "title": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve ...",
+    "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864"
+   },
+   {
+    "date": "2026-09-16",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Customer Reviews: Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT - CVS Pharmacy\n...\n- Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n# Customer reviews for Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n....",
+    "source": "web",
+    "title": "Customer reviews for Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+    "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864-reviews?skuId=671864"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Natrol Sleep Medicine & Supplements at CVS Pharmacy\n...\nNEW\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\nNatrol\n215\n$12.99\n43.3¢/ea.\nUnavailable for Pickup\nPickup -\nCheck more stores\nSame-Day Delivery\nShipping\n...\n## Natrol Melatonin 5 mg Fast Dissolve Tablets St...",
+    "source": "web",
+    "title": "Natrol Sleep Medicine & Supplements at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Natrol/br"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "NEW\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\nNatrol\n215\n$12.99\n43.3¢/ea.\nUnavailable for Pickup\nPickup -\nCheck more stores\nSame-Day Delivery\nShipping\nNEW",
+    "source": "web",
+    "title": "Sleep Medicine & Supplements - CVS",
+    "url": "https://www.cvs.com/shop/health-medicine/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/$25_and_over/fmpbTablets%252C_Capsules_%2526_Caplets/fm"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Order Status & History\n- Shop\n- Sleep Support\n# Sleep Support\n...\n29 products\n‌\n$12.99\n...\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5 (215)\n$9.99\n16.7¢/ea.",
+    "source": "web",
+    "title": "Sleep Support",
+    "url": "https://www.cvs.com/shop/virtual-sleep-support"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Delivery\nPrice\nOn Sale\nReviews\n42 products\n‌\n$12.99\n43.3¢/ea.\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5 (215)\n$13.99\n46.6¢/ea.\n...\nPrices may vary from online to in store.",
+    "source": "web",
+    "title": "Sleep Medicine & Supplements",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements/q/Tablets,_Capsules_&_Caplets/fmTablets,_Capsules_&_Caplets/fm"
+   },
+   {
+    "date": "2021-12-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5 (215)\n$20.79\n34.6¢/ea.\n...\n## Does CVS Carry Natrol Products?\nYes, CVS sells a variety of Natrol products in stores and online.",
+    "source": "web",
+    "title": "Buy Natrol Products Online - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/n/natrol"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Order Status & History\n...\n- Sleep Support\n# Sleep Support\nSort by: Relevance\nDelivery\n7 products\n$12.99\n43.3¢/ea.\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5 (215)\n$13.99\n46.6¢/ea.",
+    "source": "web",
+    "title": "Sleep Support",
+    "url": "https://www.cvs.com/shop/virtual-night-sleep-support"
+   },
+   {
+    "date": "2023-10-02",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Health & Medicine\n...\nNEW\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\nNatrol\n215\n$12.99\n43.3¢/ea.\nUnavailable for Pickup\nPickup -\nCheck more stores\nSame-Day Delivery\nShipping\nNEW",
+    "source": "web",
+    "title": "Sleep Medicine & Supplements at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sleep-snoring-aids/sleep-medicine-supplements"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Snoring Aids & Snore Stoppers - CVS Pharmacy\n...\n## Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT\n4.5 (215)\n$8.99\n$8.99/oz.",
+    "source": "web",
+    "title": "Snoring Aids & Snore Stoppers",
+    "url": "https://es.cvs.com/shop/health-medicine/sleep-snoring-aids"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.00117,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00397
+   },
+   "prompt_tokens": 140,
+   "search_context_size": "low",
+   "total_tokens": 181
+  }
+ }
+}

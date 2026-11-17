@@ -1,0 +1,60 @@
+{
+ "domain": "amazon.com",
+ "url": "https://www.amazon.com/dp/B079VP6DH5",
+ "idx": 2,
+ "at": "2026-11-03T18:13:02-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06814
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 6e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.03377
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+   "price": 43.49,
+   "price_raw": "$43.49",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

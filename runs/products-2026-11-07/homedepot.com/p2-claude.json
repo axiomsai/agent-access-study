@@ -1,0 +1,139 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+ "retrieved_at": "2026-11-07T19:24:45+00:00",
+ "age_days": 0,
+ "doc_chars": 14961,
+ "doc_markers": [],
+ "answer": "NAME: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $269.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.1392,
+ "raw": [
+  {
+   "id": "srvtoolu_01PVXhZ2xuzfUy2W4gz6dm3k",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0]['title'],len(c));import re\n for k in ['$','Stock','stock','Delivery','Unavailable']:\n  for m in re.finditer(re.escape(k),c):print(k,c[max(0,m.start()-80):m.start()+80].replace('\\n',' '));break"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01Nhd7uvp2a6nBnnwZzKN8wk",
+   "caller": {
+    "tool_id": "srvtoolu_01PVXhZ2xuzfUy2W4gz6dm3k",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01PVXhZ2xuzfUy2W4gz6dm3k",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\nmeta-description: Replace your old toilet with this amazing HOROW 2-Dual Flush Elongated Toilet in White Seat Included\nmeta-fb:admins: 100005416960152\nmeta-og:description: Replace your old toilet with this amazing HOROW 2-Dual Flush Elongated Toilet in White Seat Included\nmeta-og:image: https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_1000.jpg\nmeta-og:site_name: The Home Depot\nmeta-og:title: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot\nmeta-og:type: product\nmeta-og:url: https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\nmeta-robots: max-image-preview:large\nmeta-theme-color: #F96302\nmeta-viewport: width=device-width, initial-scale=1.0\ntitle: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot\n---\n\n[Specials & Offers](https://www.homedepot.com/c/Savings_Center) [Appliances](https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w) [Bath](https://www.homedepot.com/b/Bath/N-5yc1vZbzb3) [Blinds & Window Treatments](https://www.homedepot.com/b/Window-Treatments/N-5yc1vZar4w) [Building Materials](https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns) [Lumber & Composites](https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg) [Moulding & Millwork](https://www.homedepot.com/b/Moulding-Millwork/N-5yc1vZaq4y) [Cleaning](https://www.homedepot.com/b/Cleaning/N-5yc1vZbqsi) [Home Décor](https://www.homedepot.com/b/Home-Decor/N-5yc1vZas6p) [Lighting](https://www.homedepot.com/b/Lighting/N-5yc1vZbvn5) [Doors & Windows](https://www.homedepot.com/b/Doors-Windows/N-5yc1vZaqih) [Electrical](https://www.homedepot.com/b/Electrical/N-5yc1vZarcd) [Flooring](https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r) [Hardware](https://www.homedepot.com/b/Hardware/N-5yc1vZc21m) [Heating, Venting & Cooling](https://www.homedepot.com/b/Heating-Venting-Cooling/N-5yc1vZc4k8) [Kitchen](https://www.homedepot.com/b/Kitchen/N-5yc1vZar4i) [Garden Center](https://www.homedepot.com/b/Outdoors-Garden-Center/N-5yc1vZbx6k) [Outdoors](https://www.homedepot.com/b/Outdoors/N-5yc1vZbx82) [Paint](https://www.homedepot.com/b/Paint/N-5yc1vZar2d) [Plumbing](https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew) [Holiday Decorations](https://www.homedepot.com/b/Holiday-Decorations/N-5yc1vZbd6e) [Smart Home](https://www.homedepot.com/b/Smart-Home/N-5yc1vZc1jw) [Storage & Organization](https://www.homedepot.com/b/Storage-Organization/N-5yc1vZas7e) [Tools](https://www.homedepot.com/b/Tools/N-5yc1vZc1xy) [Automotive](https://www.homedepot.com/b/Automotive/N-5yc1vZc8o1) [Furniture](https://www.homedepot.com/b/Furniture/N-5yc1vZc7pc) [Baby & Kids](https://www.homedepot.com/b/Baby-Kids/N-5yc1vZ2fkpfui) [Shop All Brands](https://www.homedepot.com/c/brands) [Home Depot Gift Cards](https://www.homedepot.com/c/gift-cards) [Credit Card Services](https://www.homedepot.com/c/credit-center) [Home Services](https://www.homedepot.com/services/) [Home Depot Rental](https://www.homedepot.com/c/tool_and_truck_rental) [Pro Services & Contractor Supply](https://www.homedepot.com/c/pro) [Project Calculators](https://www.homedepot.com/c/project_calculators) [DIY Projects and Ideas](https://www.homedepot.com/c/diy_projects_and_ideas) [Local Ad](https://www.homedepot.com/c/localad) [Store Finder](https://www.homedepot.com/l/store-locator) [Site Map](https://www.homedepot.com/c/site_map)\n\n#1 Home Improvement Retailer\n\nHome Depot Credit Cards\n\n[/](https://www.homedepot.com/)\n\nSelect store\n\n...\n\n...\n\n[Cart](https://www.homedepot.com/cart)\n\nSelect store\n\n...\n\n...\n\nShop All\n\nServices\n\nDIY\n\nLog In\n\nMagic ApronApron\n\n[Cart](https://www.homedepot.com/cart)\n\n ... \n\n[Home](https://www.homedepot.com/)\n\n/\n\n[Bath](https://www.homedepot.com/b/Bath/N-5yc1vZbzb3)\n\n/\n\n[Toilets](https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd)\n\n/\n\n[One Piece Toilets](https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v)\n\n/\n\n[HOROW One Piece Toilets](https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/HOROW/N-5yc1vZcb8vZv6d)\n\n## Internet # 321046877\n\n## Model # HR-0038W\n\n![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included](https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_600.jpg)\n\nHover Image to Zoom\n\n## Product Images\n\n![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included - image 1](https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_600.jpg)\n\nSee This In My Room\n\nView Virtual Sample\n\n- ![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included - image 2](https://images.thdstatic.com/productImages/c8df5aa8-67ee-40be-85de-dd3efb391234/svn/white-horow-one-piece-toilets-hr-0038w-e1_600.jpg)\n- ![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included - image 3](https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/63776f53-4a27-4238-affd-4c07108d9a45/main/1280x720/1m50s701ms/match/image.jpg?pubId=66036796001)Video\n- ![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included - image 4](https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/7e150a26-0627-464b-8b94-6ed7e1842aae/main/1280x720/56s298ms/match/image.jpg?pubId=66036796001)Video\n- ![HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included - image 5](https://www.thdstatic.com/spin/77/321046877/321046877_S01.spin?thumb&profile=600)360° view\n\nBlack Friday\n\n[Shop HOROW](https://www.homedepot.com/b/HOROW/N-5yc1vZv6d)\n\n# 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included\n\n(919) [Questions & Answers (254)](#product-section-qa)\n\nLimit 10 per order\n\n$269.00\n\n$319.00\n\nSave $50.00 (16%)\n\n![Apply Now](https://assets.thdstatic.com/images/v1/payment-credit-card-thd.png)\n\nPay **$244** after **$25 OFF** your total qualifying purchase upon opening a new card. \n\nApply for a Home Depot Consumer Card\n\n- Comfort seat height offers chair-height seating 17.3 in.\n- Top industry flush standard for reliable clog-free use\n- Easy install with included toilet seat, wax ring, and hardware\n- [View More Details](#see-more-details)\n\n#### Free & Easy Returns In Store or Online\n\nReturn this item within 90 days of purchase.\n\n[Read Return Policy](https://www.homedepot.com/c/Return_Policy)\n\n[Download Our App](https://www.homedepot.com/c/SF_Mobile_Shopping)\n\nHow doers get more done™\n\nNeed Help? Visit our [**Customer Service Center**](https://www.homedepot.com/c/customer_service \"Customer Service Center\")\n\n### Support\n\n- [Customer Service Center](https://www.homedepot.com/c/customer_service \"Customer Service Center\")\n- [Check Order Status](https://www.homedepot.com/myaccount/guest-order-tracking \"Check Order Status\")\n- [Pickup, Shipping & Delivery](https://www.homedepot.com/c/delivery \"Pickup, Shipping & Delivery\")\n- [Pay Your Credit Card](https://www.homedepot.com/c/credit-center \"Pay Your Credit Card\")\n- [Order Cancellation](https://www.homedepot.com/c/Customer_Support_Answers#cancel \"Order Cancellation\")\n- [Return Policy](https://www.homedepot.com/c/Return_Policy \"Return Policy\")\n- [Refund Policy](https://www.homedepot.com/c/refund-policy \"Refund Policy\")\n- [Product Recalls](https://www.homedepot.com/c/Product_Recalls \"Product Recalls\")\n- [My Preference Center](https://www.homedepot.com/privacy/MyPreferenceCenter \"My Preference Center\")\n- [Privacy & Security Center](https://www.homedepot.com/privacy/overview \"Privacy & Security Center\")\n\n### Resources\n\n- [Specials & Offers](https://www.homedepot.com/c/Savings_Center \"Specials & Offers\")\n- [Military Discount Benefit](https://www.homedepot.com/c/military \"Military Discount Benefit\")\n- [DIY Projects & Ideas](https://www.homedepot.com/c/diy_projects_and_ideas \"DIY Projects & Ideas\")\n- [Truck & Tool Rental](https://www.homedepot.com/c/tool_and_truck_rental \"Truck & Tool Rental\")\n- [Installation & Services](https://www.homedepot.com/services \"Installation & Services\")\n- [Moving Supplies & Rentals](https://www.homedepot.com/b/Storage-Organization-Moving-Supplies/N-5yc1vZc89r \"Moving Supplies & Rentals\")\n- [Protection Plans](https://www.homedepot.com/c/The_Home_Depot_Protection_Plans \"Protection Plans\")\n- [Rebate Center](https://www.homedepot.com/rebate-center/index.html \"Rebate Center\")\n- [Gift Cards](https://www.homedepot.com/c/gift-cards \"Gift Cards\")\n- [Catalog](https://www.homedepot.com/catalog \"Catalog\")\n- [Subscriptions](https://www.homedepot.com/c/subscription_service \"Subscriptions\")\n\n### About Us\n\n- [Careers](https://careers.homedepot.com/ \"Careers\")\n- [Corporate Information](https://corporate.homedepot.com/ \"Corporate Information\")\n- [Digital Newsroom](https://corporate.homedepot.com/page/newsroom \"Digital Newsroom\")\n- [Home Depot Foundation](https://corporate.homedepot.com/foundation \"Home Depot Foundation\")\n- [Investor Relations](https://ir.homedepot.com/ \"Investor Relations\")\n- [Government Customers](https://www.homedepot.com/c/Government_Customers \"Government Customers\")\n- [Suppliers & Providers](https://www.homedepot.com/c/suppliers_and_providers \"Suppliers & Providers\")\n- [Affiliate Program](https://www.homedepot.com/c/SF_MS_The_Home_Depot_Affiliate_Program \"Affiliate Program\")\n- [Eco Actions](https://ecoactions.homedepot.com/ \"Eco Actions\")\n- [Corporate Responsibility](https://corporate.homedepot.com/responsibility \"Corporate Responsibility\")\n- [Home Depot Licensing Information](https://www.homedepot.com/c/SV_HS_Contractor_License_Numbers?cm_sp=vanity-_-licensenumbers-_-MAY16 \"Home Depot Licensing Information\")\n\nSpecial Financing Available everyday*\n\n[Pay & Manage Your Card](https://www.homedepot.com/myaccount/thdcreditcard \"Pay & Manage Your Card\")[Credit Offers](https://www.homedepot.com/c/credit-center \"Credit Offers\")\n\nGet $5 off when you sign up for emails with savings and tips.\n\nGO\n\n[![Home Depot on Facebook](https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg)](https://www.facebook.com/homedepot)[![Home Depot on Twitter](https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg)](https://www.twitter.com/homedepot)[![Home Depot on Pinterest](https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg)](https://www.pinterest.com/homedepot/)[![Home Depot Blog](https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg)](https://www.homedepot.com/c/diy_projects_and_ideas)[![Home Depot on YouTube](https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg)](https://www.youtube.com/user/homedepot)[![Home Depot Mobile Apps](https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg)](https://www.homedepot.com/c/SF_Mobile_Shopping)\n\n### Our Other Sites\n\n- [The Home Depot Canada](https://www.homedepot.ca/ \"The Home Depot Canada\")\n\n- [The Home Depot México](http://www.homedepot.com.mx/ \"The Home Depot México\")\n\n- [Pro Referral](https://www.proreferral.com/ \"Pro Referral\")\n\n[Shop Our Brands](https://www.homedepot.com/c/private-brands \"Shop Our Brands\")\n\n- [![The Company Store](https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg)](https://www.homedepot.com/b/The-Company-Store/N-5yc1vZms7 \"The Company Store\")\n- [![Vissani](https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg)](https://www.homedepot.com/b/Vissani/N-5yc1vZ4rj \"Vissani\")\n- [![Home Decorators Collection](https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg)](https://www.homedepot.com/b/Home-Decorators-Collection/N-5yc1vZ4vr \"Home Decorators Collection\")\n- [![Hampton Bay](https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg)](https://www.homedepot.com/b/Hampton-Bay/N-5yc1vZp4 \"Hampton Bay\")\n- [![Husky](https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg)](https://www.homedepot.com/b/Husky/N-5yc1vZrd \"Husky\")\n- [![Lifeproof Flooring](https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg)](https://www.homedepot.com/b/Flooring/Lifeproof/N-5yc1vZaq7rZnv7 \"Lifeproof Flooring\")\n- [![Lifeproof with Petproof Technology Carpet](https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg)](https://www.homedepot.com/b/Lifeproof-with-Petproof-Technology/N-5yc1vZs7d \"Lifeproof with Petproof Technology Carpet\")\n- [![Glacier Bay](https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg)](https://www.homedepot.com/b/Glacier-Bay/N-5yc1vZn7 \"Glacier Bay\")\n- [![Everbilt](https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.png)](https://www.homedepot.com/b/Everbilt/N-5yc1vZ402 \"Everbilt\")\n- [![StyleWell](https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg)](https://www.homedepot.com/b/Home-Decor/StyleWell/N-5yc1vZas6pZn4x \"StyleWell\")\n- [![HDX](https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg)](https://www.homedepot.com/b/HDX/N-5yc1vZ9tk \"HDX\")\n- [![Vigoro](https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg)](https://www.homedepot.com/b/Vigoro/N-5yc1vZ1kt \"Vigoro\")\n- [![TrafficMaster](https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg)](https://www.homedepot.com/b/Flooring/TrafficMaster/N-5yc1vZaq7rZ5bx \"TrafficMaster\")\n- [![Defiant](https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg)](https://www.homedepot.com/b/Defiant/N-5yc1vZfw \"Defiant\")\n- [![Ecosmart](https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg)](https://www.homedepot.com/b/Lighting-Light-Bulbs/EcoSmart/N-5yc1vZbmbuZ4b8 \"Ecosmart\")\n- [![Home Accents Holiday](https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg)](https://www.homedepot.com/b/Holiday-Decorations/Home-Accents-Holiday/N-5yc1vZbd6eZ3b3 \"Home Accents Holiday\")\n- [![Commercial Electric](https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg)](https://www.homedepot.com/b/Commercial-Electric/N-5yc1vZdn \"Commercial Electric\")\n- [![Hubspace Smart Home](https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg)](https://www.homedepot.com/b/Smart-Home/Hubspace/N-5yc1vZc1jwZ1z1pr0w \"Hubspace Smart Home\")\n\nNeed Help?\n\nVisit our [**Customer Service Center**](https://www.homedepot.com/c/customer_service \"Customer Service Center\") or[Text 38698](sms:38698)\n\n© 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain [Terms Of Use.](https://www.homedepot.com/c/Terms_of_Use \"terms of use\")\n\nLocal store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed.\n\nFor screen reader problems with this website, please ca",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-07T19:24:45+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877"
+   },
+   "tool_use_id": "srvtoolu_01Nhd7uvp2a6nBnnwZzKN8wk",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01PVXhZ2xuzfUy2W4gz6dm3k/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0]['title'],len(c));import re\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PVXhZ2xuzfUy2W4gz6dm3k",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_012oq4PHpGPYgZLD4va38ky7",
+   "caller": null,
+   "input": {
+    "code": "print(type(r),str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\", \"retrieved_at\": \"2026-11-07T19:24:45+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\\nmeta-description: Replace your old toilet with this amazing HOROW 2-Dual Flush Elongated Toilet in White Seat Included\\nmeta-fb:admins: 100005416960152\\nmeta-og:description: Replace your old toilet with this amazing HOROW 2-Dual Flush Elongated Toilet in White Seat Included\\nmeta-og:image: https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_1000.jpg\\nmeta-og:site_name: The Home Depot\\nmeta-og:title: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot\\nmeta-og:type: product\\nmeta-og:url: https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877\\nmeta-robots: max-image-preview:large\\nmeta-theme-color: #F96302\\nmeta-viewport: width=device-width, initial-scale=1.0\\ntitle: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot\\n---\\n\\n[Specials & Offers](https://www.homedepot.com/c/Savings_Center) [Appliances]\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_012oq4PHpGPYgZLD4va38ky7",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01M7MRFpmehJx4hdh3baPmCG",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nc=json.loads(r)['content']['source']['data'];print(len(c))\nfor k in ['\\\\$\\\\d','[Ss]tock','Unavailable','Add to Cart','Delivery']:\n  for m in list(re.finditer(k,c))[:4]:print(k,'|',c[max(0,m.start()-100):m.start()+100].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "14961\n\\$\\d | in White Seat Included  (919) [Questions & Answers (254)](#product-section-qa)  Limit 10 per order  $269.00  $319.00  Save $50.00 (16%)  ![Apply Now](https://assets.thdstatic.com/images/v1/payment-cre\n\\$\\d | Seat Included  (919) [Questions & Answers (254)](#product-section-qa)  Limit 10 per order  $269.00  $319.00  Save $50.00 (16%)  ![Apply Now](https://assets.thdstatic.com/images/v1/payment-credit-card-\n\\$\\d |  (919) [Questions & Answers (254)](#product-section-qa)  Limit 10 per order  $269.00  $319.00  Save $50.00 (16%)  ![Apply Now](https://assets.thdstatic.com/images/v1/payment-credit-card-thd.png)  Pay \n\\$\\d | 0.00 (16%)  ![Apply Now](https://assets.thdstatic.com/images/v1/payment-credit-card-thd.png)  Pay **$244** after **$25 OFF** your total qualifying purchase upon opening a new card.   Apply for a Home \n[Ss]tock | f use\")  Local store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed.  For screen reader problems with this website, pl\nDelivery | ttps://www.homedepot.com/myaccount/guest-order-tracking \"Check Order Status\") - [Pickup, Shipping & Delivery](https://www.homedepot.com/c/delivery \"Pickup, Shipping & Delivery\") - [Pay Your Credit Car\nDelivery | r Status\") - [Pickup, Shipping & Delivery](https://www.homedepot.com/c/delivery \"Pickup, Shipping & Delivery\") - [Pay Your Credit Card](https://www.homedepot.com/c/credit-center \"Pay Your Credit Card\"\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01M7MRFpmehJx4hdh3baPmCG",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01Jdpa9xauP5FgnS53z4pQmj",
+   "caller": null,
+   "input": {
+    "code": "i=c.find('Save $50');print(c[i:i+1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "Save $50.00 (16%)\n\n![Apply Now](https://assets.thdstatic.com/images/v1/payment-credit-card-thd.png)\n\nPay **$244** after **$25 OFF** your total qualifying purchase upon opening a new card. \n\nApply for a Home Depot Consumer Card\n\n- Comfort seat height offers chair-height seating 17.3 in.\n- Top industry flush standard for reliable clog-free use\n- Easy install with included toilet seat, wax ring, and hardware\n- [View More Details](#see-more-details)\n\n#### Free & Easy Returns In Store or Online\n\nReturn this item within 90 days of purchase.\n\n[Read Return Policy](https://www.homedepot.com/c/Return_Policy)\n\n[Download Our App](https://www.homedepot.com/c/SF_Mobile_Shopping)\n\nHow doers get more done™\n\nNeed Help? Visit our [**Customer Service Center**](https://www.homedepot.com/c/customer_service \"Customer Service Center\")\n\n### Support\n\n- [Customer Service Center](https://www.homedepot.com/c/customer_service \"Customer Service Center\")\n- [Check Order Status](https://www.homedepot.com/myaccount/guest-order-tracking \"Check Order Status\")\n- [Pickup, Shipping & Delivery](https://www.homedepot.com/c/delivery \"Pickup, Shipping & Delivery\")\n- [Pay Your Credit Card](https://www.homedepot.com/c/credit-center \"Pay Your Credit Card\")\n- [Order Cancellation](https://www.homedepot.com/c/Customer_Support_Answers#cancel \"Order Cancellation\")\n- [Return Policy](https://www.homedepot.com/c/Return_Policy \"Return Policy\")\n- [Refund Policy](https://www.homedepot.com/c/refund-policy \"Refund Policy\")\n- [Product\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01Jdpa9xauP5FgnS53z4pQmj",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $269.00 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

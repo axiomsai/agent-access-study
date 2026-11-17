@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-256gb-t-mobile-sku-sm-f976uzkaxau/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-at-t-sku-sm-f976uzkfatt/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzvfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzwfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzkfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976uzkexaa/",
+  "https://www.samsung.com/au/smartphones/galaxy-z-fold8-ultra/buy/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-256gb-t-mobile-sku-sm-f976uzkaxau/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-at-t-sku-sm-f976uzkfatt/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzvfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzwfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzkfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976uzkexaa/",
+   "https://www.samsung.com/au/smartphones/galaxy-z-fold8-ultra/buy/"
+  ],
+  "created": 1793907080,
+  "id": "resp_89b321a8-3394-409a-b6ba-3dce8b3d8262",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n512GB | Green Shadow | Unlocked\n**$2,299.99 or 95.84/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experi...",
+    "source": "web",
+    "title": "Galaxy Z Fold8 Ultra",
+    "url": "https://samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Shop the Galaxy Z Fold8 Ultra 256GB in Graphite for T-Mobile | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n256GB | Graphite | T-Mobile\n**$87.51/mo** for **24** mos^⊕^\n...\nUltra Camera\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores...",
+    "source": "web",
+    "title": "Shop the Galaxy Z Fold8 Ultra 256GB in Graphite for T-Mobile",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-256gb-t-mobile-sku-sm-f976uzkaxau/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Order the Galaxy Z Fold8 Ultra 1TB in Graphite for AT&T | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n1TB | Graphite | AT&T\n**$75.01/mo** for **36** mos^⊕^\n...\nUltra Camera\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n...\nDue to...",
+    "source": "web",
+    "title": "Order the Galaxy Z Fold8 Ultra 1TB in Graphite for AT&T",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-at-t-sku-sm-f976uzkfatt/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Violet | Samsung US\n...\n# Galaxy Z Fold8 Ultra\nNew\n1TB | Violet Shadow | Unlocked\n**$2,499.99 or $104.17/mo** for **24** mos **at 0% APR** ^⊕σ^was $2,699.99 **Save $200.00**\nGet up to $800 instant trade-in credit^θ^ or up to $1,200 in carrier deals.\n...\n2...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Violet",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzvfxaa/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Galaxy Z Fold8 Ultra\n- From $2,099.99 or $87.51/mo before trade-inᶿ\n# Galaxy Z Fold8 Ultra\nAvailable now\n...\n6. Color availability may vary depending on country or carrier.\n7. Exclusively available on Samsung.com.\n...\nI tried the device several times at a local Best Buy before picking it up and I...",
+    "source": "web",
+    "title": "Explore Galaxy Z Fold8 Ultra | Folding Phone | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Cream | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n1TB | Cream | Unlocked\n**$2,699.99 or 112.51/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Store...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Cream",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzwfxaa/"
+   },
+   {
+    "date": "2026-09-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 512GB in Pistachio | Samsung US\n...\n# Galaxy Z Fold8\n256GB | Pistachio | Unlocked\n**$1,899.99 or 79.17/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,899.99\n512GB\n$2,099.99\n1TB\n$2,499.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 256GB in Lavender",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Graphite | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n1TB | Graphite | Unlocked\n**$2,699.99 or 112.51/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 Ultra 1TB in Graphite",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-1tb-unlocked-sku-sm-f976uzkfxaa/"
+   },
+   {
+    "date": "2026-09-22",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Graphite | Samsung US\n...\n# Galaxy Z Fold8 Ultra\n512GB | Graphite | Unlocked\n**$2,299.99 or 95.84/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$2,099.99\n512GB\n$2,299.99\n1TB\n$2,699.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experie...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Graphite ...",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976uzkexaa/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Samsung Galaxy Z Fold8 Ultra | Price, Deals & Offers | Samsung Australia\n...\nGalaxy Z Fold8 Ultra\nFrom\n*$88.08*\n0% interest for 12, 24, 36 or 48 months.\nMonthly payments required, additional fees and monthly credit card fee (currently $10.95) will apply.\n...\n- Galaxy Z Fold8 Ultra\nFrom $124.96/m...",
+    "source": "web",
+    "title": "Buy Samsung Galaxy Z Fold8 Ultra | Price, Deals & Offers",
+    "url": "https://www.samsung.com/au/smartphones/galaxy-z-fold8-ultra/buy/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.0017,
+    "output_tokens_cost": 0.00023,
+    "request_cost": 0.0025,
+    "total_cost": 0.00443
+   },
+   "prompt_tokens": 120,
+   "search_context_size": "low",
+   "total_tokens": 146
+  }
+ }
+}

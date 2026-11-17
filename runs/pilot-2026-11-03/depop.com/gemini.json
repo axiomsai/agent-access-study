@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.depop.com/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "Blocked",
+ "finish": "STOP",
+ "cost_usd": 3e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Blocked",
+       "thoughtSignature": "EnMKcQFpFH0TD9dDgCRirmzjs1QtSY+VDNdo3MbJp68WLDyGwtyU6htL1h+R4ytm6qcG+j+zOvRNBjrqqPKpCFPWK1piwruN/Pf+CrktCueRH8MeQraAWyHC+5X5LMnF2gdYhFkoK3VgiqBW39pI8vV3SuLy"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.depop.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 21,
+   "totalTokenCount": 272,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 189,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 189
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "6nHqap-dNqDXz7IPsa_v6QI"
+ }
+}

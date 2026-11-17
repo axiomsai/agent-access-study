@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/brand/bnd/longshore-tides-b44306.html",
+  "https://www.wayfair.com/furniture/sb2/small-under-42-in-solid-wood-console-tables-c414605-a149055~484716-a153173~505720.html",
+  "https://www.wayfair.com/furniture/sb2/solid-wood-ultra-modern-small-console-tables-c1867356-a153173~505720-a156515~530881.html",
+  "https://www.wayfair.com/furniture/sb0/small-console-tables-c1867356.html",
+  "https://www.wayfair.com/brand/bnd/longshore-tides-b44306-masterClID~132.html",
+  "https://www.wayfair.com/furniture/sb2/green-traditional-console-tables-with-storage-c1870575-a3738~272769-a156515~529404.html",
+  "https://www.wayfair.com/furniture/sb2/small-under-42-in-console-tables-under-150-c414605-a149055~484716-p3735~0~150.html",
+  "https://www.wayfair.com/furniture/sb2/small-under-42-in-white-console-tables-c414605-a3738~9693-a149055~484716.html",
+  "https://www.wayfair.com/furniture/sb1/longshore-tides-console-tables-c414605-a3736~44306.html",
+  "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Mahler 42 \" W Console Table | PRICE: $89.99 | STOCK: UNKNOWN | OPENED: NO: blocked (exact product page not opened)",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Mahler 42 \" W Console Table | PRICE: $89.99 | STOCK: UNKNOWN | OPENED: NO: blocked (exact product page not opened)",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/brand/bnd/longshore-tides-b44306.html",
+   "https://www.wayfair.com/furniture/sb2/small-under-42-in-solid-wood-console-tables-c414605-a149055~484716-a153173~505720.html",
+   "https://www.wayfair.com/furniture/sb2/solid-wood-ultra-modern-small-console-tables-c1867356-a153173~505720-a156515~530881.html",
+   "https://www.wayfair.com/furniture/sb0/small-console-tables-c1867356.html",
+   "https://www.wayfair.com/brand/bnd/longshore-tides-b44306-masterClID~132.html",
+   "https://www.wayfair.com/furniture/sb2/green-traditional-console-tables-with-storage-c1870575-a3738~272769-a156515~529404.html",
+   "https://www.wayfair.com/furniture/sb2/small-under-42-in-console-tables-under-150-c414605-a149055~484716-p3735~0~150.html",
+   "https://www.wayfair.com/furniture/sb2/small-under-42-in-white-console-tables-c414605-a3738~9693-a149055~484716.html",
+   "https://www.wayfair.com/furniture/sb1/longshore-tides-console-tables-c414605-a3736~44306.html",
+   "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+  ],
+  "created": 1793907387,
+  "id": "resp_02b31172-1262-4734-9dda-2c1639316a35",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-08-08",
+    "last_updated": "2026-10-10",
+    "place_metadata": null,
+    "snippet": "## Mahler 42 \" W Console Table\nBy Longshore Tides\nWhite\n(917)\nRated 4.8 out of 5 stars.917 total votes\n$89.99 was~~$139.89~~\nFREE 3-Day Delivery\nGet it by Tue, Oct 13\nThis console table brings a streamlined silhouette and a clean look to your entryway or living room.\nIt’s crafted with a solid and en...",
+    "source": "web",
+    "title": "Longshore Tides",
+    "url": "https://www.wayfair.com/brand/bnd/longshore-tides-b44306.html"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Mahler 42 \" W Console Table\nBy Longshore Tides\nWhite\n(921)\nRated 4.8 out of 5 stars.921 total votes\n$101.99\nwas~~$139.89~~\nFREE Delivery\nThis console table brings a streamlined silhouette and a clean look to your entryway or living room.\nIt’s crafted with a solid and engineered wood frame, and it...",
+    "source": "web",
+    "title": "Small (under 42 in.) Solid Wood Console Tables You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb2/small-under-42-in-solid-wood-console-tables-c414605-a149055~484716-a153173~505720.html"
+   },
+   {
+    "date": "2026-09-19",
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "# Solid Wood Ultra-Modern Small Console Tables\n1You are currently on page one2\nSale\n3 Colors\n## Mahler 42 \" W Console Table\nBy Longshore Tides\nWhite\n(915)\nRated 4.8 out of 5 stars.915 total votes\n$89.99\nwas~~$139.89~~\nFREE Fast Delivery\nGet it by Wed, Oct 21\nQuickview\nThis console table brings a str...",
+    "source": "web",
+    "title": "Solid Wood Ultra-Modern Small Console Tables You'll Love",
+    "url": "https://www.wayfair.com/furniture/sb2/solid-wood-ultra-modern-small-console-tables-c1867356-a153173~505720-a156515~530881.html"
+   },
+   {
+    "date": "2026-10-17",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Mahler 42 \" W Console Table\nBy Longshore Tides\nWhite\n(921)\nRated 4.8 out of 5 stars.921 total votes\n$99.99\nwas~~$139.89~~\nFREE Delivery\nThis console table brings a streamlined silhouette and a clean look to your entryway or living room.\nIt’s crafted with a solid and engineered wood frame, and it ...",
+    "source": "web",
+    "title": "Small Console Tables | Mini Console Table & Small Entrance ...",
+    "url": "https://www.wayfair.com/furniture/sb0/small-console-tables-c1867356.html"
+   },
+   {
+    "date": "2026-08-08",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "## Mahler 42 \" W Console Table\nBy Longshore Tides\nWhite\n(920)\nRated 4.8 out of 5 stars.920 total votes\n$91.99 was~~$139.89~~\nFREE 2-Day Delivery\nGet it by Sat, Oct 31\nThis console table brings a streamlined silhouette and a clean look to your entryway or living room.\nIt’s crafted with a solid and en...",
+    "source": "web",
+    "title": "Longshore Tides | Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/longshore-tides-b44306-masterClID~132.html"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Bertero 24 \" W Solid Wood Top Console Table\nBy Longshore Tides\nPeacock Green\n(217)\nRated 4.7 out of 5 stars.217 total votes\n$163.99\nwas~~$191.99~~\nFREE Delivery\n...\n## Cargian 42 \" W Console Table\nBy Red Barrel Studio®",
+    "source": "web",
+    "title": "Green Traditional Console Tables with Storage You'll Love",
+    "url": "https://www.wayfair.com/furniture/sb2/green-traditional-console-tables-with-storage-c1870575-a3738~272769-a156515~529404.html"
+   },
+   {
+    "date": "2025-04-29",
+    "last_updated": "2025-08-11",
+    "place_metadata": null,
+    "snippet": "Console Tables\n...\n4 Colors\nBy Longshore Tides\nWhite\nRated 4.8 out of 5 stars.758 total votes",
+    "source": "web",
+    "title": "Small (under 42 in.) Console Tables Under $150 You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb2/small-under-42-in-console-tables-under-150-c414605-a149055~484716-p3735~0~150.html"
+   },
+   {
+    "date": "2025-07-07",
+    "last_updated": "2025-07-21",
+    "place_metadata": null,
+    "snippet": "Console Tables\n...\nBy Wade Logan®\nWhite, 30\" H x 42\" W x 10\" D\n...\nGet it by Wed, Jul 23\n4 Colors\nBy Longshore Tides\nWhite\nRated 4.8 out of 5 stars.752 total votes",
+    "source": "web",
+    "title": "Small (under 42 in.) White Console Tables You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb2/small-under-42-in-white-console-tables-c414605-a3738~9693-a149055~484716.html"
+   },
+   {
+    "date": "2025-04-27",
+    "last_updated": "2025-07-09",
+    "place_metadata": null,
+    "snippet": "Console Tables\n...\n92 Items\n4 Colors\nBy Longshore Tides\nBlack\nRated 4.8 out of 5 stars.746 total votes\nFREE Delivery\n...\nBy Longshore Tides",
+    "source": "web",
+    "title": "Longshore Tides Console Tables You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/longshore-tides-console-tables-c414605-a3736~44306.html"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## 42\" Farmhouse Console Table, 2-Tier Entryway Table with Storage and Thickened Tabletop for Hallway, Living Room, Entrance, Behind Couch, Dark Brown\nBy August Grove®\n(26)\nRated 4.8 out of 5 stars.26 total votes\n$104.99\nFREE 1-Day Delivery\nElevate your home with this 41.7\" console table in a rich d...",
+    "source": "web",
+    "title": "Console, Sofa, and Entryway Tables - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00127,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00403
+   },
+   "prompt_tokens": 128,
+   "search_context_size": "low",
+   "total_tokens": 163
+  }
+ }
+}

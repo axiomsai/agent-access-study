@@ -1,0 +1,25 @@
+{
+ "domain": "lowes.com",
+ "idx": 5,
+ "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "6953 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6953,
+   "input_tokens": 24162,
+   "cost_usd": 0.10587
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "6820 chars, copy dated 2026-10-21 (21 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6820,
+   "input_tokens": 31435,
+   "cost_usd": 0.13854
+  }
+ }
+}

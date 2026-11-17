@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants",
+  "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true",
+  "https://www.gap.com/browse/product.do?pid=9139090120000",
+  "https://www.gap.com/browse/product.do?pid=9086500023834",
+  "https://www.gap.com/browse/product.do?pid=8601460020005",
+  "https://www.gap.com/browse/product.do?pid=8434730120009",
+  "https://www.gap.com/browse/product.do?pid=9113570020005",
+  "https://www.gap.com/browse/product.do?pid=7264390223434",
+  "https://www.gap.com/browse/product.do?pid=11798010022930",
+  "https://www.gap.com/browse/product.do?pid=8449270023303"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Rib Beanie | PRICE: $14.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Rib Beanie | PRICE: $14.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants",
+   "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true",
+   "https://www.gap.com/browse/product.do?pid=9139090120000",
+   "https://www.gap.com/browse/product.do?pid=9086500023834",
+   "https://www.gap.com/browse/product.do?pid=8601460020005",
+   "https://www.gap.com/browse/product.do?pid=8434730120009",
+   "https://www.gap.com/browse/product.do?pid=9113570020005",
+   "https://www.gap.com/browse/product.do?pid=7264390223434",
+   "https://www.gap.com/browse/product.do?pid=11798010022930",
+   "https://www.gap.com/browse/product.do?pid=8449270023303"
+  ],
+  "created": 1793751443,
+  "id": "resp_9da4c746-14df-4871-90f6-44e0306851e0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Rib Beanie | Gap\n...\n# Kids CashSoft Rib Beanie\n# Kids CashSoft Rib Beanie\n$29.95\n$14.00\n...\n## Color:\nModern Red\n## Size\nS/ML/XL\n1",
+    "source": "web",
+    "title": "Kids CashSoft Rib Beanie",
+    "url": "https://www.gap.com/browse/product.do?pid=1184966022&%20Sweatpants"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "## Seasoft\n[](https://athleta.gap.com/browse/product.do?pid=560340012)",
+    "source": "web",
+    "title": "New Shop All Collections Seasoft",
+    "url": "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "- [Matching Sets](https://www.gap.com/browse/women/matching-sets?cid=3021346)",
+    "source": "web",
+    "title": "Flannel Fitted Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=9139090120000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Canvas Relaxed Straight Jeans | Gap\n…\n...\n- [Shop All Styles](https://www.gap.com/browse/category.do?cid=1127944#pageId=0&department=75)\n...\n- [Sweatshirts & Sweatpants](https://www.gap.com/browse/category.do?cid=1066503#pageId=0&department=75)\n...\n# Canvas Relaxed Straight Jeans\n## Fit\nRegularTall",
+    "source": "web",
+    "title": "Canvas Relaxed Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=9086500023834"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Seamless Scoop Bralette\n...\n# Seamless Scoop Bralette\n$24.50",
+    "source": "web",
+    "title": "Seamless Scoop Bralette",
+    "url": "https://www.gap.com/browse/product.do?pid=8601460020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- New & Featured\n- [New Arrivals](https://www.gap.com/browse/category.do?cid=11900#pageId=0&department=75)",
+    "source": "web",
+    "title": "Featherweight Turtleneck",
+    "url": "https://www.gap.com/browse/product.do?pid=8434730120009"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Denim Oversized Shirt Jacket | Gap\n…\n...\n- [Sweatshirts & Sweatpants](https://www.gap.com/browse/category.do?cid=1066503#pageId=0&department=75)\n...\n- [Gap × Malbon](https://www.gap.com/browse/category.do?cid=3047264)\n...\n# Denim Oversized Shirt Jacket\n## Color:",
+    "source": "web",
+    "title": "Denim Oversized Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9113570020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- New & Featured\n- [New Arrivals](https://www.gap.com/browse/category.do?cid=8792#pageId=0&department=136)\n...\n# Linen-Cotton Khakis\n## Product details\n- Product #726439",
+    "source": "web",
+    "title": "Linen-Cotton Khakis",
+    "url": "https://www.gap.com/browse/product.do?pid=7264390223434"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "Gap × A.P.C. Japanese Denim Relaxed Straight Jeans | Gap\n...\n# Gap × A.P.C. Japanese Denim Relaxed Straight Jeans\nSold Out\n![Image 1 of 2, Fit: Slightly relaxed through the hip & thigh with a straight leg., Fabric: 13 oz (369 g) denim in 100% cotton., Stretch: Rigid Jeans. Authentic, non-stretch den...",
+    "source": "web",
+    "title": "Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=11798010022930"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Mid Rise UltraSoft Baggy Jeans | Gap\n…\n...\n- - [![Visit the Pants Shop](https://content.gapinc.com/d/1e576f7ee7b34naht76578dlj4f8cq0b.jpg?TP=GAP2)](https://www.gap.com/browse/men/pants?cid=80799)\n...\n- [Explore Matching PJsNew](https://www.gap.com/browse/info.do?cid=3057418)\n...\n# Mid Rise UltraSoft...",
+    "source": "web",
+    "title": "Mid Rise UltraSoft Baggy Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=8449270023303"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00092,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00363
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 141
+  }
+ }
+}

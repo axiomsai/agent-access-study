@@ -1,0 +1,25 @@
+{
+ "domain": "aliexpress.com",
+ "idx": 3,
+ "url": "https://www.aliexpress.us/item/3256812897461561.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15536,
+   "cost_usd": 0.06896
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15536,
+   "cost_usd": 0.06886
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/"
+  ]
+ ],
+ "answer": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.01141,
+ "raw": {
+  "id": "resp_09c366a589190ca2006aea79266b7087d099c125ce0fe2cc7f",
+  "object": "response",
+  "created_at": 1793751334,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793751335,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_09c366a589190ca2006aea7926de9487d0ad9aa14de76c141b",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/"
+    }
+   },
+   {
+    "id": "msg_09c366a589190ca2006aea79276f8c87d09e87d0c8e1806ec6",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 5045,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 2560
+   },
+   "output_tokens": 73,
+   "output_tokens_details": {
+    "reasoning_tokens": 44
+   },
+   "total_tokens": 5118
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

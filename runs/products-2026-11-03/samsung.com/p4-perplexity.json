@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+  "https://www.samsung.com/us/business/smartphones/galaxy-z-flip8/buy/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-verizon-sku-sm-f776uliavzw/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-sku-sm-f776uzwaatt/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzkaxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzwaxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uliexaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776ulgexaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uzkexaa/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Galaxy Z Flip8 | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Galaxy Z Flip8 | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+   "https://www.samsung.com/us/business/smartphones/galaxy-z-flip8/buy/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-verizon-sku-sm-f776uliavzw/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-sku-sm-f776uzwaatt/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzkaxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzwaxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uliexaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776ulgexaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uzkexaa/"
+  ],
+  "created": 1793751341,
+  "id": "resp_e62e3ca2-271e-47ab-9ddd-eecfeee86d15",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 512GB in Mint | Samsung US\n...\n# Galaxy Z Flip8\n512GB | Mint | Unlocked\n**$1,399.99 or 58.34/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nMint\nPink\n...\nDue to hi...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 512GB in Mint | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 256GB in Graphite for Unlocked | Samsung Business\n...\n# Galaxy Z Flip8\n256GB | Graphite | Unlocked | SM-F776UZKAXAA\nTotal**$1,199.99**\n...\nStorage\n256GB\n$1,199.99\n512GB\n$1,399.99\nGet it by Nov. 4\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience St...",
+    "source": "web",
+    "title": "Galaxy Z Flip8",
+    "url": "https://www.samsung.com/us/business/smartphones/galaxy-z-flip8/buy/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Get the Galaxy Z Flip8 256GB in Pink for Verizon | Samsung US\n...\n# Galaxy Z Flip8\n256GB | Pink | Verizon\n**$33.34/mo** for **36** mos^⊕^\n...\nPocketability\n50 MP FlexCam\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nMint\nPink\nCream\nGraph...",
+    "source": "web",
+    "title": "Get the Galaxy Z Flip8 256GB in Pink for Verizon | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-verizon-sku-sm-f776uliavzw/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Shop the Galaxy Z Flip8 256GB in Cream for AT&T | Samsung US\n...\n# Galaxy Z Flip8\n256GB | Cream | AT&T\n**$33.34/mo** for **36** mos^⊕^\n...\nFlexWindow\nPocketability\n50 MP FlexCam\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nMint\nPink\nCre...",
+    "source": "web",
+    "title": "Shop the Galaxy Z Flip8 256GB in Cream for AT&T | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-sku-sm-f776uzwaatt/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 256GB in Graphite | Samsung US\n...\n# Galaxy Z Flip8\n256GB | Graphite | Unlocked\n**$1,199.99 or 50.00/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n...\nChoose your...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 256GB in Graphite | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzkaxaa/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 256GB in Cream | Samsung US\n...\n# Galaxy Z Flip8\nNew\n256GB | Cream | Unlocked\n**$1,199.99 or 50.00/mo** for **24** mos **at 0% APR** ^⊕σ^\nGet up to $400 instant trade-in credit^θ^ or up to $1,100 in carrier deals.\n...\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nO...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 256GB in Cream",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776uzwaxaa/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 512GB in Pink | Samsung US\n...\n# Galaxy Z Flip8\n512GB | Pink | Unlocked\n**$1,399.99 or 58.34/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\nPocketability\n50 MP FlexCam\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience St...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 512GB in Pink",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uliexaa/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 512GB in Mint | Samsung US\n...\n# Galaxy Z Flip8\n512GB | Mint | Unlocked\n**$1,249.99 or $52.09/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,399.99 **Save $150.00**\n...\nwas: $1199.99 $1,049.99\n512GB\nwas: $1399.99 $1,249.99\nOnline Exclusive\nOnly available at Samsung.com ...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 512GB in Mint | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776ulgexaa/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\n...\n# Galaxy Z Flip8\n256GB | Mint | Unlocked\n**$1,199.99 or 50.00/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n50 MP FlexCam\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nMint\nPink...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 256GB in Mint",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/"
+   },
+   {
+    "date": "2026-08-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy the Unlocked Galaxy Z Flip8 512GB in Graphite | Samsung US\n...\n# Galaxy Z Flip8\n512GB | Graphite | Unlocked\n**$1,399.99 or 58.34/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\n256GB\n$1,199.99\n512GB\n$1,399.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\n...\nDue to high...",
+    "source": "web",
+    "title": "Buy the Unlocked Galaxy Z Flip8 512GB in Graphite",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-512gb-unlocked-sku-sm-f776uzkexaa/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00173,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00445
+   },
+   "prompt_tokens": 119,
+   "search_context_size": "low",
+   "total_tokens": 144
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "aliexpress.com",
+ "url": "https://www.aliexpress.us/item/3256812897461561.html",
+ "idx": 3,
+ "at": "2026-11-07T14:14:52-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06676
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 7e-05
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0113
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page details unavailable (search result did not open the exact product page)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

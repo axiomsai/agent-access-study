@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set | PRICE: $145.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00083,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set | PRICE: $145.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TmnGPzuHLGPA8437ROTNfpC7Rez0yqcDY/8UW5WAMOFBel2mvg96uTr4HMn4ZkKg5iKEJz/Lsoz+AgqfhLOY6D0LVtUB+WofJdntRJKmwFJfgdQVYVs1tEY7MFB8LDLP6kHJQ6tjBjqU+oFWh"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 164,
+   "candidatesTokenCount": 116,
+   "totalTokenCount": 7967,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 164
+    }
+   ],
+   "toolUsePromptTokenCount": 7687,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7687
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "yYbvauPML6LXz7IPkfXUsQY"
+ }
+}

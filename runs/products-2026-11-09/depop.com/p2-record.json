@@ -1,0 +1,60 @@
+{
+ "domain": "depop.com",
+ "url": "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+ "idx": 2,
+ "at": "2026-11-09T12:43:45-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (the web tool returned url_not_accessible)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0693
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: The website is blocking access to this page.",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 8e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "High-waisted, distressed, light wash denim shorts...",
+   "price": 4.0,
+   "price_raw": "$4.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01176
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

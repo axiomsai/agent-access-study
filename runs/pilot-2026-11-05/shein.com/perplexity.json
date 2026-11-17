@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+  "https://www.shein.com/ncr/Women-Clothing-c-2030.html",
+  "https://www.shein.com/ark/7043",
+  "https://m.shein.com/de/ein.com/Women-c-2030.html",
+  "https://us.shein.com/Teen-Boys-Polo-Shirts-c-6737.html",
+  "https://es.shein.com/Household-Merchandises-c-3989.html",
+  "https://m.shein.com/us/cc-c-2030.html",
+  "https://us.shein.com/sale/Clothing-sc-00564737.html",
+  "https://m.shein.com/us/",
+  "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+ ],
+ "cited_store": true,
+ "answer": "Women's & Men's Clothing, Shop Online Fashion | SHEIN — Women Clothing",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Women's & Men's Clothing, Shop Online Fashion | SHEIN — Women Clothing",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+   "https://www.shein.com/ncr/Women-Clothing-c-2030.html",
+   "https://www.shein.com/ark/7043",
+   "https://m.shein.com/de/ein.com/Women-c-2030.html",
+   "https://us.shein.com/Teen-Boys-Polo-Shirts-c-6737.html",
+   "https://es.shein.com/Household-Merchandises-c-3989.html",
+   "https://m.shein.com/us/cc-c-2030.html",
+   "https://us.shein.com/sale/Clothing-sc-00564737.html",
+   "https://m.shein.com/us/",
+   "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+  ],
+  "created": 1793905845,
+  "id": "resp_fa3e9652-14a7-42b8-8048-9c88188e707d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Shoes\nHome/Shoes/Women Shoes/\n## Filter\n### Category\nWomen Wedges & PlatformWomen PumpsWomen FlatsWomen Fashion BootsWomen Ankle Boots & BootiesWomen Mid-Calf BootsWomen Knee-High BootsWomen Over-the-Knee BootsWomen Pant BootsWomen...",
+    "source": "web",
+    "title": "Women's Shoes| Shop Flats, Sandals & Heels Online | SHEIN",
+    "url": "https://www.shein.com/ncr/Women-Shoes-c-1745.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Clothing\nHome/Women Apparel/Women Clothing/\n## Filter\n### Category\nWomen Tops, Blouses & TeeWomen Blouses & ShirtsWomen T-ShirtsWomen Tank Tops & CamisWomen Sweatshirts & HoodiesWomen Denim TopsWomen Denim Jackets & CoatsWomen Jean...",
+    "source": "web",
+    "title": "Shop Women's Clothing Online | SHEIN",
+    "url": "https://www.shein.com/ncr/Women-Clothing-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "The event has ended, please continue to browse the products you are interested in",
+    "source": "web",
+    "title": "SHEIN",
+    "url": "https://www.shein.com/ark/7043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Women Clothing\nWomen Tops, Blouses & Tee\nWomen Dresses\nWomen Knitwear\nWomen Sweatshirts & Hoodies\nWomen Bottoms\nWomen Co-ords",
+    "source": "web",
+    "title": "Damenmode | aktuelle Trends, günstig kaufen",
+    "url": "https://m.shein.com/de/ein.com/Women-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Teen Boys Polo Shirts\nHome/Kids/Teen Boys Clothing/Teen Boys Tops/Teen Boys Polo Shirts/",
+    "source": "web",
+    "title": "Fashion Teen Boys Polo Shirts",
+    "url": "https://us.shein.com/Teen-Boys-Polo-Shirts-c-6737.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Home > Household Merchandises\nHome/Home & Living/Household Merchandises/\n...\n## Product list\nNEWTeckwe Hand Warmer The Portable Hand Warmer Has An Ultra-Thin Design, Provides Lasting Heat For 4-8 Hours, And Can Be Used To Warm Up Your Stomach To Relieve Period Pain",
+    "source": "web",
+    "title": "Moda Artículos para el Hogar | SHEIN España",
+    "url": "https://es.shein.com/Household-Merchandises-c-3989.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's Clothing | Dresses, Pants, Tops & More | SHEIN USA\n# Women Clothing\nWomen Tops, Blouses & Tee\nWomen Sweatshirts & Hoodies\nWomen Knitwear",
+    "source": "web",
+    "title": "Women's Clothing | Dresses, Pants, Tops & More | SHEIN USA",
+    "url": "https://m.shein.com/us/cc-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Clothing\nHome/Clothing/\n## Filter\n### Category\nWomen Tops, Blouses & TeeWomen Blouses & ShirtsWomen T-ShirtsWomen BeachwearWomen Co-ordsWomen Two-piece Outfits\n### Trends Store\n...\n## Product list\n#DailyTailored\nLocal\n-28%\nModelyn Buckle...",
+    "source": "web",
+    "title": "Fashion Clothing",
+    "url": "https://us.shein.com/sale/Clothing-sc-00564737.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's Clothing, Women Fashion Sale | SHEIN USA\nFree Shipping\nOn SHEIN-shipped orders $15+\nFree Returns",
+    "source": "web",
+    "title": "Women's Clothing, Women Fashion Sale | SHEIN USA",
+    "url": "https://m.shein.com/us/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > shein\nHome/shein/\n...\n## Product list\n-9%\nSHEIN Women's Sexy Butterfly Print Lingerie Set 2pcs\n$5.89\n$5.89\n...\nSlayform Women's Solid Color Long Sleeve Mesh Patchwork Sports Dress\n...\nSHEIN PETITE Women's Black Lace-Trimmed Sexy And Vers...",
+    "source": "web",
+    "title": "Fashion shein | SHEIN USA",
+    "url": "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 16,
+   "cost": {
+    "input_tokens_cost": 0.0007999999999999999,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00334
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

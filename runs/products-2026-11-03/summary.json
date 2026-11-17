@@ -1,0 +1,6002 @@
+[
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B07BGLT25K",
+  "idx": 1,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the fetch tool returned the \"url_not_allowed\" error)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06871
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the URL is blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03352
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B079VP6DH5",
+  "idx": 2,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06814
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03377
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls",
+    "price": 43.49,
+    "price_raw": "$43.49",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B00MNV8E0C",
+  "idx": 3,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06811
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page was blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0327
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked by search-only access",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B0DQYR6X8R",
+  "idx": 4,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (web fetch returned \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0693
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page is blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.04413
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls",
+    "price": 6.97,
+    "price_raw": "$6.97",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/dp/B0FN4NH4K8",
+  "idx": 5,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (my web tool refused this URL with a url_not_allowed error)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06937
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 6e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.05501
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+  "idx": 1,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16380 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:07+00:00",
+    "age_days": 0,
+    "cost_usd": 0.17942
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": 269.0,
+    "price_raw": "$269.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00058
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": 269.0,
+    "price_raw": "$269.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0236
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+    "price": 269.0,
+    "price_raw": "$269.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+  "idx": 2,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15596 chars, copy dated 2026-10-27 (7 days old)",
+    "parsed": true,
+    "name": "Apple, AirPods 4, Personalized Spatial Audio, Water Resistant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-27T09:05:17+00:00",
+    "age_days": 7,
+    "cost_usd": 0.17128
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": 89.0,
+    "price_raw": "$89.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00055
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0235
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Apple AirPods 4",
+    "price": 89.0,
+    "price_raw": "$89.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+  "idx": 3,
+  "at": "2026-11-03T18:13:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15347 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:10+00:00",
+    "age_days": 0,
+    "cost_usd": 0.18112
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00059
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, Slushy Maker, FS300BL Blue",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03492
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+  "idx": 4,
+  "at": "2026-11-03T18:13:19-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15702 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:26+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1554
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": 23.0,
+    "price_raw": "$23.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00056
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": 24.0,
+    "price_raw": "$24.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+    "price": 23.0,
+    "price_raw": "$23.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+  "idx": 5,
+  "at": "2026-11-03T18:13:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15274 chars, copy dated 2026-09-05 (59 days old)",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-09-05T01:30:39+00:00",
+    "age_days": 59,
+    "cost_usd": 0.14384
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver",
+    "price": 218.99,
+    "price_raw": "$218.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00062
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "New Acer Chromebook 315 Laptop - 15.6\" Celeron Processor, 4GB RAM, 64GB eMMC, Pure Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02368
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver, ChromeOS",
+    "price": 219.94,
+    "price_raw": "$219.94",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+  "idx": 1,
+  "at": "2026-11-03T18:13:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product name, price or stock shown)",
+    "retrieved_at": "2026-11-04T00:13:25+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1023
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The requested page could not be accessed directly (possible bot detection or page layout issue)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00218
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01144
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact page not accessible",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart-4-all-terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+  "idx": 2,
+  "at": "2026-11-03T18:13:22-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product details)",
+    "retrieved_at": "2026-11-04T00:13:26+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10181
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "680/ 450/380/220/30 LBS Heavy Duty Foldable Utility Cart, -terrain Wheels, Durable Alloy and 600D Oxford Cloth, No , Height Adjustable Wagon Cart, Suitable for Camping, Gardening and Shopping-black/ B",
+    "price": 19.11,
+    "price_raw": "$19.11",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01147
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+  "idx": 3,
+  "at": "2026-11-03T18:13:24-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "463 chars, copy dated 2026-10-09 (25 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page returned only an empty \"Temu\" shell with no product content)",
+    "retrieved_at": "2026-10-09T10:30:04+00:00",
+    "age_days": 25,
+    "cost_usd": 0.10195
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page did not load product details (blocked/bot detection)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00218
+   },
+   "openai": {
+    "verdict": "served_thin",
+    "why": "opened a shell page: captcha",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked/captcha",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01144
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact page could not be opened reliebly",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+  "idx": 4,
+  "at": "2026-11-03T18:13:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the fetch tool rejected the URL as too long, so the page never loaded)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07057
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The requested page requires interaction or has blocked automated access, as indicated by the presence of a CAPTCHA-like environment/bot-detection scripts.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00219
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01148
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error retrieving the exact page",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+  "idx": 5,
+  "at": "2026-11-03T18:13:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the fetch only returned an empty \"Temu\" page with no product details)",
+    "retrieved_at": "2026-11-04T00:13:29+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10106
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "3pcs Men's Sweatpants Casual Athletic Lounge Pants",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The page failed to load product details due to bot detection or restricted content access.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00216
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01138
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/276582090868",
+  "idx": 1,
+  "at": "2026-11-03T18:13:33-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15404 chars, copy dated 2026-09-04 (60 days old)",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 439.99,
+    "price_raw": "$439.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-04T12:01:03+00:00",
+    "age_days": 60,
+    "cost_usd": 0.13793
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 399.99,
+    "price_raw": "$399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00056
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 349.99,
+    "price_raw": "$349.99",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/157751149633",
+  "idx": 2,
+  "at": "2026-11-03T18:13:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15141 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:46+00:00",
+    "age_days": 0,
+    "cost_usd": 0.2311
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": 22.0,
+    "price_raw": "$22.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00076
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": 24.0,
+    "price_raw": "$24.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02351
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/167031735841",
+  "idx": 3,
+  "at": "2026-11-03T18:13:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "16277 chars, copy dated 2026-08-15 (80 days old)",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-08-15T02:22:19+00:00",
+    "age_days": 80,
+    "cost_usd": 0.13488
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00061
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/168227853120",
+  "idx": 4,
+  "at": "2026-11-03T18:13:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16426 chars, copy dated 2026-10-29 (5 days old)",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1007.1,
+    "price_raw": "$1,007.10",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-10-29T20:27:52+00:00",
+    "age_days": 5,
+    "cost_usd": 0.10234
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1007.1,
+    "price_raw": "$1,007.10",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0007
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1007.1,
+    "price_raw": "$1,007.10",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/144387248424",
+  "idx": 5,
+  "at": "2026-11-03T18:13:44-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "17289 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:50+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13158
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00068
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1623.75,
+    "price_raw": "$1,623.75",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1016338618",
+  "idx": 1,
+  "at": "2026-11-03T18:13:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18488 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:50+00:00",
+    "age_days": 0,
+    "cost_usd": 0.09975
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00192
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01235
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1145741800",
+  "idx": 2,
+  "at": "2026-11-03T18:13:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18653 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:51+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13972
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00062
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01231
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/4553600871",
+  "idx": 3,
+  "at": "2026-11-03T18:13:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18384 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:52+00:00",
+    "age_days": 0,
+    "cost_usd": 0.09974
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00197
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01235
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/4435842809",
+  "idx": 4,
+  "at": "2026-11-03T18:13:54-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18600 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 118.48,
+    "price_raw": "$118.48",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:59+00:00",
+    "age_days": 0,
+    "cost_usd": 0.21128
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 94.78,
+    "price_raw": "$94.78",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.002
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 94.78,
+    "price_raw": "$94.78+",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 94.78,
+    "price_raw": "$94.78+",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1736171915",
+  "idx": 5,
+  "at": "2026-11-03T18:14:01-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18126 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Ceramic Hand Painted Cup",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:14:06+00:00",
+    "age_days": 0,
+    "cost_usd": 0.23259
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized ceramic hand painted cup",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00201
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized ceramic hand painted cup",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Personalized ceramic hand painted cup",
+    "price": 45.0,
+    "price_raw": "$45.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+  "idx": 1,
+  "at": "2026-11-03T18:14:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15191 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 499.0,
+    "price_raw": "$499.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:14:08+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13966
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 499.0,
+    "price_raw": "$499.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00058
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 499.0,
+    "price_raw": "$499.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01243
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 519.0,
+    "price_raw": "$519.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+  "idx": 2,
+  "at": "2026-11-03T18:14:07-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15144 chars, copy dated 2026-10-23 (11 days old)",
+    "parsed": true,
+    "name": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 259.0,
+    "price_raw": "$259.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-23T21:25:44+00:00",
+    "age_days": 11,
+    "cost_usd": 0.1415
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 259.0,
+    "price_raw": "$259.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00059
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 229.0,
+    "price_raw": "$229.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01242
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 239.0,
+    "price_raw": "$239.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-17-in-ADA-Chair-Height-2-piece-1-28-GPF-Single-Flush-Round-Toilet-Map-Flush-1000g-Soft-Close-Seat-Included-HR-TRS01/325343119",
+  "idx": 3,
+  "at": "2026-11-03T18:14:08-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16469 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "HOROW 17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 139.0,
+    "price_raw": "$139.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T02:40:06+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13986
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 139.0,
+    "price_raw": "$139.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00079
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 149.0,
+    "price_raw": "$149.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01248
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 169.0,
+    "price_raw": "$169.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+  "idx": 4,
+  "at": "2026-11-03T18:14:10-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15224 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 799.0,
+    "price_raw": "$799.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T19:43:24+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14112
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00051
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 799.0,
+    "price_raw": "$799.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01246
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 949.0,
+    "price_raw": "$949.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+  "idx": 5,
+  "at": "2026-11-03T18:14:12-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15097 chars, copy dated 2026-10-31 (3 days old)",
+    "parsed": true,
+    "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 369.0,
+    "price_raw": "$369.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-31T14:51:59+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14203
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 369.0,
+    "price_raw": "$369.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00083
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 359.0,
+    "price_raw": "$359.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01245
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: page access was not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "idx": 1,
+  "at": "2026-11-03T18:14:13-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the fetch tool returned url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06928
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00073
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01234
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "The Ultimate Beauty Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+  "idx": 2,
+  "at": "2026-11-03T18:14:27-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool rejected the URL with \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07121
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0009
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0124
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/athena-club-hair-38-body-mist-bare-gold-6-fl-oz/-/A-1009560051",
+  "idx": 3,
+  "at": "2026-11-03T18:14:28-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0694
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00069
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Athena Club Hair & Body Mist - Bare Gold - 6 fl oz",
+    "price": 15.99,
+    "price_raw": "$15.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+  "idx": 4,
+  "at": "2026-11-03T18:14:28-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06958
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00073
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+  "idx": 5,
+  "at": "2026-11-03T18:14:28-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (my web tool returned url_not_allowed for this page)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06928
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00056
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01234
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "The Ultimate Spa Advent Calendar - 12pc",
+    "price": 20.0,
+    "price_raw": "$20.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+  "idx": 1,
+  "at": "2026-11-03T18:14:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "11760 chars, copy dated 2026-10-16 (18 days old)",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-16T23:19:56+00:00",
+    "age_days": 18,
+    "cost_usd": 0.20177
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": 1899.0,
+    "price_raw": "$1,899.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00142
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": 1899.0,
+    "price_raw": "$1,899.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01251
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00523
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+  "idx": 2,
+  "at": "2026-11-03T18:14:33-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "9974 chars, copy dated 2026-10-08 (26 days old)",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 465.0,
+    "price_raw": "$465.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-08T18:09:11+00:00",
+    "age_days": 26,
+    "cost_usd": 0.13858
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00133
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": 299.0,
+    "price_raw": "$299.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01242
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+  "idx": 3,
+  "at": "2026-11-03T18:14:34-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "9436 chars, copy dated 2026-10-18 (16 days old)",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-18T19:14:01+00:00",
+    "age_days": 16,
+    "cost_usd": 0.14099
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00113
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01243
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+  "idx": 4,
+  "at": "2026-11-03T18:14:36-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "11190 chars, copy dated 2026-10-23 (11 days old)",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 199.0,
+    "price_raw": "$199.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-23T14:19:01+00:00",
+    "age_days": 11,
+    "cost_usd": 0.14705
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0012
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Pull-down Kitchen Faucet with Sprayer (Deck Plate Included) 19846Z-SS-DST",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01241
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate)",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+  "idx": 5,
+  "at": "2026-11-03T18:14:44-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6817 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:14:52+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13689
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah)",
+    "price": 449.0,
+    "price_raw": "$449.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00102
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+    "price": 449.0,
+    "price_raw": "$449.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+    "price": 449.0,
+    "price_raw": "$449.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+  "idx": 1,
+  "at": "2026-11-03T18:14:44-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the fetch tool returned \"url_not_accessible\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0705
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00031
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+    "price": 8.99,
+    "price_raw": "$8.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+  "idx": 2,
+  "at": "2026-11-03T18:14:44-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6303 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:14:57+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10054
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00035
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01192
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+  "idx": 3,
+  "at": "2026-11-03T18:14:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "5668 chars, copy dated 2026-11-01 (2 days old)",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-01T02:48:01+00:00",
+    "age_days": 2,
+    "cost_usd": 0.10034
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00021
+   },
+   "openai": {
+    "verdict": "served_thin",
+    "why": "opened a shell page: 403 forbidden",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (403 Forbidden)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01135
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "price": 23.99,
+    "price_raw": "$23.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+  "idx": 4,
+  "at": "2026-11-03T18:14:53-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE (page did not load)",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the fetch tool returned \"url_not_accessible\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07068
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0003
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01137
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+    "price": 12.99,
+    "price_raw": "$12.99",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+  "idx": 5,
+  "at": "2026-11-03T18:14:53-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7076 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:07+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10124
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00031
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+  "idx": 1,
+  "at": "2026-11-03T18:14:55-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "9795 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+    "price": 259.99,
+    "price_raw": "$259.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T11:50:55+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14455
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+    "price": 259.99,
+    "price_raw": "$259.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00087
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02367
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+    "price": 339.0,
+    "price_raw": "$339.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+  "idx": 2,
+  "at": "2026-11-03T18:14:58-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "10855 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T15:12:16+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14568
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": 479.99,
+    "price_raw": "$479.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00088
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023719999999999998
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": 615.99,
+    "price_raw": "$615.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+  "idx": 3,
+  "at": "2026-11-03T18:15:06-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "8115 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T10:53:08+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14109
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": 54.99,
+    "price_raw": "$54.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00085
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "bella PRO SmartCrisp 8 qt. Touchscreen Air Fryer Stainless Steel",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02361
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": 129.99,
+    "price_raw": "$129.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+  "idx": 4,
+  "at": "2026-11-03T18:15:08-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7821 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": 499.0,
+    "price_raw": "$499.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T16:26:25+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13939
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": 499.0,
+    "price_raw": "$499",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00087
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.03486
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": 499.0,
+    "price_raw": "$499",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+  "idx": 5,
+  "at": "2026-11-03T18:15:12-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "10908 chars, copy dated 2026-10-21 (13 days old)",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-21T02:12:08+00:00",
+    "age_days": 13,
+    "cost_usd": 0.1496
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "price": 189.0,
+    "price_raw": "$189",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00088
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023710000000000002
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+  "idx": 1,
+  "at": "2026-11-03T18:15:12-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "2745 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra",
+    "price": 1349.99,
+    "price_raw": "$1,349.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T13:33:15+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10649
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra",
+    "price": 1349.99,
+    "price_raw": "$1,349.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone | Samsung US",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01141
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra 512GB | Cobalt Violet | Unlocked",
+    "price": 1349.99,
+    "price_raw": "$1,349.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+  "idx": 2,
+  "at": "2026-11-03T18:15:17-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "2734 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1599.99,
+    "price_raw": "$1,599.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T10:06:59+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1392
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1899.99,
+    "price_raw": "$1,899.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01139
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1899.99,
+    "price_raw": "$1,899.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+  "idx": 3,
+  "at": "2026-11-03T18:15:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "2425 chars, copy dated 2026-11-02 (1 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 2299.99,
+    "price_raw": "$2,299.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-02T23:28:01+00:00",
+    "age_days": 1,
+    "cost_usd": 0.13426
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 2299.99,
+    "price_raw": "$2,299.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00059
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 2299.99,
+    "price_raw": "$2,299.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01141
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 1899.99,
+    "price_raw": "$1,899.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+  "idx": 4,
+  "at": "2026-11-03T18:15:21-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "2406 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T05:55:08+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13737
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0006
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0114
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
+  "idx": 5,
+  "at": "2026-11-03T18:15:24-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "2462 chars, copy dated 2026-11-03 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra (14.6\")",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T14:34:58+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13486
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00058
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01143
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra (14.6\")",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+  "idx": 1,
+  "at": "2026-11-03T18:15:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "13816 chars, copy dated 2026-10-15 (19 days old)",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-15T16:00:40+00:00",
+    "age_days": 19,
+    "cost_usd": 0.13975
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": 7.79,
+    "price_raw": "$7.79",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00035
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01192
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea",
+    "price": 7.79,
+    "price_raw": "$7.79",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+  "idx": 2,
+  "at": "2026-11-03T18:15:32-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12832 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:37+00:00",
+    "age_days": 0,
+    "cost_usd": 0.18441
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea",
+    "price": 4.99,
+    "price_raw": "$4.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "served_thin",
+    "why": "opened a shell page: 403 forbidden",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (403 Forbidden)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01135
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+    "price": 4.99,
+    "price_raw": "$4.99",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+  "idx": 3,
+  "at": "2026-11-03T18:15:35-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "13913 chars, copy dated 2026-09-23 (41 days old)",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-09-23T15:22:06+00:00",
+    "age_days": 41,
+    "cost_usd": 0.18916
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The requested product page did not load correctly, displaying only navigation and privacy content instead of the specific product details.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00031
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+  "idx": 4,
+  "at": "2026-11-03T18:15:38-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12732 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:44+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1839
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": 20.99,
+    "price_raw": "$20.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00044
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01194
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg - 30 ea",
+    "price": 24.99,
+    "price_raw": "$24.99",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+  "idx": 5,
+  "at": "2026-11-03T18:15:38-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12714 chars, copy dated 2026-11-01 (2 days old)",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-01T23:10:42+00:00",
+    "age_days": 2,
+    "cost_usd": 0.17318
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00042
+   },
+   "openai": {
+    "verdict": "served_thin",
+    "why": "opened a shell page: 403 forbidden",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (403 Forbidden)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01134
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+  "idx": 1,
+  "at": "2026-11-03T18:15:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "6570 chars, copy dated 2026-10-19 (15 days old)",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-10-19T01:33:20+00:00",
+    "age_days": 15,
+    "cost_usd": 0.13495
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00054
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01238
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+  "idx": 2,
+  "at": "2026-11-03T18:15:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible, the page could not be retrieved)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06979
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": 2499.99,
+    "price_raw": "$2,499.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00052
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": 2499.99,
+    "price_raw": "$2,499.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/hp-omnibook-5-16-touchscreen-laptop---amd-ryzen-ai-9-465---copilot-pc---2k-oled-1920-x-1200---32gb-memory---1tb-ssd---windows-11-home/4201003802",
+  "idx": 3,
+  "at": "2026-11-03T18:15:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "9393 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home.",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:51+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13723
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home.",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00048
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home.",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01253
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: price and stock not shown in available page results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00525
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+  "idx": 4,
+  "at": "2026-11-03T18:15:55-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6566 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:59+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13092
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00068
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01238
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+  "idx": 5,
+  "at": "2026-11-03T18:15:57-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6596 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:01+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10235
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00049
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01241
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+  "idx": 1,
+  "at": "2026-11-03T18:15:59-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (my web tool refused the link because the URL is too long, so the page never loaded)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07624
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy",
+    "price": 2.76,
+    "price_raw": "$2.76",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00027
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+    "price": 3.0,
+    "price_raw": "$3.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+    "price": 2.76,
+    "price_raw": "$2.76",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0053
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html",
+  "idx": 2,
+  "at": "2026-11-03T18:16:00-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the web tool rejected the URL as too long)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07455
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked, captcha, not allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00125
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+    "price": 3.9,
+    "price_raw": "$3.90",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01215
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+    "price": 3.4,
+    "price_raw": "$3.40",
+    "stock": "UNKNOWN",
+    "opened": "NO: search result only",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00528
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Autumn-Thanksgiving-Thankful-Printing-Drop-Shoulder-Casual-White-Graphic-Sweatshirt-Chenille-Yarn-Sportwear-Customized-Christian-SchoolGift-Winter-p-570542332.html",
+  "idx": 3,
+  "at": "2026-11-03T18:16:00-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page returned only an empty shell with no product details)",
+    "retrieved_at": "2026-11-04T00:16:05+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07324
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked, captcha, not allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00122
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+    "price": 6.99,
+    "price_raw": "$6.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01196
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+    "price": 7.99,
+    "price_raw": "$7.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page not accessible",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Satin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html",
+  "idx": 4,
+  "at": "2026-11-03T18:16:00-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page came back as an empty shell with no product name, price or stock shown)",
+    "retrieved_at": "2026-11-04T00:16:05+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07209
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00122
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Satin Halter Neck High Low Dress For Women, Feather Trim Sleeveless Flowy Dress, Backless Split Hem Elegant Night Out Party Dress",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01177
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact page unavailable (search returned a different product page)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Women-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html",
+  "idx": 5,
+  "at": "2026-11-03T18:16:08-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded but returned only meta tags, with no product name, price or stock shown)",
+    "retrieved_at": "2026-11-04T00:16:13+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07137
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked, captcha, not allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00122
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01174
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page could not be opened",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+  "idx": 1,
+  "at": "2026-11-03T18:16:15-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15709 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:19+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13767
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": 619.99,
+    "price_raw": "$619.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00103
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": 619.99,
+    "price_raw": "$619.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02326
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": 548.0,
+    "price_raw": "$548.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+  "idx": 2,
+  "at": "2026-11-03T18:16:15-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15605 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:20+00:00",
+    "age_days": 0,
+    "cost_usd": 0.23366
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00155
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02333
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00524
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+  "idx": 3,
+  "at": "2026-11-03T18:16:16-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15631 chars, copy dated 2026-10-19 (15 days old)",
+    "parsed": true,
+    "name": "Birch Lane™ Iago Outdoor Umbrella",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-19T19:43:32+00:00",
+    "age_days": 15,
+    "cost_usd": 0.18407
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": 165.0,
+    "price_raw": "$165.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00174
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02287
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": 189.0,
+    "price_raw": "$189.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+  "idx": 4,
+  "at": "2026-11-03T18:16:17-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15616 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:21+00:00",
+    "age_days": 0,
+    "cost_usd": 0.18169
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Johnavan 32\" Handmade Wreath",
+    "price": 254.3,
+    "price_raw": "$254.30",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00169
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Johnavan 32 \" Handmade Wreath",
+    "price": 281.43,
+    "price_raw": "$281.43",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0229
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Johnavan Faux Evergreen 32'' Holiday Wreath",
+    "price": 273.1,
+    "price_raw": "$273.10",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+  "idx": 5,
+  "at": "2026-11-03T18:16:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15738 chars, copy dated 2026-08-29 (66 days old)",
+    "parsed": true,
+    "name": "Longshore Tides Mahler 42'' Console Table",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-08-29T12:45:08+00:00",
+    "age_days": 66,
+    "cost_usd": 0.18709
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Mahler 42\" W Console Table",
+    "price": 99.99,
+    "price_raw": "$99.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00182
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Mahler 42 \" W Console Table",
+    "price": 99.99,
+    "price_raw": "$99.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02297
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Mahler 42 \" W Console Table",
+    "price": 89.99,
+    "price_raw": "$89.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked by search result, not the exact page",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+  "idx": 1,
+  "at": "2026-11-03T18:16:19-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15466 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:24+00:00",
+    "age_days": 0,
+    "cost_usd": 0.1425
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": 148.75,
+    "price_raw": "$148.75",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00087
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": 148.75,
+    "price_raw": "$148.75",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02358
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": 175.0,
+    "price_raw": "$175.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+  "idx": 2,
+  "at": "2026-11-03T18:16:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15494 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:26+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14342
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 123.25,
+    "price_raw": "$123.25",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00081
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 123.25,
+    "price_raw": "$123.25",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02367
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 123.25,
+    "price_raw": "$123.25",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/maison-francis-kurkdjian-3-piece-gentle-fluidity-gold-perfume-ritual-gift-set?ID=28809657",
+  "idx": 3,
+  "at": "2026-11-03T18:16:28-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15420 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:34+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14606
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 9e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": 310.0,
+    "price_raw": "$310.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023629999999999998
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": 310.0,
+    "price_raw": "$310.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: page access was not available",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+  "idx": 4,
+  "at": "2026-11-03T18:16:37-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15426 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:42+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14049
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 157.25,
+    "price_raw": "$157.25",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0007
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 157.25,
+    "price_raw": "$157.25",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02361
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 157.25,
+    "price_raw": "$157.25",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page content unavailable",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+  "idx": 5,
+  "at": "2026-11-03T18:16:40-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15439 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:43+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14352
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00082
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02357
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not directly opened",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256813345982189.html",
+  "idx": 1,
+  "at": "2026-11-03T18:16:41-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (web tool returned url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06648
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the URL is blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256810554257219.html",
+  "idx": 2,
+  "at": "2026-11-03T18:16:42-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06836
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (redirected to login)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01132
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page could not be found",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812897461561.html",
+  "idx": 3,
+  "at": "2026-11-03T18:16:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (my web tool refused this URL with the error \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06675
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812987473153.html",
+  "idx": 4,
+  "at": "2026-11-03T18:16:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool returned url_not_allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06656
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page is blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked by login redirect/error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01131
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812095603119.html",
+  "idx": 5,
+  "at": "2026-11-03T18:16:47-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06672
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page is blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01131
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page could not be opened (search result did not retrieve the exact product page)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=1188295092",
+  "idx": 1,
+  "at": "2026-11-03T18:16:56-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7507 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:01+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10575
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00041
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 44.0,
+    "price_raw": "$44.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=908929032",
+  "idx": 2,
+  "at": "2026-11-03T18:16:57-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "8126 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 69.95,
+    "price_raw": "$69.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:02+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10268
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 55.0,
+    "price_raw": "$55.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00037
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02352
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 55.0,
+    "price_raw": "$55.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=914524042",
+  "idx": 3,
+  "at": "2026-11-03T18:16:57-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7394 chars, copy dated 2026-10-31 (3 days old)",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 59.0,
+    "price_raw": "$59.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-31T22:17:56+00:00",
+    "age_days": 3,
+    "cost_usd": 0.10539
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 59.0,
+    "price_raw": "$59.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00016
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 94.0,
+    "price_raw": "$94.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023530000000000002
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page was not accessible in the available results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=1184966022",
+  "idx": 4,
+  "at": "2026-11-03T18:17:00-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7649 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 17.0,
+    "price_raw": "$17.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:05+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10513
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 14.0,
+    "price_raw": "$14.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00021
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 17.0,
+    "price_raw": "$17.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023559999999999998
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 14.0,
+    "price_raw": "$14.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=908887122",
+  "idx": 5,
+  "at": "2026-11-03T18:17:00-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7530 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:06+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10473
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00048
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01131
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/zoeyaliviaw12-gray-cropped-hoodie-with-star-eafc/",
+  "idx": 1,
+  "at": "2026-11-03T18:17:01-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06895
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page is not accessible",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Gray cropped hoodie with star design #cropped #star",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0118
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+  "idx": 2,
+  "at": "2026-11-03T18:17:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06714
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Women's Blue Shorts",
+    "price": 4.9,
+    "price_raw": "$4.90",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0118
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/ptyjennu-message-before-buying-so-i-0180/",
+  "idx": 3,
+  "at": "2026-11-03T18:17:02-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06665
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Cotton On Women's Grey T-shirt",
+    "price": 9.0,
+    "price_raw": "$9.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01179
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+  "idx": 4,
+  "at": "2026-11-03T18:17:16-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06702
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the website blocked access",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bebe Women's Green and Khaki T-shirt",
+    "price": 6.0,
+    "price_raw": "$6.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01184
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/jcwiley0h-never-been-worn-adidas-yoga-c487/",
+  "idx": 5,
+  "at": "2026-11-03T18:17:17-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06693
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The page is inaccessible due to platform restrictions.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Adidas Women's Grey and Brown Leggings",
+    "price": 15.0,
+    "price_raw": "$15.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01181
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+  "idx": 1,
+  "at": "2026-11-03T18:17:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15236 chars, copy dated 2026-09-10 (54 days old)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-10T22:18:26+00:00",
+    "age_days": 54,
+    "cost_usd": 0.10323
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00052
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01191
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+  "idx": 2,
+  "at": "2026-11-03T18:17:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "14407 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:23+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10563
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 10.99,
+    "price_raw": "$10.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00084
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 9.99,
+    "price_raw": "$9.99",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0118
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+  "idx": 3,
+  "at": "2026-11-03T18:17:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16635 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:23+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10396
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Dunkin' Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00055
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01205
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+  "idx": 4,
+  "at": "2026-11-03T18:17:19-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16480 chars, copy dated 2026-11-04 (0 days old)",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast, 25.9 Ounces",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:24+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13169
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0005
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 15.69,
+    "price_raw": "$15.69",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01203
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "idx": 5,
+  "at": "2026-11-03T18:17:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "14210 chars, copy dated 2026-09-30 (34 days old)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee, 29 oz",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-30T00:34:36+00:00",
+    "age_days": 34,
+    "cost_usd": 0.1011
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00029
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01184
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ }
+]

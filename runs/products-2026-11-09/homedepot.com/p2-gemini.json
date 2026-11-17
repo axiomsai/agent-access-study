@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0008,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TEq5VBfa7Awllz/clCFF4deMfBM5utycL7SjaE1s/6+fktqB91YOteVHwH8qmd8jYPywd9UHCcoyqqBzkA0yb3AP3b60zOiRHKlDwoKIIgOjW5SteLNkvkcjO3j40S2QRmm6AtnnVDnAsILPm"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 173,
+   "candidatesTokenCount": 123,
+   "totalTokenCount": 7640,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 173
+    }
+   ],
+   "toolUsePromptTokenCount": 7344,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7344
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ChDyarnpDI30z7IP0IXX0Ak"
+ }
+}

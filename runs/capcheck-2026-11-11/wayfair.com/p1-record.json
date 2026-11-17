@@ -1,0 +1,25 @@
+{
+ "domain": "wayfair.com",
+ "idx": 1,
+ "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15727 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15727,
+   "input_tokens": 55815,
+   "cost_usd": 0.23918
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "79339 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 79339,
+   "input_tokens": 54447,
+   "cost_usd": 0.23887
+  }
+ }
+}

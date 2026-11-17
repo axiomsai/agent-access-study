@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/6668499/openbox",
+  "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-ufs-pale-rose-gold/JJGH3Q8PXV",
+  "https://www.bestbuy.com/product/name/JJGH3Q8PXV/sku/12763330/reviews",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12763330",
+  "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-ssd-carry-case-monitor-arctic-grey/J2VJR6KV2X",
+  "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=lenovo%20mt%20ideapad",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021/reviews"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey | PRICE: $612 | STOCK: OUT OF STOCK | OPENED: YES",
+ "cost_usd": 0.00522,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey | PRICE: $612 | STOCK: OUT OF STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/6668499/openbox",
+   "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-ufs-pale-rose-gold/JJGH3Q8PXV",
+   "https://www.bestbuy.com/product/name/JJGH3Q8PXV/sku/12763330/reviews",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12763330",
+   "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-ssd-carry-case-monitor-arctic-grey/J2VJR6KV2X",
+   "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=lenovo%20mt%20ideapad",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021/reviews"
+  ],
+  "created": 1794249287,
+  "id": "resp_d617b045-a844-4a9c-80b3-79c62e5a7e8f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nModel: 82X700KEUS\nSKU: 12759021\nRating 4.8 out of 5 stars w...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nModel: 82X700KEUS\nSKU: 12759021\n...\nRating 4.8 out of 5 sta...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Open Box - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey - Open Box - Fair\nModel: 82X700KEUS\nSKU: 6668499...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/6668499/openbox"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nModel: 82X700KEUS\nSKU: 12759021\n...\n$612.00$61200\nSave $287...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U ...",
+    "url": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-ufs-pale-rose-gold/JJGH3Q8PXV"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\n## Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\n- **Model:**\n82X700KEUS\n|\n- **SKU:**\n12763330\nRating 4.8 o...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews",
+    "url": "https://www.bestbuy.com/product/name/JJGH3Q8PXV/sku/12763330/reviews"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\nLenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nModel: 82X700KEUS\nSKU: 12763330\nThis item is no longer availa...",
+    "source": "web",
+    "title": "IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12763330"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nRating 4.8 out of 5 stars with 236 reviews\n4.8(236 reviews)\nCompare\n...\n- ### Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storag...",
+    "source": "web",
+    "title": "Lenovo Laptops - Best Buy",
+    "url": "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB SSD + Carry Case + Monitor Arctic Grey - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB SSD + Carry Case + Monitor - Arctic Grey\nModel: 82X700KEUS-2\nS...",
+    "source": "web",
+    "title": "Protect your laptop",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-ssd-carry-case-monitor-arctic-grey/J2VJR6KV2X"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\nRating 4.8 out of 5 stars with 228 reviews\n4.8(228 reviews)\nTop Deal\n$499.99$49999\nSave $400\nThe comparable value is Comp.\nValue: $899.99\n+ 3 offers for you\nMore options from $4...",
+    "source": "web",
+    "title": "lenovo mt ideapad - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=lenovo%20mt%20ideapad"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey - Best Buy\n...\n## Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey\n- **Model:**\n82X700KEUS\n|\n- **SKU:**\n12759021\nRating 4.8 o...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews - Best Buy",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV/sku/12759021/reviews"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 59,
+   "cost": {
+    "input_tokens_cost": 0.00185,
+    "output_tokens_cost": 0.00039,
+    "request_cost": 0.0025,
+    "total_cost": 0.00474
+   },
+   "prompt_tokens": 160,
+   "search_context_size": "low",
+   "total_tokens": 219
+  }
+ }
+}

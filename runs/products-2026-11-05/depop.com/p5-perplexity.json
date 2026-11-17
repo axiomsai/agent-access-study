@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/_style_and_stuff_/",
+  "https://www.depop.com/agelessoutfits/",
+  "https://www.depop.com/theme/adidas/",
+  "https://www.depop.com/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/abercrombee_n_thrift/",
+  "https://www.depop.com/theme/support/",
+  "https://www.depop.com/yaey_/",
+  "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/",
+  "https://www.depop.com/jaunda48/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/_style_and_stuff_/",
+   "https://www.depop.com/agelessoutfits/",
+   "https://www.depop.com/theme/adidas/",
+   "https://www.depop.com/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/abercrombee_n_thrift/",
+   "https://www.depop.com/theme/support/",
+   "https://www.depop.com/yaey_/",
+   "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/",
+   "https://www.depop.com/jaunda48/"
+  ],
+  "created": 1793907675,
+  "id": "resp_dc88e8bf-aa51-409b-a8f6-00e8efb837fc",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "_style_and_stuff_'s Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Yoga\n...\n# _style_and_stuff_\n(230)",
+    "source": "web",
+    "title": "_style_and_stuff_'s Shop | Depop",
+    "url": "https://www.depop.com/_style_and_stuff_/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "agelessoutfits's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# agelessoutfits",
+    "source": "web",
+    "title": "agelessoutfits's Shop | Depop",
+    "url": "https://www.depop.com/agelessoutfits/"
+   },
+   {
+    "date": "2025-06-24",
+    "last_updated": "2025-06-27",
+    "place_metadata": null,
+    "snippet": "$10.00\nUS 11.5\n$50.00",
+    "source": "web",
+    "title": "Adidas - Depop",
+    "url": "https://www.depop.com/theme/adidas/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# The Depop Circular\nWith everything from new product features to inspiration and updates from our community – come here to stay in the loop with all things Depop.\n- Trending on Depop: September | Classic coats, homecoming, and all things medieval\n...\n- Become a Depop Campus Manager",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "abercrombee_n_thrift's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Yoga",
+    "source": "web",
+    "title": "abercrombee_n_thrift's Shop | Depop",
+    "url": "https://www.depop.com/abercrombee_n_thrift/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Support - Depop\n- ### '80s\n...\n- ### '80s\n...\n### F1\n### Yoga\n...\n# Support\n### Popular brands",
+    "source": "web",
+    "title": "Support - Depop",
+    "url": "https://www.depop.com/theme/support/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "yaey_'s Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### F1\n### Yoga",
+    "source": "web",
+    "title": "yaey_'s Shop | Depop",
+    "url": "https://www.depop.com/yaey_/"
+   },
+   {
+    "date": "2024-08-03",
+    "last_updated": "2025-03-02",
+    "place_metadata": null,
+    "snippet": "Alo Yoga fundamental bucket hat black size s/m New and never worn before no tags RRP £65Loading…\nlunaminsxLoading…Loading…",
+    "source": "web",
+    "title": "Alo Yoga fundamental bucket hat black size s/m New... | Depop",
+    "url": "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "jaunda48's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### F1\n### Yoga",
+    "source": "web",
+    "title": "jaunda48's Shop | Depop",
+    "url": "https://www.depop.com/jaunda48/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00074,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00345
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

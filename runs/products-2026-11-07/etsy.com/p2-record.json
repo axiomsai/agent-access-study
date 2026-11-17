@@ -1,0 +1,60 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/listing/1145741800",
+ "idx": 2,
+ "at": "2026-11-07T13:34:38-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "18656 chars, copy dated 2026-11-07 (0 days old)",
+   "parsed": true,
+   "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+   "price": 39.99,
+   "price_raw": "$39.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-07T19:34:43+00:00",
+   "age_days": 0,
+   "cost_usd": 0.13803
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+   "price": 39.99,
+   "price_raw": "$39.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00199
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+   "price": 39.99,
+   "price_raw": "$39.99+",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01231
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page not found in search results",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

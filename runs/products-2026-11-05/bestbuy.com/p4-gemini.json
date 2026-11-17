@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: $679.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00148,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: $679.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T8EsV/J/yl+0+vXA1R2Dan449dIOsiTiDZXNHxjorqpGA4o5lLxsIatM/YRHNhLi9Bbl4CtZgs0msdLzC6/OWDo9ISg2OHc2Bc0ojG9JdXvAVgq6R7wTGbHkiFC3PEVxXqF0Q8hsSRAO+VeNv"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 172,
+   "candidatesTokenCount": 141,
+   "totalTokenCount": 14406,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 172
+    }
+   ],
+   "toolUsePromptTokenCount": 14093,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 14093
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "i9nsaoOvF4S_qtsPkMnzuQo"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+  "https://www.costco.com/opt/yellow-gold-diamond-necklaces",
+  "https://www.costco.com/opt/diamond-gifts",
+  "https://www.costco.com/opt/high-quality-diamonds",
+  "https://www.costco.com/p/-/round-brilliant-150-ctw-vs2-clarity-i-color-diamond-14kt-yellow-gold-three-stone-pendant/4000180864",
+  "https://www.costco.com/opt/diamond-necklaces-for-women",
+  "https://www.costco.com/opt/diamond-jewelry",
+  "https://www.costco.com/opt/round-diamonds",
+  "https://www.costco.com/opt/womens-necklaces",
+  "https://www.costco.com/round-brilliant-1.50-ctw-vs2-clarity,-i-color-diamond-14kt-yellow-gold-three-stone-pendant.product.4000180864.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+   "https://www.costco.com/opt/yellow-gold-diamond-necklaces",
+   "https://www.costco.com/opt/diamond-gifts",
+   "https://www.costco.com/opt/high-quality-diamonds",
+   "https://www.costco.com/p/-/round-brilliant-150-ctw-vs2-clarity-i-color-diamond-14kt-yellow-gold-three-stone-pendant/4000180864",
+   "https://www.costco.com/opt/diamond-necklaces-for-women",
+   "https://www.costco.com/opt/diamond-jewelry",
+   "https://www.costco.com/opt/round-diamonds",
+   "https://www.costco.com/opt/womens-necklaces",
+   "https://www.costco.com/round-brilliant-1.50-ctw-vs2-clarity,-i-color-diamond-14kt-yellow-gold-three-stone-pendant.product.4000180864.html"
+  ],
+  "created": 1794249557,
+  "id": "resp_4c15694c-4cbc-4b51-88dd-026105ef99de",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | Costco\n...\n3. Jewelry & Watches\n...\n7. Diamond Necklaces\n...\n# Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant\nItem 1386311\n...\n## How To Get It\nChange My WarehouseUnavailable\n- ...",
+    "source": "web",
+    "title": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt ...",
+    "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant Yellow Gold\nRated 4.7 out of 5 stars based on 254 reviews.\n(254)\n...\n## Top Rated Items\n...\n- Round Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant Yellow Gold",
+    "source": "web",
+    "title": "Yellow Gold Diamond Necklaces",
+    "url": "https://www.costco.com/opt/yellow-gold-diamond-necklaces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Diamond Gifts\nRound Brilliant 1.50 ctw VS2 Clarity I Color Diamond 14kt Yellow Gold Three Stone Pendant\nRated 4.7 out of 5 stars based on 46 reviews.\n...\n## Top Rated Items\n...\n- Round Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant Yellow Gold",
+    "source": "web",
+    "title": "Diamond Gifts - Costco Wholesale",
+    "url": "https://www.costco.com/opt/diamond-gifts"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# High Quality Diamonds\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant White Gold\nRated 4.7 out of 5 stars based on 254 reviews.\n(254)\nRound Brilliant 1.00 ct VS2 Clarity I Color Diamond 14kt Gold Solitaire Pendant\n...\n## Top Rated Items\n...\n- Round Brilliant 1.00...",
+    "source": "web",
+    "title": "High Quality Diamonds",
+    "url": "https://www.costco.com/opt/high-quality-diamonds"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.50 ctw VS2 Clarity, I Color Diamond 14kt Yellow Gold Three Stone Pendant | Costco\n...\n3. Jewelry & Watches\n...\n7. Diamond Necklaces\nOnline Only\n# Round Brilliant 1.50 ctw VS2 Clarity, I Color Diamond 14kt Yellow Gold Three Stone Pendant\nItem 1744042\n...\n## How To Get It\nChange My W...",
+    "source": "web",
+    "title": "Round Brilliant 1.50 ctw VS2 Clarity, I Color Diamond 14kt Yellow ...",
+    "url": "https://www.costco.com/p/-/round-brilliant-150-ctw-vs2-clarity-i-color-diamond-14kt-yellow-gold-three-stone-pendant/4000180864"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity G Color Diamond 14kt White Gold Cross Pendant\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant White Gold\nRated 4.7 out of 5 stars based on 254 reviews.\n(254)\n...\n## Top Rated Items\n- Round Brilliant 1.00 ctw VS2 Clarity G Co...",
+    "source": "web",
+    "title": "Diamond Necklaces For Women",
+    "url": "https://www.costco.com/opt/diamond-necklaces-for-women"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity I Color Diamond Yellow Gold Eternity Band-Size 5\nRated 4.8 out of 5 stars based on 2918 reviews.\n...\nRound Brilliant 1.00 ctw VS2 Clarity G Color Diamond 14kt Gold Band size 5\nRated 4.9 out of 5 stars based on 1064 reviews.\n...\nRound Brilliant 1.00 ctw VS2 Clarit...",
+    "source": "web",
+    "title": "Diamond Jewelry | Costco",
+    "url": "https://www.costco.com/opt/diamond-jewelry"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt White Gold Hoop Earrings\nRated 4.6 out of 5 stars based on 49 reviews.\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Stud Earrings White Gold\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Yellow Gold Doubl...",
+    "source": "web",
+    "title": "Round Diamonds | Costco",
+    "url": "https://www.costco.com/opt/round-diamonds"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity G Color Diamond 14kt White Gold Cross Pendant\nRated 4.8 out of 5 stars based on 801 reviews.\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant White Gold\nRated 4.7 out of 5 stars based on 254 reviews.\n(254)\n...\nRound Brilliant...",
+    "source": "web",
+    "title": "Women's Necklaces | Costco",
+    "url": "https://www.costco.com/opt/womens-necklaces"
+   },
+   {
+    "date": "2025-07-07",
+    "last_updated": "2025-07-10",
+    "place_metadata": null,
+    "snippet": "# Round Brilliant 1.50 ctw VS2 Clarity, I Color Diamond 14kt Yellow Gold Three Stone Pendant\nItem 1744042\n...\n## Features:\n- 18\" Chain\n# Product Not Available!\nSorry, the product may be unavailable at the 98027 Delivery Location or at the Seattle warehouse.",
+    "source": "web",
+    "title": "Round Brilliant 1.50 ctw VS2 Clarity, I Color Diamond 14kt Yellow Gold Three Stone Pendant",
+    "url": "https://www.costco.com/round-brilliant-1.50-ctw-vs2-clarity,-i-color-diamond-14kt-yellow-gold-three-stone-pendant.product.4000180864.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 40,
+   "cost": {
+    "input_tokens_cost": 0.00143,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00423
+   },
+   "prompt_tokens": 141,
+   "search_context_size": "low",
+   "total_tokens": 181
+  }
+ }
+}

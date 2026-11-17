@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00035,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TliDAILv6yyBD3B8VpRDLYLU3HnuyGoGzoPfIVS+WAidwktbfDiHFa3Z7uX1DWp1IMM3j1HkOSkzt8kNuZe6zQ1dhHuvOfFpzBCh8tNz63DSOgnI4SaiVbkWwkiLRWa+as3oIIeR/F6ZU+H+M"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 154,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 3201,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 154
+    }
+   ],
+   "toolUsePromptTokenCount": 2960,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2960
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "Nnnqaom3PM6Gz7IPpruGuAI"
+ }
+}

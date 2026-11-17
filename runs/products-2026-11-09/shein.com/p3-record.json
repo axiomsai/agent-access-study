@@ -1,0 +1,60 @@
+{
+ "domain": "shein.com",
+ "url": "https://us.shein.com/Autumn-Thanksgiving-Thankful-Printing-Drop-Shoulder-Casual-White-Graphic-Sweatshirt-Chenille-Yarn-Sportwear-Customized-Christian-SchoolGift-Winter-p-570542332.html",
+ "idx": 3,
+ "at": "2026-11-09T12:39:03-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the fetch returned only an empty page shell with no product name, price or stock)",
+   "retrieved_at": "2026-11-09T18:39:08+00:00",
+   "age_days": 0,
+   "cost_usd": 0.07146
+  },
+  "gemini": {
+   "verdict": "unknown",
+   "why": "no URL context metadata",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: The page is not accessible.",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0001
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+   "price": 8.89,
+   "price_raw": "$8.89",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01199
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+   "price": 7.99,
+   "price_raw": "$7.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0052
+  }
+ }
+}

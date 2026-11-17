@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/clp/B0DQYR6X8R",
+  "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/132-9247739-0405711?pd_rd_w=ULYaP&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=917PQH0932B3W95XA1PP&pd_rd_wg=wLkbN&pd_rd_r=8c649b9e-bd88-4150-b277-7f700df1a93b&pd_rd_i=B0DQYR6X8R&psc=1",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/-/es/b?node=12766669011",
+  "https://www.amazon.com/hz/wishlist/ls/1H4IT11A2RHFT?ref_=wl_share",
+  "https://www.amazon.com/b?node=202448500011"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.99 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.99 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/clp/B0DQYR6X8R",
+   "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/132-9247739-0405711?pd_rd_w=ULYaP&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=917PQH0932B3W95XA1PP&pd_rd_wg=wLkbN&pd_rd_r=8c649b9e-bd88-4150-b277-7f700df1a93b&pd_rd_i=B0DQYR6X8R&psc=1",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/-/es/b?node=12766669011",
+   "https://www.amazon.com/hz/wishlist/ls/1H4IT11A2RHFT?ref_=wl_share",
+   "https://www.amazon.com/b?node=202448500011"
+  ],
+  "created": 1794079865,
+  "id": "resp_b77b65bf-3f3f-4ef9-a852-0a4b01db671f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Bounty Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls\n4.8 (26.1K)\nWays to buy: Regular Price\nRegular Price -28% $6.99 List: $9.69 Join Prime to get FREE delivery Sun, Nov 8\nSubscribe & Save -31% $6.64 List Price: $9.69 Join Prime to get FREE delivery Sun, Nov 8\n...\nScott ...",
+    "source": "web",
+    "title": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls ...",
+    "url": "https://www.amazon.com/clp/B0DQYR6X8R"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n# Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls\nVisit the Bounty Store\n4.8 *4.8 out of 5 stars* (26,170)\n...\nSize...",
+    "source": "web",
+    "title": "Amazon.com: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls : Health & Household",
+    "url": "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/132-9247739-0405711?pd_rd_w=ULYaP&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=917PQH0932B3W95XA1PP&pd_rd_wg=wLkbN&pd_rd_r=8c649b9e-bd88-4150-b277-7f700df1a93b&pd_rd_i=B0DQYR6X8R&psc=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "contact us\n...\nSkip to main search results\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n# 1-16 of over 20,000 results for \"dp\"\n...\n## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*\n...\n## Amazon...",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: : Stores\nFilter byIn stock\n- Poly Voyager 5200 Wireless Headset (Plantronics) - Single-Ear Bluetooth Headset w/Noise-Canceling Mic - Ergonomic Design - Voice Controls - Lightweight - Connect to Mobile/Tablet via Bluetooth\n4.1*4.1 out of 5 stars* 25,8454.1 out of 5 stars.\n25,845 customer ...",
+    "source": "web",
+    "title": "Amazon.com: : Stores",
+    "url": "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 100,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Después de ver las páginas de detalles de productos, consulta esta sección para encontrar una manera sencilla de navegar a las páginas de tu interés.",
+    "source": "web",
+    "title": "Vender",
+    "url": "https://www.amazon.com/-/es/b?node=12766669011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/1H4IT11A2RHFT?ref_=wl_share"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Handheld Rechargeable Milk Frother Wand | Rich Foam in Seconds, 2-IN-1 Dual Spring Whisk, Travel Cover included, Perfect Drink Mixer for Lattes & More\n4.4*4.4 out of 5 stars* (2.7K)\n...\nPrice, product page$8.99$8.99 List Price: $9.98\nList Price: $9.98$9.98",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=202448500011"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.0017,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00444
+   },
+   "prompt_tokens": 118,
+   "search_context_size": "low",
+   "total_tokens": 159
+  }
+ }
+}

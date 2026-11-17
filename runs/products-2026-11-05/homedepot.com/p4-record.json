@@ -1,0 +1,60 @@
+{
+ "domain": "homedepot.com",
+ "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+ "idx": 4,
+ "at": "2026-11-05T13:16:49-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15224 chars, copy dated 2026-11-03 (1 days old)",
+   "parsed": true,
+   "name": "Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+   "price": 799.0,
+   "price_raw": "$799.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-03T19:43:24+00:00",
+   "age_days": 1,
+   "cost_usd": 0.14099
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+   "price": 799.0,
+   "price_raw": "$799.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00091
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+   "price": 949.0,
+   "price_raw": "$949.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01246
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+   "price": 949.0,
+   "price_raw": "$949.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00521
+  }
+ }
+}

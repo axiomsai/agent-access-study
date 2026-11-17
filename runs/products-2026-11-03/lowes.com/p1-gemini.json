@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified | PRICE: $1,899.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00142,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified | PRICE: $1,899.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TGz7A0Or5nXdiyQBGLkyhy6ubujGJkZbDVeJsaCDHX+g7Yfu0NkRlCjYaCceL5IPFr50kVHNobJEQ/oaWoGd6BzU7s7Zrl8ighp0eUj1zrQyLWo9e/e/xJCqeKGaMUumgGqQCLHxSpPNPSIX+"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 197,
+   "candidatesTokenCount": 164,
+   "totalTokenCount": 13725,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 197
+    }
+   ],
+   "toolUsePromptTokenCount": 13364,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 13364
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "_HjqasbjD8Kt6dkPv52-oQI"
+ }
+}

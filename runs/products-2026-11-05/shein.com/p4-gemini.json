@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FSatin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html&risk-id=E4946641170647385219",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page is blocked by a security challenge (crawler block)",
+ "finish": "STOP",
+ "cost_usd": 0.00123,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page is blocked by a security challenge (crawler block)",
+       "thoughtSignature": "EnMKcQFpFH0TDsn0GyQA7fhAyhTbeq0HPgLZYe3cz8eFPxNdKLHA3gtxxNhCRLtMtoxIg/q71M8oizEeIwbtD+1/dZz9ZwKApppD/7hfVJs7q/99/516a5QWrh7ZqYMAENBX5eZi44zN44Vu9OQw985AFVDd"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FSatin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html&risk-id=E4946641170647385219",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 178,
+   "candidatesTokenCount": 112,
+   "totalTokenCount": 11914,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 178
+    }
+   ],
+   "toolUsePromptTokenCount": 11624,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 11624
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "pNrsarPhO-KjqtsPiYussA0"
+ }
+}

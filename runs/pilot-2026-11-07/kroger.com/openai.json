@@ -1,0 +1,135 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.kroger.com/"
+  ]
+ ],
+ "answer": "Title: Kroger : Fresh Food. Low Prices. | Shop Groceries Online  \nOne visible category/name: Shop Your Favorites",
+ "cost_usd": 0.01133,
+ "raw": {
+  "id": "resp_0f4bcf32aa2145d3006aef7bbd451c87d197ee30e0507c55ba",
+  "object": "response",
+  "created_at": 1794079677,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794079678,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0f4bcf32aa2145d3006aef7bbdc39c87d1874e7cdbc102d3be",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.kroger.com/"
+    }
+   },
+   {
+    "id": "msg_0f4bcf32aa2145d3006aef7bbe405487d199819ed597c297bb",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "Title: Kroger : Fresh Food. Low Prices. | Shop Groceries Online  \nOne visible category/name: Shop Your Favorites"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 4842,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 59,
+   "output_tokens_details": {
+    "reasoning_tokens": 30
+   },
+   "total_tokens": 4901
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

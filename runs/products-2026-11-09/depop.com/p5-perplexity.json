@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/explore/",
+  "https://www.depop.com/thrifting4treasure/",
+  "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos",
+  "https://www.depop.com/theme/help/",
+  "https://news.depop.com/?moduleOrigin=selling_trends",
+  "https://www.depop.com/products/qualityg-blue-adidas-running-shorts-never/?moduleOrigin=explore_streetwear-mw_bubbles",
+  "https://www.depop.com/theme/support/",
+  "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/explore/",
+   "https://www.depop.com/thrifting4treasure/",
+   "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos",
+   "https://www.depop.com/theme/help/",
+   "https://news.depop.com/?moduleOrigin=selling_trends",
+   "https://www.depop.com/products/qualityg-blue-adidas-running-shorts-never/?moduleOrigin=explore_streetwear-mw_bubbles",
+   "https://www.depop.com/theme/support/",
+   "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/"
+  ],
+  "created": 1794249848,
+  "id": "resp_64f59be0-d519-4e22-8bb7-aba3dc234136",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# The Depop Circular\nWith everything from new product features to inspiration and updates from our community – come here to stay in the loop with all things Depop.\n- Trending on Depop: September | Classic coats, homecoming, and all things medieval\n...\n- Become a Depop Campus Manager",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": "2026-07-30",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Explore\n(111M results)\n...\nWhatever your style.\nFind it on Depop",
+    "source": "web",
+    "title": "Explore - Depop",
+    "url": "https://www.depop.com/explore/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "thrifting4treasure's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# thrifting4treasure",
+    "source": "web",
+    "title": "thrifting4treasure's Shop | Depop",
+    "url": "https://www.depop.com/thrifting4treasure/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Vintage sneakers | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Filter\nUS 6\n$53.20\n...\n3. Onitsuka Tiger\n...\n6. Adidas Originals",
+    "source": "web",
+    "title": "Vintage sneakers | Depop",
+    "url": "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "### F1\n### Yoga\n### Running\n...\n# Help\n(634K results)",
+    "source": "web",
+    "title": "Help - Depop",
+    "url": "https://www.depop.com/theme/help/"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Depop Partners with Amelia Dimoldenberg to Bring Her Signature Style to Fans in Celebration of the Final Series of Chicken Shop Date\n## Latest news\n### adidas Originals partners with Depop to launch the new era of Stan Smith with ‘Style Reworked’",
+    "source": "web",
+    "title": "Home page | Depop newsroom",
+    "url": "https://news.depop.com/?moduleOrigin=selling_trends"
+   },
+   {
+    "date": "2024-11-22",
+    "last_updated": "2025-05-22",
+    "place_metadata": null,
+    "snippet": "Blue Adidas running shorts, never worn, NWOT #runningessentials #sportswear #adidasLoading…",
+    "source": "web",
+    "title": "Blue Adidas running shorts, never worn, NWOT ... | Depop",
+    "url": "https://www.depop.com/products/qualityg-blue-adidas-running-shorts-never/?moduleOrigin=explore_streetwear-mw_bubbles"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Support\n### Popular brands\n# Filter\n1. Other\n$2.00\n...\n15. Alo Yoga",
+    "source": "web",
+    "title": "Support - Depop",
+    "url": "https://www.depop.com/theme/support/"
+   },
+   {
+    "date": "2024-08-03",
+    "last_updated": "2025-03-02",
+    "place_metadata": null,
+    "snippet": "Alo Yoga fundamental bucket hat black size s/m New and never worn before no tags RRP £65Loading…\nlunaminsxLoading…Loading…",
+    "source": "web",
+    "title": "Alo Yoga fundamental bucket hat black size s/m New... | Depop",
+    "url": "https://www.depop.com/products/lunaminsx-alo-yoga-fundamental-bucket-hat/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00077,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00348
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+ "idx": 4,
+ "at": "2026-11-07T13:31:10-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (the web tool rejected the URL as too long)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.07043
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "success status but answer reports a block",
+   "parsed": true,
+   "name": "Kitchen Cabinet Cleaner Spray Suitable For Wood Cabinets Grease Remover With Foam Formula",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00218
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01148
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (page not found in results)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0052
+  }
+ }
+}

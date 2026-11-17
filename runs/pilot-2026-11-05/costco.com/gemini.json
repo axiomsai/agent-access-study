@@ -1,0 +1,80 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Welcome to Costco Wholesale\nProduct/Category: Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00022,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Welcome to Costco Wholesale\nProduct/Category: Appliances",
+       "thoughtSignature": "EnMKcQFpFH0TcCu3FDxYrxsxNH7fx3x+fcqg/Hd0/9gAyZwFcih+ABgcLpnjhAoSG5WWAHjOLXBj3tK9eXpVOvRJZpamdoSXVxSSsJY2o4V9WNFw0nuF1lME1c78dJCE1iWYKpsKJI5YrDDFArhTbwJRK+pF"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.costco.com/",
+        "title": "Welcome to Costco Wholesale"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 35,
+        "endIndex": 63,
+        "text": "Product/Category: Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 37,
+   "totalTokenCount": 2040,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1941,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1941
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "q9TsapeaIqWwqtsP8uHIsQ0"
+ }
+}

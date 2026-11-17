@@ -1,0 +1,86 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": "url_not_accessible",
+ "fetched_url": null,
+ "retrieved_at": null,
+ "age_days": null,
+ "doc_chars": 0,
+ "doc_markers": [],
+ "answer": "I couldn't open the page. When my web tool tried to fetch https://www.wayfair.com/, it came back with the error code **`url_not_accessible`**.\n\nThe tool didn't say why, so I can't tell whether the site blocked the request, showed a captcha or something else. Because of that, I don't have a page title or any product or category name to give you.",
+ "cost_usd": 0.06605,
+ "raw": [
+  {
+   "id": "srvtoolu_01KoLFURtixFn3GiR77LD78i",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.wayfair.com/\"})\nif isinstance(r,dict):print(r)\nelse:\n    d=r[0];print(d.get('title'),d.get('result_type'));print(d['content'][:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01Rv8zS2Vp7xksFkbgTtzRr7",
+   "caller": {
+    "tool_id": "srvtoolu_01KoLFURtixFn3GiR77LD78i",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.wayfair.com/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01KoLFURtixFn3GiR77LD78i",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "error_code": "url_not_accessible",
+    "type": "web_fetch_tool_result_error"
+   },
+   "tool_use_id": "srvtoolu_01Rv8zS2Vp7xksFkbgTtzRr7",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01KoLFURtixFn3GiR77LD78i/cell.py\", line 11, in <module>\n    d=r[0];print(d.get('title'),d.get('result_type'));print(d['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01KoLFURtixFn3GiR77LD78i",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_012tGwttiGpKEfQTQrpJN215",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_tool_result_error\", \"error_code\": \"url_not_accessible\"}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_012tGwttiGpKEfQTQrpJN215",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "I couldn't open the page. When my web tool tried to fetch https://www.wayfair.com/, it came back with the error code **`url_not_accessible`**.\n\nThe tool didn't say why, so I can't tell whether the site blocked the request, showed a captcha or something else. Because of that, I don't have a page title or any product or category name to give you.",
+   "type": "text"
+  }
+ ]
+}

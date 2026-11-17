@@ -1,0 +1,60 @@
+{
+ "domain": "costco.com",
+ "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+ "idx": 1,
+ "at": "2026-11-09T12:39:03-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06971
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00054
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01239
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "OUT OF STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

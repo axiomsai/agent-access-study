@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0008,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T7VAugVDVQCte7aLN7oFXQ7UKsU1t3d6t89nyAV/5cbWjy9JeioJO20Tfs/bnsa2oWja99VLLdzPCSKF1gTt87j3nmNPQHrXR8v+8a9Ahb3rdes+WViY9L0aNK3ocM2XpMvjnV3SKsGQlyFbk"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 149,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 7722,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 149
+    }
+   ],
+   "toolUsePromptTokenCount": 7488,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7488
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "yobvapbwE5q8qtsPkNTekQY"
+ }
+}

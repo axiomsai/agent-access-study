@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/",
+  "https://www.target.com/p/vital-proteins-unflavored-collagen-peptides-powder-20oz/-/A-81806971",
+  "https://www.target.com/p/pure-life-purified-water-28pk-16-9-fl-oz-bottles/-/A-50251590",
+  "https://www.target.com/p/claritin-allergy-relief-24-hour-non-drowsy-loratadine-reditab-dissolving-tablets/-/A-91379843",
+  "https://www.target.com/p/oatly-the-original-barista-edition-oatmilk-32-fl-oz-1qt/-/A-54293853",
+  "https://www.target.com/sl/college-point/1150",
+  "https://www.target.com/p/zeagoo-womens-v-neck-cami-tank-top-strap-sleeveless-t-shirt-casual-loose-cotton-vest-blouse-white-2-pack-blue-and-light-grey-large/-/A-1015205788",
+  "https://www.target.com/llms.txt",
+  "https://www.target.com/c/wine-beer-liquor-beverages/-/N-5n5q6",
+  "https://www.target.com/sl/chicago-state-st-/2799"
+ ],
+ "cited_store": true,
+ "answer": "Title: Target : Expect More. Pay Less.  \nCategory: Toys",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Title: Target : Expect More. Pay Less.  \nCategory: Toys",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/",
+   "https://www.target.com/p/vital-proteins-unflavored-collagen-peptides-powder-20oz/-/A-81806971",
+   "https://www.target.com/p/pure-life-purified-water-28pk-16-9-fl-oz-bottles/-/A-50251590",
+   "https://www.target.com/p/claritin-allergy-relief-24-hour-non-drowsy-loratadine-reditab-dissolving-tablets/-/A-91379843",
+   "https://www.target.com/p/oatly-the-original-barista-edition-oatmilk-32-fl-oz-1qt/-/A-54293853",
+   "https://www.target.com/sl/college-point/1150",
+   "https://www.target.com/p/zeagoo-womens-v-neck-cami-tank-top-strap-sleeveless-t-shirt-casual-loose-cotton-vest-blouse-white-2-pack-blue-and-light-grey-large/-/A-1015205788",
+   "https://www.target.com/llms.txt",
+   "https://www.target.com/c/wine-beer-liquor-beverages/-/N-5n5q6",
+   "https://www.target.com/sl/chicago-state-st-/2799"
+  ],
+  "created": 1793749377,
+  "id": "resp_9d61fbf4-3dfb-4353-a702-26c6e9a3adb8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Homepage\n# Homepage\nFind everything you need to decorate, host & celebrate together.",
+    "source": "web",
+    "title": "Target : Expect More. Pay Less.",
+    "url": "https://www.target.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Vital Proteins Unflavored Collagen Peptides Powder - 20oz : Target\n1. Vitamins & Supplements\n...\n# Vital Proteins Unflavored Collagen Peptides Powder - 20oz\n4.45 out of 5 stars",
+    "source": "web",
+    "title": "Vital Proteins Unflavored Collagen Peptides Powder - 20oz",
+    "url": "https://www.target.com/p/vital-proteins-unflavored-collagen-peptides-powder-20oz/-/A-81806971"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Pure Life Purified Water - 28 Pack/16.9 Fl Oz Plastic Bottles: Zero Calories, Purification Process : Target\n...\n3. Spring Water\n...\n# Pure Life Purified Water - 28 Pack/16.9 Fl Oz Plastic Bottles: Zero Calories, Purification Process\n4.62 out of 5 stars\n...\n$4.49 reg $5.29\n$0.80 off\n($0.01/fluid ounc...",
+    "source": "web",
+    "title": "Pure Life Purified Water - 28 Pack/16.9 Fl Oz Plastic Bottles",
+    "url": "https://www.target.com/p/pure-life-purified-water-28pk-16-9-fl-oz-bottles/-/A-50251590"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Claritin Allergy Relief 24 Hour Non-Drowsy Loratadine RediTab Dissolving Tablets : Target\n1. Medicines & Treatments\n2. Allergy & Sinus Treatment\n...\n# Claritin Allergy Relief 24 Hour Non-Drowsy Loratadine RediTab Dissolving Tablets - 10ct\n4.59 out of 5 stars\n...\n$12.99 ($1.30/count)\n...\n- 60ct\n- 30\n...",
+    "source": "web",
+    "title": "Claritin Allergy Relief 24 Hour Non-Drowsy Loratadine RediTab ...",
+    "url": "https://www.target.com/p/claritin-allergy-relief-24-hour-non-drowsy-loratadine-reditab-dissolving-tablets/-/A-91379843"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Oatly Oatmilk Barista Edition Non-Dairy Milk - 32 fl oz : Target\n1. Dairy, Eggs & Cheese\n2. Cream & Whipped Toppings\n...\n# Oatly Oatmilk Barista Edition Non-Dairy Milk - 32 fl oz\n4.6 out of 5 stars\n...\n$5.79 ($0.18/fluid ounce)\nIn Stock",
+    "source": "web",
+    "title": "Oatly Oatmilk Barista Edition Non-Dairy Milk - 32 fl oz",
+    "url": "https://www.target.com/p/oatly-the-original-barista-edition-oatmilk-32-fl-oz-1qt/-/A-54293853"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Target College Point Store, College Point, NY\n1. Store Locator\n2. New York\n3. College Point\n# Target College Point\n13505 20th Ave\nCollege Point, NY 11356-2446\nPhone: (718) 661-4346\nOpen until 11pm",
+    "source": "web",
+    "title": "College Point",
+    "url": "https://www.target.com/sl/college-point/1150"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "In order to make sure the top will fit you correctly, please refer to the seller's size chart, featured in the pictures, before placing your order",
+    "source": "web",
+    "title": "Zeagoo Womens V Neck Cami Tank Top Strap Sleeveless T Shirt Casual Loose Cotton Vest Blouse - White-2 Pack-blue and Light Grey-Large",
+    "url": "https://www.target.com/p/zeagoo-womens-v-neck-cami-tank-top-strap-sleeveless-t-shirt-casual-loose-cotton-vest-blouse-white-2-pack-blue-and-light-grey-large/-/A-1015205788"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# Target.com\n> Target is a leading U.S. retailer offering affordable everyday essentials, seasonal merchandise, and curated brands.\nGuests can shop in-store, online, via Drive Up, Order Pickup, Same Day Delivery, and fast shipping.\n> Note: Target product pages follow the format /p/{product slug}/-/A...",
+    "source": "web",
+    "title": "Target's llms.txt",
+    "url": "https://www.target.com/llms.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Wine, Beer & Liquor: Wine, Beer, Spirits & Cocktails\n# Wine, Beer & Liquor\n1. Wine, Beer & Liquor\n## Cooler essentials\n## Just in: holiday bevs\nAlcohol availability varies by store and may not be eligible for same-day delivery or pickup services in some locations.\n- New & Top Rated\n...\n- Liquor Type",
+    "source": "web",
+    "title": "Wine, Beer & Liquor: Wine, Beer, Spirits & Cocktails - Target",
+    "url": "https://www.target.com/c/wine-beer-liquor-beverages/-/N-5n5q6"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Target Chicago State St. Store, Chicago, IL\n1. Target\n2. Store Locator\n3. Illinois\n4. Chicago State St.\n# Target Chicago State St.\n1 S State St\nChicago, IL 60603-2802\nPhone: (312) 279-2133\nOpen until 9pm",
+    "source": "web",
+    "title": "Target Chicago State St. Store, Chicago, IL",
+    "url": "https://www.target.com/sl/chicago-state-st-/2799"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 14,
+   "cost": {
+    "input_tokens_cost": 0.0007999999999999999,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00334
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 70
+  }
+ }
+}

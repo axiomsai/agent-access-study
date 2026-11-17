@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/category/womens/",
+  "https://www.depop.com/category/beauty/",
+  "https://www.depop.com/products/dereksvhg-vintage-90s-chicago-bulls-raglan-9835/",
+  "https://www.depop.com/site-map/categories/",
+  "https://www.depop.com/products/eloiseexcmange-snoop-dogg-supply-mens-sz-bf9b/",
+  "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/",
+  "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/",
+  "https://www.depop.com/products/partnersinthrifv-great-vintage-lace-up-suede-be17/",
+  "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+ ],
+ "cited_store": true,
+ "answer": "Depop - buy, sell, discover unique fashion — '80s[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Depop - buy, sell, discover unique fashion — '80s[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/category/womens/",
+   "https://www.depop.com/category/beauty/",
+   "https://www.depop.com/products/dereksvhg-vintage-90s-chicago-bulls-raglan-9835/",
+   "https://www.depop.com/site-map/categories/",
+   "https://www.depop.com/products/eloiseexcmange-snoop-dogg-supply-mens-sz-bf9b/",
+   "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/",
+   "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/",
+   "https://www.depop.com/products/partnersinthrifv-great-vintage-lace-up-suede-be17/",
+   "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+  ],
+  "created": 1794248374,
+  "id": "resp_c15eadcf-d51a-4da0-8ed0-cfe4cdbb9a41",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Secondhand, Vintage & Preloved Women's Clothing | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Women's Clothing\n(58.2M results)\nGet your next wardrobe update right here.\nFrom staples like dresses, shirts and jeans to the trending designer and vintage items.\nDenim for all seasons from 70s, 90s and 00s.\nShoe...",
+    "source": "web",
+    "title": "See All Womenswear",
+    "url": "https://www.depop.com/category/womens/"
+   },
+   {
+    "date": "2025-05-28",
+    "last_updated": "2025-06-19",
+    "place_metadata": null,
+    "snippet": "# Beauty\n...\nExplore this collection of must-have beauty products.\nMakeup, skincare, accessories and designer fragrance.",
+    "source": "web",
+    "title": "Beauty | Depop",
+    "url": "https://www.depop.com/category/beauty/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Vintage 90s Chicago Bulls raglan sweatshirt made in...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Fruit of the Loom Men's Red Sweatshirt\n$19.60\nincl. marketplace fee\n$21.70\nSize XL\nGood condition\nFruit of the Loom\nThis seller often ships in 24 hours",
+    "source": "web",
+    "title": "www.depop.com · products · dereksvhg-vintage-90s-chicago-bullsVintage 90s Chicago Bulls raglan sweatshirt made in... | Depop",
+    "url": "https://www.depop.com/products/dereksvhg-vintage-90s-chicago-bulls-raglan-9835/"
+   },
+   {
+    "date": "2025-04-09",
+    "last_updated": "2025-04-09",
+    "place_metadata": null,
+    "snippet": "## Menswear\n- Men's tops\n- Men's bottoms\n...\n## Womenswear\n- Women's shoes",
+    "source": "web",
+    "title": "Categories Sitemap | Depop",
+    "url": "https://www.depop.com/site-map/categories/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Snoop Dogg Supply Mens Sz M Button Up Dress Shirt...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Men's Black Shirt\n$25.90\nincl. marketplace fee\nSize M\nGood condition\nThis seller often ships in 2 days",
+    "source": "web",
+    "title": "Snoop Dogg Supply Mens Sz M Button Up Dress Shirt... | Depop",
+    "url": "https://www.depop.com/products/eloiseexcmange-snoop-dogg-supply-mens-sz-bf9b/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Sperry Crest Vibe casual slip-on/laced canvas...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Sperry Women's Purple Trainers\n$13.30\nincl. marketplace fee",
+    "source": "web",
+    "title": "Sperry Crest Vibe casual slip-on/laced canvas... | Depop",
+    "url": "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Stutterheim light Sakura pink bucket hat in size S...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Stutterheim light Sakura pink bucket hat in size S... | Depop",
+    "url": "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Great vintage lace up suede short heel | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Salvatore Ferragamo Women's Black Courts",
+    "source": "web",
+    "title": "Great vintage lace up suede short heel | Depop",
+    "url": "https://www.depop.com/products/partnersinthrifv-great-vintage-lace-up-suede-be17/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Polo Ralph Lauren baby jumpsuits in red, navy, and...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\nSlide 1 of 2\n# Polo Ralph Lauren Kids Boys' Multi Jumpsuit",
+    "source": "web",
+    "title": "Polo Ralph Lauren baby jumpsuits in red, navy, and... | Depop",
+    "url": "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.0006699999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00322
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

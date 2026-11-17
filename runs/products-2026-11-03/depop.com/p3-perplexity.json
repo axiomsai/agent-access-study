@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/products/serrrah60-message-before-buying-do-not-d8a1/",
+  "https://www.depop.com/products/audgie_p11-message-me-before-buying-/",
+  "https://www.depop.com/products/csada2-i-put-message-before-buying/",
+  "https://www.depop.com/products/if-anyone-is-thinking-of/",
+  "https://www.depop.com/login/?pla_feed=US",
+  "https://www.depop.com/products/missibz-list-of-perfumes-that-can/",
+  "https://www.depop.com/",
+  "https://www.depop.com/products/eca16-now-selling-my-handmade-crochet/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/us_/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/products/serrrah60-message-before-buying-do-not-d8a1/",
+   "https://www.depop.com/products/audgie_p11-message-me-before-buying-/",
+   "https://www.depop.com/products/csada2-i-put-message-before-buying/",
+   "https://www.depop.com/products/if-anyone-is-thinking-of/",
+   "https://www.depop.com/login/?pla_feed=US",
+   "https://www.depop.com/products/missibz-list-of-perfumes-that-can/",
+   "https://www.depop.com/",
+   "https://www.depop.com/products/eca16-now-selling-my-handmade-crochet/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/us_/"
+  ],
+  "created": 1793751438,
+  "id": "resp_7831560b-40dc-4dca-804b-28d04ae03d02",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "MESSAGE BEFORE BUYING, DO NOT BUY BEFORE HAND!...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "MESSAGE BEFORE BUYING, DO NOT BUY BEFORE HAND!... | Depop",
+    "url": "https://www.depop.com/products/serrrah60-message-before-buying-do-not-d8a1/"
+   },
+   {
+    "date": "2020-07-20",
+    "last_updated": "2025-03-13",
+    "place_metadata": null,
+    "snippet": "message me before buying - if you buy an item without messaging me first you will not receive a refund or the item (i will be lenient on this policy (meaning I will usually ship the item anyway) I just prefer knowing who I am shipping to and letting the buyer know the details) no refunds in general ...",
+    "source": "web",
+    "title": "message me before buying - if you buy an item... | Depop",
+    "url": "https://www.depop.com/products/audgie_p11-message-me-before-buying-/"
+   },
+   {
+    "date": "2021-05-24",
+    "last_updated": "2025-03-13",
+    "place_metadata": null,
+    "snippet": "i put message before buying for a reason!\ni don’t do auto buy incase people need it held for a couple of days.\nif you buy it without messaging me first you will not receive a refund :((( not responsible for lost or damaged items!\nDONT PURCHASE UNLESS I GIVE THE OKAY shipping only in the US unless we...",
+    "source": "web",
+    "title": "i put message before buying for a reason! i don’t do... | Depop",
+    "url": "https://www.depop.com/products/csada2-i-put-message-before-buying/"
+   },
+   {
+    "date": "2014-04-13",
+    "last_updated": "2025-05-19",
+    "place_metadata": null,
+    "snippet": "If anyone is thinking of buying from this seller DO NOT do it.\nShe tried to scam me, 'tried' because she was unsuccessful, read the messages.\nBasically she offered me a really really cheap price for an item, cheaper than the offer I made.\nThis was my 2nd day on depop so I was like woah bargain ofc I...",
+    "source": "web",
+    "title": "If anyone is thinking of buying from this seller DO... | Depop",
+    "url": "https://www.depop.com/products/if-anyone-is-thinking-of/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Vintage.\nStreetwear.\nSneakers.\nWhatever your style.",
+    "source": "web",
+    "title": "?pla_feed=US",
+    "url": "https://www.depop.com/login/?pla_feed=US"
+   },
+   {
+    "date": "2020-07-02",
+    "last_updated": "2025-06-03",
+    "place_metadata": null,
+    "snippet": "Please message before you buy to let me know which one you want ❤️❤️ Please do NOT buy without messaging.",
+    "source": "web",
+    "title": "List of ladies perfumes that can be bought!!... | Depop",
+    "url": "https://www.depop.com/products/missibz-list-of-perfumes-that-can/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2021-03-06",
+    "last_updated": "2025-07-22",
+    "place_metadata": null,
+    "snippet": "Now selling my handmade crochet items!!\nPlease message before buying and if you have any questions 💓 Can also do custom orders depending on the item - message me to see other colour options!Loading…",
+    "source": "web",
+    "title": "Now selling my handmade crochet items!! Please... | Depop",
+    "url": "https://www.depop.com/products/eca16-now-selling-my-handmade-crochet/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# The Depop Circular\nWelcome to The Depop Circular.\nWith everything from new product features to inspiration and updates from our community – come here to stay in the loop with all things Depop.\n- Trending on Depop: September | Classic coats, homecoming, and all things medieval\n...\n- Become a Depop ...",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": "2024-01-25",
+    "last_updated": "2025-07-16",
+    "place_metadata": null,
+    "snippet": "# us_\nUs Vintage’s shop\nDiscounts on bundles | Please ask any questions before purchase/PM offers | No returns/Trades || Free Shippinghttp://instagram.com/usvintage_",
+    "source": "web",
+    "title": "us_'s Shop | Depop",
+    "url": "https://www.depop.com/us_/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00099,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.0037
+   },
+   "prompt_tokens": 122,
+   "search_context_size": "low",
+   "total_tokens": 140
+  }
+ }
+}

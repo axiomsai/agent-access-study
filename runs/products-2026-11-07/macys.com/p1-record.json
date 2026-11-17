@@ -1,0 +1,60 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+ "idx": 1,
+ "at": "2026-11-07T14:14:52-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15466 chars, copy dated 2026-11-04 (3 days old)",
+   "parsed": true,
+   "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:16:24+00:00",
+   "age_days": 3,
+   "cost_usd": 0.14392
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+   "price": 175.0,
+   "price_raw": "$175.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00083
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+   "price": 175.0,
+   "price_raw": "$175.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0236
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: price and stock not shown in the available page result",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

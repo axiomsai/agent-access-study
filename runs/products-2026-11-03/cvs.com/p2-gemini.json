@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00035,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T29C2OPTTprJJGXCqkJC049Y8SRwysvjhQaIH9M8rE2tCyKlyHTI4DCCbNbmYYqd1gsC86eSRvnkQNJeGIYp0AD32toZgke3OVxFFUzJ5l45/V+Td7rVKqKLkp53N1AUY/IKGbMFIEyTJWcx1"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 148,
+   "candidatesTokenCount": 83,
+   "totalTokenCount": 3208,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 148
+    }
+   ],
+   "toolUsePromptTokenCount": 2977,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2977
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "C3nqavKLDcuf-8YPuMfpUA"
+ }
+}

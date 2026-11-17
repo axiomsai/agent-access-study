@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/brands/sol-de-janeiro?id=410373",
+  "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043",
+  "https://www.macys.com/shop/skincare-gift-sets/Pageindex/2?id=77017",
+  "https://www.macys.com/shop/beauty/gift-sets/Pageindex/3?id=55537",
+  "https://www.macys.com/shop/beauty/body-care?id=58499",
+  "https://www.macys.com/shop/skincare-gift-sets?id=77017",
+  "https://www.macys.com/shop/beauty/Brand/Marc%20Jacobs?id=290756",
+  "https://www.macys.com/shop/beauty/skin-care/Pageindex/5?id=30078",
+  "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers/Business_category/Beauty?id=211965",
+  "https://www.macys.com/shop/featured/cuba-cologne"
+ ],
+ "cited_store": true,
+ "answer": "NAME: 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: UNKNOWN | OPENED: NO: exact product page could not be opened",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: UNKNOWN | OPENED: NO: exact product page could not be opened",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/brands/sol-de-janeiro?id=410373",
+   "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043",
+   "https://www.macys.com/shop/skincare-gift-sets/Pageindex/2?id=77017",
+   "https://www.macys.com/shop/beauty/gift-sets/Pageindex/3?id=55537",
+   "https://www.macys.com/shop/beauty/body-care?id=58499",
+   "https://www.macys.com/shop/skincare-gift-sets?id=77017",
+   "https://www.macys.com/shop/beauty/Brand/Marc%20Jacobs?id=290756",
+   "https://www.macys.com/shop/beauty/skin-care/Pageindex/5?id=30078",
+   "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers/Business_category/Beauty?id=211965",
+   "https://www.macys.com/shop/featured/cuba-cologne"
+  ],
+  "created": 1794082513,
+  "id": "resp_a90807f1-0da5-4e8d-8d68-6dfc95370fd2",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Sol de Janeiro | Body Care and Fragrance | Macy's\n...\n- Sol de Janeiro\n### 3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n$10 Star Money for $100\n(5,134)\n- Sol de Janeiro\n...\n- Sol de Janeiro",
+    "source": "web",
+    "title": "www.macys.com › shop › brandsSol de Janeiro | Body Care and Fragrance | Macy's",
+    "url": "https://www.macys.com/shop/brands/sol-de-janeiro?id=410373"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- Sol de Janeiro\n### NEW!\n3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n(5,133)\n- Created For Macy's",
+    "source": "web",
+    "title": "Beauty Gift Sets & Value Sets | Macy's",
+    "url": "https://www.macys.com/shop/gift-sets/Pageindex/2?id=120043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- Sol de Janeiro\n### NEW!\n3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n### NEW! 3-Piece Bum Bum Jet Set\n(5,130)",
+    "source": "web",
+    "title": "Skin Care Gift & Value Sets - Macy's",
+    "url": "https://www.macys.com/shop/skincare-gift-sets/Pageindex/2?id=77017"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Beauty Gift Sets | Macy's\n...\n(766)\n- Sol de Janeiro\n### NEW!\n3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n(5,129)\n- Dolce&Gabbana\n...\n- BALMAIN PARIS",
+    "source": "web",
+    "title": "Beauty Gift Sets",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Pageindex/3?id=55537"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "- Sol de Janeiro\n### 3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n$10 Star Money for $100\n(5,134)",
+    "source": "web",
+    "title": "Body Care - Macy's",
+    "url": "https://www.macys.com/shop/beauty/body-care?id=58499"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### 4-Pc. First Experience Skin Care Set\n$84.15; 15% off; with code FRIEND;$84.15 (15% off)\nFRIEND applied\n...\nfree gift with purchase\n(431)\n- Sol de Janeiro\n### NEW!\n3-Piece Bum Bum Jet Set\nCurrent price $34.00; ;$34.00\n(5,131)\n- Elizabeth Arden",
+    "source": "web",
+    "title": "Skin Care Gift & Value Sets | Macy's",
+    "url": "https://www.macys.com/shop/skincare-gift-sets?id=77017"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Marc Jacobs Beauty\n## Montblanc Explorer Infinite Eau de Parfum\nWhy we love it: Infused with vibrant\nlemon and refined\npatchouli to create a\nfresh woody fragrance.\nNew at Macy’s\n## Sol De Janeiro\nThe Brazilian-inspired body care and scents\nyou’ve seen\neverywhere just landed here.",
+    "source": "web",
+    "title": "Marc Jacobs Beauty | Macy's",
+    "url": "https://www.macys.com/shop/beauty/Brand/Marc%20Jacobs?id=290756"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Skin Care\n## Sol De Janeiro\nThe Brazilian-inspired body care and scents\nyou’ve seen\neverywhere just landed here.",
+    "source": "web",
+    "title": "Skin Care | Macy's",
+    "url": "https://www.macys.com/shop/beauty/skin-care/Pageindex/5?id=30078"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "- Sol de Janeiro\n### NEW!\n3-Piece Beija Flor Jet Set\nCurrent price $34.00; ;$34.00\n(522)",
+    "source": "web",
+    "title": "Beauty Mini Gifts & Stocking Stuffers - Macy's",
+    "url": "https://www.macys.com/shop/gifts/holiday/gift-lists/minis-stocking-stuffers/Business_category/Beauty?id=211965"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "- Sol de Janeiro\n### NEW!\nCheirosa 62 Bum Bum Hair & Body Perfume Mist, 8.11 oz.\nCurrent price $39.00; ;$39.00",
+    "source": "web",
+    "title": "Cuba Cologne - Macy's",
+    "url": "https://www.macys.com/shop/featured/cuba-cologne"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 36,
+   "cost": {
+    "input_tokens_cost": 0.00086,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00363
+   },
+   "prompt_tokens": 131,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

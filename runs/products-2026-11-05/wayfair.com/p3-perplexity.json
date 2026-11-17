@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+  "https://www.wayfair.com/outdoor/cat/outdoor-umbrellas-c417302.html",
+  "https://www.wayfair.com/outdoor/cat/outdoor-shades-c1860512.html",
+  "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~256.html",
+  "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~59.html",
+  "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~7312.html",
+  "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~145.html",
+  "https://www.wayfair.com/outdoor/cat/outdoor-shades-sale-c1863246.html",
+  "https://www.wayfair.com/outdoor/pdp/birch-lane-48lb-granite-umbrella-base-w119865299.html",
+  "https://www.wayfair.com/outdoor/cat/outdoor-seating-patio-chairs-c215135.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Iago Outdoor Umbrella | PRICE: $185.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Iago Outdoor Umbrella | PRICE: $185.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+   "https://www.wayfair.com/outdoor/cat/outdoor-umbrellas-c417302.html",
+   "https://www.wayfair.com/outdoor/cat/outdoor-shades-c1860512.html",
+   "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~256.html",
+   "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~59.html",
+   "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~7312.html",
+   "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~145.html",
+   "https://www.wayfair.com/outdoor/cat/outdoor-shades-sale-c1863246.html",
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-48lb-granite-umbrella-base-w119865299.html",
+   "https://www.wayfair.com/outdoor/cat/outdoor-seating-patio-chairs-c215135.html"
+  ],
+  "created": 1793907379,
+  "id": "resp_35d5607f-c1f9-43a7-be68-f38f5c6c5440",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-04",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Birch Lane™ Iago Outdoor Umbrella & Reviews | Wayfair\n1. Outdoor/\n2. Outdoor Shades/\n3. Outdoor Umbrellas/\n4. Patio Umbrellas/\n5. SKU: W000862408\n## Customer Reviews\n4.8\nRated 4.8 out of 5 stars.\n2,690 Reviews\n...\n- Weather Resistant\nPole Diameter: 1.5 ''\nFull Assembly Needed - All Tools Included\n.....",
+    "source": "web",
+    "title": "Birch Lane™ Iago Outdoor Umbrella & Reviews - Wayfair",
+    "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Ivory/Black\n(2690)\nRated 4.8 out of 5 stars.2690 total votes\n$185.00 was~~$290.40~~\nFREE 1-Day Delivery\nGet it Tomorrow\nQuickview\nMake morning coffee and evening meals outside even more pleasant with a market umbrella that spans 9' across when open.\nAn ...",
+    "source": "web",
+    "title": "Outdoor Umbrellas You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/outdoor/cat/outdoor-umbrellas-c417302.html"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Ivory/Black\n(2690)\nRated 4.8 out of 5 stars.2690 total votes\n$185.00 was~~$290.40~~\nFREE 1-Day Delivery\nGet it Tomorrow\nQuickview\nMake morning coffee and evening meals outside even more pleasant with a market umbrella that spans 9' across when open.\nAn ...",
+    "source": "web",
+    "title": "Outdoor Shades You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/outdoor/cat/outdoor-shades-c1860512.html"
+   },
+   {
+    "date": "2026-09-19",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Ivory/Black\n(2685)\nRated 4.8 out of 5 stars.2685 total votes\n$189.00 was~~$290.40~~\nFREE 1-Day Delivery\nMake morning coffee and evening meals outside even more pleasant with a market umbrella that spans 9' across when open.\nAn octagonal canopy is made f...",
+    "source": "web",
+    "title": "Birch Lane™ | Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~256.html"
+   },
+   {
+    "date": "2026-08-19",
+    "last_updated": "2026-09-06",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nIvory/Black, Brown\nRated 4.8 out of 5 stars.2608 total votes\n$169.00 was~~$290.40~~\nFREE Fast Delivery\nGet it by Thu, Sep 10\n37 Sizes",
+    "source": "web",
+    "title": "Birch Lane™ - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~59.html"
+   },
+   {
+    "date": "2026-07-20",
+    "last_updated": "2026-08-01",
+    "place_metadata": null,
+    "snippet": "10 Colors\n## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Ivory/Black\nRated 4.8 out of 5 stars.2528 total votes\n$179.00 was~~$290.40~~\nFREE Fast Delivery\nGet it by Wed, Aug 5",
+    "source": "web",
+    "title": "Birch Lane",
+    "url": "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~7312.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Ivory/Black\n(2690)\nRated 4.8 out of 5 stars.2690 total votes\n$185.00 was~~$290.40~~\nFREE 1-Day Delivery\n4 Colors, 3 Sizes",
+    "source": "web",
+    "title": "Birch Lane™ - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/birch-lane-b25006-masterClID~145.html"
+   },
+   {
+    "date": "2026-10-04",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Iago Outdoor Umbrella\nBy Birch Lane™\nBrown, Beige/White\n(2690)\nRated 4.8 out of 5 stars.2690 total votes\n$179.00 was~~$290.40~~\nFREE 2-Day Delivery\nGet it by Fri, Nov 6\nQuickview\nMake morning coffee and evening meals outside even more pleasant with a market umbrella that spans 9' across when open...",
+    "source": "web",
+    "title": "Outdoor Shades Sale You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/outdoor/cat/outdoor-shades-sale-c1863246.html"
+   },
+   {
+    "date": "2026-09-23",
+    "last_updated": "2026-09-19",
+    "place_metadata": null,
+    "snippet": "Rated 0 out of 5 stars.\n...\nNot loving it?\nWe offer returns for most items within 30 days of delivery for a refund or store credit.",
+    "source": "web",
+    "title": "Birch Lane™ 48lb Granite Umbrella Base | Wayfair",
+    "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-48lb-granite-umbrella-base-w119865299.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Outdoor Seating & Patio Chairs\n## Amala Sunbrella® Outdoor Deep Seating Cushion\nBy Birch Lane™\n25\" W x 25.5\" D, Sunbrella® Canvas Natural\n(2056)",
+    "source": "web",
+    "title": "Outdoor Seating & Patio Chairs",
+    "url": "https://www.wayfair.com/outdoor/cat/outdoor-seating-patio-chairs-c215135.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00135,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00409
+   },
+   "prompt_tokens": 128,
+   "search_context_size": "low",
+   "total_tokens": 151
+  }
+ }
+}

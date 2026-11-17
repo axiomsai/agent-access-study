@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.shein.com/ncr/Women-Clothing-c-2030.html",
+  "https://us.shein.com/Brands/Teckwe-sc-014435097.html",
+  "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+  "https://us.shein.com/Bathroom-Furniture-c-4923.html",
+  "https://us.shein.com/style/Glitter-sc-00115366.html",
+  "https://m.shein.com/es/Underwear-&-Sleepwear-c-2038.html",
+  "https://m.shein.com/us/cc-c-2030.html",
+  "https://us.shein.com/Women%20Cover%20Ups-c-2176.html",
+  "https://m.shein.com/us/",
+  "https://eur.shein.com/"
+ ],
+ "cited_store": true,
+ "answer": "Women's & Men's Clothing, Shop Online Fashion | SHEIN — Women Tops, Blouses & Tee[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Women's & Men's Clothing, Shop Online Fashion | SHEIN — Women Tops, Blouses & Tee[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.shein.com/ncr/Women-Clothing-c-2030.html",
+   "https://us.shein.com/Brands/Teckwe-sc-014435097.html",
+   "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+   "https://us.shein.com/Bathroom-Furniture-c-4923.html",
+   "https://us.shein.com/style/Glitter-sc-00115366.html",
+   "https://m.shein.com/es/Underwear-&-Sleepwear-c-2038.html",
+   "https://m.shein.com/us/cc-c-2030.html",
+   "https://us.shein.com/Women%20Cover%20Ups-c-2176.html",
+   "https://m.shein.com/us/",
+   "https://eur.shein.com/"
+  ],
+  "created": 1794079593,
+  "id": "resp_0b6620dd-0c7e-42c9-920e-3d0eec0a893a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Clothing\n...\n## Filter\n### Category\nWomen Tops, Blouses & TeeWomen Blouses & ShirtsWomen T-ShirtsWomen Tank Tops & CamisWomen Sweatshirts & HoodiesWomen Denim Jackets & CoatsWomen JeansWomen Denim ShortsWomen Denim Overalls & Jumps...",
+    "source": "web",
+    "title": "Shop Women's Clothing Online | SHEIN",
+    "url": "https://www.shein.com/ncr/Women-Clothing-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > Teckwe\nHome/Teckwe/\n# Teckwe\nThe latest in tech: check!\nFind all your current tech obsessions, from Bluetooth earphones to speakers, fans, buzzworthy beauty gadgets & beyond!",
+    "source": "web",
+    "title": "Teckwe",
+    "url": "https://us.shein.com/Brands/Teckwe-sc-014435097.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > shein\nHome/shein/\n...\n## Product list\nSHEINBlues Women's New Double-Breasted Elegant Blazer In Velvet Fabric With Color-Blocked Trim And Asymmetrical Hem",
+    "source": "web",
+    "title": "Fashion shein | SHEIN USA",
+    "url": "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Bathroom Furniture\nHome/Tools & Home Improvement/Furniture/Bathroom Furniture/",
+    "source": "web",
+    "title": "Home > Bathroom Furniture",
+    "url": "https://us.shein.com/Bathroom-Furniture-c-4923.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Glitter\nHome/Glitter/\n## Filter\n...\n### Category\nWomen ClothingWomen Tops, Blouses & TeeWomen Blouses & ShirtsWomen T-ShirtsWomen Tank Tops & CamisWomen ShortsWomen Sweatshirts & HoodiesWomen Denim DressesWomen Denim TopsWomen Denim Jack...",
+    "source": "web",
+    "title": "Fashion Glitter - SHEIN USA",
+    "url": "https://us.shein.com/style/Glitter-sc-00115366.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Underwear & Sleepwear\n...\nSHEIN 11.11\nEU Warehouse",
+    "source": "web",
+    "title": "Lencería y Ropa Cómoda de Mujer | Últimas Tendencias - Shein",
+    "url": "https://m.shein.com/es/Underwear-&-Sleepwear-c-2038.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women's Clothing | Dresses, Pants, Tops & More | SHEIN USA\n# Women Clothing\nWomen Tops, Blouses & Tee\nWomen Sweatshirts & Hoodies\nWomen Co-ords\nWomen Knitwear\nWomen Bottoms",
+    "source": "web",
+    "title": "Women's Clothing | Dresses, Pants, Tops & More | SHEIN USA",
+    "url": "https://m.shein.com/us/cc-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Cover Ups\nHome/Women Apparel/Women Clothing/Women Beachwear/Women Cover Ups/\n...\n## Product list\n...\nWomen's Solid Color Sexy Hollow-Out See-Through Backless Long Sleeve Cover Up, Short Beach Dress, Spring/Summer Vacation, Resort W...",
+    "source": "web",
+    "title": "Home > Women Cover Ups",
+    "url": "https://us.shein.com/Women%20Cover%20Ups-c-2176.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women's Clothing, Women Fashion Sale | SHEIN USA\nFree Shipping\nOn SHEIN-shipped orders $29+\nFree Returns",
+    "source": "web",
+    "title": "Women's Clothing, Women Fashion Sale | SHEIN USA",
+    "url": "https://m.shein.com/us/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women’s Clothing | Shop Clothes Fashion | SHEIN EUR",
+    "source": "web",
+    "title": "Women’s Clothing | Shop Clothes Fashion | SHEIN EUR",
+    "url": "https://eur.shein.com/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00069,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00325
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 82
+  }
+ }
+}

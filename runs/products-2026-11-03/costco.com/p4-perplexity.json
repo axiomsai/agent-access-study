@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/saunas.html",
+  "https://www.costco.com/opt/home-spa-equipment",
+  "https://www.costco.com/opt/family-wellness-products",
+  "https://www.costco.com/opt/home-spa-gifts-for-her",
+  "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+  "https://www.costco.com/sitemap_lw_p_mod_001.xml",
+  "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1",
+  "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlVVQ3d5OWFMWVpVQ1EzcHY4anRlMEVjMjJXdFVTbFl6Q0hja0VNclFRQllIeFhCN3MyRXl5TnNHRVNBMFY3MThEaTkzU0dnSjc1X2EyTms2WmxoZFZWRn5aRVZIVXJGeEw3bVB3OE9zWFlENjdLczZRcFRFdDB2NTFCTk9LQlpZY0dUdmduZVM2VXJjIQ!!/page/1/priorTransactionID/713884421"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/saunas.html",
+   "https://www.costco.com/opt/home-spa-equipment",
+   "https://www.costco.com/opt/family-wellness-products",
+   "https://www.costco.com/opt/home-spa-gifts-for-her",
+   "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+   "https://www.costco.com/sitemap_lw_p_mod_001.xml",
+   "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1",
+   "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlVVQ3d5OWFMWVpVQ1EzcHY4anRlMEVjMjJXdFVTbFl6Q0hja0VNclFRQllIeFhCN3MyRXl5TnNHRVNBMFY3MThEaTkzU0dnSjc1X2EyTms2WmxoZFZWRn5aRVZIVXJGeEw3bVB3OE9zWFlENjdLczZRcFRFdDB2NTFCTk9LQlpZY0dUdmduZVM2VXJjIQ!!/page/1/priorTransactionID/713884421"
+  ],
+  "created": 1793751376,
+  "id": "resp_cd8b0413-70a6-414a-91b9-ac039632f97e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | Costco\n...\n3. Sports & Fitness\n...\n# Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands\nItem 3849544 | Model 3849544-18POD\n...\n## How To Get It\nChange My WarehouseUnavailable\n- Deep Steam Heat - Up to 135°F ...",
+    "source": "web",
+    "title": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Buy Online\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nOnline Only\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nItem 3849544\nLimit 5.\n$199.99\nAfter $100 OFF\nValid 10/23/26 - 11/15/26\nValid 10/30/26 - 11/15/26\nBuy Online",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Saunas\n## Home Saunas & Personal Spas: Relax, Unwind and Recharge\n- **Indoor, Outdoor & Portable:** Indoor saunas, outdoor saunas and portable saunas offer instant relaxation.\n- **Compact 2-Person Saunas:** Energy-efficient 2-person saunas for master suites, home gyms, or tight spaces.",
+    "source": "web",
+    "title": "Saunas - Costco Wholesale",
+    "url": "https://www.costco.com/saunas.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Home Spa Equipment\n## FAQs\nCostco offers a wide selection of home spa equipment, including massage chairs, foot spas, steam showers, saunas, and spa accessories designed to help you create a relaxing atmosphere at home.",
+    "source": "web",
+    "title": "Home Spa Equipment - Costco Wholesale",
+    "url": "https://www.costco.com/opt/home-spa-equipment"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Family Wellness Products\nDynamic Catalonia 8-person Ultra Low EMF FAR Infrared Sauna",
+    "source": "web",
+    "title": "Family Wellness Products",
+    "url": "https://www.costco.com/opt/family-wellness-products"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Home Spa Gifts For Her\nGLO24K Red Light LED Rejuvenation Device with Heat / Vibration + Hydra Gel",
+    "source": "web",
+    "title": "Home Spa Gifts For Her - Costco Wholesale",
+    "url": "https://www.costco.com/opt/home-spa-gifts-for-her"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Costco Same-Day\n# Costco favorites delivered in as fast as 1 hour",
+    "source": "web",
+    "title": "Homedics Premium Steam Sauna, Black - Costco Same-Day Delivery",
+    "url": "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "https://www.costco.com/p/-/homedics-shiatsu-foot-massager-with-air-and-heat/4201023241",
+    "source": "web",
+    "title": "https://www.costco.com/sitemap_lw_p_mod_001.xml",
+    "url": "https://www.costco.com/sitemap_lw_p_mod_001.xml"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Homedics Infrared & Red Light Pain Therapy Wrap | Costco\n...\n3. Health & Personal Care\n...\n5. Home Health Care\n...\n# Homedics Infrared & Red Light Pain Therapy Wrap\nItem 1900871\n...\n## How To Get It\n- 20, 850 Nm Infrared LEDs Penetrate for Muscle Relief\n- 20, 660 Nm LEDs Boost Blood Flow, Speeding U...",
+    "source": "web",
+    "title": "Homedics Infrared & Red Light Pain Therapy Wrap",
+    "url": "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191?DM_PersistentCookieCreated=true&langId=-1"
+   },
+   {
+    "date": "2026-05-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\nMy Orders\nMembership Auto-Renewal",
+    "source": "web",
+    "title": "Find Answers - Costco Customer Service",
+    "url": "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlVVQ3d5OWFMWVpVQ1EzcHY4anRlMEVjMjJXdFVTbFl6Q0hja0VNclFRQllIeFhCN3MyRXl5TnNHRVNBMFY3MThEaTkzU0dnSjc1X2EyTms2WmxoZFZWRn5aRVZIVXJGeEw3bVB3OE9zWFlENjdLczZRcFRFdDB2NTFCTk9LQlpZY0dUdmduZVM2VXJjIQ!!/page/1/priorTransactionID/713884421"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 33,
+   "cost": {
+    "input_tokens_cost": 0.00112,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00389
+   },
+   "prompt_tokens": 139,
+   "search_context_size": "low",
+   "total_tokens": 172
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "walmart.com",
+ "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+ "idx": 5,
+ "at": "2026-11-07T13:31:05-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "15274 chars, copy dated 2026-09-05 (63 days old)",
+   "parsed": true,
+   "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-09-05T01:30:39+00:00",
+   "age_days": 63,
+   "cost_usd": 0.15661
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver",
+   "price": 219.94,
+   "price_raw": "$219.94",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00064
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "New Acer Chromebook 315 Laptop - 15.6\" Celeron Processor, 4GB RAM, 64GB eMMC, Pure Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02368
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver, ChromeOS",
+   "price": 219.94,
+   "price_raw": "$219.94",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0052
+  }
+ }
+}

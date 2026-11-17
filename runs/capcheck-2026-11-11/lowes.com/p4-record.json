@@ -1,0 +1,25 @@
+{
+ "domain": "lowes.com",
+ "idx": 4,
+ "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "11190 chars, copy dated 2026-10-23 (19 days old)",
+   "price": 199.0,
+   "opened": "YES",
+   "doc_chars": 11190,
+   "input_tokens": 32905,
+   "cost_usd": 0.14498
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "11625 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 179.0,
+   "opened": "YES",
+   "doc_chars": 11625,
+   "input_tokens": 33668,
+   "cost_usd": 0.14817
+  }
+ }
+}

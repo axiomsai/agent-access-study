@@ -1,0 +1,60 @@
+{
+ "domain": "amazon.com",
+ "url": "https://www.amazon.com/dp/B0FN4NH4K8",
+ "idx": 5,
+ "at": "2026-11-07T13:30:46-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06856
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 6e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong",
+   "price": 12.77,
+   "price_raw": "$12.77",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.04366
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

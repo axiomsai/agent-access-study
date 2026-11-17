@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922",
+  "https://business.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922",
+  "https://www.walmart.com/c/kp/ninja-slushy-machine-for-frozen-drinks",
+  "https://www.walmart.com/c/kp/ninja-slush",
+  "https://business.walmart.com/ip/Ninja-SLUSHi-3-in-1-72-oz-Professional-Frozen-Drink-Maker-Purple-FS300/17767951013",
+  "https://www.walmart.com/browse/ninja-deals/c2hlbGZfaWQ6MTMyNTY3Ngieie",
+  "https://www.walmart.com/browse/home/slushie-machines/complete-cuisine/4044_90548_90546_9010645/YnJhbmQ6Q29tcGxldGUgQ3Vpc2luZQieie",
+  "https://www.walmart.com/reviews/product/5321127922?page=3",
+  "https://www.walmart.com/shop/deals/all-home",
+  "https://business.walmart.com/browse/foodservice-kitchen-appliances/specialty-kitchen-appliances/1251162_9032724_1501849"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray | PRICE: $199.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.0052,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray | PRICE: $199.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922",
+   "https://business.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922",
+   "https://www.walmart.com/c/kp/ninja-slushy-machine-for-frozen-drinks",
+   "https://www.walmart.com/c/kp/ninja-slush",
+   "https://business.walmart.com/ip/Ninja-SLUSHi-3-in-1-72-oz-Professional-Frozen-Drink-Maker-Purple-FS300/17767951013",
+   "https://www.walmart.com/browse/ninja-deals/c2hlbGZfaWQ6MTMyNTY3Ngieie",
+   "https://www.walmart.com/browse/home/slushie-machines/complete-cuisine/4044_90548_90546_9010645/YnJhbmQ6Q29tcGxldGUgQ3Vpc2luZQieie",
+   "https://www.walmart.com/reviews/product/5321127922?page=3",
+   "https://www.walmart.com/shop/deals/all-home",
+   "https://business.walmart.com/browse/foodservice-kitchen-appliances/specialty-kitchen-appliances/1251162_9032724_1501849"
+  ],
+  "created": 1793905979,
+  "id": "resp_af4bb067-959d-4d20-aa7f-bbf509e9ee84",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Ninja, Frozen Drink Machine, 72 oz, RapidChill Technology - Walmart.com\n- $0.00\n...\n# Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\n4.5 out of 5 stars\n(4.5)\n13K ratings\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 ...",
+    "source": "web",
+    "title": "Ninja, Frozen Drink Machine, 72 oz, RapidChill Technology - Walmart",
+    "url": "https://www.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-06",
+    "place_metadata": null,
+    "snippet": "# Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\n12,215 reviews\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 GrayNinja SLUSHi Professional Frozen Drink MakerNinja SLUSHi 3 in 1 72 oz ...",
+    "source": "web",
+    "title": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill ...",
+    "url": "https://business.walmart.com/ip/Ninja-SLUSHi-Professional-Frozen-Drink-Maker/5321127922"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Ninja Slushy Machine For Frozen Drinks (9)\nNinja FS300 SLUSHi 72oz.\nFrozen Drink & Slushie Machine Bundle with Deco Essentials Collapsable Water Bottle BPA Free 24oz Gray/Stainless and 1 YR CPS Enhanced Protection Pack\nReduced price\n...\ncurrent price $319.95\n...\nNinja SLUSHi with RapidChill Techno...",
+    "source": "web",
+    "title": "Ninja Slushy Machine For Frozen Drinks",
+    "url": "https://www.walmart.com/c/kp/ninja-slushy-machine-for-frozen-drinks"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-12",
+    "place_metadata": null,
+    "snippet": "### Overall pick Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\nOptions\n### Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\n4.5 out of 5 Stars.\n12317 reviews",
+    "source": "web",
+    "title": "Ninja Slush - Walmart.com",
+    "url": "https://www.walmart.com/c/kp/ninja-slush"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, Slushy Maker, FS300PL Purple\n...\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, Slushy Maker, FS300PL PurpleNinja SLUSHi 72 Oz Frozen Drink Machine with ...",
+    "source": "web",
+    "title": "Ninja SLUSHi Frozen Machine | Frozen beverage - Walmart ...",
+    "url": "https://business.walmart.com/ip/Ninja-SLUSHi-3-in-1-72-oz-Professional-Frozen-Drink-Maker-Purple-FS300/17767951013"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "### Only at Walmart, Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray, Price Now $199.00 Was $249.00 Options from $179.99\nOptions\nPrice Now $199.00 Was $249.00 Options from $179.99\nNow$19900$249.00Options from $179.99\nNinja SLUSHi 72-Oz Froze...",
+    "source": "web",
+    "title": "Ninja Deals - Walmart.com",
+    "url": "https://www.walmart.com/browse/ninja-deals/c2hlbGZfaWQ6MTMyNTY3Ngieie"
+   },
+   {
+    "date": "2026-01-10",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "### Rollback, Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, Slushy Maker, FS300BL Blue $199.00 Was $249.00\n...\nNow$19900\ncurrent price Now $199.00, Was $249.00\n$249.00\n### Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets,...",
+    "source": "web",
+    "title": "Complete Cuisine Iceman Slushy Maker & Slushie Machines | Walmart",
+    "url": "https://www.walmart.com/browse/home/slushie-machines/complete-cuisine/4044_90548_90546_9010645/YnJhbmQ6Q29tcGxldGUgQ3Vpc2luZQieie"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-31",
+    "place_metadata": null,
+    "snippet": "Customer ratings and reviews for\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\n...\n4.5 out of 5 stars\nstars\n12.1K ratings4,088 reviews",
+    "source": "web",
+    "title": "Customer reviews for Ninja SLUSHi 72-Oz Frozen Drink ...",
+    "url": "https://www.walmart.com/reviews/product/5321127922?page=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### Only at Walmart, Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray $199.00 Was $249.00\nOptions\nNow$19900\ncurrent price Now $199.00, Was $249.00\n$249.00\nYou save $50.00\nYou save$50.00\nOptions from $179.99\n### Ninja SLUSHi 72-Oz Frozen Drink...",
+    "source": "web",
+    "title": "Home Deals & More - Walmart.com",
+    "url": "https://www.walmart.com/shop/deals/all-home"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Free shipping, arrives Fri, Oct 30\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray\nRollback\nOptions\nNow $199.00\ncurrent price Now $199.00, Was $249.00\n$249.00\nOptions from $179.99\nNinja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Techn...",
+    "source": "web",
+    "title": "Specialty Kitchen Appliances in Kitchen Appliances - Walmart Business",
+    "url": "https://business.walmart.com/browse/foodservice-kitchen-appliances/specialty-kitchen-appliances/1251162_9032724_1501849"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 47,
+   "cost": {
+    "input_tokens_cost": 0.00168,
+    "output_tokens_cost": 0.00034,
+    "request_cost": 0.0025,
+    "total_cost": 0.00452
+   },
+   "prompt_tokens": 151,
+   "search_context_size": "low",
+   "total_tokens": 198
+  }
+ }
+}

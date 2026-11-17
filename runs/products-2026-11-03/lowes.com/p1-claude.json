@@ -1,0 +1,165 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+ "retrieved_at": "2026-10-16T23:19:56+00:00",
+ "age_days": 18,
+ "doc_chars": 11760,
+ "doc_markers": [],
+ "answer": "NAME: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.20177,
+ "raw": [
+  {
+   "id": "srvtoolu_01A83fC7eoQDpn95pLyRAFWd",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0]['title'],len(c));print(c[:1500])\n import re\n for k in ['$','tock','vailab']:\n  for m in re.finditer(re.escape(k),c):print(c[max(0,m.start()-80):m.start()+80].replace('\\n',' '));\n"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01XRX72tfYvmfPBQfGL6Cb7p",
+   "caller": {
+    "tool_id": "srvtoolu_01A83fC7eoQDpn95pLyRAFWd",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01A83fC7eoQDpn95pLyRAFWd",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\nmeta-HandheldFriendly: True\nmeta-MobileOptimized: 320\nmeta-apple-mobile-web-app-capable: yes\nmeta-apple-mobile-web-app-status-bar-style: black\nmeta-description: Shop Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowe's.com. Samsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to\nmeta-format-detection: telephone=no\nmeta-og:description: Shop Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowe's.com. Samsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to\nmeta-og:image: //mobileimages.lowes.com/productimages/dc276c1b-d6f5-476a-8c5b-e41251ef1801/75981125.jpeg?size=sm\nmeta-og:site_name: Lowe's\nmeta-og:title: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified Lowes.com\nmeta-og:type: product\nmeta-og:url: https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\nmeta-robots: follow\nmeta-viewport: width=device-width, user-scalable=yes, minimum-scale=1.0,maximum-scale=5.0,initial-scale=1.0\ntitle: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowes.com\n---\n\nSkip to main content\n\n[Find great gifts for everyone on your list in the Gift Zone. Shop Now >](https://www.lowes.com/pl/Gifting/1711264269779?int_cmp=FW37_26_Gifting_GLOBAL)\n\n[Lowe's Credit Center](https://www.lowes.com/l/Credit)[Order Status](https://www.lowes.com/mylowes/orders)[Weekly Ad](https://www.lowes.com/weekly-ad)[Lowe's PRO](https://www.lowes.com/l/Pro)\n\n[Link to Lowe's Home Improvement Home Page](https://www.lowes.com/ \"Link to Lowe's Home Improvement Home Page\")\n\nMylow\n\nMyLowesSign In\n\nCart with 0 itemsCart\n\nShop All\n\nServices\n\nDeals\n\nDesign & Ideas\n\n$99 Maintenance\n\nAppliances\n\nBathroom\n\nLighting\n\nFlooring\n\nBuilding Supplies\n\nTools\n\nHoliday Decorations\n\nOutdoor\n\nLawn & Garden\n\n[Fall Inspo](https://www.lowes.com/l/seasonal-inspiration)\n\nPrices, Promotions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and availability of products and services are subject to change without notice. Errors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted.\n\n1. [Appliances](https://www.lowes.com/c/Appliances)\n2. [Refrigerators](https://www.lowes.com/c/Refrigerators-Appliances)\n3. [French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/4294857963)\n\n# Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified\n\nItem #7209341 |\n\nModel #RF70F27SER\n\n[Shop Samsung](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/samsung/4294857963-4294963507)\n\n-\n\n- ![Samsung RF70F27SER Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified](https://mobileimages.lowes.com/productimages/dc276c1b-d6f5-476a-8c5b-e41251ef1801/75981125.jpeg?size=pdhism)\n\n  \n  \n  \n\n-\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #2](https://mobileimages.lowes.com/productimages/eca56dbf-5c2a-4882-9578-32fd234e9771/75388195.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #3](https://mobileimages.lowes.com/productimages/30c698d3-23b1-43bc-bb31-40c88c0b054e/75388210.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #4](https://mobileimages.lowes.com/productimages/9d684954-2321-4e44-94dc-1ed2a4920e17/97985132.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #5](https://mobileimages.lowes.com/productimages/8a651cf0-cc85-4fad-a204-e3b36d4adee4/76969237.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #6](https://mobileimages.lowes.com/productimages/dbef3ac0-3488-425a-845b-57bfaa04f862/84572802.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #7](https://mobileimages.lowes.com/productimages/24b0b1f8-e338-4130-a556-3d38c1fcf841/75388205.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #8](https://mobileimages.lowes.com/productimages/6f99fada-015d-4a3b-aca2-29b732d8d5ba/75388117.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #9](https://mobileimages.lowes.com/productimages/af1f1828-577e-45bf-8e28-786e75c7ef27/75388209.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #10](https://mobileimages.lowes.com/productimages/825f3524-e422-469f-bfce-a28134ef616f/77346536.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #11](https://mobileimages.lowes.com/productimages/f78dba93-0023-46a4-b54f-ab14660fc123/75388134.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #12](https://mobileimages.lowes.com/productimages/fa2da590-6c30-4c6b-b189-5889643a3623/75952589.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #13](https://mobileimages.lowes.com/productimages/554daa00-ede9-4f0b-bb5f-2334fa872330/75952587.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #14](https://mobileimages.lowes.com/productimages/8e018d02-839d-4606-b0e4-1ebdf4d6d6c9/75954403.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #15](https://mobileimages.lowes.com/productimages/7dd1ac25-1541-4c33-9db1-afd76b4981ff/75388109.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #16](https://mobileimages.lowes.com/productimages/253d50cb-d113-4b84-8280-ef373c01607d/95745479.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #17](https://mobileimages.lowes.com/productimages/cbf83009-b66a-4537-9fd3-5ed46db859a4/88062843.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #18](https://mobileimages.lowes.com/productimages/e3b415be-c8c7-43cb-ba05-5f65c6c85db9/87552507.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #19](https://mobileimages.lowes.com/productimages/83ee5082-5705-4c92-9dc7-5fc69e0098ea/65179517.jpg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #20](https://mobileimages.lowes.com/productimages/1f350916-c583-40c9-8ba8-4022cb3f3e55/89597116.jpeg?size=pdhism)\n\n-\n\n-\n\nDimensions  French Door Refrigerators\n\nWidth\n\n35.75\"\n\nHeight\n\n70\"\n\nDepth\n\n31.75\"\n\n500+bought last week\n\n[![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)\n\n[![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)\n\nBest Price. Guaranteed\n\nFind a lower price on an exact item? We'll match it. Some exclusions apply.\n\n[Price Guarantee](https://www.lowes.com/l/about/lowest-price-guarantee)\n\nFREE Returns\n\nReturn it in store or ship it back for free. Eligibility rules apply.\n\nReturn Policy\n\nPay Your Way\n\nCredit card, PayPal or Buy Now, Pay Later options available at checkout. Your choice.\n\n[Payment Options](https://www.lowes.com/l/Credit)\n\n## Overview\n\nSamsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to store more groceries, including big and bulky items; Plus, get easy access to chilled water and curved or crushed ice from the external dispenser and Sphere Ice™ from the ice maker in the freezer.\n\n- 26 cu ft Mega Capacity: Store more groceries, with extra room to stay organized; Our 26 cu ft mega capacity refrigerator gives you more space and easy access to what you need.\n\n- Sphere Ice™: Enhance your drinks with Sphere Ice™ - its slow-melting, rounded shape keeps drinks colder, longer; (compared to cubed ice)\n\n- External Water & Ice Dispenser: Get easy access to chilled, filtered water and curved ice, with the external dispenser.\n\n- Three types of ice: Get easy access to chilled water and curved or crushed ice from the external dispenser and Sphere Ice™ from the ice maker in the freezer.\n\n- Slide-in Shelf: The adjustable slide-in shelf is flexibly designed to fit in just half of the fridge, so you can slide it back to create more room for tall and bulky items.\n\n- All-Around Cooling: Continuously monitors temperature, to ensure consistent cooling from corner to corner; It also keeps the internal temperature the same throughout the fridge, so groceries stay fresher, longer.\n\n- LED Lighting: LED lighting beautifully illuminates the interior of your fridge so you can quickly spot what you want.\n\n- ADA Compliant: Easy-to-reach controls for everyone.\n\n- 10 Year Warranty: Get a 10 year warranty on parts and 5 years of coverage for labor, on the Digital Inverter™ Compressor.\n\nCA Residents: [Prop 65 Warning(s)](https://pdf.lowes.com/productdocuments/27ea3453-222a-4785-b853-8564f1dc4c52/61385497.pdf)\n\n## Specifications\n\nDimensions: H 70 in, W 35.75 in, D 31.75 in\n\nManuals & Documents\n\n[Prop65 Warning Label](https://pdf.lowes.com/productdocuments/27ea3453-222a-4785-b853-8564f1dc4c52/61385497.pdf)PDF\n\n[Warranty Guide](https://pdf.lowes.com/productdocuments/fc86c987-6fd6-4a8e-98af-56ed98189182/75388351.pdf)PDF\n\n[Use and Care Manual](https://pdf.lowes.com/productdocuments/898ba202-ca12-4031-813b-12c0a5896478/75388355.pdf)PDF\n\n[Energy Guide](https://pdf.lowes.com/productdocuments/d7b9b7f7-a419-4efc-b939-de00013b2593/75388352.pdf)PDF\n\n[Installation Manual](https://pdf.lowes.com/productdocuments/574d1a3f-c393-4736-bb9c-cf18141141a6/75953811.pdf)PDF\n\n[Read All Reviews](https://www.lowes.com/reviews/samsung-rf70f27ser-french-door-refrigerators/5016703559)\n\n## Reviews\n\n0 ( 0 )\n\n[Read All Q&A](https://www.lowes.com/questions/samsung-rf70f27ser-french-door-refrigerators/5016703559)\n\n## Community Q & A\n\n### RELATED SEARCHES\n\n[Samsung French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/samsung/4294857963-4294963507)\n\n[French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/4294857963)\n\n[Samsung Top-Freezer Refrigerators](https://www.lowes.com/pl/refrigerators/top-freezer-refrigerators/samsung/4294789497-4294963507)\n\n[Luxury French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/luxury/4294857963-621591485105)\n\n[Luxury Bottom-Freezer Refrigerators](https://www.lowes.com/pl/refrigerators/bottom-freezer-refrigerators/luxury/4294789499-621591485105)\n\n[Top Rated French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/top-rated/4294857963-5007197)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified Lowes.com",
+     "type": "document"
+    },
+    "retrieved_at": "2026-10-16T23:19:56+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559"
+   },
+   "tool_use_id": "srvtoolu_01XRX72tfYvmfPBQfGL6Cb7p",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01A83fC7eoQDpn95pLyRAFWd/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0]['title'],len(c));print(c[:1500])\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01A83fC7eoQDpn95pLyRAFWd",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01PvCc3wjZRvj5h36p7bGFS8",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1000])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\", \"retrieved_at\": \"2026-10-16T23:19:56+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\\nmeta-HandheldFriendly: True\\nmeta-MobileOptimized: 320\\nmeta-apple-mobile-web-app-capable: yes\\nmeta-apple-mobile-web-app-status-bar-style: black\\nmeta-description: Shop Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certifie\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PvCc3wjZRvj5h36p7bGFS8",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01TtBocLwdvjxPQkbrttGNSY",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nd=json.loads(r);c=d['content']['source']['data'];print(len(c));print(c[:2500])\nfor k in ['$','tock','vailab','Delivery']:\n  for m in list(re.finditer(re.escape(k),c))[:8]:print(k,'|',c[max(0,m.start()-100):m.start()+80].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "11760\n---\ncanonical: https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\nmeta-HandheldFriendly: True\nmeta-MobileOptimized: 320\nmeta-apple-mobile-web-app-capable: yes\nmeta-apple-mobile-web-app-status-bar-style: black\nmeta-description: Shop Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowe's.com. Samsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to\nmeta-format-detection: telephone=no\nmeta-og:description: Shop Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowe's.com. Samsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to\nmeta-og:image: //mobileimages.lowes.com/productimages/dc276c1b-d6f5-476a-8c5b-e41251ef1801/75981125.jpeg?size=sm\nmeta-og:site_name: Lowe's\nmeta-og:title: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified Lowes.com\nmeta-og:type: product\nmeta-og:url: https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559\nmeta-robots: follow\nmeta-viewport: width=device-width, user-scalable=yes, minimum-scale=1.0,maximum-scale=5.0,initial-scale=1.0\ntitle: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified in the French Door Refrigerators department at Lowes.com\n---\n\nSkip to main content\n\n[Find great gifts for everyone on your list in the Gift Zone. Shop Now >](https://www.lowes.com/pl/Gifting/1711264269779?int_cmp=FW37_26_Gifting_GLOBAL)\n\n[Lowe's Credit Center](https://www.lowes.com/l/Credit)[Order Status](http\n$ | me Page\")  Mylow  MyLowesSign In  Cart with 0 itemsCart  Shop All  Services  Deals  Design & Ideas  $99 Maintenance  Appliances  Bathroom  Lighting  Flooring  Building Supplies  To\nvailab | arden  [Fall Inspo](https://www.lowes.com/l/seasonal-inspiration)  Prices, Promotions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and a\nvailab | tions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and availability of products and services are subject to change without notice. Error\nvailab |  last week  [![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)  [![rebate](https://www.lowescdn.com/mfe/select_assets/latest/image\nvailab | ilable](#)  [![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)  Best Price. Guaranteed  Find a lower price on an exact item? We'll\nvailab | ility rules apply.  Return Policy  Pay Your Way  Credit card, PayPal or Buy Now, Pay Later options available at checkout. Your choice.  [Payment Options](https://www.lowes.com/l/Cr\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01TtBocLwdvjxPQkbrttGNSY",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01FBBg6jrdEE8PfF33ZGjo6f",
+   "caller": null,
+   "input": {
+    "code": "i=c.find('Fall Inspo');print(c[i:i+4000])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "Fall Inspo](https://www.lowes.com/l/seasonal-inspiration)\n\nPrices, Promotions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and availability of products and services are subject to change without notice. Errors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted.\n\n1. [Appliances](https://www.lowes.com/c/Appliances)\n2. [Refrigerators](https://www.lowes.com/c/Refrigerators-Appliances)\n3. [French Door Refrigerators](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/4294857963)\n\n# Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified\n\nItem #7209341 |\n\nModel #RF70F27SER\n\n[Shop Samsung](https://www.lowes.com/pl/refrigerators/french-door-refrigerators/samsung/4294857963-4294963507)\n\n-\n\n- ![Samsung RF70F27SER Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified](https://mobileimages.lowes.com/productimages/dc276c1b-d6f5-476a-8c5b-e41251ef1801/75981125.jpeg?size=pdhism)\n\n  \n  \n  \n\n-\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #2](https://mobileimages.lowes.com/productimages/eca56dbf-5c2a-4882-9578-32fd234e9771/75388195.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #3](https://mobileimages.lowes.com/productimages/30c698d3-23b1-43bc-bb31-40c88c0b054e/75388210.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #4](https://mobileimages.lowes.com/productimages/9d684954-2321-4e44-94dc-1ed2a4920e17/97985132.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #5](https://mobileimages.lowes.com/productimages/8a651cf0-cc85-4fad-a204-e3b36d4adee4/76969237.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #6](https://mobileimages.lowes.com/productimages/dbef3ac0-3488-425a-845b-57bfaa04f862/84572802.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #7](https://mobileimages.lowes.com/productimages/24b0b1f8-e338-4130-a556-3d38c1fcf841/75388205.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #8](https://mobileimages.lowes.com/productimages/6f99fada-015d-4a3b-aca2-29b732d8d5ba/75388117.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #9](https://mobileimages.lowes.com/productimages/af1f1828-577e-45bf-8e28-786e75c7ef27/75388209.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #10](https://mobileimages.lowes.com/productimages/825f3524-e422-469f-bfce-a28134ef616f/77346536.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #11](https://mobileimages.lowes.com/productimages/f78dba93-0023-46a4-b54f-ab14660fc123/75388134.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #12](https://mobileimages.lowes.com/productimages/fa2da590-6c30-4c6b-b189-5889643a3623/75952589.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #13](https://mobileimages.lowes.com/productimages/554daa00-ede9-4f0b-bb5f-2334fa872330/75952587.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #14](https://mobileimages.lowes.com/productimages/8e018d02-839d-4606-b0e4-1ebdf4d6d6c9/75954403.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #15](https://mobileimages.lowes.com/productimages/7dd1ac25-1541-4c33-9db1-afd76b4981ff/75388109.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #16](https://mobileimages.lowes.com/productimages/253d50cb-d113-4b84-8280-ef373c01607d/95745479.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #17](https://mobileimages.lowes.com/productimages/cbf830\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01FBBg6jrdEE8PfF33ZGjo6f",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_0199DYdFStMK7qxMmqxaP78r",
+   "caller": null,
+   "input": {
+    "code": "i=c.find('last week');print(c[i-800:i+1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "peg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #17](https://mobileimages.lowes.com/productimages/cbf83009-b66a-4537-9fd3-5ed46db859a4/88062843.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #18](https://mobileimages.lowes.com/productimages/e3b415be-c8c7-43cb-ba05-5f65c6c85db9/87552507.jpeg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #19](https://mobileimages.lowes.com/productimages/83ee5082-5705-4c92-9dc7-5fc69e0098ea/65179517.jpg?size=pdhism)\n\n- ![Samsung RF70F27SER French-Door-Refrigerators - View #20](https://mobileimages.lowes.com/productimages/1f350916-c583-40c9-8ba8-4022cb3f3e55/89597116.jpeg?size=pdhism)\n\n-\n\n-\n\nDimensions  French Door Refrigerators\n\nWidth\n\n35.75\"\n\nHeight\n\n70\"\n\nDepth\n\n31.75\"\n\n500+bought last week\n\n[![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)\n\n[![rebate](https://www.lowescdn.com/mfe/select_assets/latest/images/Rebate.svg)Rebates available](#)\n\nBest Price. Guaranteed\n\nFind a lower price on an exact item? We'll match it. Some exclusions apply.\n\n[Price Guarantee](https://www.lowes.com/l/about/lowest-price-guarantee)\n\nFREE Returns\n\nReturn it in store or ship it back for free. Eligibility rules apply.\n\nReturn Policy\n\nPay Your Way\n\nCredit card, PayPal or Buy Now, Pay Later options available at checkout. Your choice.\n\n[Payment Options](https://www.lowes.com/l/Credit)\n\n## Overview\n\nSamsung's 26 cu ft Mega Capacity Counter Depth, 3-Door French Door refrigerator has a modern design to blend seamlessly into your kitchen; Get extra space to store more groceries, including big and bulky items; Plus, get easy access to chilled water and curved or crushed ice from the external dispenser and Sphere Ice™ from the ice maker in the freezer.\n\n- 26 cu ft Mega Capacity: Store more groceries, with extra room to stay organized; Our 26 cu ft mega capacity refrigerator gives you more space and easy access to what you need.\n\n- Sphere Ice™: Enhance your drinks with Sphere Ice™ - its slow-melting, rounded shape keeps drinks colder, longer; (compared to cubed ice)\n\n- External Water & Ice Dispenser: Get easy access to chilled, filtered water and curved ice, with the external dispenser.\n\n- Three types of ice: Get easy access to chilled\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_0199DYdFStMK7qxMmqxaP78r",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQShgUKEAgTGAI4AUIIdGhpbmtpbmcSDNFiuiRPtieZkadZ5xoMTwTYYW4Ob2YtwNtfIjAacVeyj3jzxc2RMqL4mJmdm6huVHrBWAozMNTk0JlqPRUQW35qiJzZYT+X5l0Tb1UqowQkwnmYdt3CKzswKh7g5lw6+tf1xetAteDhDscQYB9aLbELVfwRsXk9ua0PQdctmJE8AdP9tg3OHM6Jxm1YsAzftrK0d71QkZkBbheQy+cLpjg26obRI2XCZi0kko+YyuFGZn1sQOsylWNgcEIPU3cctvrmrp1tKmppENN9E3SU37X+akMRo173hz3QymqY9+6aA+7gyd+j3fkU2tLCO5C2Hg+ATw8QxbSXJXYNtrEDISo43N/vbctS1vSXza1AGufM1f1eobyDsRPSf/bIu7rzFVnUUDUeYZwQoucbrILwcJGD81VWHSPlJ6FRF30x1rxKpLtaKtqq+QXzOf4ff/FOS9kIG0/d8DUE2qb/fffRMgy203CDhp9Z216Esh7Pv8LDtB89Ep3xMSNGLVVW3T3BJo7UpVG9mEkRYPzlL3z2Vef58luNJV4ffCMOkSeF9w0fzIUiiQudgs2PPZG2vFzh1hOccNkSH4Cu+1Z5JLBExE3rLElTZ4aoCXQldqUJwACR5Iv3hG6H5nxCYYvaIEvWSxP0tKiqqJIVc0FUfFUzqueouWw1DmpenHUXzbwjeBhjyQRQPmHLSB1vvRLE9IrqH9Pf8oq1JawhfJDUteVB+skc3z93bTlHbWJPaOmKB0oUX7nvHW1Ag5JsK0x7Y4t6ysb+H9L+A8L7AukPrHzJwA8YnkrjHTXB1oRjYq2ERrdVs9DfGgjGVgVYk0Dmgz2klToJGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/",
+  "https://www.gap.com/browse/product.do?pid=8663680120204",
+  "https://www.gap.com/browse/product.do?pid=8248980221401",
+  "https://www.gap.com/browse/product.do?pid=8143270323000",
+  "https://www.gap.com/browse/product.do?pid=11830920321105",
+  "https://www.gap.com/browse/product.do?pid=9125580025006",
+  "https://www.gap.com/browse/product.do?pid=4407751520004",
+  "https://www.gap.com/browse/product.do?pid=7978730120004",
+  "https://www.gap.com/browse/product.do?pid=11846200020003",
+  "https://www.gap.com/browse/product.do?pid=7801850421107"
+ ],
+ "cited_store": true,
+ "answer": "Basic Sweaters — Gap[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Basic Sweaters — Gap[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/",
+   "https://www.gap.com/browse/product.do?pid=8663680120204",
+   "https://www.gap.com/browse/product.do?pid=8248980221401",
+   "https://www.gap.com/browse/product.do?pid=8143270323000",
+   "https://www.gap.com/browse/product.do?pid=11830920321105",
+   "https://www.gap.com/browse/product.do?pid=9125580025006",
+   "https://www.gap.com/browse/product.do?pid=4407751520004",
+   "https://www.gap.com/browse/product.do?pid=7978730120004",
+   "https://www.gap.com/browse/product.do?pid=11846200020003",
+   "https://www.gap.com/browse/product.do?pid=7801850421107"
+  ],
+  "created": 1793905855,
+  "id": "resp_1cd14acf-ec12-4795-9934-edc415777450",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n...\nShop now:",
+    "source": "web",
+    "title": "Basic Sweaters - Gap",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "…\n[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n- [Women](https://www.gap.com/browse/division.do?cid=5643)",
+    "source": "web",
+    "title": "Corduroy Big Shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8663680120204"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-20",
+    "place_metadata": null,
+    "snippet": "[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#product-details-main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n[Gap](https://www.gap.com/)[Gap Factory](http...",
+    "source": "web",
+    "title": "Kids Cargo Shorts",
+    "url": "https://www.gap.com/browse/product.do?pid=8248980221401"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Gap × Disney Baby & Toddler Graphic T-Shirt | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\npid=af_bann...",
+    "source": "web",
+    "title": "Gap × Disney Baby & Toddler Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=8143270323000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-13",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\nFriends & Family 40% off everything — includes new arrivals\n...\n- [Women](https://www.gap.com/bro...",
+    "source": "web",
+    "title": "Kids Pointelle T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=11830920321105"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Baby & Toddler Rain Jacket | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](",
+    "source": "web",
+    "title": "Baby & Toddler Rain Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9125580025006"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n- [Fragrance](https://www.gap.com/browse/info.do?cid=3055880)...",
+    "source": "web",
+    "title": "Classic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=4407751520004"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Mesh Maxi Dress | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#product-details-main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n- [Shop the CashSoft Co...",
+    "source": "web",
+    "title": "Mesh Maxi Dress",
+    "url": "https://www.gap.com/browse/product.do?pid=7978730120004"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "5\" Modal Boxer Briefs | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n- [Shop the CashSoft Collection](...",
+    "source": "web",
+    "title": "5\" Modal Boxer Briefs",
+    "url": "https://www.gap.com/browse/product.do?pid=11846200020003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-10",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n…\n# Kids Graphic T-Shirt\n## Product details\n- Product #780185\n## Size & fit\n- Fit: Relaxed.\nA...",
+    "source": "web",
+    "title": "Kids Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=7801850421107"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 8,
+   "cost": {
+    "input_tokens_cost": 0.00106,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00359
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 65
+  }
+ }
+}

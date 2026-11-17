@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote | PRICE: $799.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00091,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote | PRICE: $799.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T+8wKozhFQmQ1LMG7ypNXH6fSEBXeygrW7wq9CIDXK/AcyG+k/x3PGQq8r7jmNZyaMVBuWBz/JXcLqOayvZR79yX8xK7x9dCnoIyDW4/xTo18fStG1RhNY6I59rXAsE85xpTsFeeEGSEn6S1T"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 185,
+   "candidatesTokenCount": 143,
+   "totalTokenCount": 8660,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 185
+    }
+   ],
+   "toolUsePromptTokenCount": 8332,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 8332
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "L9bsasrHF8nzqtsP8IzqkAo"
+ }
+}

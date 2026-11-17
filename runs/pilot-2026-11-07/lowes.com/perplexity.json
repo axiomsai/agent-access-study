@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/",
+  "https://www.lowes.com/pd/LARSON-Platinum-SG-White-Linen-Full-View-Aluminum-Storm-Door-Common-36-in-x-81-in-Actual-37-75-in-x-81-25-in/1002359166",
+  "https://www.lowes.com/pd/Naturefalls-Makeup-Vanities-featuring-43-in-Bedroom-Storage-and-Drawers-with-Particle-Board/105443796",
+  "https://www.lowes.com/pd/Kobalt-1-4-in-dia-x-25-ft-L-Music-Wire-Machine-Auger/5013097835",
+  "https://www.lowes.com/pd/Simple-Green-Pet-Outdoor-Odor-Eliminator-1-Gal/1000951224",
+  "https://www.lowes.com/pd/OU-Wall-Mnted-Storage-Organizer-Easy-Install-Hanging-Cabinet-Door-Basket-for-Kitchen-and-Laundry/5023913040",
+  "https://www.lowes.com/pd/Linder-Group-Inc-Mesh-drywall-sanding-discs-9-inch-120-grit-hook-and-loop-low-dust-silicon-carbide-abrasive-screen-for-electric-and-pole-sanders-10-pcs/106188247",
+  "https://www.lowes.com/c/Lawn-garden-hand-tools-Outdoor-tools-equipment-Outdoors",
+  "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233",
+  "https://www.lowes.com/pd/LIVIZA-5X3-ft-Resin-Storage-Shed/5023425220"
+ ],
+ "cited_store": true,
+ "answer": "Lowe’s Home Improvement — Lawn & Garden Hand Tools[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Lowe’s Home Improvement — Lawn & Garden Hand Tools[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/",
+   "https://www.lowes.com/pd/LARSON-Platinum-SG-White-Linen-Full-View-Aluminum-Storm-Door-Common-36-in-x-81-in-Actual-37-75-in-x-81-25-in/1002359166",
+   "https://www.lowes.com/pd/Naturefalls-Makeup-Vanities-featuring-43-in-Bedroom-Storage-and-Drawers-with-Particle-Board/105443796",
+   "https://www.lowes.com/pd/Kobalt-1-4-in-dia-x-25-ft-L-Music-Wire-Machine-Auger/5013097835",
+   "https://www.lowes.com/pd/Simple-Green-Pet-Outdoor-Odor-Eliminator-1-Gal/1000951224",
+   "https://www.lowes.com/pd/OU-Wall-Mnted-Storage-Organizer-Easy-Install-Hanging-Cabinet-Door-Basket-for-Kitchen-and-Laundry/5023913040",
+   "https://www.lowes.com/pd/Linder-Group-Inc-Mesh-drywall-sanding-discs-9-inch-120-grit-hook-and-loop-low-dust-silicon-carbide-abrasive-screen-for-electric-and-pole-sanders-10-pcs/106188247",
+   "https://www.lowes.com/c/Lawn-garden-hand-tools-Outdoor-tools-equipment-Outdoors",
+   "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233",
+   "https://www.lowes.com/pd/LIVIZA-5X3-ft-Resin-Storage-Shed/5023425220"
+  ],
+  "created": 1794079578,
+  "id": "resp_8be0d571-7592-4d3b-9329-624a0871266c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Lowe’s Home Improvement\n...\n## Home Improvement Projects Made Easy\n### Trending Near You\nSee what shoppers near you are buying right now",
+    "source": "web",
+    "title": "Lowe's Home Improvement",
+    "url": "https://www.lowes.com/"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "LARSON Platinum Secure Glass Fullview 36-in x 81-in White Linen Aluminum Right-hand Outswing/Left Hinge Storm Door with ( No handle ) in the Storm Doors department at Lowes.com\n...\n# LARSON Platinum Secure Glass Fullview 36-in x 81-in White Linen Aluminum Right-hand Outswing/Left Hinge Storm Door wi...",
+    "source": "web",
+    "title": "LARSON Platinum Secure Glass Fullview 36-in x 81-in White Linen ...",
+    "url": "https://www.lowes.com/pd/LARSON-Platinum-SG-White-Linen-Full-View-Aluminum-Storm-Door-Common-36-in-x-81-in-Actual-37-75-in-x-81-25-in/1002359166"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Naturefalls Makeup Vanities featuring 43 in Bedroom Storage and Drawers with Particle Board",
+    "source": "web",
+    "title": "Naturefalls Makeup Vanities featuring 43 in Bedroom ...",
+    "url": "https://www.lowes.com/pd/Naturefalls-Makeup-Vanities-featuring-43-in-Bedroom-Storage-and-Drawers-with-Particle-Board/105443796"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Kobalt 1/4-in x 25-ft L Music Wire Corded Machine Augers KDA100 at Lowes.com\n...\n# Kobalt 1/4-in dia x 25-ft L Music wire Corded Machine Augers\n...\n## Specifications\n### What Customers Are Saying\nbecause I have a really bad experience I get wrong size then was trying return to Lowes but they said ca...",
+    "source": "web",
+    "title": "Kobalt 1/4-in x 25-ft L Music Wire Corded Machine Augers ...",
+    "url": "https://www.lowes.com/pd/Kobalt-1-4-in-dia-x-25-ft-L-Music-Wire-Machine-Auger/5013097835"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Simple Green Pet Outdoor Odor Eliminator 1-Gallon Liquid Odor Neutralizer - Removes Urine, Stool, Vomit Odors - Odor Blocking - for Grass, Turf, Concrete 2010000415338 at Lowes.com\n...\n# Simple Green Liquid Pet odor neutralizer\nItem #1435020 |",
+    "source": "web",
+    "title": "Simple Green Liquid Pet odor neutralizer Lowes.com",
+    "url": "https://www.lowes.com/pd/Simple-Green-Pet-Outdoor-Odor-Eliminator-1-Gal/1000951224"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "OU Wall Mnted Storage Organizer- Easy Install Hanging Cabinet Door Basket for Kitchen and Laundry in the Cabinet Organizers department at Lowes.com\n...\n# OU Wall Mnted Storage Organizer- Easy Install Hanging Cabinet Door Basket for Kitchen and Laundry\n...\n## Overview\nUse it on a smooth wall, inside ...",
+    "source": "web",
+    "title": "OU Wall Mnted Storage Organizer- Easy Install Hanging Cabinet Door Basket for Kitchen and Laundry Lowes.com",
+    "url": "https://www.lowes.com/pd/OU-Wall-Mnted-Storage-Organizer-Easy-Install-Hanging-Cabinet-Door-Basket-for-Kitchen-and-Laundry/5023913040"
+   },
+   {
+    "date": "2026-10-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Linder Group Inc Mesh drywall sanding discs 9 inch 120 grit hook and loop low dust silicon carbide abrasive screen for electric and pole sanders 10 pcs in the Power Tool Sandpaper department at Lowes.com\n...\n# Linder Group Inc Mesh drywall sanding discs 9 inch 120 grit hook and loop low dust silicon...",
+    "source": "web",
+    "title": "Linder Group Inc Mesh drywall sanding discs 9 inch 120 grit hook and loop low dust silicon carbide abrasive screen for electric and pole sanders 10 pcs Lowes.com",
+    "url": "https://www.lowes.com/pd/Linder-Group-Inc-Mesh-drywall-sanding-discs-9-inch-120-grit-hook-and-loop-low-dust-silicon-carbide-abrasive-screen-for-electric-and-pole-sanders-10-pcs/106188247"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Lawn & Garden Hand Tools at Lowes.com\n...\n# Lawn & Garden Hand Tools",
+    "source": "web",
+    "title": "Lawn & Garden Hand Tools",
+    "url": "https://www.lowes.com/c/Lawn-garden-hand-tools-Outdoor-tools-equipment-Outdoors"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Fiskars 16-ft Fiberglass Pole Pruner 394731-1001 at Lowes.com\n...\n# Fiskars 16-ft Fiberglass Pole Pruner\nItem #2953536 |\nModel #394731-1001",
+    "source": "web",
+    "title": "Fiskars 16-ft Fiberglass Pole Pruner 394731-1001 at Lowes.com",
+    "url": "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233"
+   },
+   {
+    "date": "2026-10-13",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "LIVIZA Brown Outdoor Storage in the Small Outdoor Storage department at Lowes.com\n...\n# LIVIZA Brown Outdoor Storage",
+    "source": "web",
+    "title": "LIVIZA Brown Outdoor Storage Lowes.com",
+    "url": "https://www.lowes.com/pd/LIVIZA-5X3-ft-Resin-Storage-Shed/5023425220"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 14,
+   "cost": {
+    "input_tokens_cost": 0.00081,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00335
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 71
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/Women%20Formal%20&%20Evening%20Dresses-c-9548.html",
+  "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html",
+  "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+  "https://us.shein.com/pdsearch/luxury+dresses/",
+  "https://us.shein.com/Women-Formal-Evening-Dresses-c-9548.html",
+  "https://us.shein.com/Series/SHEIN-BAE-DRESSES-sc-66673580.html",
+  "https://m.shein.com/us/Women%20Party%20Wear-c-5360.html",
+  "https://us.shein.com/Women%20Dresses-c-12472.html",
+  "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html",
+  "https://us.shein.com/Elegant-Off-Shoulder-Commuting/Women-Maxi-Dresses-c-12480.html?cdn_rsite=cf&ref=www&rep=dir&ret=us"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/Women%20Formal%20&%20Evening%20Dresses-c-9548.html",
+   "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html",
+   "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+   "https://us.shein.com/pdsearch/luxury+dresses/",
+   "https://us.shein.com/Women-Formal-Evening-Dresses-c-9548.html",
+   "https://us.shein.com/Series/SHEIN-BAE-DRESSES-sc-66673580.html",
+   "https://m.shein.com/us/Women%20Party%20Wear-c-5360.html",
+   "https://us.shein.com/Women%20Dresses-c-12472.html",
+   "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html",
+   "https://us.shein.com/Elegant-Off-Shoulder-Commuting/Women-Maxi-Dresses-c-12480.html?cdn_rsite=cf&ref=www&rep=dir&ret=us"
+  ],
+  "created": 1794082276,
+  "id": "resp_babf29dc-ae19-4fd6-99d6-48a894df4e8c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > Women Formal & Evening Dresses\n## Product list\nXUCTHHC POP\n-20%\nBurgundy Elegant Halter Neck Sleeveless Satin A-Line Evening Gown, Autumn/Winter Formal Dress, Suitable For Wedding Guest, Prom, Party And Holiday, New Year\n$37.84\n$37.84\n80+ sold",
+    "source": "web",
+    "title": "Home > Women Formal & Evening Dresses",
+    "url": "https://us.shein.com/Women%20Formal%20&%20Evening%20Dresses-c-9548.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Home > Minimalist Party Dresses\n## Product list\n-30%\n2026 Womens Halter Neck Maxi Dress Backless Sleeveless Casual Loose Fit Flowy Sundress For Summer Beach Vacation\n$27.80",
+    "source": "web",
+    "title": "Minimalist Party Dresses | Fashion Minimalist Party Dresses ...",
+    "url": "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Home > Curve Halter Dresses\n## Product list\nSOLERSUN Plus Size Women's Autumn/Winter Fashion Solid Color Halterneck Halter Neck Tie Long Sleeve Mini Dress, Elegant Draped Fitted Short Dress With Metal Ring Detail, Flowy Bodycon Slim Fit Evening Gown, Suitable For Dinner, Nightclub, Date, Party, Mu...",
+    "source": "web",
+    "title": "Fashion Curve Halter Dresses",
+    "url": "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "# Search results for \"Luxury+dresses\"\n## Product list\nWomen Zip Front Long Sleeve Maxi Dress, High Neck Slim Split Hem Long Gown With Waist Belt, Elegant Party Night Out Bodycon Long Dresses",
+    "source": "web",
+    "title": "Search luxury+dresses | SHEIN USA",
+    "url": "https://us.shein.com/pdsearch/luxury+dresses/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Women Formal & Evening Dresses\n## Product list\n-19%\nBlack Pearl Backless Halter Maxi Dress Split Thigh Elegant Formal Party Gown For -A\n$17.78\n$17.78",
+    "source": "web",
+    "title": "Fashion Women Formal & Evening Dresses",
+    "url": "https://us.shein.com/Women-Formal-Evening-Dresses-c-9548.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "SHEIN bae\nLocal\n-22%\nSHEIN BAE Autumn/Winter Solid Halter Neck Ruched Fitted High Slit Dress, Tight Elegant Dress, Flowy Dress, Bridesmaid, Wedding, Halloween, Christmas, Evening Gown\n$39.09\n$39.09\nQuickShip\nSHEIN bae\nLocal\n-24%\nSHEIN BAE Spring Summer Women's Burgundy Sleeveless Backless Pleated Ex...",
+    "source": "web",
+    "title": "SHEIN BAE DRESSES | Fashion SHEIN BAE DRESSES | SHEIN USA",
+    "url": "https://us.shein.com/Series/SHEIN-BAE-DRESSES-sc-66673580.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Women Party Wear\nLocalBlack Pearl Backless Halter Maxi Dress Split Thigh Elegant Formal Party Gown For -A\n$17.78",
+    "source": "web",
+    "title": "Women Party Wear | Fashion Women Party Wear | SHEIN USA",
+    "url": "https://m.shein.com/us/Women%20Party%20Wear-c-5360.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > Women Dresses\n## Product list\nAvenya Halter Neck Tie Back Open Back Sexy Elegant Romantic Ruffle Mini Dress, Party Dinner Date Night, Wedding Guest Outfit, Birthday Dark Purple Summer",
+    "source": "web",
+    "title": "Home > Women Dresses",
+    "url": "https://us.shein.com/Women%20Dresses-c-12472.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Home > Elegant Midi Dresses\n## Product list\nSilk Satin Slip Dress For Women V Neck Lace Trim Asymmetrical Hemline Sleeveless Spaghetti Strap Backless Mini Dress Going Out Party Clubwear\nOnly 7 left",
+    "source": "web",
+    "title": "Fashion Elegant Midi Dresses",
+    "url": "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Home > Women Maxi Dresses\n## Product list\n-35%\nWomen's Boho High Slit Fringe Maxi Dress, Sleeveless Halter Neck Backless Tunic Dress With Asymmetrical Hem And Ornate Print For Formal Occasions",
+    "source": "web",
+    "title": "Women Maxi Dresses",
+    "url": "https://us.shein.com/Elegant-Off-Shoulder-Commuting/Women-Maxi-Dresses-c-12480.html?cdn_rsite=cf&ref=www&rep=dir&ret=us"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00104,
+    "output_tokens_cost": 0.00031,
+    "request_cost": 0.0025,
+    "total_cost": 0.00385
+   },
+   "prompt_tokens": 161,
+   "search_context_size": "low",
+   "total_tokens": 179
+  }
+ }
+}

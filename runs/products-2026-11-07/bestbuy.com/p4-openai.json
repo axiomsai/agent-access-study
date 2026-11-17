@@ -1,0 +1,165 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+  ]
+ ],
+ "answer": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: $679 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.03488,
+ "raw": {
+  "id": "resp_013833b74e338205006aef7f89904887d194bf01c9d195d5b2",
+  "object": "response",
+  "created_at": 1794080649,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794080653,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_013833b74e338205006aef7f89fb5c87d19c44d1dc4e667fde",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+    }
+   },
+   {
+    "id": "ws_013833b74e338205006aef7f8aa3f487d1bcc165f8a08fe2bf",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$",
+     "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+    }
+   },
+   {
+    "id": "ws_013833b74e338205006aef7f8beeb087d1b1f18d0ad1e9ee8b",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$499.99",
+     "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+    }
+   },
+   {
+    "id": "msg_013833b74e338205006aef7f8ce39087d18623da7a1e99bb8a",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: $679 | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 17193,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 2560
+   },
+   "output_tokens": 292,
+   "output_tokens_details": {
+    "reasoning_tokens": 234
+   },
+   "total_tokens": 17485
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

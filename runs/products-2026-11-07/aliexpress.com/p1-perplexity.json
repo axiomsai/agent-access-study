@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/item/1005009119325367.html",
+  "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+  "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+  "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://nl.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html",
+  "https://www.aliexpress.com/item/1005006162141318.html",
+  "https://nl.aliexpress.com/w/wholesale-www.aliexpress.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/item/1005009119325367.html",
+   "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+   "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+   "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://nl.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html",
+   "https://www.aliexpress.com/item/1005006162141318.html",
+   "https://nl.aliexpress.com/w/wholesale-www.aliexpress.html"
+  ],
+  "created": 1794082507,
+  "id": "resp_578a0253-38ae-4cf5-907a-91f0bb2b5e41",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### 6MM Stainless Steel Smooth Rings For Women Men Titanium Steel Ring Couple Wedding Fashion Waterproof Jewelry Gift",
+    "source": "web",
+    "title": "Aliexpress items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Sale Ends:\nNov 19, 04:59 (GMT0)",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm ...",
+    "url": "https://www.aliexpress.com/item/1005009119325367.html"
+   },
+   {
+    "date": "2026-09-18",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "## Related Searches\nhttps www.aliexpress.com item 3256806768589834.html",
+    "source": "web",
+    "title": "www. aliexpress - Acquista www. aliexpress con spedizione gratuita ...",
+    "url": "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html"
+   },
+   {
+    "date": "2026-01-20",
+    "last_updated": "2026-04-22",
+    "place_metadata": null,
+    "snippet": "Related Searches\nsite www.aliexpress.com\naliexpress e\naliexpress222.cc\nhttps a.aliexpress.com m0fhwju\nwatch aliexpress\naliexpress.com item 1005006771429820\natv aliexpress\nsouthafricaaliexpress.com\naliexpress yeezy\nhttps www.aliexpress.com item 3256806768589834.html\nshopping shopping aliexpress\nwhat ...",
+    "source": "web",
+    "title": "Acquista www aliexpress com con spedizione gratuita su AliExpress ...",
+    "url": "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+   },
+   {
+    "date": "2026-04-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256809326799647.html?gatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Kaufen Sie https aliexpress mit kostenlosem Versand auf ...",
+    "url": "https://de.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-03-06",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress Com Item",
+    "url": "https://nl.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n## More to love\n### 9000Pa Wireless Car Vacuum Cleaner USB Charging 1200mAh Portable Cleaning Appliance Mini Wet and Dry Vacuum Cleaner Household",
+    "source": "web",
+    "title": "http://www.aliexpress.com/store/product/10PCS---CA...",
+    "url": "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "SONOFF Zigbee Bridge Pro zbbridge-p support 128 ... - AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006162141318.html"
+   },
+   {
+    "date": "2025-10-14",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### Smart Fitness Tracker Watch Heart Rate Monitor Sleep Steps Waterproof Health Exercise Bracelet For Men Women Smartwatch New HT30",
+    "source": "web",
+    "title": "Koop www.aliexpress met gratis verzending op ... - www.aliexpress",
+    "url": "https://nl.aliexpress.com/w/wholesale-www.aliexpress.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00086,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00355
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 134
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "shein.com",
+ "idx": 5,
+ "url": "https://us.shein.com/Women-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: error (the page loaded but returned only meta tags, with no product content)",
+   "doc_chars": 135,
+   "input_tokens": 16074,
+   "cost_usd": 0.07526
+  },
+  "B_uncapped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the fetch returned only an empty page shell with no product name, price or stock shown)",
+   "doc_chars": 135,
+   "input_tokens": 16068,
+   "cost_usd": 0.07373
+  }
+ }
+}

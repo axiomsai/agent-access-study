@@ -1,0 +1,60 @@
+{
+ "domain": "walmart.com",
+ "url": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+ "idx": 3,
+ "at": "2026-11-05T13:12:26-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15330 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:12:36+00:00",
+   "age_days": 0,
+   "cost_usd": 0.17898
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+   "price": 199.0,
+   "price_raw": "$199.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00064
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+   "price": 199.0,
+   "price_raw": "$199.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02366
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray",
+   "price": 199.0,
+   "price_raw": "$199.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0052
+  }
+ }
+}

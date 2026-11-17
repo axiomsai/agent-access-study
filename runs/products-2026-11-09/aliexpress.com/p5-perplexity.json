@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://he.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/item/1005006111395429.html",
+  "https://www.aliexpress.com/item/1005013168370336.html",
+  "https://www.aliexpress.com/item/1005005397198813.html",
+  "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+  "https://www.aliexpress.com/item/1005008315963275.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable; exact product details could not be verified",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable; exact product details could not be verified",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://he.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/item/1005006111395429.html",
+   "https://www.aliexpress.com/item/1005013168370336.html",
+   "https://www.aliexpress.com/item/1005005397198813.html",
+   "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+   "https://www.aliexpress.com/item/1005008315963275.html"
+  ],
+  "created": 1794249828,
+  "id": "resp_4ea4f5a1-12c7-4077-9e19-276c96622cb0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## More to love\n### 15 Colors Resin Jelly Rhinestones for Bedazzling, 3mm Flatback Gems Bedazzler Kit with 3Pcs 10ml B7000 Jewelry Glue for Nail Art\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Aliexpress items-AliExpress\n...\n### Men and women Balaclava Y2K Gothic Harajuku winter new item double hooded sweatshirt men's hooded mask zipper sportswear\naliexpress.com item 1005006771429820",
+    "source": "web",
+    "title": "Aliexpress items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items-AliExpress\n...\n# Results for items\nThe search term items is commonly used on AliExpress to refer to products or goods available for purchase.",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2025-07-10",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Https Aliexpress",
+    "url": "https://he.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "5.25 inch Optical Drive Enclosure USB3.0/2.0 to SATA US/EU Adapter Hard Disk Case Support DVD 16 Speed Recording Hard Disk Case - AliExpress 44\n# 5.25 inch Optical Drive Enclosure USB3.0/2.0 to SATA US/EU Adapter Hard Disk Case Support DVD 16 Speed Recording Hard Disk Case\n**  4.9  ** 8 Reviews ౹ 63...",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006111395429.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005013168370336.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\n## More to love\n### Toilet Cleaning Tablets - Dissolvable Care Tablets, Multi-use Cleaning Powder, Home, Office & Commercial Bathrooms, Fresh Easy",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005005397198813.html"
+   },
+   {
+    "date": "2026-03-06",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Results for www aliexpress com\nFor tech enthusiasts, the **Open Case Computer Water-cooled MATX Handheld EATX Rack ITX Aluminum Alloy Metal ATX Minimalist** provides a sleek, high-performance chassis with **30 x 50 x 40 cm dimensions** and a **6.500 kg weight**, suitable for custom-built systems.",
+    "source": "web",
+    "title": "Www Aliexpress Com - AliExpress",
+    "url": "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+   },
+   {
+    "date": "2024-09-10",
+    "last_updated": "2025-07-10",
+    "place_metadata": null,
+    "snippet": "Sorry, the page you requested can not be found:(\n...\nNew Aquarium Filter for Aquarium Fish Tank Air Pump Skimmer Biochemical Sponge Filter Aquarium Bio Filters Filtro Aquario",
+    "source": "web",
+    "title": "Navee scooter S60/ S40 US version controller more fast speed remove version - AliExpress 18",
+    "url": "https://www.aliexpress.com/item/1005008315963275.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.001,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00372
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 144
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "target.com",
+ "idx": 4,
+ "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 21362,
+   "cost_usd": 0.09817
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15620,
+   "cost_usd": 0.0696
+  }
+ }
+}

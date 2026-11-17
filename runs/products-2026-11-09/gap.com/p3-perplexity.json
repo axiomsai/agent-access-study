@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=914524042",
+  "https://www.gap.com/shop/performance-apparel-for-men-0aez00a",
+  "https://www.gap.com/browse/women/new-arrivals?cid=8792&mlink=55277,1,globalbanner_1_SW_TEST",
+  "https://www.gap.com/browse/women/shop-all-styles?cid=1127938",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://www.gap.com/browse/women/shop-all-styles/activewear?cid=1127938&style=1163826",
+  "https://bananarepublic.gap.com/browse/men/sweatshirts-hoodies-and-joggers?cid=1071875",
+  "https://oldnavy.gap.com/",
+  "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338",
+  "https://www.gap.com/browse/new?cid=1086624"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $59.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $59.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=914524042",
+   "https://www.gap.com/shop/performance-apparel-for-men-0aez00a",
+   "https://www.gap.com/browse/women/new-arrivals?cid=8792&mlink=55277,1,globalbanner_1_SW_TEST",
+   "https://www.gap.com/browse/women/shop-all-styles?cid=1127938",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://www.gap.com/browse/women/shop-all-styles/activewear?cid=1127938&style=1163826",
+   "https://bananarepublic.gap.com/browse/men/sweatshirts-hoodies-and-joggers?cid=1071875",
+   "https://oldnavy.gap.com/",
+   "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338",
+   "https://www.gap.com/browse/new?cid=1086624"
+  ],
+  "created": 1794249832,
+  "id": "resp_4e95255e-28cd-4fd2-b70f-0c03866c8b9a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "CashSoft Rib Quarter-Zip Sweater | Gap\n1. Men\n...\n3. Sweaters\n# CashSoft Rib Quarter-Zip Sweater\n# CashSoft Rib Quarter-Zip Sweater\n$118.00\n$118\n$59.00\n50% off: price as marked\n## Color:\nGreen\n...\n## Product details\n- Supersoft, ribbed knit cotton-blend pullover sweater.\n- Mockneck with quarter-zip ...",
+    "source": "web",
+    "title": "CashSoft Rib Quarter-Zip Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=914524042"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Performance Apparel For Men\n- Filter & Sort\n...\n### Recycled Heavyweight Puffer Jacket",
+    "source": "web",
+    "title": "Performance Apparel For Men | Gap",
+    "url": "https://www.gap.com/shop/performance-apparel-for-men-0aez00a"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# New Arrivals\n1417 items in the product grid\n...\n$69.95",
+    "source": "web",
+    "title": "New Arrivals",
+    "url": "https://www.gap.com/browse/women/new-arrivals?cid=8792&mlink=55277,1,globalbanner_1_SW_TEST"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "### Lightweight CashSoft Rib Turtleneck Sweater\n$79.95$47.00",
+    "source": "web",
+    "title": "Shop All Styles",
+    "url": "https://www.gap.com/browse/women/shop-all-styles?cid=1127938"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Shop All Styles\n72 items in the product grid\n...\n## All Products",
+    "source": "web",
+    "title": "Women Shop All Styles Activewear",
+    "url": "https://www.gap.com/browse/women/shop-all-styles/activewear?cid=1127938&style=1163826"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Sweatshirts, Hoodies & Joggers\n29 items in the product grid",
+    "source": "web",
+    "title": "Men's Hoodies, Sweatshirts, & Joggers | Banana Republic",
+    "url": "https://bananarepublic.gap.com/browse/men/sweatshirts-hoodies-and-joggers?cid=1071875"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Old Navy | Affordable Clothing for Women, Men, Kids & Baby\n...\nShop Old Navy New Arrivals",
+    "source": "web",
+    "title": "Check Out Our Newest Arrivals!",
+    "url": "https://oldnavy.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Beauty\nThere are currently no products that match your criteria.\nPlease try again.",
+    "source": "web",
+    "title": "Girls Beauty, Home & More Home - Gap",
+    "url": "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "New - Gap",
+    "url": "https://www.gap.com/browse/new?cid=1086624"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00073,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00344
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

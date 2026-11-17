@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Welcome to Costco Wholesale\n\n**Product or Category Name:** Electronics",
+ "finish": "STOP",
+ "cost_usd": 0.00051,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Welcome to Costco Wholesale\n\n**Product or Category Name:** Electronics",
+       "thoughtSignature": "EnMKcQFpFH0Tp8pBJavx8LrOVtAOKsDwLnsdzbHySVyfCVq1G5BrQaNCyIjsBVb0qdtWZ8WAoffvLvdmcyQufz1wVFvZjta5OLZV68qo4uDLyM/lkyr1t9CbptdLDnHzqBfId/SW1vbBHotiCrBLOAf/5Xey"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.costco.com/",
+        "title": "Welcome to Costco Wholesale"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 43,
+        "text": "**Page Title:** Welcome to Costco Wholesale"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 45,
+        "endIndex": 86,
+        "text": "**Product or Category Name:** Electronics"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 46,
+   "totalTokenCount": 4978,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4870,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4870
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "1nHqaqbqFZTnz7IP-e6-mQU"
+ }
+}

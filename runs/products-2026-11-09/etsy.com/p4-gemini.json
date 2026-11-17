@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $94.78 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.002,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $94.78 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TYv+wDlluvFYz2bgndVk8jNvagWz41YuTy0hwR3F8QFIb42pniGdb2DEmOmadE02vePzcwbZVLUb2pwm+1aMKUQDVsgN3HNiUFI7myBs82Tjbhkw2IWy+Mnk1s9EPmK6zH5mCBX3N+3NyvUah"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 128,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 19821,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 128
+    }
+   ],
+   "toolUsePromptTokenCount": 19622,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 19622
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ERDyavavGIXRz7IPy7DW8Qk"
+ }
+}

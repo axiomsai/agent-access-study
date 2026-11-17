@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.aliexpress.us/item/3256810554257219.html",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page is blocked",
+ "finish": "STOP",
+ "cost_usd": 7e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page is blocked",
+       "thoughtSignature": "EnMKcQFpFH0TglR9cJmTebQf1pRm3HrsdBuvqnqcmVdIDqeKbO0N5vvK3gPlCl/8oOtuPqPx2WsQ/ep1zJyhR64SoshpjPXR8lpwC694/lVwb6g7oU9gQz9lyn6xRqahM1nLLvts+2b7pXTfGKm/MtpQw1D6"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.aliexpress.us/item/3256810554257219.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 136,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 501,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 136
+    }
+   ],
+   "toolUsePromptTokenCount": 303,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 303
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "TxTyaoTHF_yGz7IP8IG6mQk"
+ }
+}

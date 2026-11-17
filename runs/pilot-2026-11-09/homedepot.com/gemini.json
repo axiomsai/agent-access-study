@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** The Home Depot\n**Product/Category:** Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00033,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** The Home Depot\n**Product/Category:** Appliances",
+       "thoughtSignature": "EnMKcQFpFH0TGV/j5YcP5ZUS7bMbKZz2w5MtIF9sKUB3r4syqFNXHhPV4TQOeMIBRvrm/kiovRqDVR40McJk5FaLu/jYJ4CIwLFHF5JiFI/8cld9uB3PITfPy1JYK+jseVYOPtTXG6U15qSHeRs4hWHfe2S5"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 64,
+   "candidatesTokenCount": 36,
+   "totalTokenCount": 3189,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 64
+    }
+   ],
+   "toolUsePromptTokenCount": 3089,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3089
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "fg7yavitD6XVz7IP0uWRsAs"
+ }
+}

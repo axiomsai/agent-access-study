@@ -1,0 +1,150 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578"
+  ]
+ ],
+ "answer": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.02357,
+ "raw": {
+  "id": "resp_0f4d5a3784675603006aea79766c6487d0b6c126aa5f8567b7",
+  "object": "response",
+  "created_at": 1793751414,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793751416,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0f4d5a3784675603006aea7976d9b487d085761d89c624dfb7",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578"
+    }
+   },
+   {
+    "id": "ws_0f4d5a3784675603006aea7977c0ec87d088be0372b7baf115",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+     "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578"
+    }
+   },
+   {
+    "id": "msg_0f4d5a3784675603006aea7978ada887d0892a6451be40d1c6",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 12937,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 2560
+   },
+   "output_tokens": 170,
+   "output_tokens_details": {
+    "reasoning_tokens": 137
+   },
+   "total_tokens": 13107
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

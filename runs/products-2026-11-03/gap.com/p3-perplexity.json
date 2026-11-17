@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+  "https://oldnavy.gap.com/browse/product.do?pid=4272640020005",
+  "https://www.gap.com/browse/product.do?pid=9145780023028",
+  "https://www.gap.com/browse/product.do?pid=11797880023232",
+  "https://www.gap.com/browse/product.do?pid=11848180020003",
+  "https://www.gap.com/browse/product.do?pid=9113530020001",
+  "https://www.gap.com/browse/product.do?pid=9113570020005",
+  "https://www.gap.com/browse/product.do?pid=11798020023432",
+  "https://www.gap.com/browse/product.do?pid=519501002",
+  "https://www.gap.com/browse/product.do?pid=9139220020009"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page was not accessible in the available results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page was not accessible in the available results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+   "https://oldnavy.gap.com/browse/product.do?pid=4272640020005",
+   "https://www.gap.com/browse/product.do?pid=9145780023028",
+   "https://www.gap.com/browse/product.do?pid=11797880023232",
+   "https://www.gap.com/browse/product.do?pid=11848180020003",
+   "https://www.gap.com/browse/product.do?pid=9113530020001",
+   "https://www.gap.com/browse/product.do?pid=9113570020005",
+   "https://www.gap.com/browse/product.do?pid=11798020023432",
+   "https://www.gap.com/browse/product.do?pid=519501002",
+   "https://www.gap.com/browse/product.do?pid=9139220020009"
+  ],
+  "created": 1793751437,
+  "id": "resp_23abea34-306a-4ea6-9347-f083629e4fc3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "3.5\" Linen Pull-On Sailor Short | Banana Republic\n# 3.5\" Linen Pull-On Sailor Short\n# 3.5\" Linen Pull-On Sailor Short\n$90.00\n$34.97\n...\n## Product details\n- Our nautically-inspired sailor short is designed with an easy pull-on style—no buttons required, but we added them anyway.\nHere, we used 100% c...",
+    "source": "web",
+    "title": "3.5\" Linen Pull-On Sailor Short",
+    "url": "https://bananarepublic.gap.com/browse/product.do?pid=903088012"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-13",
+    "place_metadata": null,
+    "snippet": "# 5-Pack Soft-Washed Boxer Briefs -- 6.25-inch inseam\n...\n- Product #427264",
+    "source": "web",
+    "title": "Old Navy",
+    "url": "https://oldnavy.gap.com/browse/product.do?pid=4272640020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Straight Jeans\n# Straight Jeans\n$79.95\n$79.95\n$39.00\n...\nCompared with conventional wash methods, Washwell uses at least 20% less water.\n...\n- Product #914578\n## Size & fit\n- Our Mid Rise Jean has an 11″ (28 cm) rise.\n​\n...\n- Model is 6'1\" and wearing size 32 x 32.",
+    "source": "web",
+    "title": "Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=9145780023028"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Gap × A.P.C. Boot Jeans | Gap\n...\n# Gap × A.P.C. Boot Jeans\n$148.00\nImage of 5 stars, 0 are filled, 0 Ratings\n...\n- Product #1179788",
+    "source": "web",
+    "title": "Gap × A.P.C. Boot Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=11797880023232"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Denim Fitted Utility Shirt\n## Size\nIn Stock\n...\nSelect a Store\n## Product details\n- Product #1184818",
+    "source": "web",
+    "title": "Denim Fitted Utility Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=11848180020003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- - [![Shop the GapBags](https://content.gapinc.com/d/qqpel6m5l17h8pyy64jb16vjdm42wxbx.jpg?TP=GAP2)](https://www.gap.com/browse/women/bags?cid=3046544)\n…\n# Denim Oversized Shirt Jacket\n## Product details\n- Product #911353",
+    "source": "web",
+    "title": "Denim Oversized Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9113530020001"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- [Fragrance](https://www.gap.com/browse/info.do?cid=3055880)",
+    "source": "web",
+    "title": "Denim Oversized Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9113570020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Gap × A.P.C. Japanese Denim Relaxed Straight Jeans | Gap\n...\n# Gap × A.P.C. Japanese Denim Relaxed Straight Jeans\nSold Out\n![Image 1 of 2, Fit: Slightly relaxed through the hip & thigh with a straight leg., Fabric: 13 oz (369 g) denim in 100% cotton., Stretch: Rigid Jeans. Authentic, non-stretch den...",
+    "source": "web",
+    "title": "Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=11798020023432"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-09",
+    "place_metadata": null,
+    "snippet": "- [Polos](https://www.gap.com/browse/category.do?cid=83056#pageId=0&department=75)",
+    "source": "web",
+    "title": "You Might Also Like",
+    "url": "https://www.gap.com/browse/product.do?pid=519501002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Denim Big Shirt | Gap\n…\n...\n- [Explore the Guide](https://www.gap.com/browse/info.do?cid=3057418)\n...\n- - [![Shop the Cozy Edit](https://content.gapinc.com/d/j8maa472bqrinv6qqjrxrb2tvvno826f.jpg?TP=GAP2)](https://www.gap.com/browse/men/cozy-shop?cid=3057496)\n...\n# Denim Big Shirt\n## Color:\nBlack Was...",
+    "source": "web",
+    "title": "Denim Big Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=9139220020009"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00093,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00364
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

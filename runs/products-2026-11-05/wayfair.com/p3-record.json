@@ -1,0 +1,60 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+ "idx": 3,
+ "at": "2026-11-05T13:35:54-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "15631 chars, copy dated 2026-10-19 (16 days old)",
+   "parsed": true,
+   "name": "Birch Lane™ Iago Outdoor Umbrella",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-10-19T19:43:32+00:00",
+   "age_days": 16,
+   "cost_usd": 0.17952
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Iago Outdoor Umbrella",
+   "price": 185.0,
+   "price_raw": "$185.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00058
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Iago Outdoor Umbrella",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.03391
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Iago Outdoor Umbrella",
+   "price": 185.0,
+   "price_raw": "$185.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

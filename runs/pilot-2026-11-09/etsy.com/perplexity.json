@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+  "https://www.etsy.com/",
+  "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop",
+  "https://www.etsy.com/market/etsy.com",
+  "https://help.etsy.com/hc/en-gb",
+  "https://help.etsy.com/hc/en-us/articles/360000344448-How-to-Report-Intellectual-Property-Infringement",
+  "https://help.etsy.com/hc/en-us/articles/115015672808-How-to-Open-an-Etsy-Shop",
+  "https://help.etsy.com/hc/en-in/articles/115015628707-How-to-Create-a-Listing",
+  "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue",
+  "https://www.etsy.com/market/etsy_seller"
+ ],
+ "cited_store": true,
+ "answer": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\nHandmade",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\nHandmade",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+   "https://www.etsy.com/",
+   "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop",
+   "https://www.etsy.com/market/etsy.com",
+   "https://help.etsy.com/hc/en-gb",
+   "https://help.etsy.com/hc/en-us/articles/360000344448-How-to-Report-Intellectual-Property-Infringement",
+   "https://help.etsy.com/hc/en-us/articles/115015672808-How-to-Open-an-Etsy-Shop",
+   "https://help.etsy.com/hc/en-in/articles/115015628707-How-to-Create-a-Listing",
+   "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue",
+   "https://www.etsy.com/market/etsy_seller"
+  ],
+  "created": 1794248325,
+  "id": "resp_f6f773d3-36c9-4aa3-8020-3edc1f193ced",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What’s the Link for My Shop?\nYou can type your shop web address (URL) directly in a web browser's address bar using either of these formats:\n- *shopname*.etsy.com\n- www.etsy.com/shop/*shopname*\nThese links will only work once your shop is open.",
+    "source": "web",
+    "title": "What’s the Link for My Shop? - Etsy Help",
+    "url": "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What’s the Link for My Shop?\nYou can type your shop web address (URL) directly in a web browser's address bar using either of these formats:\n- *shopname*.etsy.com\n- www.etsy.com/shop/*shopname*\nThese links will only work once your shop is open.",
+    "source": "web",
+    "title": "What’s the Link for My Shop? – Etsy",
+    "url": "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n968+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Etsy\nThanks for your message!\nWe’ll be in touch soon.\n# How can we help?\nHaving problems with an order?\nReach out to the seller with a help request.",
+    "source": "web",
+    "title": "How can we help? - Etsy",
+    "url": "https://help.etsy.com/hc/en-gb"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Report suspected intellectual property infringement using Etsy’s Reporting Portal.\nYou must be the owner of the property or authorized to report on behalf of the owner of the property.\n...\nTo submit a report, use the Etsy Reporting Portal.\nRegister for the portal, add an intellectual property, and c...",
+    "source": "web",
+    "title": "How to Report Intellectual Property Infringement - Etsy Help",
+    "url": "https://help.etsy.com/hc/en-us/articles/360000344448-How-to-Report-Intellectual-Property-Infringement"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# How to Open an Etsy Shop\nTo open an Etsy shop, visit Etsy.com/sell\n...\n## How to create your Etsy shop\nYou need to set up your shop using a desktop web browser.\nOnce your shop is set up, you can manage your shop on the Etsy Seller app.\nTo begin creating your Etsy shop, visit Etsy.com/sell and sele...",
+    "source": "web",
+    "title": "How to Open an Etsy Shop - Etsy Help",
+    "url": "https://help.etsy.com/hc/en-us/articles/115015672808-How-to-Open-an-Etsy-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# How to Create a Listing\n## Item details\n- Your listing's unique URL is based on the title you enter when you first publish the listing.\nOnce you've published the listing, the URL won’t change again, even if you edit the title later.\nIf you make major changes to your listing, consider creating a ne...",
+    "source": "web",
+    "title": "How to Create a Listing - Etsy Help",
+    "url": "https://help.etsy.com/hc/en-in/articles/115015628707-How-to-Create-a-Listing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# How to Resolve a Technical Issue\nMost technical issues on Etsy can be resolved using the steps in this article.\nIf you’re still having trouble, you can find help in our Technical Issues forum.\nIf you’re having trouble viewing Etsy, and the site or app isn’t responding the way it’s supposed to, we ...",
+    "source": "web",
+    "title": "How to Resolve a Technical Issue",
+    "url": "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy Seller - Etsy\n# Etsy Seller\n5,000+ items",
+    "source": "web",
+    "title": "Etsy Seller - Etsy",
+    "url": "https://www.etsy.com/market/etsy_seller"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00099,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00355
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

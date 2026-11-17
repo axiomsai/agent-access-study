@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush | PRICE: $559.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00083,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush | PRICE: $559.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TyFXvAFJoB0dmCGnbFH/66WKu8a8IOUYCKNS8O0WEH5SG8yswmX5kEFGJHgguKAhM7EWk+mBt7u8qxK88BrDwffAFEO+iO6ReMaCW81UWs3VtSeUzMUFLrpTdHeFOpnNVjtbfk8vFf4U56eyo"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 178,
+   "candidatesTokenCount": 132,
+   "totalTokenCount": 7901,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 178
+    }
+   ],
+   "toolUsePromptTokenCount": 7591,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7591
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "MdbsaqaICo-LqtsP2OyGuQU"
+ }
+}

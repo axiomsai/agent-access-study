@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+  "https://ebaypartnernetwork.ebay.com/page/excluded-sites",
+  "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+  "https://developer.ebay.com/Devzone/XML/docs/Reference/eBay/Errors/ErrorMessages.html",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-161754/",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-dont-have-permission-to-access-ebay-server-96536/?focus_post=806090",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/changing-settings-to-the-original-wwwebaycom-137788/?focus_post=951416",
+  "https://www.ebay.com/sts",
+  "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248"
+ ],
+ "cited_store": true,
+ "answer": "Blocked — the page could not be opened.",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Blocked — the page could not be opened.",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+   "https://ebaypartnernetwork.ebay.com/page/excluded-sites",
+   "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+   "https://developer.ebay.com/Devzone/XML/docs/Reference/eBay/Errors/ErrorMessages.html",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-161754/",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-dont-have-permission-to-access-ebay-server-96536/?focus_post=806090",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/changing-settings-to-the-original-wwwebaycom-137788/?focus_post=951416",
+   "https://www.ebay.com/sts",
+   "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248"
+  ],
+  "created": 1794248324,
+  "id": "resp_0f1e46be-c0d0-40ff-b2f3-9c2e5a07603a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### Using eBay RESTful APIs\n#### Request components\n##### HTTP request headers\n###### Marketplace ID values\n|Marketplace IDs|Country/Region|Marketplace Site|Locale Support|\n|--|--|--|--|\n|`EBAY_US`|United States|https://www.ebay.com (For items in the US motor vehicles or the P&A categories, use EBAY...",
+    "source": "web",
+    "title": "Using eBay RESTful APIs | eBay Developers Program",
+    "url": "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Excluded Sites\n### Excluded Sites\nIn accordance with Section (I) (J)(1) of Exhibit A of the Network Agreement Policies, you must ensure that the list of domains below are excluded from your paid search campaigns.\nWe may update this list from time to time.\nPlease make sure you check this list regul...",
+    "source": "web",
+    "title": "Excluded Sites",
+    "url": "https://ebaypartnernetwork.ebay.com/page/excluded-sites"
+   },
+   {
+    "date": "2024-06-11",
+    "last_updated": "2025-04-13",
+    "place_metadata": null,
+    "snippet": "It looks like you're trying to access it via http:// instead of https:// which may be the cause.\nYou might try editing the protocol in the address bar to https and see if it works.\n...\neBays web address is https://www.ebay.com/\nIf you couldn't access eBay at all you wouldn't have been able to post h...",
+    "source": "web",
+    "title": "ACCESS DENIED - I can't access ebay at all, please help!",
+    "url": "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Errors by Number\n## Trading Errors in Numeric Order\n|17727|Serious Error|Short error: A URL for the page was not entered.\nPlease enter a URL.\nLong error: A URL for the page was not entered.\nPlease enter a URL.|\n|17728|Serious Error|Short error: You entered a URL that is already being used by anoth...",
+    "source": "web",
+    "title": "Error by Number - Trading API | eBay Developers Program",
+    "url": "https://developer.ebay.com/Devzone/XML/docs/Reference/eBay/Errors/ErrorMessages.html"
+   },
+   {
+    "date": "2026-05-15",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "You don't have permission to access \"http://www.ebay.com/\" on this server.\n| Report eBay Technical Issues | eBay Community\n- Report eBay Technical Issues\n##### You don't have permission to access \"http://www.ebay.com/\" on this server.\n...\n\"You don't have permission to access \"http://www.ebay.com/\" o...",
+    "source": "web",
+    "title": "You don't have permission to access \"http://www.ebay.com/\" on this ...",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-161754/"
+   },
+   {
+    "date": "2023-07-02",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "\"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\" | Report eBay Technical Issues | eBay Community\n...\n##### \"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\"\nI can get about 3 clicks on the ebay website using chrome unti...",
+    "source": "web",
+    "title": "\"Access Denied You don't have permission to access \"http ...",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/"
+   },
+   {
+    "date": "2023-02-17",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Access denied ? Dont have permission to access ebay server | Report eBay Technical Issues | eBay Community\n...\n# Access Denied\nYou don't have permission to access \"http://www.ebay.com/\" on this server.\n...\n# Access Denied\nYou don't have permission to access \"http://www.ebay.com/itm/X\" on this server...",
+    "source": "web",
+    "title": "Access Denied",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-dont-have-permission-to-access-ebay-server-96536/?focus_post=806090"
+   },
+   {
+    "date": "2024-12-11",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Only VPN solved issue.\n...\nHi All, the \"simple\" solution is to block \"cz.ebay.de\" domain in your web browser.\nI use Firefox, therefore I followed the hints mentioned here - https://support.mozilla.org/en-US/questions/1260799\n- Made a file called \"policies.json\" and entered the following into that fi...",
+    "source": "web",
+    "title": "Changing settings to the original www.ebay.com!",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/changing-settings-to-the-original-wwwebaycom-137788/?focus_post=951416"
+   },
+   {
+    "date": null,
+    "last_updated": "2024-11-06",
+    "place_metadata": null,
+    "snippet": "This page offers information on certain aspects of the eBay site and services.\nFor help with a specific problem, please contact Customer Service.",
+    "source": "web",
+    "title": "System Status",
+    "url": "https://www.ebay.com/sts"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-03-18",
+    "place_metadata": null,
+    "snippet": "To protect our members, listings or products can't contain links that direct customers to a site other than eBay, even if the link is not clickable.\nWhile there are some exceptions, listings or item descriptions can't contain links that direct customers to any other site.",
+    "source": "web",
+    "title": "Links policy",
+    "url": "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 9,
+   "cost": {
+    "input_tokens_cost": 0.00133,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00386
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 66
+  }
+ }
+}

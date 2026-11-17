@@ -1,0 +1,25 @@
+{
+ "domain": "ebay.com",
+ "idx": 5,
+ "url": "https://www.ebay.com/itm/144387248424",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "17289 chars, copy dated 2026-11-04 (7 days old)",
+   "price": 1559.0,
+   "opened": "YES",
+   "doc_chars": 17289,
+   "input_tokens": 41716,
+   "cost_usd": 0.17946
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "46847 chars, copy dated 2026-11-04 (7 days old)",
+   "price": 1559.0,
+   "opened": "YES",
+   "doc_chars": 46847,
+   "input_tokens": 23603,
+   "cost_usd": 0.10451
+  }
+ }
+}

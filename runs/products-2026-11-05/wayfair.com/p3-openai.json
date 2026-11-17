@@ -1,0 +1,165 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+  ]
+ ],
+ "answer": "NAME: Iago Outdoor Umbrella | PRICE: NONE | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.03391,
+ "raw": {
+  "id": "resp_0c05e838b16ef39b006aecdaad2ebc87d199c8761942103f1d",
+  "object": "response",
+  "created_at": 1793907373,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793907376,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0c05e838b16ef39b006aecdaadb4b887d1bfe8985f72e99ef2",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+    }
+   },
+   {
+    "id": "ws_0c05e838b16ef39b006aecdaae5dd887d1a7c6b18b6a6a9ea6",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$",
+     "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+    }
+   },
+   {
+    "id": "ws_0c05e838b16ef39b006aecdaaf3b0c87d19ebf24315930b06e",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "Add to Cart",
+     "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html"
+    }
+   },
+   {
+    "id": "msg_0c05e838b16ef39b006aecdab00a7c87d1a56b9de8c2327d9c",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Iago Outdoor Umbrella | PRICE: NONE | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 13820,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 2560
+   },
+   "output_tokens": 227,
+   "output_tokens_details": {
+    "reasoning_tokens": 202
+   },
+   "total_tokens": 14047
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

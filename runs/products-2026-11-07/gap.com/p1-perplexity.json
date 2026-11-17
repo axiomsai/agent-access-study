@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=1188295092",
+  "https://www.gap.com/",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://www.gap.com/browse/women/shop-site?cid=3032407",
+  "https://bananarepublic.gap.com/native-product-sitemap.xml",
+  "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674",
+  "https://www.gap.com/browse/category.do?cid=3025298",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://www.gap.com/browse/category.do?cid=92915",
+  "https://www.gap.com/browse/product.do?pid=949746012"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=1188295092",
+   "https://www.gap.com/",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://www.gap.com/browse/women/shop-site?cid=3032407",
+   "https://bananarepublic.gap.com/native-product-sitemap.xml",
+   "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674",
+   "https://www.gap.com/browse/category.do?cid=3025298",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://www.gap.com/browse/category.do?cid=92915",
+   "https://www.gap.com/browse/product.do?pid=949746012"
+  ],
+  "created": 1794082526,
+  "id": "resp_0d81a2be-3d01-43a7-a1b0-1af5815a5423",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "CashSoft Oversized Rollneck Sweater | Gap\n...\n# CashSoft Oversized Rollneck Sweater\n# CashSoft Oversized Rollneck Sweater\n$89.95\n$89.95\n$53.00\n...\n## Product details\n- Supersoft cotton-blend sweater.\nIn an oversized fit and slightly cropped length.\n- Rollneck.\n- Long sleeves with drop shoulders.\n- P...",
+    "source": "web",
+    "title": "CashSoft Oversized Rollneck Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=1188295092"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n...\nThree unique choirs.",
+    "source": "web",
+    "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Women Shop the Site | Gap\n...\n# Shop the Site\n309 items in the product grid\n- Filter & Sort",
+    "source": "web",
+    "title": "Shop the Site",
+    "url": "https://www.gap.com/browse/women/shop-site?cid=3032407"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "https://bananarepublic.gap.com/browse/product.do?pid=1180105012",
+    "source": "web",
+    "title": "https://bananarepublic.gap.com/native-product-sitemap.xml",
+    "url": "https://bananarepublic.gap.com/native-product-sitemap.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "104 items in the product grid\n- Filter & Sort\n...\n## Women\n### UltraSoft Oversized Balloon-Sleeve Icon Denim Jacket",
+    "source": "web",
+    "title": "Women",
+    "url": "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3025298"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Sign up for email",
+    "url": "https://www.gap.com/browse/category.do?cid=92915"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "- [GapStudio](https://www.gap.com/browse/new/gapstudio?cid=3045197)",
+    "source": "web",
+    "title": "Sport wrap sunglasses",
+    "url": "https://www.gap.com/browse/product.do?pid=949746012"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00072,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00343
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

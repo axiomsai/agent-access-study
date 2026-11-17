@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/c/electronics-and-accessories/electronics-cases/phone-cases",
+  "https://www.etsy.com/market/handmade",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/market/beetroot_rosabella",
+  "https://www.etsy.com/market/listings",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/etsy_com_shop"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/c/electronics-and-accessories/electronics-cases/phone-cases",
+   "https://www.etsy.com/market/handmade",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/market/beetroot_rosabella",
+   "https://www.etsy.com/market/listings",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/etsy_com_shop"
+  ],
+  "created": 1793906233,
+  "id": "resp_1317fb6f-5c00-4a64-ac50-824d91bca6e3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4432045135/jewish-mama-sweatshirt-cozy-crewneck\n(25)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "- ### Personalized Custom Name Phone Case Custom Name iPhone 17 16 15 14 13 Pro Max Samsung S24 S23 Ultra Pixel 9 MagSafe Tough Cover Gift for Her\n(591)\nStar Seller\nSale Price $22.60 $22.60",
+    "source": "web",
+    "title": "Phone Cases - Etsy",
+    "url": "https://www.etsy.com/c/electronics-and-accessories/electronics-cases/phone-cases"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Handmade - Etsy\n# Handmade\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Handmade - Etsy",
+    "url": "https://www.etsy.com/market/handmade"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Etsy&\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Etsy.com\n- ## Comfort Colors® https://www.etsy.com/listing/4596137183",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Beetroot Rosabella - Etsy\n# Beetroot Rosabella\n167+ items",
+    "source": "web",
+    "title": "Beetroot Rosabella - Etsy",
+    "url": "https://www.etsy.com/market/beetroot_rosabella"
+   },
+   {
+    "date": "2025-12-24",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Listings - Etsy\n# Listings\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\n- ## Twisted Satin Headband: Braided Knot Hairband for Everyday Wear, Skincare",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Accessories\n- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Etsy Com Shop\n- ## Vintage 32 In X Long CHRISTMAS Pillow BOLSTER Whimsical Artist Coco Dowley Tapestry SPARKLY Red Thread Rare www.etsy.com/shop/K1VINTAGE",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00071,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00341
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

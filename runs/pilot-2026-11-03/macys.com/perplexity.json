@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/",
+  "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+  "https://www.macys.com/shop/featured/layered-look-sweater",
+  "https://www.macys.com/shop/featured/next-clothing-usa",
+  "https://www.macys.com/shop/brands?id=337697",
+  "https://www.macys.com/shop/featured/mens-designer-wallets",
+  "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544",
+  "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+  "https://www.macys.com/shop/womens/shoes/high-heels/block?id=339782",
+  "https://www.macys.com/shop/brands/ugg?id=337765"
+ ],
+ "cited_store": true,
+ "answer": "Page title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nCategory: Jewelry & Watches[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Page title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nCategory: Jewelry & Watches[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/",
+   "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+   "https://www.macys.com/shop/featured/layered-look-sweater",
+   "https://www.macys.com/shop/featured/next-clothing-usa",
+   "https://www.macys.com/shop/brands?id=337697",
+   "https://www.macys.com/shop/featured/mens-designer-wallets",
+   "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544",
+   "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123",
+   "https://www.macys.com/shop/womens/shoes/high-heels/block?id=339782",
+   "https://www.macys.com/shop/brands/ugg?id=337765"
+  ],
+  "created": 1793749479,
+  "id": "resp_44a42909-8c11-4276-8bce-64b756567baa",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-05-10",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com",
+    "source": "web",
+    "title": "Macy’s– Official Site",
+    "url": "https://www.macys.com/"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara - Macy's\n...\n# Lancôme Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara\n4.5 (988)\n$25.50 (15% off)FRIENDapplied$30.00Details\n...\n## Product Details\n- A waterproof lash-lifting & volumizing mascara that targets and volumizes every single ...",
+    "source": "web",
+    "title": "https://www.macys.com/shop/product/lash-idole-lash...",
+    "url": "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Layered Look Sweater - Macy's\n```\n...\n# \"layered look sweater\"\n(500+ items)\n...\n- ### Women's Layered Button-Trim V-Neck Sweater\nCurrent price $136.50; 30% off; with code FRIEND;$136.50 (30% off)",
+    "source": "web",
+    "title": "Layered Look Sweater - Macy's",
+    "url": "https://www.macys.com/shop/featured/layered-look-sweater"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Next Clothing Usa - Macy's\n```\n...\n# \"next clothing usa\"\n(400 items)",
+    "source": "web",
+    "title": "Next Clothing Usa - Macy's",
+    "url": "https://www.macys.com/shop/featured/next-clothing-usa"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Brands | Macy's\n```\n...\n1. Brands\n# Brands\n...\nHilfiger, Avec Les Filles,",
+    "source": "web",
+    "title": "Brands | Macy's",
+    "url": "https://www.macys.com/shop/brands?id=337697"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Mens Designer Wallets - Macy's\n```\n...\n# \"mens designer wallets\"\n(414 items)\nBlack",
+    "source": "web",
+    "title": "Mens Designer Wallets - Macy's",
+    "url": "https://www.macys.com/shop/featured/mens-designer-wallets"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Jewelry & Watches | Macy's\n```\n...\n1. Jewelry & Watches\n# Jewelry & Watches\n(237)",
+    "source": "web",
+    "title": "Clip On Jewelry & Watches - Macy's",
+    "url": "https://www.macys.com/shop/jewelry-watches/Earrings_style/Clip%20On?id=544"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Women's Red Heels and Pumps | Macy's\n```\n...\n# Women's Red Heels\n(500+)\n- Medium Heels (2-2.99\")\n- High Heels (3-3.99\")",
+    "source": "web",
+    "title": "Women's Red Heels and Pumps | Macy's",
+    "url": "https://www.macys.com/shop/womens/shoes/high-heels/Color_normal/Red?id=71123"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's Block Heels | Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories/\n2. Shoes/\n3. Heels/\n4. Block Heels\n# Women's Block Heels\n(500+)\n- Franco Sarto\n...\n- Steve Madden",
+    "source": "web",
+    "title": "Women's Block Heels | Macy's",
+    "url": "https://www.macys.com/shop/womens/shoes/high-heels/block?id=339782"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "UGG® | Macy's\n```\n...\n1. Brands/\n2. UGG®\n# UGG®\n(282)",
+    "source": "web",
+    "title": "UGG® | Macy's",
+    "url": "https://www.macys.com/shop/brands/ugg?id=337765"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 27,
+   "cost": {
+    "input_tokens_cost": 0.0006,
+    "output_tokens_cost": 7e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00317
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 84
+  }
+ }
+}

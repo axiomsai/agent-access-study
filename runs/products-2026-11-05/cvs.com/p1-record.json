@@ -1,0 +1,60 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+ "idx": 1,
+ "at": "2026-11-05T13:26:01-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (url_not_accessible)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0698
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00031
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01134
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "CVS Severe Sinus Moisturizing Extra Fine Mist, 1 FL OZ",
+   "price": 8.99,
+   "price_raw": "$8.99",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

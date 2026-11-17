@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category: Sweaters",
+ "finish": "STOP",
+ "cost_usd": 0.00011,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category: Sweaters",
+       "thoughtSignature": "EnMKcQFpFH0TxCOkyuHq1ikhI2MyqHpj17TZAimArkHSvZEYvCTzeaYjFvTqddX7sffK/ihI8UMmkr8tN+cXavhEM1DXFItD9V3cn+iJi19/l3mTUHWKK7g+8GvLMEWbvBpRSYMF1uS6E/U3UZdMhrFnVJzw"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 45,
+   "totalTokenCount": 926,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 820,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 820
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "5nHqapaxI9C9qtsP8JXR0Ac"
+ }
+}

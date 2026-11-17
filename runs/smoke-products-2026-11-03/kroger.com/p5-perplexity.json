@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "https://www.kroger.com/q/kroger+coffee+ground",
+  "https://www.kroger.com/q/coffee",
+  "https://www.kroger.com/q/kroger+coffee",
+  "https://www.kroger.com/q/kroger+coffe",
+  "https://www.kroger.com/q/coff",
+  "https://www.kroger.com/q/kroger+brand+coffee",
+  "https://www.kroger.com/p/eight-o-clock-the-original-medium-roast-ground-coffee/0001114110040",
+  "https://www.kroger.com/p/the-original-donut-shop-coffee-regular-medium-roast-ground-coffee-bag/0061124740816",
+  "https://www.kroger.com/pl/ground-coffee/0400300003"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+   "https://www.kroger.com/q/kroger+coffee+ground",
+   "https://www.kroger.com/q/coffee",
+   "https://www.kroger.com/q/kroger+coffee",
+   "https://www.kroger.com/q/kroger+coffe",
+   "https://www.kroger.com/q/coff",
+   "https://www.kroger.com/q/kroger+brand+coffee",
+   "https://www.kroger.com/p/eight-o-clock-the-original-medium-roast-ground-coffee/0001114110040",
+   "https://www.kroger.com/p/the-original-donut-shop-coffee-regular-medium-roast-ground-coffee-bag/0061124740816",
+   "https://www.kroger.com/pl/ground-coffee/0400300003"
+  ],
+  "created": 1793751172,
+  "id": "resp_1a300b64-1290-4dc6-953d-9d6faedca8c8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "Kroger® Original Medium Roast Ground Coffee, 29 oz - Kroger\nat Harrisonburg\n...\n# Kroger® Original Medium Roast Ground Coffee\n4.33 118\nUPC: 0001111015000\nLocated in AISLE 10\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nSNAP EBT Eligible Item\nWe now accept SNAP EBT payments for pickup and...",
+    "source": "web",
+    "title": "Kroger® Original Medium Roast Ground Coffee, 29 oz",
+    "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n...\n$13.99$14.49Sale: $13.99 discounted from $14.49",
+    "source": "web",
+    "title": "kroger coffee ground",
+    "url": "https://www.kroger.com/q/kroger+coffee+ground"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Kroger® Original Medium Roast Ground Coffee\nAisle 10\n$6.99$9.99Sale: $6.99 discounted from $9.99\n$0.58/oz",
+    "source": "web",
+    "title": "coffee - Kroger",
+    "url": "https://www.kroger.com/q/coffee"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "## 456 results\n456 products loaded\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n$13.99$14.49Sale: $13.99 discounted from $14....",
+    "source": "web",
+    "title": "kroger coffee",
+    "url": "https://www.kroger.com/q/kroger+coffee"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# kroger coffe\n## 402 results\n402 products loaded\nEveryday Low Price\n$14.49$14.49\n$0.50/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nLow Stock\nEveryday Low Price\n$14.49$14.49\n$0.50/oz\nKroger® Classic Blend Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nEveryday Low Price\n$14.49$14.49",
+    "source": "web",
+    "title": "kroger coffe",
+    "url": "https://www.kroger.com/q/kroger+coffe"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "$0.50/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\n$23.99$23.99\n$0.80/oz\n...\nKroger® Original Medium Roast K-Cup Coffee Pods\n12 ct\nSNAP EBT",
+    "source": "web",
+    "title": "coff",
+    "url": "https://www.kroger.com/q/coff"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "# kroger brand coffee\n## 404 results\n404 products loaded\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n...\n$13.99$14.49Sale: $...",
+    "source": "web",
+    "title": "Kroger Brand Coffee",
+    "url": "https://www.kroger.com/q/kroger+brand+coffee"
+   },
+   {
+    "date": "2026-04-22",
+    "last_updated": "2026-05-15",
+    "place_metadata": null,
+    "snippet": "Product Details\nOriginal is our oldest recipe and most iconic roast.\nFrom Latin America to East Africa, our Master Roasters carefully search the world for premium 100% arabica beans.\nThis coffee is medium roasted to deliver sweet and fruity notes with a well-balanced finish.\nIt is outstandingly smoo...",
+    "source": "web",
+    "title": "Eight O'Clock® The Original Medium Roast Ground Coffee, 24 oz",
+    "url": "https://www.kroger.com/p/eight-o-clock-the-original-medium-roast-ground-coffee/0001114110040"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "The Original Donut Shop Regular Ground 12oz, 12 oz - Kroger\n...\n# The Original Donut Shop Regular Ground 12oz\n4.74 54\nUPC: 0061124740816\n12 oz\nLocated in AISLE 10\nLow Stock\n$9.99$11.99Sale: $9.99 discounted from $11.99\n$0.83/oz\n...\n## Product Information\n...\n- TASTE: Full-bodied, bold, and flavorful...",
+    "source": "web",
+    "title": "The Original Donut Shop Coffee Regular Medium Roast Ground ...",
+    "url": "https://www.kroger.com/p/the-original-donut-shop-coffee-regular-medium-roast-ground-coffee-bag/0061124740816"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Kroger® Original Medium Roast Ground Coffee\nAisle 10\nPrice Cut\n$6.00$6.99Sale: $6.00 discounted from $6.99\n$0.55/oz",
+    "source": "web",
+    "title": "Ground Coffee in Beverages Department",
+    "url": "https://www.kroger.com/pl/ground-coffee/0400300003"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.00112,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00384
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

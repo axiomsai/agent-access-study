@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $899.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00155,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $899.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0Tf15Yg2RyOC1ho9QlN7g5EdgzCyRkTVtdO7MkKXeLh7nLR9i4nhcznk66SqwD71W2ZCV/1hSpP+mCwZR1QTEcSi9dn9ZM5pj6q7jV4JORY8DGVXs14ovm78YXJUmBTjrFpG08y5SQUoFS4slJ"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 197,
+   "candidatesTokenCount": 169,
+   "totalTokenCount": 14963,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 197
+    }
+   ],
+   "toolUsePromptTokenCount": 14597,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 14597
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "YXnqatb5KeKt6dkP9LitoQI"
+ }
+}

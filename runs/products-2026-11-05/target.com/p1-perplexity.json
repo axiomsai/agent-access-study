@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "https://www.target.com/c/shop-all-categories/-/N-5xsxf",
+  "https://corporate.target.com/press/multimedia-library",
+  "https://www.target.com/cart",
+  "https://www.target.com/s/look+up",
+  "https://www.target.com/b/threshold/-/N-56dig",
+  "https://www.target.com/c/order-pickup/-/N-ng0a0",
+  "https://www.target.com/store-locator/find-stores/91202",
+  "https://www.target.com/llms.txt",
+  "https://www.target.com/help/contact-us/registries-lists"
+ ],
+ "cited_store": true,
+ "answer": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+   "https://www.target.com/c/shop-all-categories/-/N-5xsxf",
+   "https://corporate.target.com/press/multimedia-library",
+   "https://www.target.com/cart",
+   "https://www.target.com/s/look+up",
+   "https://www.target.com/b/threshold/-/N-56dig",
+   "https://www.target.com/c/order-pickup/-/N-ng0a0",
+   "https://www.target.com/store-locator/find-stores/91202",
+   "https://www.target.com/llms.txt",
+   "https://www.target.com/help/contact-us/registries-lists"
+  ],
+  "created": 1793906758,
+  "id": "resp_6abd23ec-888b-4172-9fee-fb825136eb53",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# The Ultimate Beauty Advent Calendar - 12pc\n4.57 out of 5 stars\n...\n$20.00\nIn Stock\nWARNING: choking hazard - small parts.\nNot for children under 3 yrs.\n...\n## About this item\n### Specifications\n**CPSC Choking Hazard Warnings:** Choking_hazard_small_parts\n**Beauty Purpose:** Plumping, Skin Tone Imp...",
+    "source": "web",
+    "title": "The Ultimate Beauty Advent Calendar - 12pc",
+    "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Shop All Categories : Target\n# Shop All Categories\n1. Target\n2. Shop All Categories",
+    "source": "web",
+    "title": "Shop All Categories : Target",
+    "url": "https://www.target.com/c/shop-all-categories/-/N-5xsxf"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "Press Multimedia Library | Target Corporation\n# Multimedia Library\n## Sorry, something went wrong.\nPlease reload the page and try again.",
+    "source": "web",
+    "title": "Press Multimedia Library",
+    "url": "https://corporate.target.com/press/multimedia-library"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-01-30",
+    "place_metadata": null,
+    "snippet": "skip to main content\n...\nBlack-owned or founded brands at Target\n...\nAdvertise with Us",
+    "source": "web",
+    "title": "Cart",
+    "url": "https://www.target.com/cart"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Lookup Items & Search: Books, Kits & More\n# look up\n### Recommendations for you\nWomen's Cloud Knit Pajama Pants - Auden™\n4.3 out of 5 stars with 2317 ratings2317 reviews",
+    "source": "web",
+    "title": "look up - Target",
+    "url": "https://www.target.com/s/look+up"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Threshold products at Target\n# Threshold\n...\n**Only at** Target◎",
+    "source": "web",
+    "title": "Threshold products at Target",
+    "url": "https://www.target.com/b/threshold/-/N-56dig"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Order Pickup : Target\n# Order Pickup\n## Beauty\n- $8.99 - $20.99\n...\n- Garnier Micellar Water Hydrating Facial Cleanser & Makeup Remover - Basic Cleansing",
+    "source": "web",
+    "title": "Order Pickup",
+    "url": "https://www.target.com/c/order-pickup/-/N-ng0a0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "Pricing, promotions and availability may vary by location and at Target.com\nTM & © 2025 Target Brands, Inc.",
+    "source": "web",
+    "title": "Find a store - Target",
+    "url": "https://www.target.com/store-locator/find-stores/91202"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# Target.com\n> Target is a leading U.S. retailer offering affordable everyday essentials, seasonal merchandise, and curated brands.",
+    "source": "web",
+    "title": "Target's llms.txt",
+    "url": "https://www.target.com/llms.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Registries & lists : Contact Us : Target\n# Registries & lists",
+    "source": "web",
+    "title": "Registries & lists : Contact Us : Target",
+    "url": "https://www.target.com/help/contact-us/registries-lists"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.00073,
+    "output_tokens_cost": 0.00023,
+    "request_cost": 0.0025,
+    "total_cost": 0.00346
+   },
+   "prompt_tokens": 126,
+   "search_context_size": "low",
+   "total_tokens": 154
+  }
+ }
+}

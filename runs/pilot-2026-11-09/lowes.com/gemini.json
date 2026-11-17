@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Lowe's Home Improvement\nProduct/Category Name: Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.0004,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Lowe's Home Improvement\nProduct/Category Name: Appliances",
+       "thoughtSignature": "EnMKcQFpFH0TR5SrFN0/tQEUJA0S9ftMIK4wBG+Ga5hPcv/cD/cVj87U8LSRx1pSd1sSWeKj7eRE2/IrQYa2Tt4CEk/6JQ+1X/rBc0AwbtRrnqjR2qez+lrEzp/PqOZVgoUYhy8UGLaSknH4vx+awHG+SGXa"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.lowes.com/",
+        "title": "Lowe's Home Improvement"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 35,
+        "text": "Page Title: Lowe's Home Improvement"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 36,
+        "endIndex": 69,
+        "text": "Product/Category Name: Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 45,
+   "totalTokenCount": 3836,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 3729,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3729
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "kQ7yatevMY24qtsPhMXJCQ"
+ }
+}

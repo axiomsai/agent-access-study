@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/",
+  "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916",
+  "https://www.homedepot.com/p/Frigidaire-Gallery-1-9-cu-ft-Over-the-Range-Microwave-in-Smudge-Proof-Stainless-Steel-with-Sensor-Cooking-Technology-GMOS1962AF/322477687",
+  "https://www.homedepot.com/home",
+  "https://www.homedepot.com/p/Perfect-Lift-Window-Treatment-Latte-Cordless-Blackout-Polyester-Cellular-Shades-70-5-in-W-x-64-in-L-QELTWT704640/206506724",
+  "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036",
+  "https://www.homedepot.com/p/GE-30-in-Single-Smart-Convection-Wall-Oven-with-No-Preheat-Air-Fry-in-Stainless-Steel-JTS5000SVSS/328558723",
+  "https://www.homedepot.com/b/Furniture-Living-Room-Furniture-Console-Tables/N-5yc1vZcf7v",
+  "https://www.homedepot.com/b/Smart-Home/N-5yc1vZc1jw",
+  "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+ ],
+ "cited_store": true,
+ "answer": "The Home Depot — Appliances[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "The Home Depot — Appliances[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/",
+   "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916",
+   "https://www.homedepot.com/p/Frigidaire-Gallery-1-9-cu-ft-Over-the-Range-Microwave-in-Smudge-Proof-Stainless-Steel-with-Sensor-Cooking-Technology-GMOS1962AF/322477687",
+   "https://www.homedepot.com/home",
+   "https://www.homedepot.com/p/Perfect-Lift-Window-Treatment-Latte-Cordless-Blackout-Polyester-Cellular-Shades-70-5-in-W-x-64-in-L-QELTWT704640/206506724",
+   "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036",
+   "https://www.homedepot.com/p/GE-30-in-Single-Smart-Convection-Wall-Oven-with-No-Preheat-Air-Fry-in-Stainless-Steel-JTS5000SVSS/328558723",
+   "https://www.homedepot.com/b/Furniture-Living-Room-Furniture-Console-Tables/N-5yc1vZcf7v",
+   "https://www.homedepot.com/b/Smart-Home/N-5yc1vZc1jw",
+   "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+  ],
+  "created": 1794079560,
+  "id": "resp_b7fb9be8-d57a-4f69-8452-576381023758",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Frigidaire 13 cu. ft.\nGarage Ready Convertible Frost Free Upright Freezer in White, Energy Star FFUE1326AW - The Home Depot\nAppliances\n...\nUpright Freezers\nFrigidaire Upright Freezers\n## Internet # 339011916\n## Model # FFUE1326AW\n## Store SKU # 1014956823",
+    "source": "web",
+    "title": "Frigidaire 13 cu. ft. Garage Ready Convertible Frost Free ...",
+    "url": "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Frigidaire Gallery 1.9 cu. ft.\nOver the Range Microwave in Smudge-Proof Stainless Steel with Sensor Cooking Technology GMOS1962AF - The Home Depot\nAppliances\nMicrowaves\nOver-the-Range Microwaves\n/\nFrigidaire Over-the-Range Microwaves\n## Internet # 322477687\n## Model # GMOS1962AF\n## Store SKU # 10084...",
+    "source": "web",
+    "title": "Frigidaire Gallery 1.9 cu. ft. Over the Range Microwave in ...",
+    "url": "https://www.homedepot.com/p/Frigidaire-Gallery-1-9-cu-ft-Over-the-Range-Microwave-in-Smudge-Proof-Stainless-Steel-with-Sensor-Cooking-Technology-GMOS1962AF/322477687"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n...\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/home"
+   },
+   {
+    "date": "2026-08-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Perfect Lift Window Treatment Latte Cordless Blackout Polyester Cellular Shades - 70.5 in.\nW x 64 in.\nL QELTWT704640 - The Home Depot\n...\n## Internet # 206506724\n## Model # QELTWT704640\n...\n## Shop Perfect Lift Window Treatment\n# Latte Cordless Blackout Polyester Cellular Shades - 70.5 in. W x 64 in...",
+    "source": "web",
+    "title": "Latte Cordless Blackout Polyester Cellular Shades - 70.5 in ...",
+    "url": "https://www.homedepot.com/p/Perfect-Lift-Window-Treatment-Latte-Cordless-Blackout-Polyester-Cellular-Shades-70-5-in-W-x-64-in-L-QELTWT704640/206506724"
+   },
+   {
+    "date": "2026-05-25",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "VEVOR 5 Gal.\nSand Blaster 60 to 110 PSI High Pressure Sandblaster with 4 Nozzles, Oil-Water Separator for Paint Stain Removal PSG5JL6125PS7XJMJV0 - The Home Depot\n...\nVEVOR 5 Gal.\n# 5 Gal. Sand Blaster 60 to 110 PSI High Pressure Sandblaster with 4 Nozzles, Oil-Water Separator for Paint Stain Remova...",
+    "source": "web",
+    "title": "VEVOR 5 Gal. Sand Blaster 60 to 110 PSI High Pressure Sandblaster with ...",
+    "url": "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036"
+   },
+   {
+    "date": "2026-09-27",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "GE 30 in.\nSingle Smart Convection Wall Oven with No-Preheat Air Fry in Stainless Steel JTS5000SVSS - The Home Depot\n...\n## Internet # 328558723\n## Model # JTS5000SVSS\n...\n# 30 in. Single Smart Convection Wall Oven with No-Preheat Air Fry in Stainless Steel\n...\n**$**/mo** suggested payments with mos*...",
+    "source": "web",
+    "title": "30 in. Single Smart Convection Wall Oven with No-Preheat Air ...",
+    "url": "https://www.homedepot.com/p/GE-30-in-Single-Smart-Convection-Wall-Oven-with-No-Preheat-Air-Fry-in-Stainless-Steel-JTS5000SVSS/328558723"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Console Tables & Sofa Tables - The Home Depot\n...\n# CONSOLE TABLES\n...\n## Ship Type\n### Harper & Bright Designs 61.​5 in.​ Black Rectangle Wood Console Table with 4-​Drawers and 2-​Shelves",
+    "source": "web",
+    "title": "Console Tables & Sofa Tables - The Home Depot",
+    "url": "https://www.homedepot.com/b/Furniture-Living-Room-Furniture-Console-Tables/N-5yc1vZcf7v"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Smart Home - The Home Depot\nSmart Home\n# Smart Home\n...\n## Loading Recommendations\n### Benefits of Building a Smart Home\n###### Holiday Decorations\nFor screen reader problems with this website, please call 1-800-430-3376 or text 38698 (standard carrier rates apply to texts).",
+    "source": "web",
+    "title": "Smart Home",
+    "url": "https://www.homedepot.com/b/Smart-Home/N-5yc1vZc1jw"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Building Materials - The Home Depot\nBuilding Materials\n# Building Materials\n## Order Now, Get It Faster\nGet same-day delivery on select in-stock building materials when you order before 4 p.m.\nSubject to availability.",
+    "source": "web",
+    "title": "Building Materials - The Home Depot",
+    "url": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 8,
+   "cost": {
+    "input_tokens_cost": 0.00095,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00348
+   },
+   "prompt_tokens": 59,
+   "search_context_size": "low",
+   "total_tokens": 67
+  }
+ }
+}

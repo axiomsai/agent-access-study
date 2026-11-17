@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah) | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00022,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah) | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T0djXjk4lbCyupOHgTPP53X0CeM5OOGPCIcI8T6SNXjdpGnX1EDyMPLAhakeAZeOQ8ojblZmacFZgGjcjrWqFxE0Qqg+x92kswlfS1IKb0fSvF6qqTjLZrQ5td7j79ceEXtI96+RntbBkN9Tr"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 151,
+   "candidatesTokenCount": 93,
+   "totalTokenCount": 1956,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 151
+    }
+   ],
+   "toolUsePromptTokenCount": 1712,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1712
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "VNjsape3EI-LqtsP2OyGuQU"
+ }
+}

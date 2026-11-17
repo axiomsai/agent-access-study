@@ -1,0 +1,25 @@
+{
+ "domain": "homedepot.com",
+ "idx": 5,
+ "url": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15108 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 369.0,
+   "opened": "YES",
+   "doc_chars": 15108,
+   "input_tokens": 32363,
+   "cost_usd": 0.14589
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "17823 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 369.0,
+   "opened": "YES",
+   "doc_chars": 17823,
+   "input_tokens": 34382,
+   "cost_usd": 0.15121
+  }
+ }
+}

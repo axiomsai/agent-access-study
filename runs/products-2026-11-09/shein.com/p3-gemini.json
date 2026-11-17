@@ -1,0 +1,45 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is not accessible.",
+ "finish": "STOP",
+ "cost_usd": 0.0001,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is not accessible.",
+       "thoughtSignature": "EnMKcQFpFH0TeBk+zcNPzlsCAibAaaLKGFPbGP36Hbxu4NkxKWk+4mSIwh/c2oEHsuvOLcuszJNcnNdcPxdan1jQmzx+Bfp0x4oTOwpcwdIW/H739WLhKpDIXIgZIe6xHKZ/T9h7+kYsD+x6zQZfUL18OdsT"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 173,
+   "candidatesTokenCount": 104,
+   "totalTokenCount": 688,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 173
+    }
+   ],
+   "toolUsePromptTokenCount": 411,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 411
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "UBPyatD5CouP6dkPqO3fKA"
+ }
+}

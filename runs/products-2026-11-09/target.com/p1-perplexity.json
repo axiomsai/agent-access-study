@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "https://www.target.com/s/skincare+advent+calendar",
+  "https://www.target.com/s/ulta+beauty+advent+calendar",
+  "https://www.target.com/s/12+dates+of+beauty+advent+calendar",
+  "https://www.target.com/s/makeup+advent+calendar",
+  "https://www.target.com/s/cosmetic+advent+calendar",
+  "https://www.target.com/s/ulta+advent+calendar",
+  "https://www.target.com/s/womens+advent+calendar+beauty",
+  "https://www.target.com/s/christmas+24+day+beauty+advent+calendar?Nao=24",
+  "https://www.target.com/s/wellness+advent"
+ ],
+ "cited_store": true,
+ "answer": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+   "https://www.target.com/s/skincare+advent+calendar",
+   "https://www.target.com/s/ulta+beauty+advent+calendar",
+   "https://www.target.com/s/12+dates+of+beauty+advent+calendar",
+   "https://www.target.com/s/makeup+advent+calendar",
+   "https://www.target.com/s/cosmetic+advent+calendar",
+   "https://www.target.com/s/ulta+advent+calendar",
+   "https://www.target.com/s/womens+advent+calendar+beauty",
+   "https://www.target.com/s/christmas+24+day+beauty+advent+calendar?Nao=24",
+   "https://www.target.com/s/wellness+advent"
+  ],
+  "created": 1794248996,
+  "id": "resp_eed478b2-22a5-4314-aa81-9932dada0bb7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "The Ultimate Beauty Advent Calendar - 12pc : Target\n1. Holiday Shop\n...\n3. Advent Calendars\n...\n# The Ultimate Beauty Advent Calendar - 12pc\n4.33 out of 5 stars\n103\n7 Questions\nNew at target\n$20.00\nIn Stock\nWARNING: choking hazard - small parts.\nNot for children under 3 yrs.\n...\n…\n## About this item...",
+    "source": "web",
+    "title": "The Ultimate Beauty Advent Calendar - 12pc",
+    "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Skincare Advent Calendar: 12 Days of Beauty Care\n...\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4(30)\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.4(96)\nLoved for: great value\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4(16)\n...\n$20.00...",
+    "source": "web",
+    "title": "Skincare Advent Calendar: 12 Days of Beauty Care - Target",
+    "url": "https://www.target.com/s/skincare+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Ulta Beauty Advent Calendar | Gift Sets & Beauty Essentials\n...\n229 results for “ulta beauty advent calendar”\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.5(25)\n$14.99\n...\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.7(7)\n$20.00\nThe Ultimate Spa Advent Calendar...",
+    "source": "web",
+    "title": "Ulta Beauty Advent Calendar | Gift Sets & Beauty Essentials - Target",
+    "url": "https://www.target.com/s/ulta+beauty+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "12 Days of Beauty Advent Calendar | Skincare & Makeup Finds\n...\n268 results for “12 dates of beauty advent calendar”\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.3(110)\nLoved for: great value\n$20.00\n...\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\n4.3 out of 5 stars with 1...",
+    "source": "web",
+    "title": "12 Days of Beauty Advent Calendar | Skincare & Makeup Finds",
+    "url": "https://www.target.com/s/12+dates+of+beauty+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.4(102)\nLoved for: great value\n...\n$20.00\n### Recommendations for you\nThe Ultimate Skincare Advent Calendar - 12pc\n3.9 out of 5 stars with 31 ratings31 reviews",
+    "source": "web",
+    "title": "Makeup Advent Calendar | Makeup Palettes & Glosses - Target",
+    "url": "https://www.target.com/s/makeup+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "343 results for “cosmetic advent calendar”\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.9(14)\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.8(5)\n...\nThe Ultimate Scent Advent Calendar - 12pc\nNew at target¬\n4.2(32)\n$20.00\nThe Ultimate Haircare Advent Calen...",
+    "source": "web",
+    "title": "Cosmetic Advent Calendar | Makeup, Beauty & Skincare Sets - Target",
+    "url": "https://www.target.com/s/cosmetic+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Ulta Beauty Advent Calendar: Holiday Makeup Gift Sets\n...\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.3(106)\nLoved for: great value\nof 12",
+    "source": "web",
+    "title": "Ulta Beauty Advent Calendar: Holiday Makeup Gift Sets",
+    "url": "https://www.target.com/s/ulta+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women's Beauty Advent Calendar | Beauty Finds & Cosmetics Sets\n...\n281 results for “womens advent calendar beauty”\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.6(57)\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.1(17)\n$20.00\n...\nThe Ultimate Spa Advent Ca...",
+    "source": "web",
+    "title": "Women's Beauty Advent Calendar | Beauty Finds ... - Target",
+    "url": "https://www.target.com/s/womens+advent+calendar+beauty"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Christmas 24 Day Beauty Advent Calendar: Lip Balms, Makeup, & More : Page 2\n# christmas 24 day beauty advent calendar\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.5(51)\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.1(15)\n$20.00\n...\nPage 1Page 3",
+    "source": "web",
+    "title": "christmas 24 day beauty advent calendar",
+    "url": "https://www.target.com/s/christmas+24+day+beauty+advent+calendar?Nao=24"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4(29)\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4(16)\n...\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.4(95)",
+    "source": "web",
+    "title": "Wellness Advent: Skincare, Supplements & Gifts - Target",
+    "url": "https://www.target.com/s/wellness+advent"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.00113,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00387
+   },
+   "prompt_tokens": 126,
+   "search_context_size": "low",
+   "total_tokens": 154
+  }
+ }
+}

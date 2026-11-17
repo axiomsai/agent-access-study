@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/productlist/walgreens-allergy-relief/N=521290-118",
+  "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+  "https://www.walgreens.com/store/c/productlist/N=521290-2000010045",
+  "https://www.walgreens.com/store/c/productlist/N=521290-521264",
+  "https://www.walgreens.com/store/c/productlist/N=100073351-2000010045",
+  "https://www.walgreens.com/store/c/productlist/Allergy-Medications-Allergy-Medicine/N=361485-2000010045",
+  "https://www.walgreens.com/store/c/productlist/N=360545-2000011189",
+  "https://www.walgreens.com/store/c/productlist/N=375755-361485",
+  "https://www.walgreens.com/q/antihistamines",
+  "https://www.walgreens.com/store/c/productlist/N=2000010373-2000010045"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 ea | PRICE: $4.99 | STOCK: IN STOCK | OPENED: NO: blocked",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 ea | PRICE: $4.99 | STOCK: IN STOCK | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/productlist/walgreens-allergy-relief/N=521290-118",
+   "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+   "https://www.walgreens.com/store/c/productlist/N=521290-2000010045",
+   "https://www.walgreens.com/store/c/productlist/N=521290-521264",
+   "https://www.walgreens.com/store/c/productlist/N=100073351-2000010045",
+   "https://www.walgreens.com/store/c/productlist/Allergy-Medications-Allergy-Medicine/N=361485-2000010045",
+   "https://www.walgreens.com/store/c/productlist/N=360545-2000011189",
+   "https://www.walgreens.com/store/c/productlist/N=375755-361485",
+   "https://www.walgreens.com/q/antihistamines",
+   "https://www.walgreens.com/store/c/productlist/N=2000010373-2000010045"
+  ],
+  "created": 1794080674,
+  "id": "resp_907468b5-f4ec-464f-bfd8-c5792aa03b1c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Walgreens - Allergy Relief\n- Count:\n**Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs** - 24 ea\nWalgreens(136)\n$4.99$0.21 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Walgreens All...",
+    "source": "web",
+    "title": "Walgreens - Allergy Relief",
+    "url": "https://www.walgreens.com/store/c/productlist/walgreens-allergy-relief/N=521290-118"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Walgreens - Allergy Medicine\n- Count:\n**Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs ** - 24 ea\nWalgreens(134)\n$4.99$0.21 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Walgreens ...",
+    "source": "web",
+    "title": "Walgreens - Allergy Medicine",
+    "url": "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications - Allergy Relief\n...\nPrice and inventory may vary from online to in store.\n- In-stock items only\n...\n- ### Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 ea\nWalgreens(102)\n$4.99\nCheck other stores Opens a simulated dialog\nSame Day Delivery available\nAdd for deli...",
+    "source": "web",
+    "title": "Allergy Medications - Allergy Relief | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=521290-2000010045"
+   },
+   {
+    "date": "2000-09-10",
+    "last_updated": "2025-10-12",
+    "place_metadata": null,
+    "snippet": "# Allergy Relief\n...\n## Refine\nPrice and inventory may vary from online to in store.\n...\n### Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 eaWalgreens$4.99Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping unavailable",
+    "source": "web",
+    "title": "Allergy Relief - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=521290-521264"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 eaWalgreens$4.99Extra 15% off $35+ Sitewi...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping unavailable",
+    "source": "web",
+    "title": "Allergy Medications",
+    "url": "https://www.walgreens.com/store/c/productlist/N=100073351-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-03-09",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications - Allergy Medicine\n...\n## Refine\nBenadryl$6.99$1 off 1 CouponOpen simulated dialogGet 15% OFF $35+ sitewide...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping unavailable\n- ### Walgreens Allergy Relief Diphenhydramine Coated Mini T...",
+    "source": "web",
+    "title": "Allergy Medications - Allergy Medicine | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/Allergy-Medications-Allergy-Medicine/N=361485-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\n...\nExtra 20% off $40 select ...- **Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs ** - 24 ea\nWalgreens\n$4.99$0.21 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 20% off $40 select ...",
+    "source": "web",
+    "title": "Medicines & Treatments - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=360545-2000011189"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy Medicine\n...\n## Refine\n### Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 eaWalgreens$4.99Extra 20% off $40+ select...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping unavailable",
+    "source": "web",
+    "title": "Allergy Medicine - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=375755-361485"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Antihistamines\n## Refine\n- Count:\n**Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs** - 24 ea\nWalgreens(138)\n$4.99$0.21 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nShipping Available\nAdd to cartwill open overlay ...",
+    "source": "web",
+    "title": "Antihistamines",
+    "url": "https://www.walgreens.com/q/antihistamines"
+   },
+   {
+    "date": "2000-09-10",
+    "last_updated": "2025-12-08",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 eaWalgreens$4.99Extra 20% OFF $35+ Sitewi...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping unavailable",
+    "source": "web",
+    "title": "Allergy Medications | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=2000010373-2000010045"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 40,
+   "cost": {
+    "input_tokens_cost": 0.0011,
+    "output_tokens_cost": 0.00028,
+    "request_cost": 0.0025,
+    "total_cost": 0.00388
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 176
+  }
+ }
+}

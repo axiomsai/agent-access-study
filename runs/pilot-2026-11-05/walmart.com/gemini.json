@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Walmart | Save Money. Live better.\nProduct/Category: Holiday home edit",
+ "finish": "STOP",
+ "cost_usd": 0.0001,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Walmart | Save Money. Live better.\nProduct/Category: Holiday home edit",
+       "thoughtSignature": "EnMKcQFpFH0TpvLKXzPXuF/kNDVRnaajHyi9hcpezudE4/NHzGUU+0sr5EngKFYzYXnht0utKM/G977gMa/TfeXyRldCRh8XyMn48IKpOrmToeB3e2xf/6GUvHPGfyzf0SNkzJL+269K2PUUSuWns5bF6yKk"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 38,
+   "totalTokenCount": 870,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 770,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 770
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "k9TsatqANLuIqtsP2YWguQU"
+ }
+}

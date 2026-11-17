@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+  "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002905275",
+  "https://www.lowes.com/b/craftsman",
+  "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-in-8-Drwr-OT-Chest-Red/5002905275",
+  "https://www.lowes.com/collections/CRAFTSMAN-2000-52-In-8-Drawer-Chest-52-In-10-Drawer-Cabinet/GR_4019",
+  "https://www.lowes.com/",
+  "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/tool-chest-combos/346867792",
+  "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-51-5-in-W-x-24-7-in-H-8-Drawer-Steel-Tool-Chest-Black/5002904167?user=shopping&feed=yes",
+  "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/bottom-tool-cabinets/4294607608",
+  "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-52-In-8-Drawer-Chest-Red/5013011801"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black ) | PRICE: $299.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black ) | PRICE: $299.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+   "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002905275",
+   "https://www.lowes.com/b/craftsman",
+   "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-in-8-Drwr-OT-Chest-Red/5002905275",
+   "https://www.lowes.com/collections/CRAFTSMAN-2000-52-In-8-Drawer-Chest-52-In-10-Drawer-Cabinet/GR_4019",
+   "https://www.lowes.com/",
+   "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/tool-chest-combos/346867792",
+   "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-51-5-in-W-x-24-7-in-H-8-Drawer-Steel-Tool-Chest-Black/5002904167?user=shopping&feed=yes",
+   "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/bottom-tool-cabinets/4294607608",
+   "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-52-In-8-Drawer-Chest-Red/5013011801"
+  ],
+  "created": 1794080382,
+  "id": "resp_abdc3a90-0e1e-4637-aea1-71c9bd1e53b2",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "CRAFTSMAN 2000 Series 51.5-in W x 24.7-in H 8-Drawer Steel Tool Chest (Black) CMST98272BK at Lowes.com\n...\n# CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )\nItem #3807741 |\nModel #CMST98272BK\n## Shop CRAFTSMAN\n4.4\n1693\n$299.00\n...\n**Color/Finish Family...",
+    "source": "web",
+    "title": "CRAFTSMAN 2000 Series 51.5-in W x 24.7-in H 8-Drawer ...",
+    "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167"
+   },
+   {
+    "date": "2025-07-22",
+    "last_updated": "2025-07-29",
+    "place_metadata": null,
+    "snippet": "Prices, Promotions, styles, and availability may vary.\n...\nHello Thank you for taking the time to provide your feedback on the unit.",
+    "source": "web",
+    "title": "CRAFTSMAN 2000 Series 51.72-in W x 24.7-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Red and Black ) Lowes.com",
+    "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002905275"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# CRAFTSMAN®\n## CRAFTSMAN ® Storage & Garage Organization\nTool Chests",
+    "source": "web",
+    "title": "CRAFTSMAN® Tools, Lawn Mowers, Air Compressors & More at Lowe’s",
+    "url": "https://www.lowes.com/b/craftsman"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "CRAFTSMAN 2000 Series 51.5-in W x 24.7-in H 8-Drawer Steel Tool Chest (Red) CMST98272RB at Lowes.com\n...\n# CRAFTSMAN 2000 Series 51.72-in W x 24.7-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Red and Black )\nItem #3807739 |\nModel #CMST98272RB\n## Shop CRAFTSMAN\n...\n4.4\n1646\n$299.00\n...\n**Color/Fini...",
+    "source": "web",
+    "title": "CRAFTSMAN 2000 Series 51.5-in W x 24.7-in H 8-Drawer Steel ...",
+    "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-in-8-Drwr-OT-Chest-Red/5002905275"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Shop CRAFTSMAN 2000 52-In 8-Drawer Chest & 52-In 10-Drawer Cabinet at Lowes.com\n...\n# CRAFTSMAN 2000 52-In 8-Drawer Chest & 52-In 10-Drawer Cabinet\nOnline Set #GR_4019\n4906\n...\n$698.00\n$698.00\nActual price was $958.00\n$958.00\n...\nWhat's Included\n2 Items\n**CRAFTSMAN** 2000 Series 51.72-in W x 24.7-in...",
+    "source": "web",
+    "title": "Shop CRAFTSMAN 2000 52-In 8-Drawer Chest & 52-In 10- ...",
+    "url": "https://www.lowes.com/collections/CRAFTSMAN-2000-52-In-8-Drawer-Chest-52-In-10-Drawer-Cabinet/GR_4019"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Home Improvement Projects Made Easy\n### Trending Near You\n1239\n500+ bought last week\nCRAFTSMAN2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )\n1700\n500+ bought last week",
+    "source": "web",
+    "title": "Lowe's Home Improvement",
+    "url": "https://www.lowes.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Prices, Promotions, styles, and availability may vary.\n...\n### CRAFTSMAN\n#### S2000 52-in Metal Rolling Tool Storage Collection\nfor pricing and availability\n##### 4.3\n4910\n### CRAFTSMAN\n#### 2000 Series 51.5-in W x 24.7-in H 8-Drawer Steel Tool Chest & 52-in W x 37.5-in H 10-Drawer Steel Rolling Too...",
+    "source": "web",
+    "title": "Find Rolling Toolboxes with Tools for Complete Solutions",
+    "url": "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/tool-chest-combos/346867792"
+   },
+   {
+    "date": "2021-08-06",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "CRAFTSMAN 2000 Series 51.5-in W x 24.7-in H 8-Drawer Steel Tool Chest (Black) CMST98272BK at Lowes.com\n...\n# CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )\nItem #3807741 |\nModel #CMST98272BK\n...\n**Color/Finish Family: ** Black\n$299.00\n...\nOverview\nEqu...",
+    "source": "web",
+    "title": "Drawer Steel Tool Chest ( Black ) - Lowe's",
+    "url": "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-51-5-in-W-x-24-7-in-H-8-Drawer-Steel-Tool-Chest-Black/5002904167?user=shopping&feed=yes"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### CRAFTSMAN\n#### 2000 Series 52-in W x 38.05-in H 10 -Drawer Steel Rolling Tool Cabinet ( Black )\nfor pricing and availability\n...\n#### 2000 Series 52-in W x 38.05-in H 10 -Drawer Steel Rolling Tool Cabinet ( Red )\n...\n### Related Searches\n#### Related Products\n**CRAFTSMAN** 2000 Series 52-in W x ...",
+    "source": "web",
+    "title": "Bottom Tool Cabinets for Garage Storage and Access | Lowe's",
+    "url": "https://www.lowes.com/pl/tool-storage-work-benches/tool-chests-tool-cabinets/bottom-tool-cabinets/4294607608"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "CRAFTSMAN 2000 Series 51.72-in W x 24.7-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Red and Black ) at Lowes.com\n...\n# CRAFTSMAN 2000 Series 51.72-in W x 24.7-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Red and Black )\nItem #3807739 |\nModel #CMST98272RB\n...\n- Integrated convenience: Recharge b...",
+    "source": "web",
+    "title": "CRAFTSMAN 2000 Series 51.72-in W x 24.7-in H x 16.32-in D 8 ...",
+    "url": "https://www.lowes.com/pd/CRAFTSMAN-2000-Series-52-In-8-Drawer-Chest-Red/5013011801"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 56,
+   "cost": {
+    "input_tokens_cost": 0.00172,
+    "output_tokens_cost": 0.00033,
+    "request_cost": 0.0025,
+    "total_cost": 0.00455
+   },
+   "prompt_tokens": 134,
+   "search_context_size": "low",
+   "total_tokens": 190
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+  "https://www.target.com/c/shop-all-categories/-/n-5xsxf",
+  "https://www.target.com/orders",
+  "https://www.target.com/c/shop-all-categories/-/N-5xsxf",
+  "https://corporate.target.com/press/multimedia-library",
+  "https://www.target.com/b/all/-/N-5fwd2",
+  "https://www.target.com/c/laptop-accessories-laptops-computers-tablets-electronics-tech/-/N-tvfa2",
+  "https://www.target.com/help/articles/orders-purchases/track-order",
+  "https://www.target.com/c/furniture-home-decor/-/N-5xtnr",
+  "https://www.target.com/s/look+up"
+ ],
+ "cited_store": true,
+ "answer": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+   "https://www.target.com/c/shop-all-categories/-/n-5xsxf",
+   "https://www.target.com/orders",
+   "https://www.target.com/c/shop-all-categories/-/N-5xsxf",
+   "https://corporate.target.com/press/multimedia-library",
+   "https://www.target.com/b/all/-/N-5fwd2",
+   "https://www.target.com/c/laptop-accessories-laptops-computers-tablets-electronics-tech/-/N-tvfa2",
+   "https://www.target.com/help/articles/orders-purchases/track-order",
+   "https://www.target.com/c/furniture-home-decor/-/N-5xtnr",
+   "https://www.target.com/s/look+up"
+  ],
+  "created": 1794080376,
+  "id": "resp_d9dd289f-5fbb-49c6-b32b-cb7a2f765e44",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# The Ultimate Spa Advent Calendar - 12pc\n4.1 out of 5 stars\n...\n## About this item\n### Specifications\n**Includes:** Facial Wash, Eye Mask, Lotion, Patches, Bubble Bath, Mask, Bath Bomb\n**Beauty Purpose:** Balancing, Anti-Aging, Deep Hydration, Basic Cleansing, Brightening\n**TCIN**: 1010753892",
+    "source": "web",
+    "title": "The Ultimate Spa Advent Calendar - 12pc",
+    "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-18",
+    "place_metadata": null,
+    "snippet": "Shop All Categories : Target\n...\nredsky.target.com\n# This site can’t be reached",
+    "source": "web",
+    "title": "Shop All Categories : Target",
+    "url": "https://www.target.com/c/shop-all-categories/-/n-5xsxf"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-04-16",
+    "place_metadata": null,
+    "snippet": "Target New ArrivalsGift Ideas for MomClothing, Shoes & AccessoriesHome & DécorKitchen & DiningOutdoor Living & GardenFurnitureGroceryHousehold EssentialsBabyBeautyPersonal CareHealthWellnessLuggageSports & OutdoorsToysElectronicsVideo GamesMovies, Music & BooksSchool & Office SuppliesParty SuppliesG...",
+    "source": "web",
+    "title": "Track Orders - Target",
+    "url": "https://www.target.com/orders"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Shop All Categories : Target\n# Shop All Categories\n1. Target\n2. Shop All Categories",
+    "source": "web",
+    "title": "Shop All Categories - Target",
+    "url": "https://www.target.com/c/shop-all-categories/-/N-5xsxf"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "Press Multimedia Library | Target Corporation\n# Multimedia Library\n## Get in touch\n### Investor relations\n©2026 Target Brands, Inc.",
+    "source": "web",
+    "title": "Press Multimedia Library | Target Corporation",
+    "url": "https://corporate.target.com/press/multimedia-library"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "All products at Target\n...\nAdd all free clear to your laundry routine, for an effective, skin-friendly clean.\n- All Unscented Free Clear for Sensitive Skin HE Liquid Laundry Detergent 58 Loads - 73 fl oz",
+    "source": "web",
+    "title": "All products at Target",
+    "url": "https://www.target.com/b/all/-/N-5fwd2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Laptop Accessories : Target\n…\n...\n# Laptop Accessories\n## 444 results\n...\nHighly rated",
+    "source": "web",
+    "title": "Laptop Accessories - Target",
+    "url": "https://www.target.com/c/laptop-accessories-laptops-computers-tablets-electronics-tech/-/N-tvfa2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Track order\nOn Target.com, click your name in the upper-right corner, then select **Purchase History** to view your orders, order status, and tracking information.",
+    "source": "web",
+    "title": "Track order : Help",
+    "url": "https://www.target.com/help/articles/orders-purchases/track-order"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Furniture\n...\n# Furniture\n## Deals on best-selling furniture\nQwatto Curved Edge TV Stand Walnut Finish Media Console for 65 Inch TV Modern Fluted Door Credenza with Storage Mid Century Living Room Furniture",
+    "source": "web",
+    "title": "Furniture",
+    "url": "https://www.target.com/c/furniture-home-decor/-/N-5xtnr"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "707 results for “look up”\n$9.99\nLook Up with the Very Hungry Caterpillar - by Eric Carle (Board Book)",
+    "source": "web",
+    "title": "look up - Target",
+    "url": "https://www.target.com/s/look+up"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00078,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.0035
+   },
+   "prompt_tokens": 126,
+   "search_context_size": "low",
+   "total_tokens": 150
+  }
+ }
+}

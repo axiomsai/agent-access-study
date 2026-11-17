@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+  "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing",
+  "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+  "https://www.etsy.com/listing/?etsrc=sdt",
+  "https://www.etsy.com/listing/4447805568?etsrc=sdt",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/c"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20+ | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20+ | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+   "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing",
+   "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+   "https://www.etsy.com/listing/?etsrc=sdt",
+   "https://www.etsy.com/listing/4447805568?etsrc=sdt",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/c"
+  ],
+  "created": 1793751247,
+  "id": "resp_d221df1e-5c0b-4161-bad4-b99c69696c44",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-06-15",
+    "place_metadata": null,
+    "snippet": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy\n...\n- Home & Living\n...\n- Blankets & Throws\n...\nNow$106.20+\n$118.00+\n...\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift Fo...",
+    "source": "web",
+    "title": "Custom City Map Blanket, Personalized Blanket, Map ... - Etsy",
+    "url": "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "cozyloftdesigns - Etsy\n# cozyloftdesigns\nStar Seller\nStar Sellers have an outstanding track record for providing a great customer experience—they consistently earned 5-star reviews, shipped orders on time, and replied quickly to any messages they received.\nPhiladelphia, Pennsylvania\n...\n2175 Sales\n3...",
+    "source": "web",
+    "title": "cozyloftdesigns - Etsy",
+    "url": "https://www.etsy.com/shop/cozyloftdesigns?listing_id=1016338618&from_page=listing"
+   },
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy UK\n- Blankets & Throws\n...\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend ...",
+    "source": "web",
+    "title": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy UK",
+    "url": "https://www.etsy.com/uk/listing/1016338618/custom-city-map-blanket-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/listing/?etsrc=sdt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "This item is unavailable - Etsy\nSorry, this item is unavailable.\n### Similar items on Etsy\n( Results include ads\n...\nYou’ll see ad results based on factors like relevancy, and the amount sellers pay per click.\n- ### Conan Gray Found Heaven & Wishbone Stainless Steel Necklace Set\nLemontour From shop ...",
+    "source": "web",
+    "title": "This item is unavailable - Etsy",
+    "url": "https://www.etsy.com/listing/4447805568?etsrc=sdt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4493552282/the-noble-couple-vintage-style",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Everyday Accessories\n5,000+ items\n...\nDiscover unique everyday accessories, from elegant scarves to personalized keychains.",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Etsy.com\nDigital Download\n- ## Comfort Colors® https://www.etsy.com/listing/4596137183",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n(9,936)\nStar Seller\nSale Price $6.30 $6.30\n...\n- ### Let Me Manifest For You | Love, Money, Career, Luck Or Any Wish, Same Day",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 54,
+   "cost": {
+    "input_tokens_cost": 0.00093,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00369
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 168
+  }
+ }
+}

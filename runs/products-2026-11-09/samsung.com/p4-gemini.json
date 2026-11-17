@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TQHhcfCJRjazFTA66Fl2H8aSUMGoOsNNxTOxfq3e0cIuXMGAnXY8K6wBtsXdKQZuuf1FdjQyGoYtpqcIAgJB2slIoD1DNNF6zzDTOsVRij+cAU949BxCOXbIpMcTKVYwhTCZdD9ONszoamaAY"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 130,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 5529,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 130
+    }
+   ],
+   "toolUsePromptTokenCount": 5337,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5337
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "URLyaoyzIPqcqtsP3r_zuAE"
+ }
+}

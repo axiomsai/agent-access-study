@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908929032",
+  "https://www.gap.com/browse/category.do?cid=1157839",
+  "https://bananarepublic.gap.com/native-product-sitemap.xml",
+  "https://oldnavy.gap.com/browse/product.html",
+  "https://www.gap.com/browse/division.do?cid=85035",
+  "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674",
+  "https://oldnavy.gap.com/stores/ms/oxford/oldnavy-5445.html",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://www.gap.com/browse/category.do?cid=35932",
+  "https://www.gap.com/browse/category.do?cid=3025298"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908929032",
+   "https://www.gap.com/browse/category.do?cid=1157839",
+   "https://bananarepublic.gap.com/native-product-sitemap.xml",
+   "https://oldnavy.gap.com/browse/product.html",
+   "https://www.gap.com/browse/division.do?cid=85035",
+   "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674",
+   "https://oldnavy.gap.com/stores/ms/oxford/oldnavy-5445.html",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://www.gap.com/browse/category.do?cid=35932",
+   "https://www.gap.com/browse/category.do?cid=3025298"
+  ],
+  "created": 1794082532,
+  "id": "resp_9358983a-edea-4082-9567-1cd6283983f5",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Zip Sweater Hoodie | Gap\n...\n3. Sweatshirts & Sweatpants\n# Kids CashSoft Zip Sweater Hoodie\n# Kids CashSoft Zip Sweater Hoodie\n$69.95\n$69.95\n...\n## Product details\n...\nIt's everyday luxury.\n- Supersoft knit cotton-blend full-zip sweater hoodie.\nIn a cropped length.\n- Hooded design.\n- L...",
+    "source": "web",
+    "title": "Kids CashSoft Zip Sweater Hoodie",
+    "url": "https://www.gap.com/browse/product.do?pid=908929032"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1157839"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "https://bananarepublic.gap.com/browse/product.do?pid=899989032",
+    "source": "web",
+    "title": "https://bananarepublic.gap.com/native-product-sitemap.xml",
+    "url": "https://bananarepublic.gap.com/native-product-sitemap.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### Old Navy\nFree Shipping on $50+ for rewards membersSign In or JoinDetails",
+    "source": "web",
+    "title": "Old Navy",
+    "url": "https://oldnavy.gap.com/browse/product.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to footer links](https://www.gap.com#sitewide-footer)![](https://impression.appsflyer.com/326347260?",
+    "source": "web",
+    "title": "Sorry!",
+    "url": "https://www.gap.com/browse/division.do?cid=85035"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "The Denim Edit\n...\n104 items in the product grid\n- Filter & Sort\n...\n## Women\n### UltraSoft Oversized Balloon-Sleeve Icon Denim Jacket",
+    "source": "web",
+    "title": "Women",
+    "url": "https://www.gap.com/browse/new/gapdenim-shop?cid=3051674"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)",
+    "source": "web",
+    "title": "Clothing & Jeans for Men Women Kids & Plus Size - Old Navy",
+    "url": "https://oldnavy.gap.com/stores/ms/oxford/oldnavy-5445.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=35932"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3025298"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00076,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00347
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

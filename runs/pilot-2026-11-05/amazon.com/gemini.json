@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "Blocked",
+ "finish": "STOP",
+ "cost_usd": 3e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Blocked",
+       "thoughtSignature": "EnMKcQFpFH0TVFn7yEF+s27c+iPrpITkPErtoslvQPzu9Otdb/tYpBsuvNV1fAD3XwpcJHGmbJCRdUafjPSJyPZNc3Hg/EYdDqOZT8o5nqrWu2QCa/JphLuhMFIAdNDx7UxPA1Uvt4CJUevORFESnC8QxVzx"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 20,
+   "totalTokenCount": 266,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 185,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 185
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "jNTsap6CB-TgqtsP45eqiQQ"
+ }
+}

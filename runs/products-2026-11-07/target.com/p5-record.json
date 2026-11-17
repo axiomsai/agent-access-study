@@ -1,0 +1,60 @@
+{
+ "domain": "target.com",
+ "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+ "idx": 5,
+ "at": "2026-11-07T13:39:19-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed (the fetch tool returned \"url_not_allowed\")",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06982
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "The Ultimate Spa Advent Calendar - 12pc",
+   "price": 20.0,
+   "price_raw": "$20.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00064
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "The Ultimate Spa Advent Calendar - 12pc",
+   "price": 20.0,
+   "price_raw": "$20.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01234
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "The Ultimate Spa Advent Calendar - 12pc",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

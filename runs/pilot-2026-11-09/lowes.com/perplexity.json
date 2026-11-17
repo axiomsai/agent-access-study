@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/",
+  "https://www.lowes.com/ple/all",
+  "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233",
+  "https://www.lowes.com/c/Storage-organization",
+  "https://www.lowes.com/pl/window-treatments/popular-home/adult/2719009538-1021293580246-3786905251",
+  "https://www.lowes.com/pd/GE-Door-and-Window-Sensor-4-Pack/1000118557",
+  "https://www.lowes.com/b/lowesbrands",
+  "https://www.lowes.com/c/Tools",
+  "https://www.lowes.com/pl/furniture/living-room-furniture/room-dividers/contemporary-modern/2444497222-4294769962",
+  "https://www.lowes.com/pl/ladders-scaffolding/top-rated/4294607607-5007197"
+ ],
+ "cited_store": true,
+ "answer": "Lowe’s Home Improvement — Storage & Organization",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Lowe’s Home Improvement — Storage & Organization",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/",
+   "https://www.lowes.com/ple/all",
+   "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233",
+   "https://www.lowes.com/c/Storage-organization",
+   "https://www.lowes.com/pl/window-treatments/popular-home/adult/2719009538-1021293580246-3786905251",
+   "https://www.lowes.com/pd/GE-Door-and-Window-Sensor-4-Pack/1000118557",
+   "https://www.lowes.com/b/lowesbrands",
+   "https://www.lowes.com/c/Tools",
+   "https://www.lowes.com/pl/furniture/living-room-furniture/room-dividers/contemporary-modern/2444497222-4294769962",
+   "https://www.lowes.com/pl/ladders-scaffolding/top-rated/4294607607-5007197"
+  ],
+  "created": 1794248342,
+  "id": "resp_726bd2b2-84c8-4558-904b-bb6dbc9a7f15",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Lowe’s Home Improvement\nPrices, Promotions, styles, and availability may vary.",
+    "source": "web",
+    "title": "Lowe's Home Improvement",
+    "url": "https://www.lowes.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "ALL Products at Lowe's\n...\nOur local stores do not honor online pricing.\n...\nFind My Store",
+    "source": "web",
+    "title": "ALL Products at Lowe's",
+    "url": "https://www.lowes.com/ple/all"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Fiskars 16-ft Fiberglass Pole Pruner 394731-1001 at Lowes.com\n...\n# Fiskars 16-ft Fiberglass Pole Pruner\nItem #2953536 |\nModel #394731-1001",
+    "source": "web",
+    "title": "Fiskars 16-ft Fiberglass Pole Pruner 394731-1001 at Lowes.com",
+    "url": "https://www.lowes.com/pd/Fiskars-Extendable-Fiberglass-Pole-Pruner-16ft-Reach-3X-More-Power-Non-Stick-Coated-Blade-Bypass-Steel-Blade-15in-Saw-Chain-Drive-Design/5001168233"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Storage & Organization at Lowes.com\n...\n1. Home\n...\n# Storage & Organization",
+    "source": "web",
+    "title": "Storage & Organization at Lowes.com",
+    "url": "https://www.lowes.com/c/Storage-organization"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Popular Home Adult Window Treatments at Lowes.com\n...\n# Popular Home Adult Window Treatments",
+    "source": "web",
+    "title": "Popular Home Adult Window Treatments at Lowes.com",
+    "url": "https://www.lowes.com/pl/window-treatments/popular-home/adult/2719009538-1021293580246-3786905251"
+   },
+   {
+    "date": "2025-08-18",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "GE Door and Window Sensor (4-Pack) in White 36017 at Lowes.com\n...\n# GE Door and window sensor ( 4 -Pack ) in White\nItem #184828 |\nModel #36017",
+    "source": "web",
+    "title": "GE Door and window sensor ( 4 -Pack ) in White Lowes.com",
+    "url": "https://www.lowes.com/pd/GE-Door-and-Window-Sensor-4-Pack/1000118557"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Prices and availability of products and services are subject to change without notice.\n...\n# Shop By Brand",
+    "source": "web",
+    "title": "Lowe’s Brands",
+    "url": "https://www.lowes.com/b/lowesbrands"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Tools for DIY Projects, Repairs & Construction | Lowe’s\nPrices, Promotions, styles, and availability may vary.",
+    "source": "web",
+    "title": "Tools for DIY Projects, Repairs & Construction | Lowe’s",
+    "url": "https://www.lowes.com/c/Tools"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Contemporary/Modern Room Dividers at Lowes.com\n...\n# Contemporary/Modern Room Dividers",
+    "source": "web",
+    "title": "Contemporary/Modern Room Dividers at Lowes.com",
+    "url": "https://www.lowes.com/pl/furniture/living-room-furniture/room-dividers/contemporary-modern/2444497222-4294769962"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Top Rated Ladders & Scaffolding by Type | Lowe's",
+    "source": "web",
+    "title": "Top Rated Ladders & Scaffolding for Secure Tasks | Lowe's",
+    "url": "https://www.lowes.com/pl/ladders-scaffolding/top-rated/4294607607-5007197"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 9,
+   "cost": {
+    "input_tokens_cost": 0.00053,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00306
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 66
+  }
+ }
+}

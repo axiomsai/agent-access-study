@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/167031735841",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_dmd=2&_udlo=15&_udhi=35&_oac=1",
+  "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_BOPIS=1&LH_RPA=1&LH_BIN=1&_sop=7&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&_dmd=1&_ipg=25&LH_PrefLoc=1",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1",
+  "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0",
+  "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25",
+  "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_All=1&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/177751/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=350&LH_PrefLoc=3&_oac=1&_dmd=1&LH_BOPIS=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/167031735841",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_dmd=2&_udlo=15&_udhi=35&_oac=1",
+   "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_BOPIS=1&LH_RPA=1&LH_BIN=1&_sop=7&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&_dmd=1&_ipg=25&LH_PrefLoc=1",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1",
+   "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0",
+   "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25",
+   "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_All=1&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/177751/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=350&LH_PrefLoc=3&_oac=1&_dmd=1&LH_BOPIS=1"
+  ],
+  "created": 1793906208,
+  "id": "resp_4a12392b-a57a-43d5-9c43-f258a73ef81e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-12-09",
+    "last_updated": "2024-12-22",
+    "place_metadata": null,
+    "snippet": "# Bose Solo Soundbar 2 Home Theater, Certified RefurbishedOriginal Retail Packaging - Buy Direct From BoseBose\n## List priceUS $199.00(35% off) -US $70.00Item priceUS $129.00ShippingFREEEstimated totalUS $129.00*You save: US $70.00Condition:“The item is in a pristine, like-new condition. It has been...",
+    "source": "web",
+    "title": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished | eBay",
+    "url": "https://www.ebay.com/itm/167031735841"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# 1,300+ results\nFree shipping\n- INFINITE SWITCH 120V 15A for APW WYOTT EGO 2E-1327900 1327900 5059130004",
+    "source": "web",
+    "title": "1,300+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_dmd=2&_udlo=15&_udhi=35&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(207) (207) Items\n...\n# 207 results\n- Returns acceptedRemove filter",
+    "source": "web",
+    "title": "207 results",
+    "url": "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_BOPIS=1&LH_RPA=1&LH_BIN=1&_sop=7&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n- New(1,946) (1,946) Items\n...\n# 1,900+ results\n- PORTAFILTER BACKFLUSH BASKET for ASCASO ASTORIA CMA BEZZERA BFC BRASILIA ECM LF\nBrand New\n$11.47",
+    "source": "web",
+    "title": "1,900+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&_dmd=1&_ipg=25&LH_PrefLoc=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(15) (15) Items\nAccepts Offers\n# 15 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- INDICATOR LIGHT WHITE 230V\nBrand New\n$9.67",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nSponsored\nSponsored\nSponsored\nInclude description\nFilter\nCategory\nAll\nComputers/Tablets & Networking\n3D Printers & Supplies\n3D Printer Consumables\nCell Phones & Accessories\neBay Motors\nClothing, Shoes & Accessories\nHome & Garden\nConsumer Electronics\nSports M...",
+    "source": "web",
+    "title": "36 results",
+    "url": "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(13) (13) Items\n...\n# 13 results\n- THERMOCOUPLE UNIVERSAL KIT 1200MM SKL\nBrand New\n$14.87",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# 1,000+ results\n- PORTAFILTER BACKFLUSH BASKET for ASCASO ASTORIA CMA BEZZERA BFC BRASILIA ECM LF\nBrand New\n$6.47",
+    "source": "web",
+    "title": "1,000+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Other Valves & Manifolds**\n- to\n- Buy It Now(15) (15) Items\n...\n# 15 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_All=1&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(11) (11) Items\n...\n# 11 results\n...\n- Buy It Now\n...\n- Under $350.00Remove filter\n...\n- ELECTRIC HOT PLATE 220MM 2600W 230V for ANGELO PO BERTO'S CECILWARE EGO GARLAND\nBrand New\n$116.77\nBuy It Now\nFree shipping\n- HOT PLATE FOR SOUTHBEND...",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/177751/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=350&LH_PrefLoc=3&_oac=1&_dmd=1&LH_BOPIS=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 31,
+   "cost": {
+    "input_tokens_cost": 0.00129,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00401
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 145
+  }
+ }
+}

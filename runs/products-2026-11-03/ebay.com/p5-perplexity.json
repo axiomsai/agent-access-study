@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/144387248424",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_FS=1&_dmd=1&LH_PrefLoc=98&_oac=1",
+  "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_dmd=1&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1",
+  "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/64482/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&LH_ItemCondition=1000&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_FR=1&LH_PrefLoc=98&_sop=12&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591063602&_ssn=testuser_nomar_seller&LH_BOPIS=1&_udhi=15&LH_PrefLoc=2&_oac=1&_dmd=1&LH_All=1&_sop=16",
+  "https://www.sandbox.ebay.com/sch/58261/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&_sop=12&LH_ItemCondition=3&LH_BO=1&_oac=1",
+  "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591068285&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_udhi=25&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=15&LH_BOPIS=1&LH_FS=1&LH_PrefLoc=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/144387248424",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_FS=1&_dmd=1&LH_PrefLoc=98&_oac=1",
+   "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_dmd=1&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1",
+   "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/64482/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&LH_ItemCondition=1000&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_FR=1&LH_PrefLoc=98&_sop=12&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591063602&_ssn=testuser_nomar_seller&LH_BOPIS=1&_udhi=15&LH_PrefLoc=2&_oac=1&_dmd=1&LH_All=1&_sop=16",
+   "https://www.sandbox.ebay.com/sch/58261/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&_sop=12&LH_ItemCondition=3&LH_BO=1&_oac=1",
+   "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591068285&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_udhi=25&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=15&LH_BOPIS=1&LH_FS=1&LH_PrefLoc=1"
+  ],
+  "created": 1793751248,
+  "id": "resp_f973f5c8-cbc4-44ae-bb3f-68d1ba69f9b9",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2022-06-09",
+    "last_updated": "2025-04-08",
+    "place_metadata": null,
+    "snippet": "# EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar GeneratorUS $1,623.75\n## WasUS $2,899.00(44% off) -US $1,275.25Item priceUS $1,623.75ShippingFREEEstimated totalUS $1,623.75*You save: US $1,275.25No Interest if paid in full in ...",
+    "source": "web",
+    "title": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay",
+    "url": "https://www.ebay.com/itm/144387248424"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n- New(1,300) (1,300) Items\n...\nAccepts Offers\n...\n# 1,300+ results\n- INFINITE SWITCH 120V 15A for APW WYOTT EGO 2E-1327900 1327900 5059130004",
+    "source": "web",
+    "title": "1,300+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_FS=1&_dmd=1&LH_PrefLoc=98&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(12) (12) Items\nBuy It Now(12) (12) Items\nAccepts Offers\n# 12 results\n...\n- Buy It Now\n...\n$20.00\n...\n$20.00\n...\n- Under $75.00Remove filter\n...\n- HIGH TEMPERATURE WIRE 14 AWG, 25' ROLL\nBrand New\n$30.97\nBuy It Now\nFree shipping\n- MAZZ...",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_dmd=1&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(117) (117) Items",
+    "source": "web",
+    "title": "117 results",
+    "url": "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-26",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nSponsored\nSponsored\nSponsored\nInclude description\nFilter\nCategory\nAll\nSports Mem, Cards & Fan Shop\nSports Trading Cards\nCell Phones & Accessories\nComputers/Tablets & Networking\neBay Motors\nHome & Garden\nConsumer Electronics\nBusiness & Industrial\nCrafts\nVideo...",
+    "source": "web",
+    "title": "4 results",
+    "url": "https://www.sandbox.ebay.com/sch/64482/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&LH_ItemCondition=1000&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_FR=1&LH_PrefLoc=98&_sop=12&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(12) (12) Items\nBuy It Now(12) (12) Items\nAccepts Offers\n# 12 results\n...\n- Buy It Now\n...\n- Under $75.00Remove filter\n...\n- HIGH TEMPERATURE WIRE 14 AWG, 25' ROLL\nBrand New\n$30.97\n...\nFree shipping\n- MAZZER GRINDING BURRS PAIR MAZZER...",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/631/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=75&LH_All=1&_oac=1&LH_PrefLoc=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "# 298 results\n- WHIRLPOOL AWM325 AWM326 MOTOR CARBON BRUSHES 481236248004 for ARISTON BAUKNECHT",
+    "source": "web",
+    "title": "298 results",
+    "url": "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591063602&_ssn=testuser_nomar_seller&LH_BOPIS=1&_udhi=15&LH_PrefLoc=2&_oac=1&_dmd=1&LH_All=1&_sop=16"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nSponsored\nSponsored\nSponsored\nInclude description\nFilter\nCategory\nAll\nBusiness & Industrial\nOffice\nOffice Equipment\nLabel Making\nLabel Tapes & Cartridges\neBay Motors\nSporting Goods\nHome & Garden\nCameras & Photo\nConsumer Electronics\nPet Supplies\nVideo Games &...",
+    "source": "web",
+    "title": "1 result",
+    "url": "https://www.sandbox.ebay.com/sch/58261/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&_sop=12&LH_ItemCondition=3&LH_BO=1&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(13) (13) Items\n...\n# 13 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter\n- MICROWAVE CAPACITOR 1.14µF 2100 V-AC\nBrand New\n$21.09\nBuy It Now\nFree shipping\n- MICROWAVE CAPACITOR 1.10µF 2100 V-AC",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591068285&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_udhi=25&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(15) (15) Items",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=15&LH_BOPIS=1&LH_FS=1&LH_PrefLoc=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 39,
+   "cost": {
+    "input_tokens_cost": 0.00168,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00442
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

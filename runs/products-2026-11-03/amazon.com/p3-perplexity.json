@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+  "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+  "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+  "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/b?node=202448500011",
+  "https://www.amazon.com/dp/s?k=dp&page=3",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/-/he/",
+  "https://www.amazon.com/Best-Pet-Supplies-Stuffing-Squeaker/dp/B0CKY4WXGJ/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.LwOZX5R_iggps5CQy27LUVKSbcA307Xn9X-Uyh3m0dzSh5b9F1tYTic_Lg8UQiOkx3mYYQlPfTMlGn4W5HevaYmsnfxxFU7yJQvk-KBYbp3SMxvi4JzDEXE9J8Je6WXzJhZk_OtqLerq47QCAGefAEHCVqdfsKnfr_4d55jtPZt6pgOKfyligrCQnRF8i2jSjLVjUWKUecPbYSFT-FGkVhadrfoaXfYYJ2kGB-Af8o1obBKXc3a329AaXfmD3Yez3nx8mle9xmiImSYwONn6czSZb-Jo9MPDHMeJoAZKRgE.xej84lF0ZJZLeYHBUf-3AWB_Qo0qWbjnP50CHz1TiWs&dib_tag=se&keywords=dog+stimulation+toys&qid=1793589761&sr=8-43"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked by search-only access",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked by search-only access",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+   "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+   "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+   "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/b?node=202448500011",
+   "https://www.amazon.com/dp/s?k=dp&page=3",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/-/he/",
+   "https://www.amazon.com/Best-Pet-Supplies-Stuffing-Squeaker/dp/B0CKY4WXGJ/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.LwOZX5R_iggps5CQy27LUVKSbcA307Xn9X-Uyh3m0dzSh5b9F1tYTic_Lg8UQiOkx3mYYQlPfTMlGn4W5HevaYmsnfxxFU7yJQvk-KBYbp3SMxvi4JzDEXE9J8Je6WXzJhZk_OtqLerq47QCAGefAEHCVqdfsKnfr_4d55jtPZt6pgOKfyligrCQnRF8i2jSjLVjUWKUecPbYSFT-FGkVhadrfoaXfYYJ2kGB-Af8o1obBKXc3a329AaXfmD3Yez3nx8mle9xmiImSYwONn6czSZb-Jo9MPDHMeJoAZKRgE.xej84lF0ZJZLeYHBUf-3AWB_Qo0qWbjnP50CHz1TiWs&dib_tag=se&keywords=dog+stimulation+toys&qid=1793589761&sr=8-43"
+  ],
+  "created": 1793751201,
+  "id": "resp_5f6274b4-8722-4309-b233-a19e8b4c0b2f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n# Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-l...",
+    "source": "web",
+    "title": "Amazon Basics 48-Pack AA Alkaline High-Performance ...",
+    "url": "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "For example, here is a hypothetical macro tag for Google Ads returned from a call to the `macroTag` endpoint:\n…\nHere is an example landing page URL that the campaign will drive to:\n```\nhttps://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C\n```\n…\n```\nhttps://www.amazon...",
+    "source": "web",
+    "title": "how to use the Amazon Attribution API",
+    "url": "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to"
+   },
+   {
+    "date": "2025-03-02",
+    "last_updated": "2025-08-05",
+    "place_metadata": null,
+    "snippet": "\"ItemsResult\": {\n\"Items\": [\n\"ASIN\": \"B00MNV8E0C\",\n\"DetailPageURL\": \"https://www.amazon.com/dp/B00MNV8E0C?tag=example&linkCode=ogi&th=1&psc=1\",\n\"OffersV2\": {\n\"Listings\": [\n\"Availability\": {\n\"MaxOrderQuantity\": 1,\n\"MinOrderQuantity\": 1,\n\"Type\": \"IN_STOCK\"\n},\n\"Condition\": {\n\"ConditionNote\": \"\",\n\"SubCon...",
+    "source": "web",
+    "title": "results matching \" \"",
+    "url": "https://webservices.amazon.com/paapi5/documentation/offersV2.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\neero WiFi\nStream 4K Video",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## 10 Pack Disposable Rain Ponchos for Adults, Card-Sized Emergency Ponchos Family Pack with Hood for Travel\n4.6*4.6 out of 5 stars* (1.1K)\n10K+ bought in past month\nPrice, product pageMXN 187.09MXN187.09 List Price: MXN 224.55\nList Price: MXN 224.55MXN224.55\nExclusive Prime price\n...\n## Rechargeabl...",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=202448500011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "## 8K 4K DisplayPort Cable 1.4, VESA Certified DP Cord 3.3ft\n8K@60Hz, 4K@144Hz, 2K@240Hz, 32.4Gbps High Speed, for Gaming Monitor & Graphic & PC, HDCP 2.2/FreeSync/G-Sync, Braided, Grey\n4.6*4.6 out of 5 stars*",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp&page=3"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com.\nשלמו פחות, חייכו יותר.\n- ## פריטי חובה למטבח\n- ## הכל עבור טיפוח אישי\n...\n## ספרים שאי אפשר להניח",
+    "source": "web",
+    "title": "Amazon.com. שלמו פחות, חייכו יותר.",
+    "url": "https://www.amazon.com/-/he/"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Pet Supplies : Best Pet Supplies Bunny Buddy Squeaky Plush Dog Toy - Gray | Soft Plush, Squeaks & Crinkles, Perfect for Moderate Chewers, Toss & Fetch Play, Stress & Anxiety Reliever, Ideal Gift Toy : Amazon.com\n- Pet Supplies\n...\n- Squeak Toys\n...\n$10.07$10.07\n...\nQuantity:1\n$$10.0710.07 () Include...",
+    "source": "web",
+    "title": "Pet Supplies : Best Pet Supplies Bunny Buddy Squeaky Plush Dog Toy - Gray | Soft Plush, Squeaks & Crinkles, Perfect for Moderate Chewers, Toss & Fetch Play, Stress & Anxiety Reliever, Ideal Gift Toy : Amazon.com",
+    "url": "https://www.amazon.com/Best-Pet-Supplies-Stuffing-Squeaker/dp/B0CKY4WXGJ/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.LwOZX5R_iggps5CQy27LUVKSbcA307Xn9X-Uyh3m0dzSh5b9F1tYTic_Lg8UQiOkx3mYYQlPfTMlGn4W5HevaYmsnfxxFU7yJQvk-KBYbp3SMxvi4JzDEXE9J8Je6WXzJhZk_OtqLerq47QCAGefAEHCVqdfsKnfr_4d55jtPZt6pgOKfyligrCQnRF8i2jSjLVjUWKUecPbYSFT-FGkVhadrfoaXfYYJ2kGB-Af8o1obBKXc3a329AaXfmD3Yez3nx8mle9xmiImSYwONn6czSZb-Jo9MPDHMeJoAZKRgE.xej84lF0ZJZLeYHBUf-3AWB_Qo0qWbjnP50CHz1TiWs&dib_tag=se&keywords=dog+stimulation+toys&qid=1793589761&sr=8-43"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 53,
+   "cost": {
+    "input_tokens_cost": 0.0015,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00427
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

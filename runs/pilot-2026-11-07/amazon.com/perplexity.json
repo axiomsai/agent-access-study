@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://developer.amazon.com/es-ES/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+  "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+  "https://docs.aws.amazon.com/ja_jp/workspaces-web/latest/APIReference/API_WebContentFilteringPolicy.html",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/Protector-Silicone-Protective-Tempered-Colorful/dp/B0GGZYG5HS",
+  "https://www.amazon.com/gp/aw/c",
+  "https://www.amazon.com/b?ie=UTF8&node=23520747011",
+  "https://www.amazon.com/gp/aw/ybh",
+  "https://www.amazon.com/dp/B0C9KJT36W",
+  "https://advertising.amazon.com/API/docs/en-us/product-metadata/"
+ ],
+ "cited_store": true,
+ "answer": "I cannot open it: not allowed.",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "I cannot open it: not allowed.",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://developer.amazon.com/es-ES/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+   "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+   "https://docs.aws.amazon.com/ja_jp/workspaces-web/latest/APIReference/API_WebContentFilteringPolicy.html",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/Protector-Silicone-Protective-Tempered-Colorful/dp/B0GGZYG5HS",
+   "https://www.amazon.com/gp/aw/c",
+   "https://www.amazon.com/b?ie=UTF8&node=23520747011",
+   "https://www.amazon.com/gp/aw/ybh",
+   "https://www.amazon.com/dp/B0C9KJT36W",
+   "https://advertising.amazon.com/API/docs/en-us/product-metadata/"
+  ],
+  "created": 1794079560,
+  "id": "resp_dca74fd1-bdc6-4c8e-ba56-8e361460ec4e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Opens a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on the current device.\n...\n|Property|Type|Default|Description|\n|--|--|--|--|\n|`source`|String|REQUIRED|The URL to open.|\n|`onFail...",
+    "source": "web",
+    "title": "OpenURL Command | Alexa Skills Kit",
+    "url": "https://developer.amazon.com/es-ES/docs/alexa/alexa-presentation-language/apl-open-url-command.html"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Foldable Banana Hanger, Metal Banana Holder, Hold 20 Bananas, Space-Saving Design, Folding with Magnets When Not in Use : Home & Kitchen\n- Home & Kitchen\n...\n- Storage & Organization",
+    "source": "web",
+    "title": "Adhesive Banana Hook Under Cabinet, Under ... - Amazon.com",
+    "url": "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-03-25",
+    "place_metadata": null,
+    "snippet": "# WebContentFilteringPolicy\nThe policy that specifies which URLs end users are allowed to access or which URLs or domain categories they are restricted from accessing for enhanced security.\n## Contents\nCategories of websites that are blocked on the end user’s browsers.\n...\nURLs and domains that end ...",
+    "source": "web",
+    "title": "WebContentFilteringPolicy - Amazon WorkSpaces Secure Browser",
+    "url": "https://docs.aws.amazon.com/ja_jp/workspaces-web/latest/APIReference/API_WebContentFilteringPolicy.html"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Please enter \"BUNALFaa Samsung Galaxy A07 5G\" in the Amazon search bar.",
+    "source": "web",
+    "title": "Amazon.com: Case for Samsung Galaxy A07 5G (6.7\") Phone Case + Screen Protector -Cover Shell Soft Silicone Black Protective case Bumper Belt Tempered Glass 9H Hardness -Colorful Starry Sky : Cell Phon",
+    "url": "https://www.amazon.com/Protector-Silicone-Protective-Tempered-Colorful/dp/B0GGZYG5HS"
+   },
+   {
+    "date": "2025-03-06",
+    "last_updated": "2025-03-12",
+    "place_metadata": null,
+    "snippet": "# All Carts\nSorry, there was a problem getting this information.\nPlease try again, or search for more options.",
+    "source": "web",
+    "title": "All Carts",
+    "url": "https://www.amazon.com/gp/aw/c"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- Type your vanity URL into your browser (amazon.com/shop/yourhandle).",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?ie=UTF8&node=23520747011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Settings\n### Remove all items from view\n...\n## Your Browsing History\nSomething went wrong.\nPlease try again.",
+    "source": "web",
+    "title": "Your Browsing History - amazon.com",
+    "url": "https://www.amazon.com/gp/aw/ybh"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kasa Smart Light Switch, Single Pole, Need Neutral Wire, HS200P3 | 2.4GHz Wi-Fi, Works with Alexa & Google Home, UL Certified, No Hub Required, White, 3-Pack 4.6 out of 5 stars 27,114 FREE Shipping on orders over $35 shipped by Amazon Kasa Apple HomeKit Smart Dimmer Switch, KS220P3, Single Pole | Ne...",
+    "source": "web",
+    "title": "Voice Control w/Siri, Alexa & Google Home, 2.4GHz Wi-Fi, UL Certified, Timer & Schedule, Easy Guided Install, 3-Pack",
+    "url": "https://www.amazon.com/dp/B0C9KJT36W"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-10",
+    "place_metadata": null,
+    "snippet": "# Product Selector\n## Returns product metadata for the advertiser\n##### Request Body schema: application/vnd.productmetadatarequest.v1+json required\n|pageIndex required|integer <int32> >= 0 Index of the page to be returned; For author, this value will be ignored, should use cursorToken instead.",
+    "source": "web",
+    "title": "advertising.amazon.com · en-us · product-metadataAmazon Ads Advanced Tools Center",
+    "url": "https://advertising.amazon.com/API/docs/en-us/product-metadata/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 8,
+   "cost": {
+    "input_tokens_cost": 0.00085,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00338
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "walmart.com",
+ "idx": 5,
+ "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15274 chars, copy dated 2026-09-05 (67 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15274,
+   "input_tokens": 32483,
+   "cost_usd": 0.14555
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "85387 chars, copy dated 2026-09-05 (67 days old)",
+   "price": 199.0,
+   "opened": "YES",
+   "doc_chars": 85387,
+   "input_tokens": 32605,
+   "cost_usd": 0.14562
+  }
+ }
+}

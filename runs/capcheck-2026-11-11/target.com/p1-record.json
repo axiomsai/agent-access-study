@@ -1,0 +1,25 @@
+{
+ "domain": "target.com",
+ "idx": 1,
+ "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this page)",
+   "doc_chars": 0,
+   "input_tokens": 15569,
+   "cost_usd": 0.06954
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (the fetch tool returned url_not_allowed)",
+   "doc_chars": 0,
+   "input_tokens": 15556,
+   "cost_usd": 0.06926
+  }
+ }
+}

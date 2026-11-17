@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/hp-omnibook-5-16--touchscreen-laptop---amd-ryzen-ai-9-465---copilot--pc---2k-oled--1920-x-1200----32gb-memory---1tb-ssd---windows-11-home-/4201003802",
+  "https://www.costco.com/opt/amd-ryzen-ai-laptops",
+  "https://www.costco.com/p/-/4201003708",
+  "https://www.costco.com/opt/usb-c-laptops",
+  "https://www.costco.com/opt/oled-laptops",
+  "https://www.costco.com/opt/laptops-with-responsive-touchscreens",
+  "https://www.costco.com/hp-omnibook-5-16-next-gen-ai-laptop---2k-1920-x-1200-touchscreen---copilot---amd-ryzen-ai-7-350---32gb-memory---1tb-ssd---windows-11-home.product.4000355819.html",
+  "https://www.costco.com/opt/portable-workstation-laptops",
+  "https://www.costco.com/opt/8-core-laptops",
+  "https://www.costco.com/opt/32gb-ram-laptops"
+ ],
+ "cited_store": true,
+ "answer": "NAME: HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: price and stock were not shown in the page results",
+ "cost_usd": 0.00524,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: price and stock were not shown in the page results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/hp-omnibook-5-16--touchscreen-laptop---amd-ryzen-ai-9-465---copilot--pc---2k-oled--1920-x-1200----32gb-memory---1tb-ssd---windows-11-home-/4201003802",
+   "https://www.costco.com/opt/amd-ryzen-ai-laptops",
+   "https://www.costco.com/p/-/4201003708",
+   "https://www.costco.com/opt/usb-c-laptops",
+   "https://www.costco.com/opt/oled-laptops",
+   "https://www.costco.com/opt/laptops-with-responsive-touchscreens",
+   "https://www.costco.com/hp-omnibook-5-16-next-gen-ai-laptop---2k-1920-x-1200-touchscreen---copilot---amd-ryzen-ai-7-350---32gb-memory---1tb-ssd---windows-11-home.product.4000355819.html",
+   "https://www.costco.com/opt/portable-workstation-laptops",
+   "https://www.costco.com/opt/8-core-laptops",
+   "https://www.costco.com/opt/32gb-ram-laptops"
+  ],
+  "created": 1794249557,
+  "id": "resp_4070536a-566a-415c-bd70-fc589e0172fb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home | Costco\n...\n7. Windows Copilot+ PCs\n...\n# HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home\nItem 2042043 | Model 16...",
+    "source": "web",
+    "title": "HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home",
+    "url": "https://www.costco.com/p/-/hp-omnibook-5-16--touchscreen-laptop---amd-ryzen-ai-9-465---copilot--pc---2k-oled--1920-x-1200----32gb-memory---1tb-ssd---windows-11-home-/4201003802"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# AMD Ryzen AI Laptops\nHP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 7 445 - Copilot+ PC - 2K (1920 x 1200) - 24GB Memory - 1TB SSD - Windows 11 Home\nRated 5.0 out of 5 stars based on 1 reviews.\n(1)\nHP OmniBook 3 16\" Touchscreen Laptop - AMD Ryzen AI 5 330 - Copilot+ PC - 2K (1920 x 1200) - 16...",
+    "source": "web",
+    "title": "AMD Ryzen AI Laptops",
+    "url": "https://www.costco.com/opt/amd-ryzen-ai-laptops"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 9 386H - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB RAM - 1TB SSD - Windows 11 Home.\n| Costco\n...\n# HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 9 386H - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB RAM - 1TB SSD - Windows 11 Home.\nIte...",
+    "source": "web",
+    "title": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 9 386H - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB RAM - 1TB SSD - Windows 11 Home.",
+    "url": "https://www.costco.com/p/-/4201003708"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 7 Series 3 - Copilot+ PC - 2K (1920 x 1200) - 24GB Memory - 1TB SSD - Windows 11 Home\n...\nHP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home\nRated 2.1 out of...",
+    "source": "web",
+    "title": "USB-C Laptops | Costco",
+    "url": "https://www.costco.com/opt/usb-c-laptops"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# OLED Laptops\nHP OmniBook 5 16\" Touchscreen Laptop - Qualcomm Snapdragon X Plus (8 core) - Copilot+ PC - 2K OLED (1920 x 1200) - 16GB RAM - 1TB SSD - Windows 11 Home\nRated 3.4 out of 5 stars based on 5 reviews.\n...\nHP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1...",
+    "source": "web",
+    "title": "OLED Laptops",
+    "url": "https://www.costco.com/opt/oled-laptops"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - Qualcomm Snapdragon X Plus (8 core) - Copilot+ PC - 2K OLED (1920 x 1200) - 16GB RAM - 1TB SSD - Windows 11 Home\nRated 3.4 out of 5 stars based on 5 reviews.\n...\nHP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 3...",
+    "source": "web",
+    "title": "Laptops With Responsive Touchscreens",
+    "url": "https://www.costco.com/opt/laptops-with-responsive-touchscreens"
+   },
+   {
+    "date": "2025-06-16",
+    "last_updated": "2025-06-19",
+    "place_metadata": null,
+    "snippet": "# HP OmniBook 5 16\" AI Laptop - AMD Ryzen AI 7 350 - Copilot+ PC - 2K (1920 x 1200) Touchscreen - 32GB Memory - 1TB SSD - Windows 11 Home\n...\n*Excludes Apple Computers **Terms and conditions apply.Shipping & Handling $14.99*\n## Features:\n- Next Gen AI PC: AMD Ryzen™ AI 7 350 (8-Core) Processor, Buil...",
+    "source": "web",
+    "title": "HP OmniBook 5 16\" AI Laptop - AMD Ryzen AI 7 350 - Copilot+ PC - 2K (1920 x 1200) Touchscreen - 32GB Memory - 1TB SSD - Windows 11 Home",
+    "url": "https://www.costco.com/hp-omnibook-5-16-next-gen-ai-laptop---2k-1920-x-1200-touchscreen---copilot---amd-ryzen-ai-7-350---32gb-memory---1tb-ssd---windows-11-home.product.4000355819.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 5 Series 3 Processor - Copilot+ PC - 2K (1920 x 1200) - 16GB Memory - 1TB SSD - Windows 11 Home\n...\nHP OmniBook 5 16\" Touchscreen Laptop - Qualcomm Snapdragon X Plus (8 core) - Copilot+ PC - 2K OLED (1920 x 1200) - 16GB RAM - 1TB SSD - Windows ...",
+    "source": "web",
+    "title": "Portable Workstation Laptops",
+    "url": "https://www.costco.com/opt/portable-workstation-laptops"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - Qualcomm Snapdragon X Plus (8 core) - Copilot+ PC - 2K OLED (1920 x 1200) - 16GB RAM - 1TB SSD - Windows 11 Home\nRated 3.4 out of 5 stars based on 5 reviews.\n...\nHP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 3...",
+    "source": "web",
+    "title": "8 Core Laptops",
+    "url": "https://www.costco.com/opt/8-core-laptops"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home\nRated 2.1 out of 5 stars based on 19 reviews.\n(19)",
+    "source": "web",
+    "title": "32GB RAM Laptops",
+    "url": "https://www.costco.com/opt/32gb-ram-laptops"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 68,
+   "cost": {
+    "input_tokens_cost": 0.00175,
+    "output_tokens_cost": 0.00044,
+    "request_cost": 0.0025,
+    "total_cost": 0.00469
+   },
+   "prompt_tokens": 172,
+   "search_context_size": "low",
+   "total_tokens": 240
+  }
+ }
+}

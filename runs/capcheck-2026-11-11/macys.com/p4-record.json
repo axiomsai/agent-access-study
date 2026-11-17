@@ -1,0 +1,25 @@
+{
+ "domain": "macys.com",
+ "idx": 4,
+ "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15426 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15426,
+   "input_tokens": 33155,
+   "cost_usd": 0.14472
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "177866 chars, copy dated 2026-11-04 (7 days old)",
+   "price": 157.25,
+   "opened": "YES",
+   "doc_chars": 177866,
+   "input_tokens": 44818,
+   "cost_usd": 0.19611
+  }
+ }
+}

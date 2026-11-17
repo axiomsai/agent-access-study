@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS",
+  "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP",
+  "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+  "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-black/J7C5V6WCKZ",
+  "https://www.bestbuy.com/product/bose-noise-cancelling-usb-c-wired-earbuds-with-in-line-microphone-and-remote-white-smoke/J7C5V6WWZS",
+  "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-32gb-memory-1tb-ssd-silver/JJGCQYVY55/sku/6565879/reviews",
+  "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000"
+ ],
+ "cited_store": true,
+ "answer": "Best Buy | Official Online Store | Shop Now & Save — Deals for every list[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Best Buy | Official Online Store | Shop Now & Save — Deals for every list[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS",
+   "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP",
+   "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+   "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-black/J7C5V6WCKZ",
+   "https://www.bestbuy.com/product/bose-noise-cancelling-usb-c-wired-earbuds-with-in-line-microphone-and-remote-white-smoke/J7C5V6WWZS",
+   "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-32gb-memory-1tb-ssd-silver/JJGCQYVY55/sku/6565879/reviews",
+   "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000"
+  ],
+  "created": 1793749484,
+  "id": "resp_9eede133-8b9f-4019-8b2d-9da1744a6462",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n### Deals for every list",
+    "source": "web",
+    "title": "The Elder Scrolls - Best Buy",
+    "url": "https://www.bestbuy.com/"
+   },
+   {
+    "date": "2025-11-21",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over Ear Headphones with Immersive Audio White - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n...\n3. Over-Ear & On-Ear Headphones\n...\n# Bose - QuietComfort Ultra Headphones (2nd Gen) Wireless Noise C...",
+    "source": "web",
+    "title": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless Noise ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS"
+   },
+   {
+    "date": "2026-09-01",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Ozlo Sleepbuds® 2, Noise Masking Sleep Earbuds with Bluetooth Streaming, Sleep Detection, In Ear Alarm, 14 Hr Battery Blue - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 8 pm\n1. Best Buy\n2. Headphones\n3. Earbud & In-Ear Headphones\n4. Sleep Earbuds\n# Ozlo - Sleepbuds® 2, Noise-Masking Sl...",
+    "source": "web",
+    "title": "Ozlo Sleepbuds® 2, Noise Masking Sleep Earbuds with Bluetooth ...",
+    "url": "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q"
+   },
+   {
+    "date": "2025-11-21",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over Ear Headphones with Immersive Audio Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n...\n3. Over-Ear & On-Ear Headphones\n...\n# Bose - QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Ca...",
+    "source": "web",
+    "title": "Protect your headphones",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "iRobot Roomba 205 DustCompactor Vacuum Compacts Dirt Inside, No Emptying for 60 Days, Bagless, Intense Suction Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n2. Appliances\n3. Vacuum Cleaners & Floor Care\n4. Robot Vacuums & Mops\n5. Robot Vacuums\n# Customer Ratings &...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews - BestBuy.com",
+    "url": "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews"
+   },
+   {
+    "date": "2026-10-13",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Ray Ban Meta (Gen 3) Wayfarer, AI Glasses with Camera Clear Lenses Matte Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n2. Wearable Technology\n...\n# Ray-Ban Meta - (Gen 3) Wayfarer, AI Glasses with Camera - Clear Lenses - Matte Black\nModel: SK-1002178-01\nSKU: 66872...",
+    "source": "web",
+    "title": "Ray-Ban Meta - (Gen 3) Wayfarer, AI Glasses with Camera",
+    "url": "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL"
+   },
+   {
+    "date": "2025-09-23",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Earbuds (2nd Gen) True Wireless Noise Cancelling In Ear Earbuds with Immersive Audio Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n2. Headphones\n3. Earbud & In-Ear Headphones\n# Bose - QuietComfort Ultra Earbuds (2nd Gen) True Wireless Noise...",
+    "source": "web",
+    "title": "Bose QuietComfort Ultra Earbuds (2nd Gen) True Wireless ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-black/J7C5V6WCKZ"
+   },
+   {
+    "date": "2026-09-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Bose Noise Cancelling USB C Wired Earbuds with In Line Microphone and Remote White Smoke - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n2. Headphones\n3. Earbud & In-Ear Headphones\nIn Wired Headphones\n# Bose - Noise Cancelling USB-C Wired Earbuds with In-Line Microphone ...",
+    "source": "web",
+    "title": "Bose Noise Cancelling USB C Wired Earbuds with In Line ...",
+    "url": "https://www.bestbuy.com/product/bose-noise-cancelling-usb-c-wired-earbuds-with-in-line-microphone-and-remote-white-smoke/J7C5V6WWZS"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Apple MacBook Pro 14 inch Laptop M5 chip with 10 core CPU and 10 core GPU 32GB Memory 1TB SSD Silver - Best Buy\n...\n# Customer Ratings & Reviews\n## Apple - MacBook Pro 14-inch Laptop - M5 chip with 10-core CPU and 10-core GPU - 32GB Memory - 1TB SSD - Silver\n- **Model:**\nMJ3E4LL/A\n|\n- **SKU:**\n65658...",
+    "source": "web",
+    "title": "Apple MacBook Pro 14 inch Laptop M5 chip with 10 core CPU and ...",
+    "url": "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-32gb-memory-1tb-ssd-silver/JJGCQYVY55/sku/6565879/reviews"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n# Best Buy\n## Filters",
+    "source": "web",
+    "title": "Official Online Store | Shop Now & Save - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00106,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00362
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

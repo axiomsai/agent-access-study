@@ -1,0 +1,9034 @@
+[
+ {
+  "domain": "amazon.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 5.68,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 5.68,
+  "alts": [
+   6.49
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 5.68,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 5.68,
+  "alts": [
+   6.49
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the request was blocked by the target website",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 4.83,
+  "truth": 5.68,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 5.68,
+  "alts": [
+   6.49
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 5.68,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 5.68,
+  "alts": [
+   6.49
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 43.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 43.49,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 43.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 43.49,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked)",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 43.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 43.49,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 43.49,
+  "truth": 43.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 43.49,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "NO: error retrieving stock status",
+  "coded": [
+   "opened",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 15.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 15.29,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 15.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 15.29,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 15.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 15.29,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 15.29,
+  "truth": 15.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 15.29,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.97,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 6.97,
+  "alts": [
+   9.69
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (the web tool returned url_not_allowed)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.97,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 6.97,
+  "alts": [
+   9.69
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 6.97,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 6.97,
+  "alts": [
+   9.69
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 6.99,
+  "truth": 6.97,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 6.97,
+  "alts": [
+   9.69
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 12.77,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 12.77,
+  "alts": [
+   26.95
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 12.77,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 12.77,
+  "alts": [
+   26.95
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 12.77,
+  "truth": 12.77,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 12.77,
+  "alts": [
+   26.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 12.77,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 12.77,
+  "alts": [
+   26.95
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 269.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 269.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 269.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 269.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 269.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 269.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 269.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 89.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 89.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 11,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 89.0,
+  "truth": 89.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 89.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 89.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 89.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 121.0,
+  "truth": 89.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 89.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 199.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 199.0,
+  "truth": 199.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 199.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 199.0,
+  "truth": 199.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 23.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 23.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 23.0,
+  "truth": 23.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 23.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 23.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 23.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 23.0,
+  "truth": 23.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 23.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 219.94,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 219.94,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 63,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 219.94,
+  "truth": 219.94,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 219.94,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 219.94,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 219.94,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 219.94,
+  "truth": 219.94,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 219.94,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "NO: blocked (only an empty \"Temu\" page loaded, with no product name, price or stock shown)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: The requested product page on Temu was not fully loaded or accessible as a standard product display (the page content was blocked or returned as a general s",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: exact page not accessible",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "NO: blocked (the page returned only a blank \"Temu\" shell with no product content)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 19.11,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "ungradable",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "ungradable"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error (exact page not returned)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 29,
+  "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product details)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: The product page content is blocked by a security or anti-bot mechanism.",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (the web tool rejected the URL as too long)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error (page not found in results)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product name, price or stock shown)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "temu.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": null,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 439.99,
+  "truth": 399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 399.99,
+  "page_price": 399.99,
+  "alts": [
+   749.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": 64,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 399.99,
+  "truth": 399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 399.99,
+  "page_price": 399.99,
+  "alts": [
+   749.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 349.99,
+  "truth": 399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 399.99,
+  "page_price": 399.99,
+  "alts": [
+   749.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 399.99,
+  "page_price": 399.99,
+  "alts": [
+   749.99
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 22.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 22.0,
+  "page_price": 22.0,
+  "alts": [
+   70.0
+  ],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 22.0,
+  "truth": 22.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 22.0,
+  "page_price": 22.0,
+  "alts": [
+   70.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 22.0,
+  "truth": 22.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 22.0,
+  "page_price": 22.0,
+  "alts": [
+   70.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 22.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 22.0,
+  "page_price": 22.0,
+  "alts": [
+   70.0
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 129.0,
+  "truth": 129.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 129.0,
+  "page_price": 129.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": 84,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 129.0,
+  "truth": 129.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 129.0,
+  "page_price": 129.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 129.0,
+  "truth": 129.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 129.0,
+  "page_price": 129.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 129.0,
+  "truth": 129.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 129.0,
+  "page_price": 129.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 1007.1,
+  "truth": 1119.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1119.0,
+  "page_price": 1119.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": 8,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1119.0,
+  "truth": 1119.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1119.0,
+  "page_price": 1119.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1007.1,
+  "truth": 1119.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1119.0,
+  "page_price": 1119.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 1119.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1119.0,
+  "page_price": 1119.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 1559.0,
+  "truth": 1559.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1559.0,
+  "page_price": 1559.0,
+  "alts": [
+   2899.0
+  ],
+  "outcome": "price_match",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1559.0,
+  "truth": 1559.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1559.0,
+  "page_price": 1559.0,
+  "alts": [
+   2899.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1559.0,
+  "truth": 1559.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1559.0,
+  "page_price": 1559.0,
+  "alts": [
+   2899.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 1623.75,
+  "truth": 1559.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1559.0,
+  "page_price": 1559.0,
+  "alts": [
+   2899.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 106.2,
+  "truth": 106.2,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 106.2,
+  "page_price": 106.2,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 106.2,
+  "truth": 106.2,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 106.2,
+  "page_price": 106.2,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 106.2,
+  "truth": 106.2,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 106.2,
+  "page_price": 106.2,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 106.2,
+  "truth": 106.2,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 106.2,
+  "page_price": 106.2,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 39.99,
+  "truth": 39.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 39.99,
+  "page_price": 39.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 39.99,
+  "truth": 39.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 39.99,
+  "page_price": 39.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 39.99,
+  "truth": 39.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 39.99,
+  "page_price": 39.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 39.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 39.99,
+  "page_price": 39.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: page not found in search results",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 125.0,
+  "truth": 125.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 125.0,
+  "page_price": 125.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 125.0,
+  "truth": 125.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 125.0,
+  "page_price": 125.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 125.0,
+  "truth": 125.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 125.0,
+  "page_price": 125.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 125.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 125.0,
+  "page_price": 125.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error retrieving exact page",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 118.48,
+  "truth": 94.78,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.78,
+  "page_price": 94.78,
+  "alts": [
+   118.48
+  ],
+  "outcome": "matched_other_listed_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "matched_other_listed_price"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 94.78,
+  "truth": 94.78,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.78,
+  "page_price": 94.78,
+  "alts": [
+   118.48
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 94.78,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.78,
+  "page_price": 94.78,
+  "alts": [
+   118.48
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 94.78,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.78,
+  "page_price": 94.78,
+  "alts": [
+   118.48
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: page not found in search results",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 48.0,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 48.0,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 48.0,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 48.0,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 48.0,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 48.0,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 45.0,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 48.0,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 539.0,
+  "truth": 539.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 539.0,
+  "page_price": null,
+  "alts": [
+   729.0
+  ],
+  "outcome": "price_match",
+  "age_days": 2,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 539.0,
+  "truth": 539.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 539.0,
+  "page_price": null,
+  "alts": [
+   729.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 539.0,
+  "truth": 539.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 539.0,
+  "page_price": null,
+  "alts": [
+   729.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 519.0,
+  "truth": 539.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 539.0,
+  "page_price": null,
+  "alts": [
+   729.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 269.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 269.0,
+  "page_price": null,
+  "alts": [
+   319.0
+  ],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 319.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 269.0,
+  "page_price": null,
+  "alts": [
+   319.0
+  ],
+  "outcome": "matched_other_listed_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "matched_other_listed_price"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 269.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 269.0,
+  "page_price": null,
+  "alts": [
+   319.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 239.0,
+  "truth": 269.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 269.0,
+  "page_price": null,
+  "alts": [
+   319.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 159.0,
+  "truth": 159.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 159.0,
+  "page_price": null,
+  "alts": [
+   239.0
+  ],
+  "outcome": "price_match",
+  "age_days": 1,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 159.0,
+  "truth": 159.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 159.0,
+  "page_price": null,
+  "alts": [
+   239.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 159.0,
+  "truth": 159.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 159.0,
+  "page_price": null,
+  "alts": [
+   239.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 169.0,
+  "truth": 159.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 159.0,
+  "page_price": null,
+  "alts": [
+   239.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 799.0,
+  "truth": 949.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 949.0,
+  "page_price": null,
+  "alts": [
+   1199.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 949.0,
+  "truth": 949.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 949.0,
+  "page_price": null,
+  "alts": [
+   1199.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 949.0,
+  "truth": 949.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 949.0,
+  "page_price": null,
+  "alts": [
+   1199.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 949.0,
+  "truth": 949.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 949.0,
+  "page_price": null,
+  "alts": [
+   1199.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 379.0,
+  "truth": 379.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 379.0,
+  "page_price": null,
+  "alts": [
+   559.0
+  ],
+  "outcome": "price_match",
+  "age_days": 1,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 379.0,
+  "truth": 379.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 379.0,
+  "page_price": null,
+  "alts": [
+   559.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 379.0,
+  "truth": 379.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 379.0,
+  "page_price": null,
+  "alts": [
+   559.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 349.0,
+  "truth": 379.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 379.0,
+  "page_price": null,
+  "alts": [
+   559.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "target.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this page)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "target.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 20.0,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 20.0,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 20.0,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 9.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 9.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "target.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 9.99,
+  "truth": 9.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 9.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 9.99,
+  "truth": 9.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 9.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 9.99,
+  "truth": 9.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 9.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 18.69,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 18.69,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "target.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 15.99,
+  "truth": 18.69,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 18.69,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "target.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 15.99,
+  "truth": 18.69,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 18.69,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "target.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 15.99,
+  "truth": 18.69,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 18.69,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "target.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (my web tool refused the URL with a url_not_allowed error)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "target.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (the fetch tool returned \"url_not_allowed\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "target.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 20.0,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 20.0,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "target.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 20.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 20.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 1799.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1799.0,
+  "page_price": 1799.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 21,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1799.0,
+  "truth": 1799.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1799.0,
+  "page_price": 1799.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1799.0,
+  "truth": 1799.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1799.0,
+  "page_price": 1799.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 1799.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1799.0,
+  "page_price": 1799.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 465.0,
+  "truth": 299.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.0,
+  "page_price": 299.0,
+  "alts": [
+   419.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": 30,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 299.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.0,
+  "page_price": 299.0,
+  "alts": [
+   419.0
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 299.0,
+  "truth": 299.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.0,
+  "page_price": 299.0,
+  "alts": [
+   419.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 299.0,
+  "truth": 299.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.0,
+  "page_price": 299.0,
+  "alts": [
+   419.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 20,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 199.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 179.0,
+  "page_price": 179.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "matched_other_listed_price",
+  "age_days": 15,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "matched_other_listed_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 179.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 179.0,
+  "page_price": 179.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 179.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 179.0,
+  "page_price": 179.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 199.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 179.0,
+  "page_price": 179.0,
+  "alts": [
+   199.0
+  ],
+  "outcome": "matched_other_listed_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "matched_other_listed_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 449.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 449.0,
+  "page_price": 449.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 17,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 449.0,
+  "truth": 449.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 449.0,
+  "page_price": 449.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 449.0,
+  "truth": 449.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 449.0,
+  "page_price": 449.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 449.0,
+  "truth": 449.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 449.0,
+  "page_price": 449.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 8.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 8.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 8.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 8.99,
+  "truth": 8.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 18.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 18.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 18.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 18.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 18.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 18.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error (timeout)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 18.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 18.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 23.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 23.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 6,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 23.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 23.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 23.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 23.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 23.99,
+  "truth": 23.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 23.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (the fetch tool returned url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served_thin",
+  "price": null,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "shell_page",
+  "age_days": null,
+  "opened": "NO: error (403 Forbidden)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 12.99,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 10.99,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 336.52,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 336.52,
+  "page_price": 336.52,
+  "alts": [
+   399.99
+  ],
+  "outcome": "no_price",
+  "age_days": 1,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 336.52,
+  "truth": 336.52,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 336.52,
+  "page_price": 336.52,
+  "alts": [
+   399.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 579.0,
+  "truth": 336.52,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 336.52,
+  "page_price": 336.52,
+  "alts": [
+   399.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 259.99,
+  "truth": 336.52,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 336.52,
+  "page_price": 336.52,
+  "alts": [
+   399.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 612.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 612.0,
+  "page_price": 612.0,
+  "alts": [
+   899.99
+  ],
+  "outcome": "no_price",
+  "age_days": 2,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 612.0,
+  "truth": 612.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 612.0,
+  "page_price": 612.0,
+  "alts": [
+   899.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 612.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 612.0,
+  "page_price": 612.0,
+  "alts": [
+   899.99
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 612.0,
+  "truth": 612.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 612.0,
+  "page_price": 612.0,
+  "alts": [
+   899.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 59.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 59.99,
+  "page_price": 59.99,
+  "alts": [
+   129.99
+  ],
+  "outcome": "no_price",
+  "age_days": 2,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 59.99,
+  "truth": 59.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 59.99,
+  "page_price": 59.99,
+  "alts": [
+   129.99
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 5999.0,
+  "truth": 59.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 59.99,
+  "page_price": 59.99,
+  "alts": [
+   129.99
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 59.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 59.99,
+  "page_price": 59.99,
+  "alts": [
+   129.99
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 679.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 679.0,
+  "page_price": 679.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 4,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 679.0,
+  "truth": 679.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 679.0,
+  "page_price": 679.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 679.0,
+  "truth": 679.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 679.0,
+  "page_price": 679.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 679.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 679.0,
+  "page_price": 679.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: page content did not show current stock status or a clearly current selling price",
+  "coded": [
+   "blind_to_price",
+   "shell_or_challenge"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 2,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 349.0,
+  "truth": 349.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 349.0,
+  "page_price": 349.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 1349.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 1599.99,
+  "truth": 1599.99,
+  "conflict": true,
+  "conflict_match": "structured",
+  "ld_price": 1599.99,
+  "page_price": 1899.99,
+  "alts": [],
+  "outcome": "price_conflict",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_conflict"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1899.99,
+  "truth": 1599.99,
+  "conflict": true,
+  "conflict_match": "visible",
+  "ld_price": 1599.99,
+  "page_price": 1899.99,
+  "alts": [],
+  "outcome": "price_conflict",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_conflict"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1799.99,
+  "truth": 1599.99,
+  "conflict": true,
+  "conflict_match": "neither",
+  "ld_price": 1599.99,
+  "page_price": 1899.99,
+  "alts": [],
+  "outcome": "price_conflict",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_conflict"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 1899.99,
+  "truth": 1599.99,
+  "conflict": true,
+  "conflict_match": "visible",
+  "ld_price": 1599.99,
+  "page_price": 1899.99,
+  "alts": [],
+  "outcome": "price_conflict",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_conflict"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 2299.99,
+  "truth": 2299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 2299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 2299.99,
+  "truth": 2299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 2299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 2099.99,
+  "truth": 2299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 2299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 2299.99,
+  "truth": 2299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 2299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 1199.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 1249.99,
+  "truth": 1199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1199.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 1399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1399.99,
+  "page_price": 1399.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 1399.99,
+  "truth": 1399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1399.99,
+  "page_price": 1399.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 1399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1399.99,
+  "page_price": 1399.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 1399.99,
+  "truth": 1399.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1399.99,
+  "page_price": 1399.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 7.79,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.79,
+  "page_price": 7.79,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 7.79,
+  "truth": 7.79,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.79,
+  "page_price": 7.79,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 7.79,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.79,
+  "page_price": 7.79,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 7.79,
+  "truth": 7.79,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.79,
+  "page_price": 7.79,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 4.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.99,
+  "page_price": 4.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 4.99,
+  "truth": 4.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.99,
+  "page_price": 4.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 4.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.99,
+  "page_price": 4.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 4.99,
+  "truth": 4.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.99,
+  "page_price": 4.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 45,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the page content was blocked by a consent/privacy wall",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 16.99,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 20.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 20.99,
+  "page_price": 24.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 20.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 20.99,
+  "page_price": 24.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: the page content did not load correctly (privacy/cookie consent barrier)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 20.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 20.99,
+  "page_price": 24.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 24.99,
+  "truth": 20.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 20.99,
+  "page_price": 24.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": 19.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 5,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": 19.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked, captcha, not allowed)",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": 19.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 19.99,
+  "truth": 19.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 19.99,
+  "page_price": 19.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 299.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 299.99,
+  "page_price": null,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 3299.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 3299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (the web tool returned \"url_not_accessible\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 3299.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 3299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 3299.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 3299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 3299.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 3299.99,
+  "page_price": 2299.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 1699.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 1699.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 1699.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 1699.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 1699.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 1699.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 1699.99,
+  "conflict": true,
+  "conflict_match": null,
+  "ld_price": 1699.99,
+  "page_price": 1199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: price and stock were not shown in the available page results",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 199.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 199.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 1499.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 1499.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": null,
+  "truth": 1499.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 1499.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 1499.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 1499.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "costco.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 1499.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 1499.99,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 2.76,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 2.76,
+  "alts": [
+   3.6
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (my web tool rejected the link because the URL is too long)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 2.76,
+  "truth": 2.76,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 2.76,
+  "alts": [
+   3.6
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 2.76,
+  "truth": 2.76,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 2.76,
+  "alts": [
+   3.6
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 2.76,
+  "truth": 2.76,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 2.76,
+  "alts": [
+   3.6
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 3.9,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 3.9,
+  "alts": [
+   4.8
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (my fetch tool rejected the URL as too long)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 3.9,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 3.9,
+  "alts": [
+   4.8
+  ],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: Access blocked (bot/security challenge detected)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 3.9,
+  "truth": 3.9,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 3.9,
+  "alts": [
+   4.8
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 3.9,
+  "truth": 3.9,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 3.9,
+  "alts": [
+   4.8
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_thin",
+  "price": null,
+  "truth": 8.89,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 8.89,
+  "alts": [],
+  "outcome": "shell_page",
+  "age_days": 0,
+  "opened": "NO: blocked (the fetch returned only page metadata with no product name, price or stock shown)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "unknown",
+  "price": null,
+  "truth": 8.89,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 8.89,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the page is blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 7.99,
+  "truth": 8.89,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 8.89,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 7.99,
+  "truth": 8.89,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 8.89,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "NO: exact page not opened; search result only",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served_thin",
+  "price": null,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "shell_page",
+  "age_days": 0,
+  "opened": "NO: the page returned only an empty shell with no product content, likely blocked",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 48.0,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 48.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 48.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served_thin",
+  "price": null,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "shell_page",
+  "age_days": 0,
+  "opened": "NO: blocked (the page returned only an empty shell with meta tags and no product content)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked, captcha, not allowed)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "shein.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "NO: page not directly opened",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 619.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 619.99,
+  "alts": [
+   747.0
+  ],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 619.99,
+  "truth": 619.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 619.99,
+  "alts": [
+   747.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 619.99,
+  "truth": 619.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 619.99,
+  "alts": [
+   747.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 469.99,
+  "truth": 619.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 619.99,
+  "alts": [
+   747.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 899.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 899.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 899.0,
+  "truth": 899.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 899.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 899.0,
+  "truth": 899.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 899.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 899.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 899.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "refused_or_error"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 179.0,
+  "alts": [
+   290.4
+  ],
+  "outcome": "no_price",
+  "age_days": 19,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 185.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 179.0,
+  "alts": [
+   290.4
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 185.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 179.0,
+  "alts": [
+   290.4
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 185.0,
+  "truth": 179.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 179.0,
+  "alts": [
+   290.4
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 254.3,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 254.3,
+  "alts": [
+   295.26
+  ],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 254.3,
+  "truth": 254.3,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 254.3,
+  "alts": [
+   295.26
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 281.43,
+  "truth": 254.3,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 254.3,
+  "alts": [
+   295.26
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 273.1,
+  "truth": 254.3,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 254.3,
+  "alts": [
+   295.26
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": null,
+  "truth": 107.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 107.99,
+  "alts": [
+   139.89
+  ],
+  "outcome": "no_price",
+  "age_days": 70,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 99.99,
+  "truth": 107.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 107.99,
+  "alts": [
+   139.89
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 101.99,
+  "truth": 107.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 107.99,
+  "alts": [
+   139.89
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 96.99,
+  "truth": 107.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": null,
+  "page_price": 107.99,
+  "alts": [
+   139.89
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 175.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 175.0,
+  "page_price": 175.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 175.0,
+  "truth": 175.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 175.0,
+  "page_price": 175.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 175.0,
+  "truth": 175.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 175.0,
+  "page_price": 175.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 175.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 175.0,
+  "page_price": 175.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: price and stock not shown in the available page result",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 145.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 145.0,
+  "page_price": 145.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 145.0,
+  "truth": 145.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 145.0,
+  "page_price": 145.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 145.0,
+  "truth": 145.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 145.0,
+  "page_price": 145.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 123.25,
+  "truth": 145.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 145.0,
+  "page_price": 145.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 310.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 310.0,
+  "page_price": 310.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 310.0,
+  "truth": 310.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 310.0,
+  "page_price": 310.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 310.0,
+  "truth": 310.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 310.0,
+  "page_price": 310.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 310.0,
+  "truth": 310.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 310.0,
+  "page_price": 310.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "NO: exact product page not available in results",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 185.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 185.0,
+  "page_price": 185.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 157.25,
+  "truth": 185.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 185.0,
+  "page_price": 185.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 185.0,
+  "truth": 185.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 185.0,
+  "page_price": 185.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 157.25,
+  "truth": 185.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 185.0,
+  "page_price": 185.0,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "NO: exact page content unavailable",
+  "coded": [
+   "opened",
+   "shell_or_challenge"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": null,
+  "truth": 34.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 34.0,
+  "page_price": 34.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 34.0,
+  "truth": 34.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 34.0,
+  "page_price": 34.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 34.0,
+  "truth": 34.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 34.0,
+  "page_price": 34.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "macys.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 34.0,
+  "truth": 34.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 34.0,
+  "page_price": 34.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "NO: exact product page could not be opened",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 248.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 248.29,
+  "page_price": 248.29,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (the web tool returned \"url_not_allowed\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 248.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 248.29,
+  "page_price": 248.29,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 248.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 248.29,
+  "page_price": 248.29,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked (redirected to login)",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 248.29,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 248.29,
+  "page_price": 248.29,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 8.07,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.07,
+  "page_price": 8.07,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (my web fetch tool returned \"url_not_allowed\" for this URL)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 8.07,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.07,
+  "page_price": 8.07,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 8.07,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.07,
+  "page_price": 8.07,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 8.07,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 8.07,
+  "page_price": 8.07,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 7.83,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.83,
+  "page_price": 7.83,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 7.83,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.83,
+  "page_price": 7.83,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 7.83,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.83,
+  "page_price": 7.83,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 7.83,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 7.83,
+  "page_price": 7.83,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: page details unavailable (search result did not open the exact product page)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 1.09,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1.09,
+  "page_price": 1.09,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (the web tool returned the error \"url_not_allowed\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 1.09,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1.09,
+  "page_price": 1.09,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 1.09,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1.09,
+  "page_price": 1.09,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 1.09,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 1.09,
+  "page_price": 1.09,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: the page could not be opened (search result did not show the exact product page)",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 4.33,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.33,
+  "page_price": 4.33,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this URL)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 4.33,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.33,
+  "page_price": 4.33,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 4.33,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.33,
+  "page_price": 4.33,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 4.33,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.33,
+  "page_price": 4.33,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 53.0,
+  "truth": 53.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 53.0,
+  "page_price": 53.0,
+  "alts": [
+   89.95
+  ],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 53.0,
+  "truth": 53.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 53.0,
+  "page_price": 53.0,
+  "alts": [
+   89.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 53.0,
+  "truth": 53.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 53.0,
+  "page_price": 53.0,
+  "alts": [
+   89.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 53.0,
+  "truth": 53.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 53.0,
+  "page_price": 53.0,
+  "alts": [
+   89.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 69.95,
+  "truth": 69.95,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 69.95,
+  "page_price": 69.95,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 69.95,
+  "truth": 69.95,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 69.95,
+  "page_price": 69.95,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 69.95,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 69.95,
+  "page_price": 69.95,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 69.95,
+  "truth": 69.95,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 69.95,
+  "page_price": 69.95,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 59.0,
+  "truth": 94.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.0,
+  "page_price": 94.0,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": 6,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 94.0,
+  "truth": 94.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.0,
+  "page_price": 94.0,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 94.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.0,
+  "page_price": 94.0,
+  "alts": [
+   118.0
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 59.0,
+  "truth": 94.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 94.0,
+  "page_price": 94.0,
+  "alts": [
+   118.0
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 17.0,
+  "truth": 17.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 17.0,
+  "page_price": 17.0,
+  "alts": [
+   29.95
+  ],
+  "outcome": "price_match",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 17.0,
+  "truth": 17.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 17.0,
+  "page_price": 17.0,
+  "alts": [
+   29.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 17.0,
+  "truth": 17.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 17.0,
+  "page_price": 17.0,
+  "alts": [
+   29.95
+  ],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 17.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 17.0,
+  "page_price": 17.0,
+  "alts": [
+   29.95
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error finding the exact product page",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 79.95,
+  "truth": 55.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 55.0,
+  "page_price": 55.0,
+  "alts": [
+   69.95
+  ],
+  "outcome": "price_wrong",
+  "age_days": 3,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 79.95,
+  "truth": 55.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 55.0,
+  "page_price": 55.0,
+  "alts": [
+   69.95
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": null,
+  "truth": 55.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 55.0,
+  "page_price": 55.0,
+  "alts": [
+   69.95
+  ],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "blind_to_price",
+   "blind_to_price"
+  ],
+  "final_access": "blind_to_price",
+  "final_outcome": "no_price"
+ },
+ {
+  "domain": "gap.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 79.95,
+  "truth": 55.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 55.0,
+  "page_price": 55.0,
+  "alts": [
+   69.95
+  ],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (the web tool returned \"url_not_accessible\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 6.0,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: page not found in results",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 4.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.0,
+  "page_price": 4.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 4.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.0,
+  "page_price": 4.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: The website blocked access to the page content.",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 4.0,
+  "truth": 4.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.0,
+  "page_price": 4.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 4.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 4.0,
+  "page_price": 4.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 9.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 9.0,
+  "page_price": 9.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 9.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 9.0,
+  "page_price": 9.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 9.0,
+  "truth": 9.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 9.0,
+  "page_price": 9.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 9.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 9.0,
+  "page_price": 9.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (the fetch failed with \"url_not_accessible\")",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 6.0,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 6.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 6.0,
+  "page_price": 6.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 15.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 15.0,
+  "page_price": 15.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: error (url_not_accessible)",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "blocked",
+  "price": null,
+  "truth": 15.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 15.0,
+  "page_price": 15.0,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: the reason (blocked)",
+  "coded": [
+   "refused_or_error",
+   "shell_or_challenge"
+  ],
+  "final_access": "turned_away",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 15.0,
+  "truth": 15.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 15.0,
+  "page_price": 15.0,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "depop.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": null,
+  "truth": 15.0,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 15.0,
+  "page_price": 15.0,
+  "alts": [],
+  "outcome": "no_price",
+  "age_days": null,
+  "opened": "NO: error",
+  "coded": [
+   "refused_or_error",
+   "refused_or_error"
+  ],
+  "final_access": "refused_or_error",
+  "final_outcome": "turned_away"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 1,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 15.49,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": 12.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": 57,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 1,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 12.99,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": 12.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 1,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 12.99,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": 12.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 1,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 15.49,
+  "truth": 12.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 12.99,
+  "page_price": 12.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 2,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 13.99,
+  "truth": 13.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 13.99,
+  "page_price": 13.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 2,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 10.99,
+  "truth": 13.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 13.99,
+  "page_price": 13.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 2,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 10.99,
+  "truth": 13.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 13.99,
+  "page_price": 13.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 2,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 13.99,
+  "truth": 13.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 13.99,
+  "page_price": 13.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 3,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 10.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 11.99,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": 57,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 3,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 11.99,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 3,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 11.99,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 3,
+  "fetcher": "perplexity",
+  "verdict": "blocked",
+  "price": 11.99,
+  "truth": 11.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 11.99,
+  "page_price": 11.99,
+  "alts": [],
+  "outcome": "no_access",
+  "age_days": null,
+  "opened": "NO: blocked",
+  "coded": [
+   "shell_or_challenge",
+   "shell_or_challenge"
+  ],
+  "final_access": "shell_or_challenge",
+  "final_outcome": "price_while_blocked"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 4,
+  "fetcher": "claude",
+  "verdict": "served",
+  "price": 16.99,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 0,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 4,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 16.99,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 4,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 16.99,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 4,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 16.99,
+  "truth": 16.99,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 16.99,
+  "page_price": 16.99,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 5,
+  "fetcher": "claude",
+  "verdict": "served_stale",
+  "price": 14.49,
+  "truth": 14.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 14.49,
+  "page_price": 14.49,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": 38,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 5,
+  "fetcher": "gemini",
+  "verdict": "served",
+  "price": 14.49,
+  "truth": 14.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 14.49,
+  "page_price": 14.49,
+  "alts": [],
+  "outcome": "price_match",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_match"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 5,
+  "fetcher": "openai",
+  "verdict": "served",
+  "price": 12.99,
+  "truth": 14.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 14.49,
+  "page_price": 14.49,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 5,
+  "fetcher": "perplexity",
+  "verdict": "indexed",
+  "price": 13.99,
+  "truth": 14.49,
+  "conflict": false,
+  "conflict_match": null,
+  "ld_price": 14.49,
+  "page_price": 14.49,
+  "alts": [],
+  "outcome": "price_wrong",
+  "age_days": null,
+  "opened": "YES",
+  "coded": [
+   "opened",
+   "opened"
+  ],
+  "final_access": "opened",
+  "final_outcome": "price_wrong"
+ }
+]

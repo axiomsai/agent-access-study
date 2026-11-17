@@ -1,0 +1,25 @@
+{
+ "domain": "wayfair.com",
+ "idx": 2,
+ "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15575 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15575,
+   "input_tokens": 44423,
+   "cost_usd": 0.19547
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "78709 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 78709,
+   "input_tokens": 42133,
+   "cost_usd": 0.18919
+  }
+ }
+}

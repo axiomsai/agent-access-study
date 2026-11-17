@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+  "https://www.target.com/c/skin-care-beauty/athena-club/-/N-5xtzjZq643le15d7y",
+  "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+  "https://www.target.com/c/beauty-gift-ideas/athena-club/-/N-54x8kZq643le15d7y",
+  "https://www.target.com/s/dry+skin+lotion",
+  "https://www.target.com/s/athena+club+lotion",
+  "https://www.target.com/c/bath-body-beauty/athena-club/-/N-5xu1mZq643le15d7y",
+  "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-up-close-16-fl-oz/-/A-95254640",
+  "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-first-blush-16-fl-oz/-/A-94775604",
+  "https://www.target.com/c/body-lotions-creams-bath-beauty/hydrating/-/N-5xtzdZg37j9"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+   "https://www.target.com/c/skin-care-beauty/athena-club/-/N-5xtzjZq643le15d7y",
+   "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+   "https://www.target.com/c/beauty-gift-ideas/athena-club/-/N-54x8kZq643le15d7y",
+   "https://www.target.com/s/dry+skin+lotion",
+   "https://www.target.com/s/athena+club+lotion",
+   "https://www.target.com/c/bath-body-beauty/athena-club/-/N-5xu1mZq643le15d7y",
+   "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-up-close-16-fl-oz/-/A-95254640",
+   "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-first-blush-16-fl-oz/-/A-94775604",
+   "https://www.target.com/c/body-lotions-creams-bath-beauty/hydrating/-/N-5xtzdZg37j9"
+  ],
+  "created": 1794248995,
+  "id": "resp_59cb985d-327b-44c5-8401-45cbdb3d1c9e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz : Target\n1. Bath & Body\n...\n# Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\n3.26 out of 5 stars\n67\nNew at target\n$11.99\nIn Stock\nSave 5% every day\n...\n### Details\n#### Description\nGive your skin the holiday glow-up it de...",
+    "source": "web",
+    "title": "Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz",
+    "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Athena Club : Skin Care\n## 3 results\n$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n4.2(6)\n$11.99\nAthena Club Skin Perfecting Body Lotion - Sweet Talk - 16 fl oz\nAthena ClubNew at target¬\n$11.99\nAthena Club Skin Perfecting Body Lotion - Up Close - 1...",
+    "source": "web",
+    "title": "Athena Club : Skin Care",
+    "url": "https://www.target.com/c/skin-care-beauty/athena-club/-/N-5xtzjZq643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Athena Club\n## 64 results\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n4.2(93)\n21k+ bought in last month\n$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n3.3(71)\n$15.99",
+    "source": "web",
+    "title": "Athena Club products at Target",
+    "url": "https://www.target.com/b/athena-club/-/N-q643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Athena Club : Beauty Gifts\n## 29 results\n$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n3.4(44)\nHighly rated\n$15.99",
+    "source": "web",
+    "title": "Athena Club : Beauty Gifts - Body Mist - Target",
+    "url": "https://www.target.com/c/beauty-gift-ideas/athena-club/-/N-54x8kZq643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n3.3(68)\n...\n- $11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\n3.3 out of 5 stars with 68 ratings68 reviews",
+    "source": "web",
+    "title": "Dry Skin Lotion | Best Body Lotions for Dry Skin - Target",
+    "url": "https://www.target.com/s/dry+skin+lotion"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "57 results for “athena club lotion”\n$11.99\nAthena Club Skin Perfecting Body Lotion - Golden Vanilla - 16 fl oz\nAthena Club\n4.5(330)\nLoved for: luxurious feel\n$11.99\nAthena Club Skin Perfecting Body Lotion - Love Letter - 16 fl oz\n...\nAthena Club Skin Perfecting Body Lotion - Amber Hours - 16 fl oz\n....",
+    "source": "web",
+    "title": "Athena Club Lotion | Body Wash & Shave Oil - Target",
+    "url": "https://www.target.com/s/athena+club+lotion"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## 21 results\nShipping\n$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n3.5(19)\n64k+ bought in last month\n$11.99",
+    "source": "web",
+    "title": "Athena Club : Bath & Body",
+    "url": "https://www.target.com/c/bath-body-beauty/athena-club/-/N-5xu1mZq643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Athena Club Skin Perfecting Body Lotion - Up Close - 16 fl oz : Target\n...\n3. Bath & Body\n4. Lotions & Creams\n...\n# Athena Club Skin Perfecting Body Lotion - Up Close - 16 fl oz\n3.6 out of 5 stars\n15\nNew at target\n$11.99\nIn Stock\n...\nGive your skin the holiday glow-up it deserves.\nAthena Club’s Up C...",
+    "source": "web",
+    "title": "Athena Club Skin Perfecting Body Lotion - Up Close - 16 fl oz",
+    "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-up-close-16-fl-oz/-/A-95254640"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Skin Perfecting Body Lotion - First Blush - 16 fl oz : Target\n1. Bath & Body\n2. Lotions & Creams\n...\n# Athena Club Skin Perfecting Body Lotion - First Blush - 16 fl oz\n4.58 out of 5 stars\n77\n$11.99\nIn Stock\n...\n### Specifications\n**Scent:** Scented\n**Suggested Age:** All Ages\n**Sustainab...",
+    "source": "web",
+    "title": "Athena Club Skin Perfecting Body Lotion - First Blush - Target",
+    "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-first-blush-16-fl-oz/-/A-94775604"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "## 244 results\n18k+ bought in last month\n$11.99\nAthena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz\nAthena ClubNew at target¬\n3.2(63)\nHighly rated\n$5.79 - $16.99\nBuy 1 get 1 25% off skin care items\n...\nAthena Club Skin Perfecting Body Lotion - Golden Vanilla - 16 fl oz\nAthena Club",
+    "source": "web",
+    "title": "Hydrating : Body Lotions & Creams | Moisturizers for Dry Skin - Target",
+    "url": "https://www.target.com/c/body-lotions-creams-bath-beauty/hydrating/-/N-5xtzdZg37j9"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00144,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00421
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 171
+  }
+ }
+}

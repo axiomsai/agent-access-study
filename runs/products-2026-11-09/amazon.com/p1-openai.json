@@ -1,0 +1,179 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.amazon.com/dp/B07BGLT25K"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B07BGLT25K"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B07BGLT25K"
+  ],
+  [
+   "completed",
+   "open_page",
+   "https://www.amazon.com/dp/B07BGLT25K"
+  ]
+ ],
+ "answer": "NAME: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: $4.83 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.04467,
+ "raw": {
+  "id": "resp_073be8607c3e2b4b006af20f0e12e487d18d1fca15e30556e9",
+  "object": "response",
+  "created_at": 1794248462,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794248466,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_073be8607c3e2b4b006af20f0e703887d18bceb2474d6c0a02",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.amazon.com/dp/B07BGLT25K"
+    }
+   },
+   {
+    "id": "ws_073be8607c3e2b4b006af20f0f264887d190537357be3eb2fc",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "B07BGLT25K",
+     "url": "https://www.amazon.com/dp/B07BGLT25K"
+    }
+   },
+   {
+    "id": "ws_073be8607c3e2b4b006af20f108b1087d1aa61640cf3597382",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "productTitle",
+     "url": "https://www.amazon.com/dp/B07BGLT25K"
+    }
+   },
+   {
+    "id": "ws_073be8607c3e2b4b006af20f11c15087d1943cb1bb1d0752ed",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.amazon.com/dp/B07BGLT25K"
+    }
+   },
+   {
+    "id": "msg_073be8607c3e2b4b006af20f12566487d18a3498b4a9d76b59",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: $4.83 | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 16357,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 290,
+   "output_tokens_details": {
+    "reasoning_tokens": 239
+   },
+   "total_tokens": 16647
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

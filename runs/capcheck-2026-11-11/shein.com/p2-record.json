@@ -1,0 +1,25 @@
+{
+ "domain": "shein.com",
+ "idx": 2,
+ "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (url_too_long, the fetch tool rejected the URL as too long)",
+   "doc_chars": 0,
+   "input_tokens": 16085,
+   "cost_usd": 0.07264
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (the web tool rejected the URL as too long)",
+   "doc_chars": 0,
+   "input_tokens": 16081,
+   "cost_usd": 0.07236
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+ "idx": 5,
+ "at": "2026-11-05T13:25:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "6820 chars, copy dated 2026-10-21 (15 days old)",
+   "parsed": true,
+   "name": "DEWALT 20 -Volt 2 -Pack 8 Ah 8 Ah Lithium-ion )",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-10-21T13:22:20+00:00",
+   "age_days": 15,
+   "cost_usd": 0.10448
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah)",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00022
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+   "price": 449.0,
+   "price_raw": "$449.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01239
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah",
+   "price": 449.0,
+   "price_raw": "$449.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

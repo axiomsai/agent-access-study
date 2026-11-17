@@ -1,0 +1,102 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/",
+ "started": "2026-11-07T13:25:45-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.temu.com/",
+  "bytes": 309497,
+  "error": null,
+  "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry &amp; More",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "546 chars, copy dated 2026-11-07 (0 days old)",
+   "answer": "I opened the page, but almost nothing came through besides the title.\n\n**Page title:** \"Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\"\n\n**Product or category name:** None appeared in the page content. The fetch returned only the page's metadata and title. The body was empty apart ",
+   "cost_usd": 0.12636
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+   "cost_usd": 0.00018
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More  \nClothing ([temu.com](https://www.temu.com/))",
+   "cost_usd": 0.01129
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More — Clothing",
+   "cost_usd": 0.00507
+  }
+ }
+}

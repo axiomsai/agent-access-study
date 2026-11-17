@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair | PRICE: $619.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00103,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair | PRICE: $619.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TNq+gFdmds+PyJac50FaMjhpZZ/srsZu76KcJoWY0lkdtpd8x3MgnCmgSd/SyNK8jN1TwkBtuseRp1YuKzVeT9uBM3qR3s5AX6sLotlR7M8ZT4xkOote+AEklwABSeHm0d9+9/qyJQhK5u29P"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 163,
+   "candidatesTokenCount": 106,
+   "totalTokenCount": 9945,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 163
+    }
+   ],
+   "toolUsePromptTokenCount": 9676,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 9676
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "XXnqao-xML-r6dkPsffmoAI"
+ }
+}

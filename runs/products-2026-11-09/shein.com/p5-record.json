@@ -1,0 +1,60 @@
+{
+ "domain": "shein.com",
+ "url": "https://us.shein.com/Women-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html",
+ "idx": 5,
+ "at": "2026-11-09T12:39:18-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the page loaded but showed no product content, only meta tags)",
+   "retrieved_at": "2026-11-09T18:39:22+00:00",
+   "age_days": 0,
+   "cost_usd": 0.07097
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "success status but answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the reason (error, blocked, captcha, not allowed)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00122
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+   "price": 11.99,
+   "price_raw": "$11.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01177
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+   "price": 11.99,
+   "price_raw": "$11.99",
+   "stock": "UNKNOWN",
+   "opened": "NO: exact product page was not accessible",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00521
+  }
+ }
+}

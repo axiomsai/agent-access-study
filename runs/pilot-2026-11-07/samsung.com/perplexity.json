@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://samsung.com/kr",
+  "https://www.samsung.com/us/smartphones/galaxy-s26/",
+  "https://news.samsung.com/us/category/product/",
+  "https://samsung.com/us/smartphones/galaxy-s26-ultra/",
+  "http://samsung.com/us/apps/samsung-internet/",
+  "https://www.samsung.com/jp/assorted-sitemap.xml",
+  "https://news.samsung.com/global/category/products/feed",
+  "https://www.samsung.com/us/support/answer/ANS10002646/",
+  "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html",
+  "https://developer.samsung.com/browser/policy/url-blocklist.html"
+ ],
+ "cited_store": true,
+ "answer": "Samsung 대한민국 | 모바일 | TV | 가전 | IT [1]  \nGalaxy S26 [1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Samsung 대한민국 | 모바일 | TV | 가전 | IT [1]  \nGalaxy S26 [1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://samsung.com/kr",
+   "https://www.samsung.com/us/smartphones/galaxy-s26/",
+   "https://news.samsung.com/us/category/product/",
+   "https://samsung.com/us/smartphones/galaxy-s26-ultra/",
+   "http://samsung.com/us/apps/samsung-internet/",
+   "https://www.samsung.com/jp/assorted-sitemap.xml",
+   "https://news.samsung.com/global/category/products/feed",
+   "https://www.samsung.com/us/support/answer/ANS10002646/",
+   "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html",
+   "https://developer.samsung.com/browser/policy/url-blocklist.html"
+  ],
+  "created": 1794079581,
+  "id": "resp_c936724a-24cd-494d-a85d-b8d0ff7151b6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## 동영상 보기 레이어 팝업\n{Origin=https://www.samsung.com, country=sec, requestId=sec:1794030808:716191, num=20, client-type=web, Content-Type=application/json}",
+    "source": "web",
+    "title": "Samsung 대한민국 | 모바일 | TV | 가전 | IT",
+    "url": "https://samsung.com/kr"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Galaxy S26 | S26+\n...\n## DESIGN\n### See the details up close\nSamsung.com or in Samsung Experience Stores^^",
+    "source": "web",
+    "title": "Samsung Galaxy S26 & S26+ | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+   },
+   {
+    "date": "2026-11-06",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Product - Samsung US Newsroom\n# Product\n## Featured News\n...\n#### Samsung Launches The Freestyle+ AI Smart Projector\nFilter By Category",
+    "source": "web",
+    "title": "Product - Samsung US Newsroom",
+    "url": "https://news.samsung.com/us/category/product/"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Samsung Galaxy S26 Ultra | Galaxy AI | Samsung US\n...\nVisit samsung.com for details.",
+    "source": "web",
+    "title": "Samsung Galaxy S26 Ultra | Galaxy AI | Samsung US",
+    "url": "https://samsung.com/us/smartphones/galaxy-s26-ultra/"
+   },
+   {
+    "date": "2026-04-04",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Samsung Browser | Apps & Services | Samsung US\n...\n## Frequently Asked Questions\nSamsung Browser allows you to resume browsing across devices.",
+    "source": "web",
+    "title": "Samsung Browser | Apps & Services | Samsung US",
+    "url": "http://samsung.com/us/apps/samsung-internet/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "https://www.samsung.com/jp/en/samsung-galaxy-store/",
+    "source": "web",
+    "title": "assorted-sitemap.xml",
+    "url": "https://www.samsung.com/jp/assorted-sitemap.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "…\nSamsung account login required.\n...\nmax-height: 1em;\" />︎</a></li><li id=\"f49e5d09-8a0d-43c9-865d-d52b2bf37a9f\">Now Brief feature requires Samsung Account login.",
+    "source": "web",
+    "title": "Products – Samsung Global Newsroom",
+    "url": "https://news.samsung.com/global/category/products/feed"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Frequently asked questions about Samsung Browser\n## What is an error report?\nThe Browser app's team of developers strive to anticipate and fix any possible defects, but sometimes unpredictable errors occur.\nThrough the error report menu, you can send an email with a screenshot and device log to th...",
+    "source": "web",
+    "title": "Frequently asked questions about Samsung Browser",
+    "url": "https://www.samsung.com/us/support/answer/ANS10002646/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "## DeveloperToolsAvailabilityAllowlist\n*List of URL patterns for which Samsung Browser DevTools are allowed to be opened*\n**Supported on:**\n- Chrome (Windows) since version 147\n...\nThis policy can be used to allow Samsung Browser DevTools on specific URLs.\nURL patterns are matched against the URL of...",
+    "source": "web",
+    "title": "DeveloperToolsAvailabilityAllowl...",
+    "url": "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "## URLBlocklist\nSetting the URLBlocklist policy stops web pages with prohibited URLs from loading.\nAdministrators can specify the list of URL patterns to be blocked.\nIf left unset, no URLs are blocked in the browser.\nUp to 1,000 exceptions can be defined in URLAllowlist.\nNote: This policy does not a...",
+    "source": "web",
+    "title": "URLBlocklist",
+    "url": "https://developer.samsung.com/browser/policy/url-blocklist.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.0007,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00326
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 82
+  }
+ }
+}

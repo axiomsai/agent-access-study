@@ -1,0 +1,143 @@
+{
+ "model": "claude-opus-5-5",
+ "tool_called": true,
+ "tool_error": null,
+ "retrieved_at": "2026-11-12T00:06:24+00:00",
+ "age_days": 0,
+ "doc_chars": 6868,
+ "doc_markers": [],
+ "answer": "NAME: Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "input_tokens": 29948,
+ "cost_usd": 0.13279,
+ "raw": [
+  {
+   "id": "srvtoolu_01Pu8Fkp7d4YDMjoaqFMyT64",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0].get('title'),len(c))\n import re\n for k in ['$','Stock','stock','Add to Cart']:\n  for m in re.finditer(re.escape(k),c):print(k,'|',c[max(0,m.start()-80):m.start()+80].replace('\\n',' '));\n"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01VYhcvFM45iKkYL69xQUpMd",
+   "caller": {
+    "tool_id": "srvtoolu_01Pu8Fkp7d4YDMjoaqFMyT64",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01Pu8Fkp7d4YDMjoaqFMyT64",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | Costco Skip to Main Content While Supplies Last Online-Only Treasure Hunt What's New Member Favorites Recommendations for You Get Email Offers Customer Service US What's New While Supplies Last Get Email Offers Customer Service US Orders & Returns Cart Warehouses Cart Shop Appliances Baby Beauty Black Friday Clothing, Luggage & Handbags Computers Costco Direct Cyber Monday Electronics Floral & Gift Baskets Furniture Gift Cards & Tickets Grocery & Household Essentials Health & Personal Care Holiday & Seasonal Home & Installation Services Home & Kitchen Home Improvement Jewelry & Watches Mattresses Office Products Patio, Lawn & Garden Pet Supplies Special Events Sports & Fitness Tires & Auto Toys View More Categories Grocery Same Day Savings Business Delivery Optical Pharmacy Services Photo Travel Membership Locations Close Menu Type and press the down arrow to browse search suggestions ​ Orders & Returns Cart Warehouses Cart Shop Appliances Baby Beauty Black Friday Clothing, Luggage & Handbags Computers Costco Direct Cyber Monday Electronics Floral & Gift Baskets Furniture Gift Cards & Tickets Grocery & Household Essentials Health & Personal Care Holiday & Seasonal Home & Installation Services Home & Kitchen Home Improvement Jewelry & Watches Mattresses Office Products Patio, Lawn & Garden Pet Supplies Special Events Sports & Fitness Tires & Auto Toys View More Categories Grocery Same Day Savings Business Delivery Optical Pharmacy Services Photo Travel Membership Locations Close Menu Grocery Same Day Savings Business Delivery Optical Pharmacy Services Photo Travel Membership Locations Lists Buy Again Home / Appliances / Vacuums & Floor Cleaning / Stick & Handheld Vacuums Instant Savings Shop Shark Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro Item 7750815 | Model UZ815H Skip Images View More Images Compare How To Get It Warehouse Change My Warehouse Unavailable Finds Hidden Dirt & Boosts Suction Automatically Two Brushrolls Tackle Both Carpets and Hard Floors in One Pass Bends Flat Under Furniture — No Moving Couches, No Hassle LED Headlights Reveal Every Crumb & Pet Hair Removable Battery & 3 Attachments — Clean Every Surface, Charge Anywhere View Product Details Product Details WARNING: Cancer and Reproductive Harm. For more information go to: www.P65Warnings.ca.gov . Specifications Bin Capacity 0.68 L Brand Shark Cleaning Path Width 8.15 in. Color Blue Dimensions - Height 44.48 in. Dimensions - Length 13.66 in. Dimensions - Width 10.08 in. Features Adjustable Suction Features Bagless Features Cordless Features Headlight Features HEPA Filter Features Lightweight Features Pet Hair Model UZ815H Number of Attachments 3 Vacuum Type Stick Wattage 181 W Weight 8.3 lb Manuals & Guides Manufacturer’s Warranty Information Shipping & Returns Standard shipping is via UPS Ground. Express shipping is via UPS. Please choose your shipping method at checkout. An additional Shipping and Handling fee will apply to express shipments. This fee will be quoted at checkout. *Delivery is available to Alaska, Hawaii and Puerto Rico; however, an additional Shipping and Handling fee will apply. This fee will be quoted at checkout. Additional transit time may also be required. Costco.com products can be returned to any of our more than 800 Costco warehouses worldwide. Shop Confidently We are committed to offering the best value to our members, with a risk-free 100% satisfaction guarantee on your membership and merchandise with some exceptions and limitations *. If you have questions about your membership or products you've purchased at Costco, please visit the membership counter at your local Costco or Contact Customer Service . *Certain items are not available for return or refund or may have limitations on their eligibility for return or refund. View Costco's Return Policy . Costco Technical and Warranty Services for select electronics and consumer goods. For manufacturer warranty information, please contact us . How To Return Costco.com Orders Member Reviews Compare region updated 0 Get Email Offers Enter your email Go Enter your email * Find a Warehouse City, State, or Zip City, State, or Zip * Get Email Offers Enter your email Go Enter your email * Customer Service Get Help Find a Warehouse City, State, or Zip City, State, or Zip * Get Email Offers Enter your email Go Enter your email * About Us Get To Know Costco Charitable Contributions Company Information Sustainability Commitment Investor Relations Careers Kirkland Signature Logo and Media Requests The Costco Connection Digital Connection Quick & Easy Recipe Videos Employee Site Membership Membership Benefits Executive Member Benefits Join Now Member Privileges Executive Membership Terms Refer a Friend Sign In or Register Credit Card Vendors & Suppliers Vendor Inquiries Supply Chain Disclosure Ethics Hotline for Suppliers Supplier Inclusion Explore Our Brands Customer Service Costco Customer Service Costco Shop Card Balance Concierge Tech Support & Warranty Volume Sales: Export & Domestic Order Status Preventing Fraud Shipping Rebates Recalls & Product Notices Returns and Exchanges Returns Policy Accessibility Locations & Services Find a Warehouse Locations Coming Soon Hours and Holiday Closures Gasoline Hearing Aid Center Optical Special Events CostcoGrocery Grocery by Instacart Product Collections Select Country/Region: United States Canada United Kingdom Mexico South Korea Taiwan Japan Australia Iceland France Spain New Zealand Sweden About Us Get To Know Costco Charitable Contributions Company Information Sustainability Commitment Investor Relations Careers Kirkland Signature Logo and Media Requests The Costco Connection Digital Connection Quick & Easy Recipe Videos Employee Site Membership Membership Benefits Executive Member Benefits Join Now Member Privileges Executive Membership Terms Refer a Friend Sign In or Register Credit Card Vendors & Suppliers Vendor Inquiries Supply Chain Disclosure Ethics Hotline for Suppliers Supplier Inclusion Explore Our Brands Customer Service Costco Customer Service Costco Shop Card Balance Concierge Tech Support & Warranty Volume Sales: Export & Domestic Order Status Preventing Fraud Shipping Rebates Recalls & Product Notices Returns and Exchanges Returns Policy Accessibility Locations & Services Find a Warehouse Locations Coming Soon Hours and Holiday Closures Gasoline Hearing Aid Center Optical Special Events CostcoGrocery Grocery by Instacart Product Collections Site Map Terms and Conditions Your Privacy Rights CA Notice CA Social Compliance Your Privacy Choices Consumer Health Data Feedback © 1998 — 2026 Costco Wholesale Corporation. All rights reserved. Built At: 11/11/2026, 7:14:04 PM My Warehouse Set My Warehouse Delivery Location Set Delivery Location",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-12T00:06:24+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361"
+   },
+   "tool_use_id": "srvtoolu_01VYhcvFM45iKkYL69xQUpMd",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01Pu8Fkp7d4YDMjoaqFMyT64/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0].get('title'),len(c))\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01Pu8Fkp7d4YDMjoaqFMyT64",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01DxPCYj4p4ZZwb9L89pJtw6",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361\", \"retrieved_at\": \"2026-11-12T00:06:24+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | Costco Skip to Main Content While Supplies Last Online-Only Treasure Hunt What's New Member Favorites Recommendations for You Get Email Offers Customer Service US What's New While Supplies Last Get Email Offers Customer Service US Orders & Returns Cart Warehouses Cart Shop Appliances Baby Beauty Black Friday Clothing, Luggage & Handbags Computers Costco Direct Cyber Monday Electronics Floral & Gift Baskets Furniture Gift Cards & Tickets Grocery & Household Essentials Health & Personal Care Holiday & Seasonal Home & Installation Services Home & Kitchen Home Improvement Jewelry & Watches Mattresses Office Products Patio, Lawn & Garden Pet Supplies Special Events Sports & Fitness Tires & Auto Toys View More Categories Grocery Same Day Savings Business Delivery Optical Pharmacy Services Photo Travel Membership Locations Close Menu Type and press the down arrow to browse search suggestions \\u200b Orders & Returns Cart Warehouses Cart Shop Appliances Baby Beauty Black Friday Clothing, Luggage & Handbags Computers Costco Direct Cyber Monday Electronics Floral & Gift Baskets Furniture Gift Cards & Tickets Grocery & H\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01DxPCYj4p4ZZwb9L89pJtw6",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01Xfda94j65KfUhNFFBso4W7",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nc=json.loads(r)['content']['source']['data']\nfor k in ['$','tock','Add to Cart','Sold Out','Price']:\n  for m in re.finditer(re.escape(k),c):print(k,'|',c[max(0,m.start()-100):m.start()+100])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01Xfda94j65KfUhNFFBso4W7",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_019QFGKdANWzNpkPfg4fWTxo",
+   "caller": null,
+   "input": {
+    "code": "i=c.find('Shark Stratos',200);print(len(c));print(c[-2500:])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "6868\ne, or Zip City, State, or Zip * Get Email Offers Enter your email Go Enter your email * About Us Get To Know Costco Charitable Contributions Company Information Sustainability Commitment Investor Relations Careers Kirkland Signature Logo and Media Requests The Costco Connection Digital Connection Quick & Easy Recipe Videos Employee Site Membership Membership Benefits Executive Member Benefits Join Now Member Privileges Executive Membership Terms Refer a Friend Sign In or Register Credit Card Vendors & Suppliers Vendor Inquiries Supply Chain Disclosure Ethics Hotline for Suppliers Supplier Inclusion Explore Our Brands Customer Service Costco Customer Service Costco Shop Card Balance Concierge Tech Support & Warranty Volume Sales: Export & Domestic Order Status Preventing Fraud Shipping Rebates Recalls & Product Notices Returns and Exchanges Returns Policy Accessibility Locations & Services Find a Warehouse Locations Coming Soon Hours and Holiday Closures Gasoline Hearing Aid Center Optical Special Events CostcoGrocery Grocery by Instacart Product Collections Select Country/Region: United States Canada United Kingdom Mexico South Korea Taiwan Japan Australia Iceland France Spain New Zealand Sweden About Us Get To Know Costco Charitable Contributions Company Information Sustainability Commitment Investor Relations Careers Kirkland Signature Logo and Media Requests The Costco Connection Digital Connection Quick & Easy Recipe Videos Employee Site Membership Membership Benefits Executive Member Benefits Join Now Member Privileges Executive Membership Terms Refer a Friend Sign In or Register Credit Card Vendors & Suppliers Vendor Inquiries Supply Chain Disclosure Ethics Hotline for Suppliers Supplier Inclusion Explore Our Brands Customer Service Costco Customer Service Costco Shop Card Balance Concierge Tech Support & Warranty Volume Sales: Export & Domestic Order Status Preventing Fraud Shipping Rebates Recalls & Product Notices Returns and Exchanges Returns Policy Accessibility Locations & Services Find a Warehouse Locations Coming Soon Hours and Holiday Closures Gasoline Hearing Aid Center Optical Special Events CostcoGrocery Grocery by Instacart Product Collections Site Map Terms and Conditions Your Privacy Rights CA Notice CA Social Compliance Your Privacy Choices Consumer Health Data Feedback © 1998 — 2026 Costco Wholesale Corporation. All rights reserved. Built At: 11/11/2026, 7:14:04 PM My Warehouse Set My Warehouse Delivery Location Set Delivery Location\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019QFGKdANWzNpkPfg4fWTxo",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSvAUKEAgTGAI4AUIIdGhpbmtpbmcSDK3fnMbhntiANHLiahoMpWnvfMkgkKJj8b6lIjBGjUIoPdrz4n3s6hlY878nPft74q2RSmzizh8KOchyaC/wgR1jrOTq3O3+qcUZGtAq2QRmeUvcr/PkKS7UgrD5v1x8Y1JGhz6UriiixALqx8kdXXtdA8VDn6zBeXm9wr4DvMa1B0d/TpXJOAGontfaP67kLzckQ2G6vCuvJI5GRGFkkrxTz0U6vhchLox8hbIRC5SxXH3AhMxePmoM+D3bhDZJYrCoitIQHcWhDZjhLr3H9UG3FizSxL0UmruBvgn/sVHZz1vDkjFpf47K37MARgxKX8+FkaH280B/aNfdaJ4FLTxN8e0OCETWpr4zqufDRKMpXwcFfLtgCzAzciy6gaaKUb8OisEl2+Ys7qUcnYh3QVcfFDOErmebG0ju2RSDP7a98IjsDVAOREOojCjei4JQoIyiC/W5sEtlcV7zV+As6OGWT70GoigLCIEF0Uvduf7mtWW/50E6cUlJD3NIG//Km57NasoSXprLlwMczeJzYSEzK6t3gvlm57Hl05ZgthHObq598543bPfeIU5/DS91ePD4hb1Z70h1cLsPQ5Hz1mIzlCHzET+EHmFnuhdkLsWzQA41vrD+F87RhPShhwieNloaIaMjLWXuLNanecVkc9S247oDei3D0lwbNSCk8S+1jfey2kUniLan0dAOts3OH/Yd/3jHCJHYry47qFG8yhklt49sSsh/XSRBQjSjyMmtxwtR/9IULdnVmBivBdYbozFx4S53CH0W+aJe5DKTCE7quRVCIqeh2sWLo2geG6lWXcvZmj5ZDmzdMcoW3TLdizYjztkJQsgywSKvw0URg4fwlNe6a+Y1kEUOQfXL3f/tZt347nGZzSUpIayULARdYst+yqWYT1iNGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

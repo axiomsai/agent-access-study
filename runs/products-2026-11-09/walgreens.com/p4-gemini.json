@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Claritin 24 Hour Allergy Liqui-Gels 10 mg | PRICE: $20.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00042,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Claritin 24 Hour Allergy Liqui-Gels 10 mg | PRICE: $20.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TFC34tT3RHV01zadGRxlVSMUHXHiEyNixHP+WTnd1OmHkdopniT8YI622zfSOQqOZbcrOxi73B35mk0YXQ9RyE2rEfGvLpBi3Z8QYgWIhijbkE86dhE7NgrvBWyCFfMr/DbA6atcNmlbQZyYT"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 156,
+   "candidatesTokenCount": 97,
+   "totalTokenCount": 3943,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 156
+    }
+   ],
+   "toolUsePromptTokenCount": 3690,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3690
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "WBLyauKqD_6a6dkPvayKmA4"
+ }
+}

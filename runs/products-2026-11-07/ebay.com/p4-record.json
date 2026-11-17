@@ -1,0 +1,60 @@
+{
+ "domain": "ebay.com",
+ "url": "https://www.ebay.com/itm/168227853120",
+ "idx": 4,
+ "at": "2026-11-07T13:34:38-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "16426 chars, copy dated 2026-10-29 (8 days old)",
+   "parsed": true,
+   "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+   "price": 1007.1,
+   "price_raw": "$1,007.10",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-10-29T20:27:52+00:00",
+   "age_days": 8,
+   "cost_usd": 0.10298
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+   "price": 1119.0,
+   "price_raw": "$1,119.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00068
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+   "price": 1007.1,
+   "price_raw": "$1,007.10",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01233
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00513
+  }
+ }
+}

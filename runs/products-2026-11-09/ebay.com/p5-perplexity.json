@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/144387248424",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0",
+  "https://www.sandbox.ebay.com/sch/6028/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_dmd=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_All=1&_oac=1&LH_FR=0&_udlo=15&_udhi=75&LH_FS=0",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=98&LH_FR=0",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&_oac=1&_udhi=350&LH_FS=0&LH_BO=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4"
+ ],
+ "cited_store": true,
+ "answer": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,623.75 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/144387248424",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0",
+   "https://www.sandbox.ebay.com/sch/6028/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_dmd=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_All=1&_oac=1&LH_FR=0&_udlo=15&_udhi=75&LH_FS=0",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=98&LH_FR=0",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&_oac=1&_udhi=350&LH_FS=0&LH_BO=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4"
+  ],
+  "created": 1794248734,
+  "id": "resp_9d0c3f56-73c8-4cfd-bb05-65d19205ac05",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2022-06-09",
+    "last_updated": "2025-04-08",
+    "place_metadata": null,
+    "snippet": "# EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar GeneratorUS $1,623.75\n## WasUS $2,899.00(44% off) -US $1,275.25Item priceUS $1,623.75ShippingFREEEstimated totalUS $1,623.75*You save: US $1,275.25No Interest if paid in full in ...",
+    "source": "web",
+    "title": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay",
+    "url": "https://www.ebay.com/itm/144387248424"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(341) (341) Items",
+    "source": "web",
+    "title": "341 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- Buy It Now(13) (13) Items\nAccepts Offers",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_All=1&_udhi=35&LH_PrefLoc=1&LH_FS=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_ifpublisher | eBay\n- New(1,291) (1,291) Items\n...\n- All Listings(1,291) (1,291) Items\n...\n# 1,200+ results\n...\n- DUNLOP Sportmax Roadsmart III Tire Front 110/80R18 (58V) 45227886\nBrand New\n$125.00\nBuy It Now\n...\nFree returns\n- HUSQVARNA OEM FACTORY CLUTCH COVER OUTSIDE 813...",
+    "source": "web",
+    "title": "1,200+ results",
+    "url": "https://www.sandbox.ebay.com/sch/6028/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_dmd=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n- All Listings(312) (312) Items",
+    "source": "web",
+    "title": "312 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_All=1&_oac=1&LH_FR=0&_udlo=15&_udhi=75&LH_FS=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All** - Computers, Tablets & Network Hardware",
+    "source": "web",
+    "title": "97 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**",
+    "source": "web",
+    "title": "98 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=98&LH_FR=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- Buy It Now(14) (14) Items\nAccepts Offers\n# 14 results\n...\n- Buy It Now\n...\n- Under $15.00Remove filter\n- COIL VALVE T&P 12V DC\nBrand New\n$11.45\nBuy It Now\nFree shipping\n- SOLENOID COIL T&P 220V AC for C...",
+    "source": "web",
+    "title": "14 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_ecom_omni | eBay\n- - Computers/Tablets & Networking\n- **Enterprise Networking, Servers**\n# 8 results\n...\n- Buy It Now\n- Accepts Offers\n...\nor Best Offer\n...\n- Cisco Integrated 851 Secure Ethernet Router 6 Month Warranty | Cisco851/K9\nPre-Owned\n$139.31\nor Best Offer\nFree sh...",
+    "source": "web",
+    "title": "8 results",
+    "url": "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&_oac=1&_udhi=350&LH_FS=0&LH_BO=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Under $350.00Remove filter\n...\n- DIRECT DRIVER BLOWER MOTOR 115V 50/60HZ 1/4HP 1075RPM\nBrand New\n$150.80\nBuy It Now\nFree shipping\n- EBM W1G200-EC91-45 MOTOR FAN 220V 50/60HZ fo...",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 39,
+   "cost": {
+    "input_tokens_cost": 0.00128,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00402
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

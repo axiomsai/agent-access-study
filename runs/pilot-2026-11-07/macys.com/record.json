@@ -1,0 +1,47 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/",
+ "started": "2026-11-07T13:26:21-06:00",
+ "robots": {
+  "status": 403,
+  "error": null,
+  "rules": {}
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.macys.com/",
+  "bytes": 9893,
+  "error": null,
+  "title": "Access Denied - Macy's",
+  "markers": [
+   "access denied"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15346 chars, copy dated 2026-11-07 (0 days old)",
+   "answer": "I opened the page successfully.\n\n- **Page title:** Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n- **One category on the page:** TODAY'S DEALS",
+   "cost_usd": 0.06809
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Title:** Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\n**Product/Category Name:** Shoes",
+   "cost_usd": 0.0005
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nCategory: Women ([macys.com](https://www.macys.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nWomen’s Cotton Shirts & Tops",
+   "cost_usd": 0.00508
+  }
+ }
+}

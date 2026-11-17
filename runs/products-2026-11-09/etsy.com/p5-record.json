@@ -1,0 +1,60 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/listing/1736171915",
+ "idx": 5,
+ "at": "2026-11-09T12:24:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "18532 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "Personalized Ceramic Hand Painted Cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-09T18:25:03+00:00",
+   "age_days": 0,
+   "cost_usd": 0.20609
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Personalized ceramic hand painted cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00201
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Personalized ceramic hand painted cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01229
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Personalized ceramic hand painted cup",
+   "price": 35.0,
+   "price_raw": "$35.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

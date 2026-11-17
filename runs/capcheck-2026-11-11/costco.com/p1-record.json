@@ -1,0 +1,25 @@
+{
+ "domain": "costco.com",
+ "idx": 1,
+ "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15647,
+   "cost_usd": 0.06977
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "6868 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6868,
+   "input_tokens": 29948,
+   "cost_usd": 0.13279
+  }
+ }
+}

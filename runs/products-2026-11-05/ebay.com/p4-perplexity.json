@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_FS=0&LH_PrefLoc=98&LH_BOPIS=1&_sop=15&_oac=1&LH_BIN=1&LH_ItemCondition=3",
+  "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/58058/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1&_oac=1&LH_ItemCondition=3&LH_All=1&_sop=10",
+  "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1",
+  "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/26261/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_oac=1&LH_PrefLoc=1&_dmd=1&LH_BOPIS=1",
+  "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069623&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_FS=0&LH_PrefLoc=98&LH_BOPIS=1&_sop=15&_oac=1&LH_BIN=1&LH_ItemCondition=3",
+   "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/58058/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1&_oac=1&LH_ItemCondition=3&LH_All=1&_sop=10",
+   "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1",
+   "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/26261/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_oac=1&LH_PrefLoc=1&_dmd=1&LH_BOPIS=1",
+   "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069623&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2"
+  ],
+  "created": 1793906204,
+  "id": "resp_cdc3a286-e196-445d-9c46-6188d632fb50",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-17",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\n...\n# 446 results",
+    "source": "web",
+    "title": "446 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_FS=0&LH_PrefLoc=98&LH_BOPIS=1&_sop=15&_oac=1&LH_BIN=1&LH_ItemCondition=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(114) (114) Items\n...\n# 114 results\n- Under $25.00Remove filter",
+    "source": "web",
+    "title": "114 results",
+    "url": "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# 499 results\n- WATER VALVE INLET FOR SAMSUNG DD81-02265A DD82-01588A\nBrand New\n$23.47",
+    "source": "web",
+    "title": "499 results",
+    "url": "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-13",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nInclude description\n...\n# 42 results\n...\n- Fuhefree 15.6\" FHD Laptop Computer 5G WIFI AMD R7 7730U 8GB+512GB SSD Win11 NEW\nBrand New\n$400.00\n...\nSep-8 03:50\n...\n- Wired Mini Stereo Speakers RGB LED Light USB Powered for Desktop Laptop PC\nBrand New\n$12.89",
+    "source": "web",
+    "title": "42 results",
+    "url": "https://www.sandbox.ebay.com/sch/58058/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1&_oac=1&LH_ItemCondition=3&LH_All=1&_sop=10"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(13) (13) Items\n...\n# 13 results\n- THERMOCOUPLE UNIVERSAL KIT 1200MM SKL\nBrand New\n$14.87",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(15) (15) Items\nAccepts Offers\n# 15 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- INDICATOR LIGHT WHITE 230V",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_FS=1&LH_PrefLoc=1&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(115) (115) Items\n...\n# 115 results\n...\n- Buy It Now\n...\n- Under $35.00Remove filter\n...\n- BEARING SKF 6205 2RS C3\nBrand New\n$30.73\nBuy It Now\nFree shipping\n- BEARING SKF 6207 ZZ C3\nBrand New\n$28.37\n...\n- BEARING SKF 6001 2RS",
+    "source": "web",
+    "title": "115 results",
+    "url": "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(12) (12) Items\n...\n# 12 results\n...\n- Buy It Now\n...\n- Under $15.00Remove filter",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/26261/i.html?item=110591054673&_ssn=testuser_nomar_seller&_udhi=15&_oac=1&LH_PrefLoc=1&_dmd=1&LH_BOPIS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(292) (292) Items\n...\n# 292 results\n- Under $25.00Remove filter",
+    "source": "web",
+    "title": "292 results",
+    "url": "https://www.sandbox.ebay.com/sch/20710/i.html?item=110591069623&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(204) (204) Items\n...\n# 204 results\n- Under $20.00Remove filter",
+    "source": "web",
+    "title": "204 results",
+    "url": "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00105,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00374
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

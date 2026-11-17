@@ -1,0 +1,25 @@
+{
+ "domain": "temu.com",
+ "idx": 3,
+ "url": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "463 chars, copy dated 2026-10-09 (33 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product name, price or stock shown)",
+   "doc_chars": 463,
+   "input_tokens": 23233,
+   "cost_usd": 0.10459
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "463 chars, copy dated 2026-10-09 (33 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product details)",
+   "doc_chars": 463,
+   "input_tokens": 23111,
+   "cost_usd": 0.10244
+  }
+ }
+}

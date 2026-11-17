@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00073,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TBhBfAamukRPFv2AmLs6+7Ac0WcQG0ES6iK8UPIF2SBqdc7d7NKFIg0XdEbIIuiyYabH1MSz8NSomoG3nff1x3b+o3sgH7BQ1RJlRwX5b65mHvt7sVSsAG52VLIWc29tQwWPHEt26aZ2m0O/q"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 153,
+   "candidatesTokenCount": 94,
+   "totalTokenCount": 6993,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 153
+    }
+   ],
+   "toolUsePromptTokenCount": 6746,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 6746
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "QdjsaqSYMsSlmtkPtrDjyA8"
+ }
+}

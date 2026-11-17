@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "https://www.kroger.com/q/kroger+coffee+ground",
+  "https://www.kroger.com/q/coffee+ground",
+  "https://www.kroger.com/q/kroger+coffe",
+  "https://www.kroger.com/q/kroger+coffee",
+  "https://www.kroger.com/q/coffee",
+  "https://www.kroger.com/q/coff",
+  "https://www.kroger.com/q/eight+o+clock+coffee+whole+bean",
+  "https://www.kroger.com/q/kroger+brand+coffee",
+  "https://www.kroger.com/q/coffeea"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+   "https://www.kroger.com/q/kroger+coffee+ground",
+   "https://www.kroger.com/q/coffee+ground",
+   "https://www.kroger.com/q/kroger+coffe",
+   "https://www.kroger.com/q/kroger+coffee",
+   "https://www.kroger.com/q/coffee",
+   "https://www.kroger.com/q/coff",
+   "https://www.kroger.com/q/eight+o+clock+coffee+whole+bean",
+   "https://www.kroger.com/q/kroger+brand+coffee",
+   "https://www.kroger.com/q/coffeea"
+  ],
+  "created": 1793907683,
+  "id": "resp_7d5b5465-8062-4ca8-9954-2065194cf10d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "Kroger® Original Medium Roast Ground Coffee, 29 oz - Kroger\nat Harrisonburg\n...\n# Kroger® Original Medium Roast Ground Coffee\n4.33 118\nUPC: 0001111015000\nLocated in AISLE 10\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nSNAP EBT Eligible Item\nWe now accept SNAP EBT payments for pickup and...",
+    "source": "web",
+    "title": "Kroger® Original Medium Roast Ground Coffee, 29 oz",
+    "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27",
+    "source": "web",
+    "title": "kroger coffee ground",
+    "url": "https://www.kroger.com/q/kroger+coffee+ground"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nAvailable Offers",
+    "source": "web",
+    "title": "Coffee Ground - Kroger",
+    "url": "https://www.kroger.com/q/coffee+ground"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# kroger coffe\n## 402 results\n402 products loaded\nEveryday Low Price\n$14.49$14.49\n$0.50/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nLow Stock\nEveryday Low Price\n$14.49$14.49\n$0.50/oz\nKroger® Classic Blend Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nEveryday Low Price\n$14.49$14.49",
+    "source": "web",
+    "title": "kroger coffe",
+    "url": "https://www.kroger.com/q/kroger+coffe"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "## 456 results\n456 products loaded\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n$13.99$14.49Sale: $13.99 discounted from $14....",
+    "source": "web",
+    "title": "kroger coffee",
+    "url": "https://www.kroger.com/q/kroger+coffee"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# coffee\n## 755 results\n755 products loaded\n...\n### Kroger® Original Medium Roast Ground Coffee\nAisle 10\n$9.99$9.99\n$0.83/oz",
+    "source": "web",
+    "title": "coffee - Kroger",
+    "url": "https://www.kroger.com/q/coffee"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "$0.50/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\n$23.99$23.99\n$0.80/oz\n...\n12 ct",
+    "source": "web",
+    "title": "coff",
+    "url": "https://www.kroger.com/q/coff"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# eight o clock coffee whole bean\n## 299 results\n### Eight O'Clock Coffee™ Medium Roast Whole Bean Coffee - The Original",
+    "source": "web",
+    "title": "Eight O Clock Coffee Whole Bean - Kroger",
+    "url": "https://www.kroger.com/q/eight+o+clock+coffee+whole+bean"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "# kroger brand coffee\n## 404 results\n404 products loaded\n$13.99$14.49Sale: $13.99 discounted from $14.49\n$0.48/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\nSale\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n...\n$13.99$14.49Sale: $...",
+    "source": "web",
+    "title": "Kroger Brand Coffee",
+    "url": "https://www.kroger.com/q/kroger+brand+coffee"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Everyday Low Price\n$14.49$14.49\n$0.50/oz\nKroger® Original Medium Roast Ground Coffee\n29 oz\nSNAP EBT\nEveryday Low Price\n$14.49$14.49\n$0.60/oz",
+    "source": "web",
+    "title": "coffeea - Kroger",
+    "url": "https://www.kroger.com/q/coffeea"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.001,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00374
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

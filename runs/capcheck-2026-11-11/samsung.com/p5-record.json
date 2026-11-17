@@ -1,0 +1,25 @@
+{
+ "domain": "samsung.com",
+ "idx": 5,
+ "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "13389 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 1399.99,
+   "opened": "YES",
+   "doc_chars": 13389,
+   "input_tokens": 33620,
+   "cost_usd": 0.14796
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "13262 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 13262,
+   "input_tokens": 30962,
+   "cost_usd": 0.13503
+  }
+ }
+}

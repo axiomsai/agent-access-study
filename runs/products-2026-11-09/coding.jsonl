@@ -1,0 +1,800 @@
+{"key": "amazon.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: not allowed"}
+{"key": "amazon.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "amazon.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "amazon.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "amazon.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 4.83, "said_copy_age": "na", "quote": "PRICE: $4.83 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "amazon.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 4.83, "said_copy_age": "na", "quote": "PRICE: $4.83"}
+{"key": "amazon.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 5.68, "said_copy_age": "na", "quote": "OPENED: NO: blocked to exact page"}
+{"key": "amazon.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 5.68, "said_copy_age": "na", "quote": "OPENED: NO: blocked to exact page"}
+{"key": "amazon.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed"}
+{"key": "amazon.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "amazon.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "amazon.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "amazon.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "amazon.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "amazon.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 43.49, "said_copy_age": "na", "quote": "PRICE: $43.49"}
+{"key": "amazon.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 43.49, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "amazon.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed (my web tool refused this URL with \"url_not_allowed\")"}
+{"key": "amazon.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed"}
+{"key": "amazon.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the page was blocked"}
+{"key": "amazon.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page was blocked"}
+{"key": "amazon.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "amazon.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "amazon.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "amazon.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "amazon.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: not allowed"}
+{"key": "amazon.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "amazon.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "amazon.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "amazon.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (503 Service Unavailable)"}
+{"key": "amazon.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (503 Service Unavailable)"}
+{"key": "amazon.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 6.97, "said_copy_age": "na", "quote": "PRICE: $6.97"}
+{"key": "amazon.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 6.97, "said_copy_age": "na", "quote": "PRICE: $6.97 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "amazon.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed"}
+{"key": "amazon.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "amazon.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the URL is blocked"}
+{"key": "amazon.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: the URL is blocked"}
+{"key": "amazon.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 12.13, "said_copy_age": "na", "quote": "PRICE: $12.13 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "amazon.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 12.13, "said_copy_age": "na", "quote": "PRICE: $12.13"}
+{"key": "amazon.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 12.77, "said_copy_age": "na", "quote": "PRICE: $12.77"}
+{"key": "amazon.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 12.77, "said_copy_age": "na", "quote": "PRICE: $12.77 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walmart.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 269.0, "said_copy_age": "na", "quote": "PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 269, "said_copy_age": "na", "quote": "NAME: Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 269.0, "said_copy_age": "na", "quote": "PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 269.0, "said_copy_age": "na", "quote": "PRICE: $269.00"}
+{"key": "walmart.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 269.0, "said_copy_age": "na", "quote": "PRICE: $269.00"}
+{"key": "walmart.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 269, "said_copy_age": "na", "quote": "PRICE: $269.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walmart.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 89.0, "said_copy_age": "na", "quote": "NAME: Apple AirPods 4 | PRICE: $89.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 89, "said_copy_age": "na", "quote": "PRICE: $89.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walmart.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 121.0, "said_copy_age": "na", "quote": "PRICE: $121.00"}
+{"key": "walmart.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 121.0, "said_copy_age": "na", "quote": "PRICE: $121.00 | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "walmart.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walmart.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 199.0, "said_copy_age": "na", "quote": "PRICE: $199.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 199, "said_copy_age": "na", "quote": "NAME: Ninja SLUSHi 72-Oz Frozen Drink Machine with RapidChill Technology, 3 Presets, Dishwasher Safe, FS300 Gray | PRICE: $199.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walmart.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 199.0, "said_copy_age": "na", "quote": "PRICE: $199.00"}
+{"key": "walmart.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 199.0, "said_copy_age": "na", "quote": "PRICE: $199.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walmart.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "walmart.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 23.0, "said_copy_age": "na", "quote": "PRICE: $23.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 23, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "walmart.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "walmart.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walmart.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 23.0, "said_copy_age": "na", "quote": "PRICE: $23.00"}
+{"key": "walmart.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 23, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $23.00"}
+{"key": "walmart.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walmart.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 219.94, "said_copy_age": "na", "quote": "PRICE: $219.94 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walmart.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 219.94, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "walmart.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walmart.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walmart.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 219.94, "said_copy_age": "na", "quote": "PRICE: $219.94"}
+{"key": "walmart.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 219.94, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $219.94"}
+{"key": "temu.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "blocked (the page returned only an empty \"Temu\" shell with no product content)"}
+{"key": "temu.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "blocked (the page returned only an empty \"Temu\" shell with no product content)"}
+{"key": "temu.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page appears to be a general landing page or error page rather than a specific product details page."}
+{"key": "temu.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page appears to be a general landing page or error page rather than a specific product details page"}
+{"key": "temu.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 15.97, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page loaded only an empty \"Temu\" shell with no product content)"}
+{"key": "temu.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page loaded only an empty \"Temu\" shell with no product content)"}
+{"key": "temu.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 19.11, "said_copy_age": "na", "quote": "PRICE: $19.11 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "temu.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 19.11, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $19.11"}
+{"key": "temu.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "temu.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "temu.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error extracting the exact page"}
+{"key": "temu.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error extracting the exact page"}
+{"key": "temu.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "the page only shows the title \"Temu\""}
+{"key": "temu.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "the page loaded but was an empty shell with no product details"}
+{"key": "temu.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "The page content provided is a technical server response/redirect page rather than a product details page."}
+{"key": "temu.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "The page content provided is a technical server response/redirect page rather than a product details page."}
+{"key": "temu.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked"}
+{"key": "temu.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 42.94, "said_copy_age": "na", "quote": "OPENED: NO: exact product page was not accessible"}
+{"key": "temu.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 42.94, "said_copy_age": "na", "quote": "OPENED: NO: exact product page was not accessible"}
+{"key": "temu.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (the fetch tool rejected the URL as too long)"}
+{"key": "temu.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the fetch tool rejected the URL as too long)"}
+{"key": "temu.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page provided does not show product details"}
+{"key": "temu.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page provided does not show product details"}
+{"key": "temu.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked/captcha/no readable page"}
+{"key": "temu.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "blocked/captcha/no readable page"}
+{"key": "temu.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "temu.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "temu.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "the page returned only an empty \"Temu\" shell with no product content"}
+{"key": "temu.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page returned only an empty \"Temu\" shell with no product content)"}
+{"key": "temu.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "temu.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "temu.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NAME: NONE | PRICE: NONE"}
+{"key": "temu.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error, exact page details unavailable"}
+{"key": "temu.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error, exact page details unavailable"}
+{"key": "ebay.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 439.99, "said_copy_age": "n", "quote": "PRICE: $439.99"}
+{"key": "ebay.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 439.99, "said_copy_age": "n", "quote": "PRICE: $439.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 399.99, "said_copy_age": "na", "quote": "PRICE: $399.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 399.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "ebay.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 399.99, "said_copy_age": "na", "quote": "PRICE: $399.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 399.99, "said_copy_age": "na", "quote": "PRICE: $399.99"}
+{"key": "ebay.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "ebay.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "ebay.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "ebay.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "ebay.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 26.0, "said_copy_age": "na", "quote": "NAME: adidas men VL Court 3.0 Shoes | PRICE: $26.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 26, "said_copy_age": "na", "quote": "PRICE: $26.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 22.0, "said_copy_age": "na", "quote": "NAME: adidas men VL Court 3.0 Shoes | PRICE: $22.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "ebay.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 22.0, "said_copy_age": "na", "quote": "PRICE: $22.00"}
+{"key": "ebay.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "ebay.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "ebay.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 129.0, "said_copy_age": "n", "quote": "PRICE: $129.00"}
+{"key": "ebay.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 129.0, "said_copy_age": "n", "quote": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 129.0, "said_copy_age": "na", "quote": "PRICE: $129.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 129.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "ebay.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 129.0, "said_copy_age": "na", "quote": "PRICE: $129.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 129.0, "said_copy_age": "na", "quote": "PRICE: $129.00"}
+{"key": "ebay.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 129.0, "said_copy_age": "na", "quote": "PRICE: $129.00"}
+{"key": "ebay.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 129, "said_copy_age": "na", "quote": "PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "ebay.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 1007.1, "said_copy_age": "n", "quote": "PRICE: $1,007.10"}
+{"key": "ebay.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 1007.1, "said_copy_age": "n", "quote": "PRICE: $1,007.10 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1119.0, "said_copy_age": "na", "quote": "PRICE: $1,119.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1119.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "ebay.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1007.1, "said_copy_age": "na", "quote": "PRICE: $1,007.10 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1007.1, "said_copy_age": "na", "quote": "PRICE: $1,007.10"}
+{"key": "ebay.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked (page not accessible)"}
+{"key": "ebay.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "blocked (page not accessible)"}
+{"key": "ebay.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 1559.0, "said_copy_age": "n", "quote": "PRICE: $1,559.00"}
+{"key": "ebay.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 1559, "said_copy_age": "n", "quote": "PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1559.0, "said_copy_age": "na", "quote": "PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1559, "said_copy_age": "na", "quote": "PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1559, "said_copy_age": "na", "quote": "PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "ebay.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1559.0, "said_copy_age": "na", "quote": "PRICE: $1,559.00"}
+{"key": "ebay.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 1623.75, "said_copy_age": "na", "quote": "PRICE: $1,623.75"}
+{"key": "ebay.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 1623.75, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $1,623.75"}
+{"key": "etsy.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 118.0, "said_copy_age": "n", "quote": "PRICE: $118.00"}
+{"key": "etsy.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 118.0, "said_copy_age": "n", "quote": "PRICE: $118.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "etsy.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "PRICE: $106.20 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "etsy.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "PRICE: $106.20+ | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "PRICE: $106.20+"}
+{"key": "etsy.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "PRICE: $106.20"}
+{"key": "etsy.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 106.2, "said_copy_age": "na", "quote": "PRICE: $106.20 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "etsy.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 39.99, "said_copy_age": "n", "quote": "PRICE: $39.99"}
+{"key": "etsy.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 39.99, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "etsy.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 39.99, "said_copy_age": "na", "quote": "NAME: Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift | PRICE: $39.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 39.99, "said_copy_age": "na", "quote": "PRICE: $39.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 39.99, "said_copy_age": "na", "quote": "PRICE: $39.99+ | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 39.99, "said_copy_age": "na", "quote": "PRICE: $39.99+"}
+{"key": "etsy.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in search results"}
+{"key": "etsy.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in search results"}
+{"key": "etsy.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 125.0, "said_copy_age": "n", "quote": "PRICE: $125.00"}
+{"key": "etsy.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 125.0, "said_copy_age": "n", "quote": "NAME: Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate | PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 125.0, "said_copy_age": "na", "quote": "PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 125, "said_copy_age": "na", "quote": "PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 125.0, "said_copy_age": "na", "quote": "PRICE: $125.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 125.0, "said_copy_age": "na", "quote": "PRICE: $125.00"}
+{"key": "etsy.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked"}
+{"key": "etsy.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked"}
+{"key": "etsy.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 118.48, "said_copy_age": "n", "quote": "$118.48 (from the page's price metadata; no price was shown in the visible page text)"}
+{"key": "etsy.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 118.48, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "etsy.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 94.78, "said_copy_age": "na", "quote": "PRICE: $94.78 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 94.78, "said_copy_age": "na", "quote": "PRICE: $94.78 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 94.78, "said_copy_age": "na", "quote": "PRICE: $94.78+ | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "etsy.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 94.78, "said_copy_age": "na", "quote": "PRICE: $94.78+"}
+{"key": "etsy.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in results"}
+{"key": "etsy.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in results"}
+{"key": "etsy.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 48.0, "said_copy_age": "n", "quote": "PRICE: $48.00"}
+{"key": "etsy.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 48.0, "said_copy_age": "n", "quote": "PRICE: $48.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "etsy.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 48.0, "said_copy_age": "na", "quote": "NAME: Personalized ceramic hand painted cup | PRICE: $48.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 48, "said_copy_age": "na", "quote": "NAME: Personalized ceramic hand painted cup | PRICE: $48.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "etsy.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 48.0, "said_copy_age": "na", "quote": "NAME: Personalized ceramic hand painted cup | PRICE: $48.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "etsy.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 48.0, "said_copy_age": "na", "quote": "PRICE: $48.00"}
+{"key": "etsy.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 35.0, "said_copy_age": "na", "quote": "PRICE: $35.00"}
+{"key": "etsy.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 35, "said_copy_age": "na", "quote": "PRICE: $35.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 539.0, "said_copy_age": "n", "quote": "PRICE: $539.00"}
+{"key": "homedepot.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 539, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: $539.00"}
+{"key": "homedepot.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 519.0, "said_copy_age": "na", "quote": "NAME: Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash | PRICE: $519.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 519, "said_copy_age": "na", "quote": "NAME: Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash | PRICE: $519.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 519.0, "said_copy_age": "na", "quote": "PRICE: $519.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 519.0, "said_copy_age": "na", "quote": "PRICE: $519.00"}
+{"key": "homedepot.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 519.0, "said_copy_age": "na", "quote": "PRICE: $519.00"}
+{"key": "homedepot.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 519.0, "said_copy_age": "na", "quote": "PRICE: $519.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 269.0, "said_copy_age": "n", "quote": "PRICE: $269.00"}
+{"key": "homedepot.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 269.0, "said_copy_age": "n", "quote": "PRICE: $269.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 269.0, "said_copy_age": "na", "quote": "PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 269, "said_copy_age": "na", "quote": "PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 249.0, "said_copy_age": "na", "quote": "NAME: 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $249.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 249.0, "said_copy_age": "na", "quote": "PRICE: $249.00"}
+{"key": "homedepot.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 239.0, "said_copy_age": "na", "quote": "PRICE: $239.00"}
+{"key": "homedepot.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 239.0, "said_copy_age": "na", "quote": "PRICE: $239.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 159.0, "said_copy_age": "n", "quote": "PRICE: $159.00"}
+{"key": "homedepot.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 159.0, "said_copy_age": "n", "quote": "PRICE: $159.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 159.0, "said_copy_age": "na", "quote": "PRICE: $159.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 159.0, "said_copy_age": "na", "quote": "PRICE: $159.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 154.0, "said_copy_age": "na", "quote": "PRICE: $154.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 154.0, "said_copy_age": "na", "quote": "PRICE: $154.00"}
+{"key": "homedepot.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 169.0, "said_copy_age": "na", "quote": "PRICE: $169.00"}
+{"key": "homedepot.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 169, "said_copy_age": "na", "quote": "PRICE: $169.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 799.0, "said_copy_age": "n", "quote": "PRICE: $799.00"}
+{"key": "homedepot.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 799, "said_copy_age": "n", "quote": "PRICE: $799.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 949.0, "said_copy_age": "na", "quote": "PRICE: $949.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 949.0, "said_copy_age": "na", "quote": "NAME: HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote | PRICE: $949.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 949.0, "said_copy_age": "na", "quote": "PRICE: $949.00"}
+{"key": "homedepot.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 949.0, "said_copy_age": "na", "quote": "PRICE: $949.00"}
+{"key": "homedepot.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 949.0, "said_copy_age": "na", "quote": "PRICE: $949.00"}
+{"key": "homedepot.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 949, "said_copy_age": "na", "quote": "PRICE: $949.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 369.0, "said_copy_age": "n", "quote": "PRICE: $369.00"}
+{"key": "homedepot.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 369, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: $369.00"}
+{"key": "homedepot.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 379.0, "said_copy_age": "na", "quote": "PRICE: $379.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "homedepot.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 379.0, "said_copy_age": "na", "quote": "PRICE: $379.00 | OPENED: YES"}
+{"key": "homedepot.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 379.0, "said_copy_age": "na", "quote": "PRICE: $379.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "homedepot.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 379.0, "said_copy_age": "na", "quote": "PRICE: $379.00"}
+{"key": "homedepot.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 349.0, "said_copy_age": "na", "quote": "OPENED: NO: search result only, page not opened"}
+{"key": "homedepot.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 349.0, "said_copy_age": "na", "quote": "OPENED: NO: search result only, page not opened"}
+{"key": "target.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed"}
+{"key": "target.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "target.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 20, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "target.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00"}
+{"key": "target.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00"}
+{"key": "target.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "my web tool returned \"url_not_allowed\" for this Target page"}
+{"key": "target.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (my web tool returned \"url_not_allowed\" for this Target page)"}
+{"key": "target.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99"}
+{"key": "target.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99"}
+{"key": "target.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 9.99, "said_copy_age": "na", "quote": "PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: not allowed"}
+{"key": "target.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "target.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "PRICE: $15.99"}
+{"key": "target.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "PRICE: $15.99"}
+{"key": "target.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 15.99, "said_copy_age": "na", "quote": "PRICE: $15.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed (the fetch tool returned url_not_allowed)"}
+{"key": "target.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed"}
+{"key": "target.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "NAME: Athena Club Skin Perfecting Body Lotion - Bare Gold - 16 fl oz | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99"}
+{"key": "target.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99"}
+{"key": "target.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed (the fetch tool returned a \"url_not_allowed\" error)"}
+{"key": "target.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (the fetch tool returned a \"url_not_allowed\" error)"}
+{"key": "target.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 20, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "target.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00"}
+{"key": "target.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 20.0, "said_copy_age": "na", "quote": "PRICE: $20.00"}
+{"key": "target.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 20, "said_copy_age": "na", "quote": "PRICE: $20.00"}
+{"key": "lowes.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN"}
+{"key": "lowes.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "lowes.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1799.0, "said_copy_age": "na", "quote": "PRICE: $1,799.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1799.0, "said_copy_age": "na", "quote": "NAME: Samsung Bespoke AI Counter-Depth Sphere Ice 26-cu ft 3 -Door 36-in Wide French Door Refrigerator with Dual Ice Maker ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified | PRICE: $1,799.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1799.0, "said_copy_age": "na", "quote": "PRICE: $1,799.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1799.0, "said_copy_age": "na", "quote": "PRICE: $1,799.00"}
+{"key": "lowes.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "lowes.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "lowes.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 465.0, "said_copy_age": "n", "quote": "PRICE: $465.00"}
+{"key": "lowes.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 465, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "lowes.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "PRICE: $299.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $299.00"}
+{"key": "lowes.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "PRICE: $299.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "PRICE: $299.00"}
+{"key": "lowes.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "PRICE: $299.00"}
+{"key": "lowes.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 299.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "lowes.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN"}
+{"key": "lowes.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "lowes.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00 | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "lowes.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00"}
+{"key": "lowes.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00"}
+{"key": "lowes.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00"}
+{"key": "lowes.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "lowes.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 199.0, "said_copy_age": "n", "quote": "PRICE: $199.00"}
+{"key": "lowes.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 199.0, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "lowes.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "PRICE: $179.00"}
+{"key": "lowes.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "PRICE: $179.00"}
+{"key": "lowes.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "lowes.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "lowes.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "lowes.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 449.0, "said_copy_age": "na", "quote": "NAME: DEWALT 20-Volt 2-Pack Battery/charger (8 Ah 8 Ah) | PRICE: $449.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 449.0, "said_copy_age": "na", "quote": "PRICE: $449.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 449.0, "said_copy_age": "na", "quote": "PRICE: $449.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "lowes.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 449.0, "said_copy_age": "na", "quote": "PRICE: $449.00"}
+{"key": "lowes.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 449.0, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "lowes.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 449, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "cvs.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "cvs.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: NONE"}
+{"key": "cvs.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "cvs.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 8.99, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "cvs.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "the fetch tool returned \"url_not_accessible\", so the page didn't load"}
+{"key": "cvs.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the fetch tool returned \"url_not_accessible\", so the page didn't load)"}
+{"key": "cvs.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: DayQuil Intense Flu Rapid Release LiquiCaps, 24 CT | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "cvs.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "NAME: Gr\u00fcns Imm\u00fcn Daily Immunity Gummies, Sugar-Free, 12 Servings | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (timeout)"}
+{"key": "cvs.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (timeout)"}
+{"key": "cvs.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 23.99, "said_copy_age": "na", "quote": "PRICE: $23.99"}
+{"key": "cvs.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 23.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "cvs.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (the web tool couldn't access the page, \"url_not_accessible\")"}
+{"key": "cvs.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (the web tool couldn't access the page, \"url_not_accessible\")"}
+{"key": "cvs.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | OPENED: YES"}
+{"key": "cvs.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "cvs.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "cvs.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "cvs.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "cvs.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "cvs.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "PRICE: $10.99"}
+{"key": "cvs.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "PRICE: $10.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "bestbuy.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 325, "said_copy_age": "na", "quote": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue | PRICE: $325 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 325, "said_copy_age": "na", "quote": "PRICE: $325 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 579.0, "said_copy_age": "na", "quote": "PRICE: $579.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 579.0, "said_copy_age": "na", "quote": "PRICE: $579.00"}
+{"key": "bestbuy.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 259.99, "said_copy_age": "na", "quote": "PRICE: $259.99"}
+{"key": "bestbuy.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 259.99, "said_copy_age": "na", "quote": "PRICE: $259.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN"}
+{"key": "bestbuy.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 612.0, "said_copy_age": "na", "quote": "PRICE: $612.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 612.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "bestbuy.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 499.99, "said_copy_age": "na", "quote": "NAME: Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop ... | PRICE: $499.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 499.99, "said_copy_age": "na", "quote": "PRICE: $499.99"}
+{"key": "bestbuy.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 612, "said_copy_age": "na", "quote": "PRICE: $612"}
+{"key": "bestbuy.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 612, "said_copy_age": "na", "quote": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey | PRICE: $612 | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "bestbuy.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 49.99, "said_copy_age": "n", "quote": "PRICE: $49.99"}
+{"key": "bestbuy.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 49.99, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: $49.99"}
+{"key": "bestbuy.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 49.99, "said_copy_age": "na", "quote": "NAME: bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel | PRICE: $49.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 49.99, "said_copy_age": "na", "quote": "PRICE: $49.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 49.99, "said_copy_age": "na", "quote": "PRICE: $49.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 49.99, "said_copy_age": "na", "quote": "PRICE: $49.99"}
+{"key": "bestbuy.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "bestbuy.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "bestbuy.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "bestbuy.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 679.0, "said_copy_age": "na", "quote": "PRICE: $679.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 679, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $679.00"}
+{"key": "bestbuy.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 499.99, "said_copy_age": "na", "quote": "NAME: HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus ... | PRICE: $499.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 499.99, "said_copy_age": "na", "quote": "PRICE: $499.99"}
+{"key": "bestbuy.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 679.0, "said_copy_age": "na", "quote": "PRICE: $679.00"}
+{"key": "bestbuy.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 679.0, "said_copy_age": "na", "quote": "PRICE: $679.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "bestbuy.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 349, "said_copy_age": "n", "quote": "only metadata price 349."}
+{"key": "bestbuy.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "bestbuy.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "bestbuy.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "bestbuy.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "bestbuy.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "PRICE: $349.00"}
+{"key": "bestbuy.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 349.0, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "samsung.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "samsung.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: NONE"}
+{"key": "samsung.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "NAME: Galaxy S26 Ultra | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "samsung.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "PRICE: $1,199.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "samsung.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "PRICE: $1,199.99"}
+{"key": "samsung.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "PRICE: $1,199.99"}
+{"key": "samsung.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "samsung.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 1599.99, "said_copy_age": "n", "quote": "PRICE: $1,599.99"}
+{"key": "samsung.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 1599.99, "said_copy_age": "n", "quote": "PRICE: $1,599.99"}
+{"key": "samsung.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1899.99, "said_copy_age": "na", "quote": "NAME: Galaxy Z Fold8 | PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1899.99, "said_copy_age": "na", "quote": "PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1799.99, "said_copy_age": "na", "quote": "PRICE: $1,799.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1799.99, "said_copy_age": "na", "quote": "PRICE: $1,799.99"}
+{"key": "samsung.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 1899.99, "said_copy_age": "na", "quote": "PRICE: $1,899.99"}
+{"key": "samsung.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 1899.99, "said_copy_age": "na", "quote": "PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "samsung.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "samsung.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 2299.99, "said_copy_age": "na", "quote": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 2299.99, "said_copy_age": "na", "quote": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "samsung.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "samsung.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "samsung.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 2299.99, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "samsung.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 1199.99, "said_copy_age": "n", "quote": "PRICE: $1,199.99"}
+{"key": "samsung.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 1199.99, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "samsung.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "samsung.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "samsung.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1199.99, "said_copy_age": "na", "quote": "PRICE: $1,199.99"}
+{"key": "samsung.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 1249.99, "said_copy_age": "na", "quote": "PRICE: $1,249.99"}
+{"key": "samsung.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 1249.99, "said_copy_age": "na", "quote": "PRICE: $1,249.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 1399.99, "said_copy_age": "n", "quote": "PRICE: $1,399.99"}
+{"key": "samsung.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 1399.99, "said_copy_age": "n", "quote": "PRICE: $1,399.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "samsung.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "NAME: Galaxy Tab S12 Ultra | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "samsung.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "PRICE: $1,399.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "samsung.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "PRICE: $1,399.99"}
+{"key": "samsung.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "PRICE: $1,399.99"}
+{"key": "samsung.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 1399.99, "said_copy_age": "na", "quote": "PRICE: $1,399.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 7.79, "said_copy_age": "na", "quote": "PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 7.79, "said_copy_age": "na", "quote": "PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 7.79, "said_copy_age": "na", "quote": "PRICE: $7.79"}
+{"key": "walgreens.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 7.79, "said_copy_age": "na", "quote": "PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "walgreens.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 4.99, "said_copy_age": "na", "quote": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea | PRICE: $4.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 4.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "walgreens.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 4.99, "said_copy_age": "na", "quote": "NO: blocked"}
+{"key": "walgreens.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 4.99, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "walgreens.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "walgreens.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked/403 Forbidden"}
+{"key": "walgreens.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked/403 Forbidden"}
+{"key": "walgreens.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99"}
+{"key": "walgreens.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: NONE"}
+{"key": "walgreens.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 20.99, "said_copy_age": "na", "quote": "NAME: Claritin 24 Hour Allergy Liqui-Gels 10 mg | PRICE: $20.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 20.99, "said_copy_age": "na", "quote": "PRICE: $20.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 24.99, "said_copy_age": "na", "quote": "the exact product page was not opened by the web tool"}
+{"key": "walgreens.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 24.99, "said_copy_age": "na", "quote": "NO: the exact product page was not opened by the web tool"}
+{"key": "walgreens.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 19.99, "said_copy_age": "na", "quote": "NAME: Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea | PRICE: $19.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 19.99, "said_copy_age": "na", "quote": "PRICE: $19.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "walgreens.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "walgreens.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "walgreens.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 19.99, "said_copy_age": "na", "quote": "PRICE: $19.99"}
+{"key": "walgreens.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 19.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "costco.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "costco.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "costco.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: IN STOCK | OPENED: YES"}
+{"key": "costco.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | OPENED: YES"}
+{"key": "costco.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "costco.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (the fetch tool said the URL was not accessible)"}
+{"key": "costco.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the fetch tool said the URL was not accessible)"}
+{"key": "costco.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "costco.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "costco.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "costco.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (url_not_accessible)"}
+{"key": "costco.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (url_not_accessible)"}
+{"key": "costco.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "costco.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "price and stock were not shown in the page results"}
+{"key": "costco.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: price and stock were not shown in the page results"}
+{"key": "costco.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "costco.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: IN STOCK | OPENED: YES"}
+{"key": "costco.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: IN STOCK | OPENED: YES"}
+{"key": "costco.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | OPENED: YES"}
+{"key": "costco.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (url_not_accessible)"}
+{"key": "costco.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (url_not_accessible)"}
+{"key": "costco.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "costco.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "costco.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "costco.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "costco.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked"}
+{"key": "shein.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (the web tool refused the link because the URL is too long)"}
+{"key": "shein.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (the web tool refused the link because the URL is too long)"}
+{"key": "shein.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 2.76, "said_copy_age": "na", "quote": "NAME: 1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy | PRICE: $2.76 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "shein.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 2.76, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "shein.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 2.76, "said_copy_age": "na", "quote": "PRICE: $2.76 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "shein.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 2.76, "said_copy_age": "na", "quote": "PRICE: $2.76"}
+{"key": "shein.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": 2.76, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "shein.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 2.76, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "shein.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (url_too_long, the web tool refused the URL because it is too long)"}
+{"key": "shein.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (url_too_long, the web tool refused the URL because it is too long)"}
+{"key": "shein.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked, captcha, not allowed)"}
+{"key": "shein.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked, captcha, not allowed)"}
+{"key": "shein.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 3.9, "said_copy_age": "na", "quote": "PRICE: $3.90 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "shein.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 3.9, "said_copy_age": "na", "quote": "PRICE: $3.90"}
+{"key": "shein.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "shein.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 3.9, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "shein.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "the fetch returned only an empty page shell with no product name, price or stock"}
+{"key": "shein.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the fetch returned only an empty page shell with no product name, price or stock)"}
+{"key": "shein.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: The page is not accessible."}
+{"key": "shein.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "The page is not accessible."}
+{"key": "shein.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 8.89, "said_copy_age": "na", "quote": "PRICE: $8.89 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "shein.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 8.89, "said_copy_age": "na", "quote": "PRICE: $8.89"}
+{"key": "shein.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 7.99, "said_copy_age": "na", "quote": "PRICE: $7.99"}
+{"key": "shein.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 7.99, "said_copy_age": "na", "quote": "PRICE: $7.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "shein.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page returned only an empty shell with no product content)"}
+{"key": "shein.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page returned only an empty shell with no product content)"}
+{"key": "shein.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the page is blocked by a security challenge/captcha"}
+{"key": "shein.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the page is blocked by a security challenge/captcha"}
+{"key": "shein.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 48.0, "said_copy_age": "na", "quote": "PRICE: $48.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "shein.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 48.0, "said_copy_age": "na", "quote": "PRICE: $48.00"}
+{"key": "shein.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in results"}
+{"key": "shein.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in results"}
+{"key": "shein.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked (the page loaded but showed no product content, only meta tags)"}
+{"key": "shein.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "n", "quote": "OPENED: NO: blocked (the page loaded but showed no product content, only meta tags)"}
+{"key": "shein.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (error, blocked, captcha, not allowed)"}
+{"key": "shein.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the reason (error, blocked, captcha, not allowed)"}
+{"key": "shein.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "NAME: Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort | PRICE: $11.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "shein.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99"}
+{"key": "shein.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 11.99, "said_copy_age": "na", "quote": "OPENED: NO: exact product page was not accessible"}
+{"key": "shein.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 11.99, "said_copy_age": "na", "quote": "OPENED: NO: exact product page was not accessible"}
+{"key": "wayfair.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 619.99, "said_copy_age": "na", "quote": "PRICE: $619.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 619.99, "said_copy_age": "na", "quote": "PRICE: $619.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 619.99, "said_copy_age": "na", "quote": "PRICE: $619.99"}
+{"key": "wayfair.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 619.99, "said_copy_age": "na", "quote": "PRICE: $619.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "wayfair.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 899.0, "said_copy_age": "na", "quote": "PRICE: $899.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 899, "said_copy_age": "na", "quote": "PRICE: $899.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 629.3, "said_copy_age": "na", "quote": "PRICE: $629.30 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 629.3, "said_copy_age": "na", "quote": "PRICE: $629.30"}
+{"key": "wayfair.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 899.0, "said_copy_age": "na", "quote": "PRICE: $899.00"}
+{"key": "wayfair.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 899, "said_copy_age": "na", "quote": "PRICE: $899.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 179.0, "said_copy_age": "na", "quote": "NAME: Iago Outdoor Umbrella | PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 179, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $179.00"}
+{"key": "wayfair.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "NAME: Iago Outdoor Umbrella | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 185.0, "said_copy_age": "na", "quote": "PRICE: $185.00"}
+{"key": "wayfair.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 185.0, "said_copy_age": "na", "quote": "PRICE: $185.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "wayfair.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 254.3, "said_copy_age": "na", "quote": "NAME: Johnavan 32\" Handmade Wreath | PRICE: $254.30 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 254.3, "said_copy_age": "na", "quote": "PRICE: $254.30 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 273.1, "said_copy_age": "na", "quote": "PRICE: $273.10"}
+{"key": "wayfair.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 273.1, "said_copy_age": "na", "quote": "PRICE: $273.10 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "wayfair.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "wayfair.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 99.99, "said_copy_age": "na", "quote": "NAME: Mahler 42\" W Console Table | PRICE: $99.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 99.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "wayfair.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 107.99, "said_copy_age": "na", "quote": "NAME: Mahler 42 \" W Console Table | PRICE: $107.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "wayfair.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 107.99, "said_copy_age": "na", "quote": "PRICE: $107.99"}
+{"key": "wayfair.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": 107.99, "said_copy_age": "na", "quote": "OPENED: NO: error (exact product page not accessed)"}
+{"key": "wayfair.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": 107.99, "said_copy_age": "na", "quote": "OPENED: NO: error (exact product page not accessed)"}
+{"key": "macys.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "macys.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "macys.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 175.0, "said_copy_age": "na", "quote": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 175, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "macys.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 175.0, "said_copy_age": "na", "quote": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "macys.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 175.0, "said_copy_age": "na", "quote": "PRICE: $175.00"}
+{"key": "macys.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "macys.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "macys.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "macys.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "macys.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 145.0, "said_copy_age": "na", "quote": "NAME: Lanc\u00f4me 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypn\u00f4se Drama Mascara Gift Set | PRICE: $145.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 145, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "macys.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 145.0, "said_copy_age": "na", "quote": "NAME: Lanc\u00f4me 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypn\u00f4se Drama Mascara Gift Set | PRICE: $145.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "macys.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 145.0, "said_copy_age": "na", "quote": "PRICE: $145.00"}
+{"key": "macys.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "macys.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "macys.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "macys.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "macys.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 310.0, "said_copy_age": "na", "quote": "PRICE: $310.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 310, "said_copy_age": "na", "quote": "PRICE: $310.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 310.0, "said_copy_age": "na", "quote": "PRICE: $310.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "macys.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 310.0, "said_copy_age": "na", "quote": "PRICE: $310.00"}
+{"key": "macys.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 170.0, "said_copy_age": "na", "quote": "PRICE: $170.00"}
+{"key": "macys.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 170, "said_copy_age": "na", "quote": "exact product page content unavailable"}
+{"key": "macys.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "macys.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "macys.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 157.25, "said_copy_age": "na", "quote": "PRICE: $157.25 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 157.25, "said_copy_age": "na", "quote": "PRICE: $157.25 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 185.0, "said_copy_age": "na", "quote": "PRICE: $185.00"}
+{"key": "macys.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 185.0, "said_copy_age": "na", "quote": "PRICE: $185.00"}
+{"key": "macys.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "macys.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "macys.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "PRICE: NONE"}
+{"key": "macys.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "blind_to_price", "price_given": null, "said_copy_age": "n", "quote": "OPENED: YES | PRICE: NONE"}
+{"key": "macys.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 34.0, "said_copy_age": "na", "quote": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 34, "said_copy_age": "na", "quote": "PRICE: $34.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "macys.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 34.0, "said_copy_age": "na", "quote": "NAME: Sol de Janeiro 3-Piece Bum Bum Jet Set | PRICE: $34.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "macys.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 34.0, "said_copy_age": "na", "quote": "PRICE: $34.00"}
+{"key": "macys.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": 34.0, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "macys.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": 34.0, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (the web tool returned the url_not_allowed error)"}
+{"key": "aliexpress.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (the web tool returned the url_not_allowed error)"}
+{"key": "aliexpress.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "aliexpress.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "aliexpress.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "aliexpress.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "aliexpress.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "page not found in available results"}
+{"key": "aliexpress.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found in available results"}
+{"key": "aliexpress.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "the web tool refused this URL with error \"url_not_allowed\""}
+{"key": "aliexpress.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (the web tool refused this URL with error \"url_not_allowed\")"}
+{"key": "aliexpress.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the page is blocked"}
+{"key": "aliexpress.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NO: the page is blocked"}
+{"key": "aliexpress.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked (redirected to login cookie sync page)"}
+{"key": "aliexpress.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked (redirected to login cookie sync page)"}
+{"key": "aliexpress.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found"}
+{"key": "aliexpress.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page not found"}
+{"key": "aliexpress.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "aliexpress.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed"}
+{"key": "aliexpress.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the page is blocked"}
+{"key": "aliexpress.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the page is blocked"}
+{"key": "aliexpress.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked (login redirect/error)"}
+{"key": "aliexpress.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "NO: blocked (login redirect/error)"}
+{"key": "aliexpress.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page content unavailable for the exact URL"}
+{"key": "aliexpress.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: page content unavailable for the exact URL"}
+{"key": "aliexpress.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed (my web tool refused this URL with a url_not_allowed error)"}
+{"key": "aliexpress.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (my web tool refused this URL with a url_not_allowed error)"}
+{"key": "aliexpress.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "aliexpress.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "aliexpress.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "not allowed (the fetch tool returned the error \"url_not_allowed\")"}
+{"key": "aliexpress.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: not allowed (the fetch tool returned the error \"url_not_allowed\")"}
+{"key": "aliexpress.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: blocked"}
+{"key": "aliexpress.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "page content unavailable; exact product details could not be verified"}
+{"key": "aliexpress.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "page content unavailable; exact product details could not be verified"}
+{"key": "gap.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 53.0, "said_copy_age": "n", "quote": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 53, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "gap.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 53.0, "said_copy_age": "na", "quote": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 53, "said_copy_age": "na", "quote": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "gap.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 53.0, "said_copy_age": "na", "quote": "PRICE: $53.00"}
+{"key": "gap.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 53, "said_copy_age": "na", "quote": "PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 69.95, "said_copy_age": "n", "quote": "PRICE: $69.95"}
+{"key": "gap.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 69.95, "said_copy_age": "n", "quote": "OPENED: YES"}
+{"key": "gap.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "PRICE: $69.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "PRICE: $69.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "PRICE: $69.95"}
+{"key": "gap.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "PRICE: $69.95"}
+{"key": "gap.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 69.95, "said_copy_age": "na", "quote": "PRICE: $69.95 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 94.0, "said_copy_age": "n", "quote": "PRICE: $94.00"}
+{"key": "gap.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 94, "said_copy_age": "n", "quote": "PRICE: $94.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 94.0, "said_copy_age": "na", "quote": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $94.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 94.0, "said_copy_age": "na", "quote": "PRICE: $94.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 94.0, "said_copy_age": "na", "quote": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $94.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 94.0, "said_copy_age": "na", "quote": "PRICE: $94.00"}
+{"key": "gap.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 59.0, "said_copy_age": "na", "quote": "PRICE: $59.00"}
+{"key": "gap.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 59, "said_copy_age": "na", "quote": "PRICE: $59.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 17.0, "said_copy_age": "n", "quote": "PRICE: $17.00"}
+{"key": "gap.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 17, "said_copy_age": "n", "quote": "PRICE: $17.00 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 17.0, "said_copy_age": "na", "quote": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 17, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "gap.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 17.0, "said_copy_age": "na", "quote": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 17.0, "said_copy_age": "na", "quote": "PRICE: $17.00"}
+{"key": "gap.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error finding the exact product page"}
+{"key": "gap.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error finding the exact product page"}
+{"key": "gap.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 79.95, "said_copy_age": "n", "quote": "PRICE: $79.95"}
+{"key": "gap.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 79.95, "said_copy_age": "n", "quote": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 79.95, "said_copy_age": "na", "quote": "PRICE: $79.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 79.95, "said_copy_age": "na", "quote": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "gap.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "gap.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "blind_to_price", "price_given": null, "said_copy_age": "na", "quote": "PRICE: NONE"}
+{"key": "gap.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 79.95, "said_copy_age": "na", "quote": "PRICE: $79.95"}
+{"key": "gap.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 79.95, "said_copy_age": "na", "quote": "PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "depop.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "the fetch tool returned \"url_not_accessible\""}
+{"key": "depop.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the fetch tool returned \"url_not_accessible\")"}
+{"key": "depop.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the request was blocked by the website"}
+{"key": "depop.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "the request was blocked by the website"}
+{"key": "depop.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 6.0, "said_copy_age": "na", "quote": "PRICE: $6.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "depop.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 6.0, "said_copy_age": "na", "quote": "PRICE: $6.00"}
+{"key": "depop.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "depop.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "depop.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the web tool returned url_not_accessible)"}
+{"key": "depop.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the web tool returned url_not_accessible)"}
+{"key": "depop.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "The website is blocking access to this page."}
+{"key": "depop.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "The website is blocking access to this page."}
+{"key": "depop.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 4.0, "said_copy_age": "na", "quote": "PRICE: $4.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "depop.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 4.0, "said_copy_age": "na", "quote": "PRICE: $4.00"}
+{"key": "depop.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "depop.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "depop.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "error (the URL could not be accessed)"}
+{"key": "depop.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the URL could not be accessed)"}
+{"key": "depop.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "depop.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the reason (blocked)"}
+{"key": "depop.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 9.0, "said_copy_age": "na", "quote": "PRICE: $9.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "depop.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 9.0, "said_copy_age": "na", "quote": "PRICE: $9.00"}
+{"key": "depop.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "depop.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error"}
+{"key": "depop.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "the fetch failed with \"url_not_accessible\", so the page never loaded"}
+{"key": "depop.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (the fetch failed with \"url_not_accessible\", so the page never loaded)"}
+{"key": "depop.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: the website blocked access"}
+{"key": "depop.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "shell_or_challenge", "price_given": null, "said_copy_age": "na", "quote": "the website blocked access"}
+{"key": "depop.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 6.0, "said_copy_age": "na", "quote": "PRICE: $6.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "depop.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 6.0, "said_copy_age": "na", "quote": "PRICE: $6.00"}
+{"key": "depop.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "depop.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "depop.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error (url_not_accessible)"}
+{"key": "depop.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "NO: error (url_not_accessible)"}
+{"key": "depop.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: The website is inaccessible due to access restrictions."}
+{"key": "depop.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "The website is inaccessible due to access restrictions."}
+{"key": "depop.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 15.0, "said_copy_age": "na", "quote": "PRICE: $15.00 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "depop.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 15.0, "said_copy_age": "na", "quote": "PRICE: $15.00"}
+{"key": "depop.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "depop.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "kroger.com|1|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 12.99, "said_copy_age": "n", "quote": "PRICE: $12.99"}
+{"key": "kroger.com|1|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 12.99, "said_copy_age": "n", "quote": "NAME: Maxwell House Original Roast Ground Coffee, Canister, 27.5 OZ | PRICE: $12.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|1|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 12.99, "said_copy_age": "na", "quote": "NAME: Maxwell House Original Roast Ground Coffee, Canister | PRICE: $12.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|1|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 12.99, "said_copy_age": "na", "quote": "PRICE: $12.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|1|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 12.99, "said_copy_age": "na", "quote": "PRICE: $12.99 | STOCK: UNKNOWN | OPENED: YES"}
+{"key": "kroger.com|1|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 12.99, "said_copy_age": "na", "quote": "PRICE: $12.99"}
+{"key": "kroger.com|1|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 15.49, "said_copy_age": "na", "quote": "PRICE: $15.49"}
+{"key": "kroger.com|1|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 15.49, "said_copy_age": "na", "quote": "PRICE: $15.49 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|2|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 13.99, "said_copy_age": "n", "quote": "PRICE: $13.99"}
+{"key": "kroger.com|2|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 13.99, "said_copy_age": "n", "quote": "PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|2|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "NAME: Death Wish Coffee Co.\u00ae Medium Roast Ground Coffee | PRICE: $10.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|2|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "kroger.com|2|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "PRICE: $10.99 | STOCK: OUT OF STOCK | OPENED: YES"}
+{"key": "kroger.com|2|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 10.99, "said_copy_age": "na", "quote": "PRICE: $10.99"}
+{"key": "kroger.com|2|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 13.99, "said_copy_age": "na", "quote": "PRICE: $13.99"}
+{"key": "kroger.com|2|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 13.99, "said_copy_age": "na", "quote": "NAME: Death Wish Coffee Co.\u00ae Medium Roast Ground Coffee | PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|3|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 10.99, "said_copy_age": "n", "quote": "PRICE: $10.99"}
+{"key": "kroger.com|3|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 10.99, "said_copy_age": "n", "quote": "PRICE: $10.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|3|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "NAME: Dunkin' Original Blend Medium Roast Ground Coffee | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|3|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|3|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|3|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99"}
+{"key": "kroger.com|3|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99"}
+{"key": "kroger.com|3|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 11.99, "said_copy_age": "na", "quote": "PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|4|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 16.99, "said_copy_age": "n", "quote": "PRICE: $16.99"}
+{"key": "kroger.com|4|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 16.99, "said_copy_age": "n", "quote": "PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|4|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "NAME: FOLGERS 25.9 OUNCE CLASSIC ROAST Each | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|4|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "OPENED: YES | PRICE: $16.99"}
+{"key": "kroger.com|4|openai", "fetcher": "openai", "coder": "claude", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|4|openai", "fetcher": "openai", "coder": "gemini", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99"}
+{"key": "kroger.com|4|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "PRICE: $16.99"}
+{"key": "kroger.com|4|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 16.99, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "kroger.com|5|claude", "fetcher": "claude", "coder": "gemini", "access": "opened", "price_given": 14.49, "said_copy_age": "n", "quote": "PRICE: $14.49"}
+{"key": "kroger.com|5|claude", "fetcher": "claude", "coder": "gpt", "access": "opened", "price_given": 14.49, "said_copy_age": "n", "quote": "PRICE: $14.49 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|5|gemini", "fetcher": "gemini", "coder": "claude", "access": "opened", "price_given": 14.49, "said_copy_age": "na", "quote": "NAME: Kroger\u00ae Original Medium Roast Ground Coffee | PRICE: $14.49 | STOCK: IN STOCK | OPENED: YES"}
+{"key": "kroger.com|5|gemini", "fetcher": "gemini", "coder": "gpt", "access": "opened", "price_given": 14.49, "said_copy_age": "na", "quote": "OPENED: YES"}
+{"key": "kroger.com|5|openai", "fetcher": "openai", "coder": "claude", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "kroger.com|5|openai", "fetcher": "openai", "coder": "gemini", "access": "refused_or_error", "price_given": null, "said_copy_age": "na", "quote": "OPENED: NO: error"}
+{"key": "kroger.com|5|perplexity", "fetcher": "perplexity", "coder": "gemini", "access": "opened", "price_given": 13.99, "said_copy_age": "na", "quote": "PRICE: $13.99"}
+{"key": "kroger.com|5|perplexity", "fetcher": "perplexity", "coder": "gpt", "access": "opened", "price_given": 13.99, "said_copy_age": "na", "quote": "PRICE: $13.99 | STOCK: IN STOCK | OPENED: YES"}

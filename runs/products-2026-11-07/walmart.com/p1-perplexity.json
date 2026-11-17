@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/ip/Galaxy-Tab-A11/18089905174",
+  "https://www.walmart.com/browse/electronics/android-tablets/3944_1078524_1231200",
+  "https://www.walmart.com/?itemId=17062107676",
+  "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-64GB-4GB-RAM-GRAY/19132403534",
+  "https://business.walmart.com/browse/technology/samsung-galaxy-tablets/4306450_8821761_8292784",
+  "https://www.walmart.com/browse/electronics/galaxy-tab-a/3944_1089430_1078524_4108882_6070789_4766972",
+  "https://www.walmart.com/browse/electronics/all-samsung-tablets/restored/3944_1078524_3119922_4108882_5771291/b2ZmZXJfY29uZGl0aW9uX2dyb3VwX2NvZGVzX2ZpbHRlcl92MDpSZXN0b3JlZAieie",
+  "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-2025-64GB-4GB-RAM-Brand-New-8-7-inch-TFT-LCD-Display-Wi-Fi-Globally-Compatible-Tablet-International-Version-SM-X133/17981657425",
+  "https://www.walmart.com/browse/electronics/all-tablets/3944_1078524_1078084?facet=brand:onn&povid=ETS_D72_TABLETS_NA_BRWS_Tablets-iPads-Samsung_Onn_Tablets",
+  "https://business.walmart.com/ip/Pre-Owned-Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/20046104328?conditionGroupCode=3"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/ip/Galaxy-Tab-A11/18089905174",
+   "https://www.walmart.com/browse/electronics/android-tablets/3944_1078524_1231200",
+   "https://www.walmart.com/?itemId=17062107676",
+   "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-64GB-4GB-RAM-GRAY/19132403534",
+   "https://business.walmart.com/browse/technology/samsung-galaxy-tablets/4306450_8821761_8292784",
+   "https://www.walmart.com/browse/electronics/galaxy-tab-a/3944_1089430_1078524_4108882_6070789_4766972",
+   "https://www.walmart.com/browse/electronics/all-samsung-tablets/restored/3944_1078524_3119922_4108882_5771291/b2ZmZXJfY29uZGl0aW9uX2dyb3VwX2NvZGVzX2ZpbHRlcl92MDpSZXN0b3JlZAieie",
+   "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-2025-64GB-4GB-RAM-Brand-New-8-7-inch-TFT-LCD-Display-Wi-Fi-Globally-Compatible-Tablet-International-Version-SM-X133/17981657425",
+   "https://www.walmart.com/browse/electronics/all-tablets/3944_1078524_1078084?facet=brand:onn&povid=ETS_D72_TABLETS_NA_BRWS_Tablets-iPads-Samsung_Onn_Tablets",
+   "https://business.walmart.com/ip/Pre-Owned-Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/20046104328?conditionGroupCode=3"
+  ],
+  "created": 1794079870,
+  "id": "resp_926c51da-151e-4f23-8649-dcee8394eaeb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver - Walmart.com\n- $0.00\n...\n# Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n4.6 out of 5 stars\n(4.6)\n3,334 ratings\nSamsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, SilverSamsung Galaxy Tab A11 Wide...",
+    "source": "web",
+    "title": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16 ...",
+    "url": "https://www.walmart.com/ip/Galaxy-Tab-A11/18089905174"
+   },
+   {
+    "date": "2026-09-14",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### Only at Walmart, Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver, Price $269.00 Options from $199.00\nOptions\nPrice $269.00 Options from $199.00\n$26900Options from $199.00\nSamsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n...\nDelivery as soon as 13 minsFree...",
+    "source": "web",
+    "title": "Android Tablets for All Ages and Uses - Walmart.com",
+    "url": "https://www.walmart.com/browse/electronics/android-tablets/3944_1078524_1231200"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Discover Great Brands\n- ### Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver, Price $269.00\nOptions\nPrice $269.00\n$26900\nSamsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\nGet as soon as 13 mins",
+    "source": "web",
+    "title": "Save Money. Live better.",
+    "url": "https://www.walmart.com/?itemId=17062107676"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Samsung Galaxy Tab A11 2026 (64GB) 8.7\" Wi-Fi Only International Model X133\n...\nCurrent price is USD$129.00\n...\n### In 200+ people's carts, Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver $269.00\nIn 200+ people's carts\n$26900\ncurrent price $269.00\nFrom $240.00\n### Samsung Gala...",
+    "source": "web",
+    "title": "Samsung Galaxy Tab A11 2026 (64GB) 8.7\" Wi-Fi Only International ...",
+    "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-64GB-4GB-RAM-GRAY/19132403534"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Samsung Galaxy Tablets - Premium Business Tools for Success (200)\nBRAND NEW Samsung Galaxy Tab A11 (2025) 64GB + 4GB RAM -| Wi-Fi Only | Globally Compatible Tablet | International Version | SM-X133\nBuy more and saveBRAND NEW Samsung Galaxy Tab A11 (2025) 64GB + 4GB RAM -| Wi-Fi Only | Globally Com...",
+    "source": "web",
+    "title": "Samsung Galaxy Tablets - Premium Business Tools for Success",
+    "url": "https://business.walmart.com/browse/technology/samsung-galaxy-tablets/4306450_8821761_8292784"
+   },
+   {
+    "date": "2026-08-10",
+    "last_updated": "2026-08-10",
+    "place_metadata": null,
+    "snippet": "# Samsung Galaxy Tab A Tablets by Model\n...\nPrice when purchased online\n### Overall pick Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver Options from $242.00\nOptions\nFrom$24200\n### Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n4.6 out of 5 Stars.\n2306 revi...",
+    "source": "web",
+    "title": "Galaxy Tab A - Walmart",
+    "url": "https://www.walmart.com/browse/electronics/galaxy-tab-a/3944_1089430_1078524_4108882_6070789_4766972"
+   },
+   {
+    "date": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "# Restored All Samsung Tablets in Samsung Tablets\nUses item details.\nPrice when purchased online\n### Overall pick Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\nOptions\nSponsored\n$26900Options from $193.00\nSamsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n4.6...",
+    "source": "web",
+    "title": "Restored Shop Samsung Tablets & Galaxy Tab Models",
+    "url": "https://www.walmart.com/browse/electronics/all-samsung-tablets/restored/3944_1078524_3119922_4108882_5771291/b2ZmZXJfY29uZGl0aW9uX2dyb3VwX2NvZGVzX2ZpbHRlcl92MDpSZXN0b3JlZAieie"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "Samsung Galaxy Tab A11 (2025) 64GB + 4GB RAM - Brand New | 8.7” inch TFT LCD Display | Wi-Fi Only | Globally Compatible Tablet | International Version | SM-X133 - Walmart.com\n...\n# Samsung Galaxy Tab A11 (2025) 64GB + 4GB RAM - Brand New | 8.7” inch TFT LCD Display | Wi-Fi Only | Globally Compatible...",
+    "source": "web",
+    "title": "Samsung Galaxy Tab A11 (2025) 64GB + 4GB RAM - Brand New",
+    "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-2025-64GB-4GB-RAM-Brand-New-8-7-inch-TFT-LCD-Display-Wi-Fi-Globally-Compatible-Tablet-International-Version-SM-X133/17981657425"
+   },
+   {
+    "date": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "place_metadata": null,
+    "snippet": "### Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver, $269.00\n** Add\n$26900\ncurrent price $269.00\n### Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n4.6 out of 5 stars\n28134.6 out of 5 Stars.\n2813 reviews",
+    "source": "web",
+    "title": "10 Inch Tablets & Tablet PCs(45)",
+    "url": "https://www.walmart.com/browse/electronics/all-tablets/3944_1078524_1078084?facet=brand:onn&povid=ETS_D72_TABLETS_NA_BRWS_Tablets-iPads-Samsung_Onn_Tablets"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-10",
+    "place_metadata": null,
+    "snippet": "Pre-Owned Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver - Walmart Business Supplies\n- **$0.00\n...\n# Pre-Owned Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver\n...\n- **Memory and storage that keep up.** With up to 8GB of memory and 256GB. of storage, Galaxy ...",
+    "source": "web",
+    "title": "Pre-Owned Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB ...",
+    "url": "https://business.walmart.com/ip/Pre-Owned-Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/20046104328?conditionGroupCode=3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 39,
+   "cost": {
+    "input_tokens_cost": 0.00174,
+    "output_tokens_cost": 0.00029,
+    "request_cost": 0.0025,
+    "total_cost": 0.00453
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 175
+  }
+ }
+}

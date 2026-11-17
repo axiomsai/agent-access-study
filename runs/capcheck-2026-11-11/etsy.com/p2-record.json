@@ -1,0 +1,25 @@
+{
+ "domain": "etsy.com",
+ "idx": 2,
+ "url": "https://www.etsy.com/listing/1145741800",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "18670 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 39.99,
+   "opened": "YES",
+   "doc_chars": 18670,
+   "input_tokens": 23260,
+   "cost_usd": 0.10188
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "36794 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 39.99,
+   "opened": "YES",
+   "doc_chars": 36794,
+   "input_tokens": 23119,
+   "cost_usd": 0.10074
+  }
+ }
+}

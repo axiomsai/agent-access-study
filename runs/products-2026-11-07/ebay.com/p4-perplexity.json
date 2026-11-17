@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_ipg=192&_dmd=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/116026/i.html?_ssn=testuser_nomar_seller&_udlo=25&_udhi=45&_oac=1&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_udhi=350&LH_FS=0&_oac=1&_pgn=3&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/181939/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_FS=1&LH_PrefLoc=1&_ipg=25",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_PrefLoc=98&_dmd=1&_pgn=2",
+  "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_All=1&_oac=1&_udhi=25&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591054673&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_PrefLoc=2&LH_BOPIS=1&_dmd=2"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_ipg=192&_dmd=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/116026/i.html?_ssn=testuser_nomar_seller&_udlo=25&_udhi=45&_oac=1&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_udhi=350&LH_FS=0&_oac=1&_pgn=3&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/181939/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_FS=1&LH_PrefLoc=1&_ipg=25",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_PrefLoc=98&_dmd=1&_pgn=2",
+   "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_All=1&_oac=1&_udhi=25&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591054673&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_PrefLoc=2&LH_BOPIS=1&_dmd=2"
+  ],
+  "created": 1794080096,
+  "id": "resp_47cab67c-7637-47b6-af01-df60d3ff1fcc",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 2,600+ results\nFree shipping\n- BEZZERA 7702319 SOLENOID VALVE 3 WAYS 220-230V 50/60Hz\n...\n$132.70",
+    "source": "web",
+    "title": "2,600+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_ipg=192&_dmd=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- START KIT RELAY FOR COMPRESSOR EMBRACO 1/5HP 220V 50/60HZ\nBrand New\n$21.02\nBuy It Now",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(112) (112) Items\n...\n# 112 results\n...\n- Buy It Now\n...\n- PLASTIC ECCENTRIC ESSEDUE ø 56 mm essaff0040",
+    "source": "web",
+    "title": "112 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- All Listings(12) (12) Items\n...\n# 12 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/116026/i.html?_ssn=testuser_nomar_seller&_udlo=25&_udhi=45&_oac=1&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 2,500+ results\n- BELT MULTIGRIP TB2 330 H12 6 GROOVES for ASCASO BOSCH - BALAY BOSCH - SIEMENS",
+    "source": "web",
+    "title": "2,500+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&_udhi=350&LH_FS=0&_oac=1&_pgn=3&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(11) (11) Items\nBuy It Now(11) (11) Items\nAccepts Offers\n# 11 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- THERMOCOUPLE UNIVERSAL M8x1 600MM\nBrand New\n$15.37\nBuy It Now\nFree shipping\n- THERMOCOUPLE UNIVERSAL M8x1\nBr...",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/181939/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_FS=1&LH_PrefLoc=1&_ipg=25"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(62) (62) Items\nAccepts Offers\n# 62 results\n...\n- Buy It Now\n...\n- Under $20.00Remove filter\n- OVAL RUN CAPACITOR 15 MFD 370 V\nBrand New\n$16.14\nBuy It Now\nFree shipping\n- OVAL RUN CAPACITOR 30 MFD 370 V\nBrand New\n$16.86\n...\n- CAPACITOR ...",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_PrefLoc=98&_dmd=1&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(12) (12) Items\n...\n# 12 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/299/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_All=1&_oac=1&_udhi=25&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- Buy It Now(14) (14) Items\nAccepts Offers\n# 14 results\n...\n- Buy It Now\n...\n- Under $15.00Remove filter\n- COIL VALVE T&P 12V DC\nBrand New\n$11.45\n...\nFree shipping\n- SOLENOID COIL T&P 220V AC for COMENDA",
+    "source": "web",
+    "title": "14 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(114) (114) Items",
+    "source": "web",
+    "title": "114 results",
+    "url": "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591054673&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_PrefLoc=2&LH_BOPIS=1&_dmd=2"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00115,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00384
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

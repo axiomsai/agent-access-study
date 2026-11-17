@@ -1,0 +1,104 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/",
+ "started": "2026-11-09T12:18:45-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.cvs.com/",
+  "bytes": 365,
+  "error": null,
+  "title": "Access Denied",
+  "markers": [
+   "access denied"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "answer": "I couldn't open https://www.cvs.com/. My web tool returned an error with the code **`url_not_accessible`**.\n\nThe error doesn't give a reason, so I can't tell whether the site blocked the request, showed a captcha, or failed for some other reason. Because no page content came back, I can't report the",
+   "cost_usd": 0.06598
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\n**Product or Category Name:** Pharmacy",
+   "cost_usd": 0.00119
+  },
+  "openai": {
+   "verdict": "served_thin",
+   "why": "opened a shell page: 403 forbidden",
+   "answer": "Blocked: 403 Forbidden.",
+   "cost_usd": 0.01123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\nCough, Cold & Flu",
+   "cost_usd": 0.00508
+  }
+ }
+}

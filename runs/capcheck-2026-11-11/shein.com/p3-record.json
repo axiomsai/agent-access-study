@@ -1,0 +1,25 @@
+{
+ "domain": "shein.com",
+ "idx": 3,
+ "url": "https://us.shein.com/Autumn-Thanksgiving-Thankful-Printing-Drop-Shoulder-Casual-White-Graphic-Sweatshirt-Chenille-Yarn-Sportwear-Customized-Christian-SchoolGift-Winter-p-570542332.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded but showed no product content, only an empty page)",
+   "doc_chars": 135,
+   "input_tokens": 15964,
+   "cost_usd": 0.0707
+  },
+  "B_uncapped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded but showed no product content)",
+   "doc_chars": 135,
+   "input_tokens": 15950,
+   "cost_usd": 0.07234
+  }
+ }
+}

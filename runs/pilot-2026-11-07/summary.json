@@ -1,0 +1,1933 @@
+[
+ {
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "ClaudeBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Google-Extended": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.amazon.com/",
+   "bytes": 2167,
+   "error": null,
+   "title": "&nbsp;",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "836 chars, copy dated 2025-09-21 (412 days old)",
+    "answer": "I opened the page, but the web tool returned no title. The title field was empty (`null`), so I can't tell you what the page's title is.\n\nOne product shown on the page: **\"The Things We Do for Love: A Novel\"**, listed under \"The latest listens.\"",
+    "cost_usd": 0.06738
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "answer": "Blocked",
+    "cost_usd": 3e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "answer": "Title: Amazon.com  \nOne visible name: none — the page was blocked by a robot verification prompt requiring JavaScript.",
+    "cost_usd": 0.01128
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "answer": "I cannot open it: not allowed.",
+    "cost_usd": 0.00506
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.walmart.com/",
+   "bytes": 399938,
+   "error": null,
+   "title": "Walmart | Save Money. Live better.",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "12776 chars, copy dated 2026-10-27 (11 days old)",
+    "answer": "I opened the page without any error, block or captcha.\n\n- **Page title:** Walmart | Save Money. Live better.\n- **One product/category name on the page:** Walmart+ (shown as a link in the page header)",
+    "cost_usd": 0.09883
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Title: Walmart | Save Money. Live better.\nProduct/Category: Toys",
+    "cost_usd": 0.00012
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Walmart | Save Money. Live better.  \nCategory name: Grocery",
+    "cost_usd": 0.01187
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Walmart | Save Money. Live better. — Bedding, decor & more[2]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "url": "https://www.temu.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.temu.com/",
+   "bytes": 309497,
+   "error": null,
+   "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry &amp; More",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "546 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page, but almost nothing came through besides the title.\n\n**Page title:** \"Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\"\n\n**Product or category name:** None appeared in the page content. The fetch returned only the page's metadata and title. The body was empty apart ",
+    "cost_usd": 0.12636
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+    "cost_usd": 0.00018
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More  \nClothing ([temu.com](https://www.temu.com/))",
+    "cost_usd": 0.01129
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More — Clothing",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.ebay.com/",
+   "bytes": 1739,
+   "error": null,
+   "title": "Error Page | eBay",
+   "markers": [],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "13390 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened https://www.ebay.com/ without any errors, blocks or captcha.\n\n- **Page title:** Electronics, Cars, Fashion, Collectibles & More | eBay. The fetch didn't return a separate title field, so this comes from the page's `og:title` tag.\n- **One category I can see on the page:** Brand Outlet, a lin",
+    "cost_usd": 0.09788
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page title: Electronics, Cars, Fashion, Collectibles & More | eBay\n\nProduct/Category name: Sneakers",
+    "cost_usd": 0.00049
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay  \nOne category name: Electronics ([ebay.com](https://www.ebay.com/))",
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "answer": "I cannot open it: search results did not provide the page itself.",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.etsy.com/",
+   "bytes": 776,
+   "error": null,
+   "title": "etsy.com",
+   "markers": [
+    "captcha"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "12708 chars, copy dated 2026-10-27 (11 days old)",
+    "answer": "I opened the page successfully.\n\n- **Page title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n- **One category on the page:** Home Favorites",
+    "cost_usd": 0.0974
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\n**Product or Category Name:** Holiday Decor",
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone  \nCategory/product name: Gifts ([etsy.com](https://www.etsy.com/))",
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone; Everyday Accessories[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/",
+  "started": "2026-11-07T13:25:45-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.homedepot.com/",
+   "bytes": 371,
+   "error": null,
+   "title": "Access Denied",
+   "markers": [
+    "access denied"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "14212 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page.\n\n- **Page title:** The Home Depot\n- **Category on the page:** Appliances",
+    "cost_usd": 0.06724
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Title:** The Home Depot\n**Product/Category Name:** Appliances",
+    "cost_usd": 0.00039
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: The Home Depot. One category name: Appliances.",
+    "cost_usd": 0.01226
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "The Home Depot — Appliances[1]",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "url": "https://www.target.com/",
+  "started": "2026-11-07T13:26:00-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.target.com/",
+   "bytes": 399896,
+   "error": null,
+   "title": "Target : Expect More. Pay Less.",
+   "markers": [
+    "captcha"
+   ],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "411 chars, copy dated 2025-09-21 (412 days old)",
+    "answer": "I opened https://www.target.com/ successfully. It wasn't blocked and there was no captcha.\n\n- **Page title:** The tool didn't return one (it came back empty), so I can't tell you the title.\n- **Category name on the page:** \"bed & bath\"",
+    "cost_usd": 0.0665
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** Target : Expect More. Pay Less.\n\n**Category Name:** Toys & Games",
+    "cost_usd": 0.00041
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Target : Expect More. Pay Less.  \nOne product/category name: Christmas ([target.com](https://www.target.com/))",
+    "cost_usd": 0.01228
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Target : Expect More. Pay Less. — Homepage[1]  \nProduct/category: Clothing, Shoes & Accessories[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "url": "https://www.lowes.com/",
+  "started": "2026-11-07T13:26:00-06:00",
+  "robots": {
+   "status": 403,
+   "error": null,
+   "rules": {}
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.lowes.com/",
+   "bytes": 323309,
+   "error": null,
+   "title": "Lowe’s Home Improvement",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "4886 chars, copy dated 2026-11-06 (0 days old)",
+    "answer": "I opened the page without any errors, blocks or captchas.\n\n- **Page title:** Lowe's Home Improvement\n- **Category on the page:** Appliances",
+    "cost_usd": 0.09649
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+    "cost_usd": 0.0004
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Lowe’s Home Improvement. ([lowes.com](https://www.lowes.com/))\n\nProduct/category name: Appliances. ([lowes.com](https://www.lowes.com/))",
+    "cost_usd": 0.0121
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Lowe’s Home Improvement — Lawn & Garden Hand Tools[1]",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "url": "https://www.cvs.com/",
+  "started": "2026-11-07T13:26:03-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.cvs.com/",
+   "bytes": 365,
+   "error": null,
+   "title": "Access Denied",
+   "markers": [
+    "access denied"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "answer": "I couldn't open the page. When I fetched https://www.cvs.com/, the tool returned this error: `web_fetch_tool_result_error` with error code `url_not_accessible`.\n\nThe error doesn't say why the site couldn't be reached. It doesn't specify whether CVS blocked the request, showed a captcha or had some o",
+    "cost_usd": 0.06662
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\n**Product/Category Name:** Pharmacy",
+    "cost_usd": 0.00119
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "answer": "Cannot open it: **Internal Error — timeout fetching**.",
+    "cost_usd": 0.01124
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Protein Powders[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/",
+  "started": "2026-11-07T13:26:04-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": null,
+   "final_url": null,
+   "bytes": null,
+   "error": "TimeoutError: The read operation timed out",
+   "title": null,
+   "markers": [],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15522 chars, copy dated 2026-10-27 (11 days old)",
+    "answer": "The page opened without an error, block or captcha.\n\n- **Page title:** Best Buy | Official Online Store | Shop Now & Save\n- **Category name on the page:** TV & Home Theater",
+    "cost_usd": 0.09552
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page Title: Best Buy | Official Online Store | Shop Now & Save\nProduct/Category: TV & Home Theater",
+    "cost_usd": 0.00082
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Best Buy | Official Online Store | Shop Now & Save  \nComputers & Tablets ([bestbuy.com](https://www.bestbuy.com/))",
+    "cost_usd": 0.01229
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Best Buy | Official Online Store | Shop Now & Save  \nSoundbars",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/",
+  "started": "2026-11-07T13:26:04-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.samsung.com/us/",
+   "bytes": 398496,
+   "error": null,
+   "title": "Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "17722 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page. It redirected to the US site (https://www.samsung.com/us/).\n\n- **Page title:** \"Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US\"\n- **Product on the page:** Galaxy S26 Ultra",
+    "cost_usd": 0.09515
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\n\n**Product Name:** Galaxy S26 Ultra",
+    "cost_usd": 0.00044
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US  \nProduct/category: Galaxy Smartphone ([samsung.com](https://www.samsung.com/us/))",
+    "cost_usd": 0.01182
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Samsung 대한민국 | 모바일 | TV | 가전 | IT [1]  \nGalaxy S26 [1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/",
+  "started": "2026-11-07T13:26:06-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.walgreens.com/",
+   "bytes": 365929,
+   "error": null,
+   "title": "Walgreens: Pharmacy, Health &amp; Wellness, Photo &amp; More for You",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16333 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page.\n\n- **Title:** Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n- **Category on the page:** Pharmacy",
+    "cost_usd": 0.06785
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\nProduct/Category Name: Grocery & Beverages",
+    "cost_usd": 0.00058
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You  \nOne product/category name: Beauty ([walgreens.com](https://www.walgreens.com/))",
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Grocery & Beverages[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/",
+  "started": "2026-11-07T13:26:15-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.costco.com/",
+   "bytes": 399998,
+   "error": null,
+   "title": "Welcome to Costco Wholesale",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "4549 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page.\n\n- **Page title:** Welcome to Costco Wholesale\n- **Category on the page:** Appliances",
+    "cost_usd": 0.06698
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Title: Welcome to Costco Wholesale\nProduct/Category: Appliances",
+    "cost_usd": 0.00021
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Costco Homepage  \nCategory name: Electronics",
+    "cost_usd": 0.01211
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Welcome to Costco Wholesale — Appliances",
+    "cost_usd": 0.00506
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://www.shein.com/",
+  "started": "2026-11-07T13:26:18-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://us.shein.com/?cdn_rsite=cf&ref=www&rep=dir&ret=us",
+   "bytes": 398196,
+   "error": null,
+   "title": "Women&#39;s Clothing, Women Fashion Sale | SHEIN USA",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "13491 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page. It redirected to the US site, https://us.shein.com/.\n\n- **Page title:** Women's Clothing, Women Fashion Sale | SHEIN USA\n- **One category on the page:** \"New In\"",
+    "cost_usd": 0.06828
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page Title: SHEIN USA: Women's Clothing, Women Fashion Sale\nProduct/Category Name: Dresses",
+    "cost_usd": 0.00024
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Women’s Clothing, Women Fashion Sale | SHEIN USA  \nCategory: Women",
+    "cost_usd": 0.0115
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Women's & Men's Clothing, Shop Online Fashion | SHEIN — Women Tops, Blouses & Tee[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/",
+  "started": "2026-11-07T13:26:21-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 429,
+   "final_url": "https://www.wayfair.com/",
+   "bytes": 5825,
+   "error": null,
+   "title": "Access to this page has been denied",
+   "markers": [
+    "captcha",
+    "press & hold",
+    "perimeterx",
+    "px-captcha"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15615 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page without any error, block or captcha.\n\n- **Page title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n- **Category on the page:** Furniture",
+    "cost_usd": 0.12512
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Page Title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\n**Product/Category Name:** Sofas",
+    "cost_usd": 0.00077
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nProduct/category name: Furniture ([wayfair.com](https://www.wayfair.com/))",
+    "cost_usd": 0.01196
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nFurniture",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/",
+  "started": "2026-11-07T13:26:21-06:00",
+  "robots": {
+   "status": 403,
+   "error": null,
+   "rules": {}
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.macys.com/",
+   "bytes": 9893,
+   "error": null,
+   "title": "Access Denied - Macy's",
+   "markers": [
+    "access denied"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15346 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page successfully.\n\n- **Page title:** Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n- **One category on the page:** TODAY'S DEALS",
+    "cost_usd": 0.06809
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "**Title:** Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\n**Product/Category Name:** Shoes",
+    "cost_usd": 0.0005
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nCategory: Women ([macys.com](https://www.macys.com/))",
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nWomen’s Cotton Shirts & Tops",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.com/",
+  "started": "2026-11-07T13:26:28-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 302,
+   "final_url": "https://www.aliexpress.com/",
+   "bytes": 0,
+   "error": null,
+   "title": null,
+   "markers": [],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "0 chars, copy dated 2026-10-27 (11 days old)",
+    "answer": "I couldn't get a title or a product or category name, because the page came back empty.\n\nThe fetch of https://www.aliexpress.com/ didn't produce an error, block notice, captcha or \"not allowed\" message. It reported success, but the page text was blank (`\"data\": \"\"`) and the title was empty (`null`).",
+    "cost_usd": 0.06745
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "answer": "Blocked",
+    "cost_usd": 3e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "answer": "Could not open it: **internal error / non-retryable error** when trying to open `https://www.aliexpress.com/`.",
+    "cost_usd": 0.01128
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Pokémon TCG Sword & Shield Darkness Ablaze Booster Box English Version Collectible Trading Cards Game Collection Card Gift[1]",
+    "cost_usd": 0.00509
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/",
+  "started": "2026-11-07T13:26:29-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "ClaudeBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Claude-User": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.gap.com/",
+   "bytes": 399942,
+   "error": null,
+   "title": "Gap Individual style for Women&#x27;s, Men&#x27;s, Baby &amp; Kids&#x27; Clothing",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "4502 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page successfully.\n\n- **Page title:** Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n- **One category I could see:** PJs, from the banner \"The Holiday Kickoff Event: 40–60% off PJs, accessories & more\"",
+    "cost_usd": 0.06859
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category Name: Festive PJs",
+    "cost_usd": 0.00012
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Gap  \nOne visible name: Gap ([gap.com](https://www.gap.com/Asset_Archive/AllBrands/franchiseLandingPages/gap/franchiseLanding-gap-pl.html))",
+    "cost_usd": 0.01129
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Title: Sign up for email\n\nProduct/category: Women",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/",
+  "started": "2026-11-07T13:26:33-06:00",
+  "robots": {
+   "status": 403,
+   "error": null,
+   "rules": {}
+  },
+  "control": {
+   "status": 403,
+   "final_url": "https://www.depop.com/",
+   "bytes": 100000,
+   "error": null,
+   "title": "Just a moment - Depop",
+   "markers": [
+    "just a moment"
+   ],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "326 chars, copy dated 2025-09-21 (412 days old)",
+    "answer": "I opened the page. The fetch worked, with no error, block or captcha.\n\n- **Page title:** The tool didn't return one (the title field came back empty).\n- **Visible content:** I couldn't see any product or category name. The page text was only a short welcome message: \"Build an empire from your bedroo",
+    "cost_usd": 0.06781
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "answer": "Blocked",
+    "cost_usd": 3e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "answer": "Could not open it: **error — unsupported content-type: text/x-component**.",
+    "cost_usd": 0.01125
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Depop - buy, sell, discover unique fashion — '80s",
+    "cost_usd": 0.00507
+   }
+  }
+ },
+ {
+  "domain": "instacart.com",
+  "url": "https://www.instacart.com/",
+  "started": "2026-11-07T13:26:36-06:00",
+  "robots": {
+   "status": 200,
+   "error": null,
+   "rules": {
+    "GPTBot": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "ChatGPT-User": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "OAI-SearchBot": {
+     "homepage_allowed": true,
+     "named_in_file": true
+    },
+    "PerplexityBot": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Perplexity-User": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "ClaudeBot": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Claude-User": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Claude-SearchBot": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Google-Extended": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Meta-ExternalAgent": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    },
+    "Meta-ExternalFetcher": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Amazonbot": {
+     "homepage_allowed": false,
+     "named_in_file": false
+    },
+    "Applebot-Extended": {
+     "homepage_allowed": true,
+     "named_in_file": false
+    },
+    "*": {
+     "homepage_allowed": false,
+     "named_in_file": true
+    }
+   }
+  },
+  "control": {
+   "status": 200,
+   "final_url": "https://www.instacart.com/",
+   "bytes": 399905,
+   "error": null,
+   "title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+   "markers": [],
+   "ok": true
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "answer": "I couldn't open the page. The web tool refused to fetch https://www.instacart.com/ and returned the error `url_not_allowed`. It's a restriction in the tool, not a website error, captcha or block.\n\nSince no content came back, I can't give you the page's title or any product or category name.",
+    "cost_usd": 0.06566
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "answer": "Blocked",
+    "cost_usd": 3e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Instacart | Grocery Delivery or Pickup from Local Stores Near You  \nOne category name: Food ([instacart.com](https://www.instacart.com/))",
+    "cost_usd": 0.0123
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n\nGrocery",
+    "cost_usd": 0.00508
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/",
+  "started": "2026-11-07T13:26:40-06:00",
+  "robots": {
+   "status": null,
+   "error": "TimeoutError: The read operation timed out",
+   "rules": {}
+  },
+  "control": {
+   "status": null,
+   "final_url": null,
+   "bytes": null,
+   "error": "TimeoutError: The read operation timed out",
+   "title": null,
+   "markers": [],
+   "ok": false
+  },
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16547 chars, copy dated 2026-11-07 (0 days old)",
+    "answer": "I opened the page with no errors, blocks or captcha.\n\n- **Page title:** Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n- **One category name:** Custom Cakes",
+    "cost_usd": 0.09847
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "answer": "Page Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n\nProduct or Category Name: Fresh Bunch of Bananas",
+    "cost_usd": 0.00221
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "answer": "Title: Kroger : Fresh Food. Low Prices. | Shop Groceries Online  \nOne visible category/name: Shop Your Favorites",
+    "cost_usd": 0.01133
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "answer": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries & Fresh Foods[1]",
+    "cost_usd": 0.00508
+   }
+  }
+ }
+]

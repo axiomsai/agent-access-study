@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+  "https://www.walmart.com/reviews/product/11381374703",
+  "https://www.walmart.com/ip/Apple-AirPods-4-Earbuds-with-Active-Noise-Cancellation-White/20444405291?conditionGroupCode=3",
+  "https://www.walmart.com/ip/Apple-AirPods-4-with-Active-Noise-Cancellation/11384707978",
+  "https://www.walmart.com/ip/Restored-Apple-AirPods-4-Wireless-Earbuds-Bluetooth-Headphones-Active-Noise-Cancellation-Adaptive-Audio-USB-C-Charging-Case-Charging-H2-Chip-Refurbis/16942219367",
+  "https://www.walmart.com/browse/electronics/airpods/3944_133251_1095191_1231498_2452446_8039036",
+  "https://www.walmart.com/ip/Restored-Apple-AirPods-4-with-Active-Noise-Cancellation-Refurbished/15270613310?conditionGroupCode=2",
+  "https://www.walmart.com/ip/Restored-Apple-Airpods-4-Good-Condition-Refurbished/15106954732",
+  "https://www.walmart.com/ip/Apple-AirPods-4-White-In-Ear-Headphones-MXP63LL-A/15176406401?conditionGroupCode=3",
+  "https://www.walmart.com/?itemId=962073334"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Apple AirPods 4 | PRICE: $121.00 | STOCK: OUT OF STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Apple AirPods 4 | PRICE: $121.00 | STOCK: OUT OF STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+   "https://www.walmart.com/reviews/product/11381374703",
+   "https://www.walmart.com/ip/Apple-AirPods-4-Earbuds-with-Active-Noise-Cancellation-White/20444405291?conditionGroupCode=3",
+   "https://www.walmart.com/ip/Apple-AirPods-4-with-Active-Noise-Cancellation/11384707978",
+   "https://www.walmart.com/ip/Restored-Apple-AirPods-4-Wireless-Earbuds-Bluetooth-Headphones-Active-Noise-Cancellation-Adaptive-Audio-USB-C-Charging-Case-Charging-H2-Chip-Refurbis/16942219367",
+   "https://www.walmart.com/browse/electronics/airpods/3944_133251_1095191_1231498_2452446_8039036",
+   "https://www.walmart.com/ip/Restored-Apple-AirPods-4-with-Active-Noise-Cancellation-Refurbished/15270613310?conditionGroupCode=2",
+   "https://www.walmart.com/ip/Restored-Apple-Airpods-4-Good-Condition-Refurbished/15106954732",
+   "https://www.walmart.com/ip/Apple-AirPods-4-White-In-Ear-Headphones-MXP63LL-A/15176406401?conditionGroupCode=3",
+   "https://www.walmart.com/?itemId=962073334"
+  ],
+  "created": 1793905970,
+  "id": "resp_18896859-b8b8-4ff0-941c-22f45ac8ed16",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-11-25",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Apple, AirPods 4, Personalized Spatial Audio, Water Resistant - Walmart.com\n- Switch countries\n- $0.00\n- Services are only available in the U.S., but you can still shop thousands of items online!\n...\n# Apple AirPods 4\n4.3 out of 5 stars\n...\n90.5K ratings\n## Key item features\n- REBUILT FOR COMFORT — ...",
+    "source": "web",
+    "title": "Apple AirPods 4 - Walmart.com",
+    "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "Customer ratings and reviews for\nApple AirPods 4\nBack to item details",
+    "source": "web",
+    "title": "Customer reviews for Apple AirPods 4 | Walmart.com",
+    "url": "https://www.walmart.com/reviews/product/11381374703"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "(Open Box) Apple AirPods 4 Earbuds with Active Noise Cancellation, White - Walmart.com\n- $0.00\n...\n# (Open Box) Apple AirPods 4 Earbuds with Active Noise Cancellation, White\n3.6 out of 5 stars\n...\n## Key item features\nApple AirPods 4 Earbuds with Active Noise Cancellation, White: - Brand: Apple\n- He...",
+    "source": "web",
+    "title": "(Open Box) Apple AirPods 4 Earbuds with Active Noise ...",
+    "url": "https://www.walmart.com/ip/Apple-AirPods-4-Earbuds-with-Active-Noise-Cancellation-White/20444405291?conditionGroupCode=3"
+   },
+   {
+    "date": "2026-05-25",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Apple AirPods 4 with Active Noise Cancellation and Spatial Audio - Walmart.com\n- $0.00\n...\n# Apple AirPods 4 with Active Noise Cancelling\n4.4 out of 5 stars\n...\n## Key item features\n- REBUILT FOR COMFORT — AirPods 4 have been redesigned for exceptional all-day comfort and greater stability.\nWith a r...",
+    "source": "web",
+    "title": "Apple AirPods 4 with Active Noise Cancelling - Walmart.com",
+    "url": "https://www.walmart.com/ip/Apple-AirPods-4-with-Active-Noise-Cancellation/11384707978"
+   },
+   {
+    "date": "2025-07-09",
+    "last_updated": "2025-07-03",
+    "place_metadata": null,
+    "snippet": "# Restored Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, USB-C Charging Case, Wireless Charging, H2 Chip (Refurbished)\n(No ratings yet)\n## About this item\n- REBUILT FOR COMFORT - AirPods 4 have been redesigned for exceptional all-day comfort ...",
+    "source": "web",
+    "title": "Restored Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, USB-C Charging Case, Wireless Charging, H2 Chip (Refurbished) - Walmart.com",
+    "url": "https://www.walmart.com/ip/Restored-Apple-AirPods-4-Wireless-Earbuds-Bluetooth-Headphones-Active-Noise-Cancellation-Adaptive-Audio-USB-C-Charging-Case-Charging-H2-Chip-Refurbis/16942219367"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Shop Apple AirPods Wireless Headphones - Walmart.com\n...\n# Shop Apple AirPods Wireless Headphones (45)\nUses item details.\nPrice when purchased online\n### Rollback, Apple AirPods 4, Price $99.00 Options from $68.00\nRollback\nOptions\nPrice $99.00 Options from $68.00\n$9900Options from $68.00\nApple AirPo...",
+    "source": "web",
+    "title": "Shop Apple AirPods Wireless Headphones - Walmart.com",
+    "url": "https://www.walmart.com/browse/electronics/airpods/3944_133251_1095191_1231498_2452446_8039036"
+   },
+   {
+    "date": "2025-08-07",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Restored Apple AirPods 4 with Active Noise Cancellation Like New\n4.8 stars out of 8 reviews\n(4.8)|\n8 ratings\n## About this item\n- For iPhone, Apple Watch, iPad, and Mac\n- Active Noise Canceling with 3 Modes\n- Spatial Audio with Dynamic Head Tracking\n- H2 Chip for Intelligent Functions\n- IP54 Dust,...",
+    "source": "web",
+    "title": "Restored Apple AirPods 4 with Active Noise Cancellation Like New - Walmart.com",
+    "url": "https://www.walmart.com/ip/Restored-Apple-AirPods-4-with-Active-Noise-Cancellation-Refurbished/15270613310?conditionGroupCode=2"
+   },
+   {
+    "date": "2025-07-18",
+    "last_updated": "2025-07-14",
+    "place_metadata": null,
+    "snippet": "# Restored Apple Airpods 4 (Good Condition) (Refurbished)\n(5.0)5 stars out of 1 review\n1 review\n## About this item\n- **REBUILT FOR COMFORT -** AirPods 4 have been redesigned for exceptional all-day comfort and greater stability.\nWith a refined contour, shorter stem, and quick-press controls for musi...",
+    "source": "web",
+    "title": "Restored Apple Airpods 4 (Good Condition) (Refurbished) - Walmart.com",
+    "url": "https://www.walmart.com/ip/Restored-Apple-Airpods-4-Good-Condition-Refurbished/15106954732"
+   },
+   {
+    "date": "2025-03-31",
+    "last_updated": "2025-05-24",
+    "place_metadata": null,
+    "snippet": "Apple\n# Pre-Owned Apple AirPods 4 White In Ear Headphones MXP63LL/A\n4.5 stars out of 11 reviews\n(4.5)|\n11 ratings\n$93.45\nYou save $0.00\nPrice when purchased online As low as $17/mo or 0% APR with - Free shipping\n- Free 30-day returns\nPre-Owned: Like New\n...\n## How do you want your item?\nShipping\nArr...",
+    "source": "web",
+    "title": "Pre-Owned Apple AirPods 4 White In Ear Headphones MXP63LL/A - Walmart.com",
+    "url": "https://www.walmart.com/ip/Apple-AirPods-4-White-In-Ear-Headphones-MXP63LL-A/15176406401?conditionGroupCode=3"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Walmart | Save Money. Live better.\n## Discover Great Brands\nAcer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Pure Silver\n...\n- ### Rollback, Apple AirPods 4, Price $99.00\nRollback\nOptions\nPrice $99.00\n$9900\nApple AirPods 4\nGet as soon as 13 mins",
+    "source": "web",
+    "title": "Save Money. Live better. - Walmart",
+    "url": "https://www.walmart.com/?itemId=962073334"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00165,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00436
+   },
+   "prompt_tokens": 121,
+   "search_context_size": "low",
+   "total_tokens": 147
+  }
+ }
+}

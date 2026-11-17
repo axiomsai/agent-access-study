@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/char_hull/",
+  "https://www.depop.com/explore/",
+  "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos",
+  "https://news.depop.com/",
+  "https://www.depop.com/login/?pla_feed=US",
+  "https://www.depop.com/blog/the-merchandising-playbook-listing-calendar-and-style-lexicon/",
+  "https://news.depop.com/download/docs/understanding-secondhand-fashion.pdf",
+  "https://www.depop.com/theme/support/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/char_hull/",
+   "https://www.depop.com/explore/",
+   "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos",
+   "https://news.depop.com/",
+   "https://www.depop.com/login/?pla_feed=US",
+   "https://www.depop.com/blog/the-merchandising-playbook-listing-calendar-and-style-lexicon/",
+   "https://news.depop.com/download/docs/understanding-secondhand-fashion.pdf",
+   "https://www.depop.com/theme/support/"
+  ],
+  "created": 1794082547,
+  "id": "resp_202367c3-2b87-4c78-b7f6-fb3e9bb012c4",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# The Depop Circular\nWith everything from new product features to inspiration and updates from our community – come here to stay in the loop with all things Depop.\n- Trending on Depop: September | Classic coats, homecoming, and all things medieval\n...\n- Become a Depop Campus Manager",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "char_hull's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Yoga\n...\n# char_hull",
+    "source": "web",
+    "title": "char_hull's Shop | Depop",
+    "url": "https://www.depop.com/char_hull/"
+   },
+   {
+    "date": "2026-07-30",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Explore\n(111M results)\n...\nWhatever your style.\nFind it on Depop",
+    "source": "web",
+    "title": "Explore - Depop",
+    "url": "https://www.depop.com/explore/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Vintage sneakers | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Filter\nUS 6\n$53.20\n...\n3. Onitsuka Tiger\n...\n6. Adidas Originals",
+    "source": "web",
+    "title": "Vintage sneakers | Depop",
+    "url": "https://www.depop.com/explore/sports-vintage-sneakers-us/?moduleOrigin=meganav&campaignTitle=summery_ponchos"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Depop Partners with Amelia Dimoldenberg to Bring Her Signature Style to Fans in Celebration of the Final Series of Chicken Shop Date\n## Latest news\n### adidas Originals partners with Depop to launch the new era of Stan Smith with ‘Style Reworked’",
+    "source": "web",
+    "title": "Depop newsroom: Home page",
+    "url": "https://news.depop.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "…\n\":\"Keeping it circular since 2011\"},\"Condition\":{\"Title\":\"Condition\"},\"NewMessage\":\"New message\",\"QuickMessage\":{\"SeeMessages\":\"See messages\",\"MessageBuyer\":\"Message buyer\",\"MessageSeller\":\"Message seller\"},\"Nav\":{\"Depop\":\"Depop\",\"Blog\":\"Blog\",\"Events\":\"Events\",\"Spaces\":\"Spaces\",\"Support\":\"Support...",
+    "source": "web",
+    "title": "?pla_feed=US",
+    "url": "https://www.depop.com/login/?pla_feed=US"
+   },
+   {
+    "date": "2025-09-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# The Merchandising Playbook: Listing Calendar & Style Lexicon\n### Introduction to the Merchandising Playbook\nWhether your shop focuses on streetwear, vintage gems, designer staples, or Y2K revivals, Depop’s diverse inventory fulfills every fashion need.",
+    "source": "web",
+    "title": "The Merchandising Playbook: Listing Calendar & Style Lexicon",
+    "url": "https://www.depop.com/blog/the-merchandising-playbook-listing-calendar-and-style-lexicon/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# 10 -30%\n## 3\\. HOW DOES DEPOP FIT INTO THE        SECONDHAND FASHION SYSTEM?\nWe partner with brands like **GANNI**,   \n**Adidas** and **Benetton** to create and",
+    "source": "web",
+    "title": "UNDERSTANDING SECONDHAND FASHION",
+    "url": "https://news.depop.com/download/docs/understanding-secondhand-fashion.pdf"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Support\n### Popular brands\n# Filter\n1. Other\n$2.00\n...\n15. Alo Yoga",
+    "source": "web",
+    "title": "Support - Depop",
+    "url": "https://www.depop.com/theme/support/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00354
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

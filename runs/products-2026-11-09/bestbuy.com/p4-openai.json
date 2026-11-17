@@ -1,0 +1,150 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+  ]
+ ],
+ "answer": "NAME: HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver | PRICE: $499.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.023710000000000002,
+ "raw": {
+  "id": "resp_03807d9e1039f358006af21241871487d1bf783caa7bba07c5",
+  "object": "response",
+  "created_at": 1794249281,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794249284,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_03807d9e1039f358006af21242cb9887d1af1c6e0d4ae956da",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+    }
+   },
+   {
+    "id": "ws_03807d9e1039f358006af2124378c087d1a438002c877280c9",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$",
+     "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+    }
+   },
+   {
+    "id": "msg_03807d9e1039f358006af212445e7087d1b39566480daf63b8",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver | PRICE: $499.99 | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 13003,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 232,
+   "output_tokens_details": {
+    "reasoning_tokens": 178
+   },
+   "total_tokens": 13235
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

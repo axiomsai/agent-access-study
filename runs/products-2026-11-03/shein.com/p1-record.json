@@ -1,0 +1,60 @@
+{
+ "domain": "shein.com",
+ "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+ "idx": 1,
+ "at": "2026-11-03T18:15:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (my web tool refused the link because the URL is too long, so the page never loaded)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.07624
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy",
+   "price": 2.76,
+   "price_raw": "$2.76",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00027
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+   "price": 3.0,
+   "price_raw": "$3.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+   "price": 2.76,
+   "price_raw": "$2.76",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0053
+  }
+ }
+}

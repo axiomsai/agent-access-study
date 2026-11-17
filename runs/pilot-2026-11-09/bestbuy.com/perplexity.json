@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS",
+  "https://www.bestbuy.com/site/shop/modular-outdoor-kitchen-cabinets",
+  "https://www.bestbuy.com/product/bose-ultra-open-earbuds-2nd-gen-wireless-bluetooth-open-ear-earbuds-with-immersive-audio-and-wireless-charging-black/J7C5V6W3LR",
+  "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP",
+  "https://www.bestbuy.com/site/shop/led-face-masks",
+  "https://www.bestbuy.com/site/shop/modern-tall-bedroom-chests",
+  "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000",
+  "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-512gb-ssd-silver/JJGCQL8YHX/sku/6565874/reviews",
+  "https://www.bestbuy.com/site/shop/category"
+ ],
+ "cited_store": true,
+ "answer": "Best Buy | Official Online Store | Shop Now & Save\n\nShop deals by category",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Best Buy | Official Online Store | Shop Now & Save\n\nShop deals by category",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS",
+   "https://www.bestbuy.com/site/shop/modular-outdoor-kitchen-cabinets",
+   "https://www.bestbuy.com/product/bose-ultra-open-earbuds-2nd-gen-wireless-bluetooth-open-ear-earbuds-with-immersive-audio-and-wireless-charging-black/J7C5V6W3LR",
+   "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP",
+   "https://www.bestbuy.com/site/shop/led-face-masks",
+   "https://www.bestbuy.com/site/shop/modern-tall-bedroom-chests",
+   "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000",
+   "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-512gb-ssd-silver/JJGCQL8YHX/sku/6565874/reviews",
+   "https://www.bestbuy.com/site/shop/category"
+  ],
+  "created": 1794248371,
+  "id": "resp_8aef9d07-47eb-41b1-a2c5-5c48518f62cb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n...\nNo rainchecks.",
+    "source": "web",
+    "title": "Shop deals by category",
+    "url": "https://www.bestbuy.com/"
+   },
+   {
+    "date": "2025-11-21",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over Ear Headphones with Immersive Audio White - Best Buy\n...\n# Bose - QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over-Ear Headphones with Immersive Audio - White\nModel: 890101-0200\nSKU: 6642772\nRating 4.6 ...",
+    "source": "web",
+    "title": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-white/J7C5V6W7GS"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Start with the tasks you want your outdoor kitchen to handle: preparing ingredients, keeping cooking tools nearby and serving guests.",
+    "source": "web",
+    "title": "Modular Outdoor Kitchen Cabinets",
+    "url": "https://www.bestbuy.com/site/shop/modular-outdoor-kitchen-cabinets"
+   },
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Bose Ultra Open Earbuds (2nd Gen) Wireless Bluetooth Open Ear Earbuds with Immersive Audio and Wireless Charging Black - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n...\n3. Open-Ear Headphones\n...\n# Bose - Ultra Open Earbuds (2nd Gen) - Wireless Bluetooth Open Ear Earbu...",
+    "source": "web",
+    "title": "Bose - Ultra Open Earbuds (2nd Gen) - Wireless Bluetooth Open ...",
+    "url": "https://www.bestbuy.com/product/bose-ultra-open-earbuds-2nd-gen-wireless-bluetooth-open-ear-earbuds-with-immersive-audio-and-wireless-charging-black/J7C5V6W3LR"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - Intel Core i5 13420H (2023) - 8GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD - Mica Silver\nModel: 15-fa2013dx",
+    "source": "web",
+    "title": "HP Victus 15.6\" 144Hz Full HD Gaming Laptop Intel Core i5 ...",
+    "url": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Game changer mask...I have been using the therabody led mask for 2 months now & my face has never looked this great not even...in the past going to the spa to get under their Led light … this works such...",
+    "source": "web",
+    "title": "LED Face Masks",
+    "url": "https://www.bestbuy.com/site/shop/led-face-masks"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Measure the available width, depth, and height, then allow room for drawers to open without blocking the bed, closet, or a walkway.",
+    "source": "web",
+    "title": "Modern Tall Bedroom Chests",
+    "url": "https://www.bestbuy.com/site/shop/modern-tall-bedroom-chests"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n# Best Buy",
+    "source": "web",
+    "title": "Official Online Store | Shop Now & Save - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=cat00000&cp=45&id=pcat17071&st=categoryid$cat00000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Apple MacBook Pro 14 inch Laptop M5 chip with 10 core CPU and 10 core GPU 16GB Memory 512GB SSD Silver - Best Buy\n...\n# Customer Ratings & Reviews\n## Apple - MacBook Pro 14-inch Laptop - M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 512GB SSD - Silver\n- **Model:**\nMDE44LL/A\n|\n- **SKU:**\n6...",
+    "source": "web",
+    "title": "Apple MacBook Pro 14 inch Laptop M5 chip with 10 core CPU and ...",
+    "url": "https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-512gb-ssd-silver/JJGCQL8YHX/sku/6565874/reviews"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Product Collections - Best Buy\n1. Home/\n2. Categories\n# Product Collections",
+    "source": "web",
+    "title": "Category Directories",
+    "url": "https://www.bestbuy.com/site/shop/category"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 16,
+   "cost": {
+    "input_tokens_cost": 0.00074,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00329
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 73
+  }
+ }
+}

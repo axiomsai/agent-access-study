@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+  "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Battery-Starter-Kit-and-Adjustable-Miter-Saw-Stand/GR_31029",
+  "https://www.lowes.com/pl/power-tools/battery/4294607842-4294821445",
+  "https://www.lowes.com/pd/DEWALT-20V-XR-12-In-Dual-Bevel-Sliding-Miter-Saw/5015801601",
+  "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Cordless-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Batteries-and-2-Pack-Carbide-Saw-Blades/GR_27880",
+  "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-Hammer-Drill-Impact-2-Tool-Combo-Kit-with-2-POWERPACK-Batteries-and-Charger-plus-XR-20V-Max-Variable-Speed-Keyless-Cordless-Jigsaw/GR_19981",
+  "https://www.lowes.com/pd/DEWALT-XR-20-Volt-Max-Variable-Speed-Brushless-Cordless-Reciprocating-Saw-Battery-Not-Included/1000226389",
+  "https://www.lowes.com/pl/power-tools/power-tool-combo-kits/4294607831",
+  "https://www.lowes.com/pd/DEWALT-20-Volt-MAX-Cordless-Brushless-Variable-Speed-Oscillating-Multi-Tool-Kit/1001008764",
+  "https://www.lowes.com/pd/DEWALT-20V-XR-8AH-PP-BTTRY-STARTER-KIT/5016107977"
+ ],
+ "cited_store": true,
+ "answer": "NAME: DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah | PRICE: $449.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah | PRICE: $449.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+   "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Battery-Starter-Kit-and-Adjustable-Miter-Saw-Stand/GR_31029",
+   "https://www.lowes.com/pl/power-tools/battery/4294607842-4294821445",
+   "https://www.lowes.com/pd/DEWALT-20V-XR-12-In-Dual-Bevel-Sliding-Miter-Saw/5015801601",
+   "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Cordless-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Batteries-and-2-Pack-Carbide-Saw-Blades/GR_27880",
+   "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-Hammer-Drill-Impact-2-Tool-Combo-Kit-with-2-POWERPACK-Batteries-and-Charger-plus-XR-20V-Max-Variable-Speed-Keyless-Cordless-Jigsaw/GR_19981",
+   "https://www.lowes.com/pd/DEWALT-XR-20-Volt-Max-Variable-Speed-Brushless-Cordless-Reciprocating-Saw-Battery-Not-Included/1000226389",
+   "https://www.lowes.com/pl/power-tools/power-tool-combo-kits/4294607831",
+   "https://www.lowes.com/pd/DEWALT-20-Volt-MAX-Cordless-Brushless-Variable-Speed-Oscillating-Multi-Tool-Kit/1001008764",
+   "https://www.lowes.com/pd/DEWALT-20V-XR-8AH-PP-BTTRY-STARTER-KIT/5016107977"
+  ],
+  "created": 1793906778,
+  "id": "resp_00abacb4-df05-4988-93ea-2a7ecf0727b7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah in the Power Tool Batteries & Chargers department at Lowes.com\n...\n# DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah\nItem #6928404 |\nModel #DCB2108-2C\n## Shop DEWALT\n4.8\n97\n$449.00\n...\n##### Delivery\nMaximum initial battery voltage (measured wi...",
+    "source": "web",
+    "title": "DEWALT 20 -Volt 2 -Pack Battery/charger ( 8 Ah 8 Ah ...",
+    "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079"
+   },
+   {
+    "date": "2026-06-08",
+    "last_updated": "2026-08-10",
+    "place_metadata": null,
+    "snippet": "# DEWALT 20V MAX XR 12-in Dual Bevel Sliding Miter Saw Kit with 8Ah Battery Starter Kit and Adjustable Miter Saw Stand\nOnline Set #GR_31029\n- Get Pricing & Availability\nWhat's Included\n3 Items\n**DEWALT** 12-in 20-volt max Dual Bevel Sliding Compound Cordless Miter Saw\n**Item Count: ** 1\n**DEWALT** 2...",
+    "source": "web",
+    "title": "DEWALT 20V MAX XR 12-in Dual Bevel Sliding Miter Saw ...",
+    "url": "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Battery-Starter-Kit-and-Adjustable-Miter-Saw-Stand/GR_31029"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### DEWALT\n#### XR 20V Max Variable Speed 1/2-in Drive Cordless Impact Wrench w/XR POWERPACK 20V Tabless 8 Ah Battery\nfor pricing and availability\n##### 4.7\n379",
+    "source": "web",
+    "title": "Battery Power Tools at Lowes.com",
+    "url": "https://www.lowes.com/pl/power-tools/battery/4294607842-4294821445"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "DEWALT 12-in 20-volt max Dual Bevel Sliding Compound Cordless Miter Saw in the Miter Saws department at Lowes.com\n...\n# DEWALT 12-in 20-volt max Dual Bevel Sliding Compound Cordless Miter Saw\nItem #6622657 |\nModel #DCS785B\n...\n$699.00\n...\n## This Item Is Featured In\n$699.00\nDEWALT 12-in 20-volt max ...",
+    "source": "web",
+    "title": "DEWALT 12-in 20-volt max Dual Bevel Sliding Compound Cordless ...",
+    "url": "https://www.lowes.com/pd/DEWALT-20V-XR-12-In-Dual-Bevel-Sliding-Miter-Saw/5015801601"
+   },
+   {
+    "date": "2026-06-08",
+    "last_updated": "2026-07-13",
+    "place_metadata": null,
+    "snippet": "# DEWALT 20V MAX XR 12-in Cordless Dual Bevel Sliding Miter Saw Kit with 8Ah Batteries and 2-Pack Carbide Saw Blades\nWhat's Included\n3 Items\n**DEWALT** 12-in 20-volt max Dual Bevel Sliding Compound Cordless Miter Saw\n**Item Count:** 1\n**DEWALT** 20 -Volt 1 -Pack Battery and Charger ( 8 Ah Lithium-io...",
+    "source": "web",
+    "title": "DEWALT 20V MAX XR 12-in Cordless Dual Bevel Sliding ...",
+    "url": "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-12-in-Cordless-Dual-Bevel-Sliding-Miter-Saw-Kit-with-8Ah-Batteries-and-2-Pack-Carbide-Saw-Blades/GR_27880"
+   },
+   {
+    "date": "2026-09-10",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Shop DEWALT 20V MAX XR Hammer Drill/Impact 2-Tool Combo Kit with 2 POWERPACK Batteries and Charger plus XR 20V Max Variable Speed Keyless Cordless Jigsaw at Lowes.com\n...\n# DEWALT 20V MAX XR Hammer Drill/Impact 2-Tool Combo Kit with 2 POWERPACK Batteries and Charger plus XR 20V Max Variable Speed Ke...",
+    "source": "web",
+    "title": "DEWALT 20V MAX XR Hammer Drill/Impact 2-Tool Combo ...",
+    "url": "https://www.lowes.com/collections/DEWALT-20V-MAX-XR-Hammer-Drill-Impact-2-Tool-Combo-Kit-with-2-POWERPACK-Batteries-and-Charger-plus-XR-20V-Max-Variable-Speed-Keyless-Cordless-Jigsaw/GR_19981"
+   },
+   {
+    "date": "2026-10-02",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# DEWALT XR 20-volt Max Variable Speed Brushless Cordless Reciprocating Saw ( Battery Not Included Charger Not Included )\nItem #836496 |\nModel #DCS367B\n...\n## This Item Is Featured In\nDEWALT XR 20-volt Max Variable Speed Brushless Cordless Reciprocating Saw & 20V MAX Starter Kit with POWERSTACK Comp...",
+    "source": "web",
+    "title": "DEWALT XR 20-volt Max Variable Brushless Cordless ...",
+    "url": "https://www.lowes.com/pd/DEWALT-XR-20-Volt-Max-Variable-Speed-Brushless-Cordless-Reciprocating-Saw-Battery-Not-Included/1000226389"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### DEWALT\n#### 20V MAX 2-Tool Brushless Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included)\nfor pricing and availability\n...\n### Related Searches\n#### Related Products\nEXPAND YOUR SYSTEM with the 20V MAX* XR® 2-Tool Combo Kit including a 4.5 in.\nPaddle Switch Small Angle Grinder ...",
+    "source": "web",
+    "title": "Power Tool Combo Kits- Versatile Kits & Tools | Lowe's",
+    "url": "https://www.lowes.com/pl/power-tools/power-tool-combo-kits/4294607831"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# DEWALT XR 20-volt Max Cordless Brushless Variable speed 4 -Piece Oscillating Multi-Tool (Battery Not Included )\nItem #1324949 |\nModel #DCS356B",
+    "source": "web",
+    "title": "DEWALT XR 20-volt Max Cordless Brushless Variable 4- ...",
+    "url": "https://www.lowes.com/pd/DEWALT-20-Volt-MAX-Cordless-Brushless-Variable-Speed-Oscillating-Multi-Tool-Kit/1001008764"
+   },
+   {
+    "date": "2026-06-02",
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "# DEWALT 20 -Volt 1 -Pack 8 Ah Lithium-ion )\nItem #6814254 |\nModel #DCB2108C\n...\n44\n$289.00\n...\n## This Item Is Featured In\n$289.00\n|\n$1,237.00\nSave $300.00\nDEWALT 20V MAX XR 12-in Dual Bevel Sliding Miter Saw Kit with 8Ah Battery Starter Kit and Adjustable Miter Saw Stand\n$289.00\n|\n$1,062.98\nSave $...",
+    "source": "web",
+    "title": "DEWALT 20 -Volt 1 -Pack 8 Ah Lithium-ion ) Lowes.com",
+    "url": "https://www.lowes.com/pd/DEWALT-20V-XR-8AH-PP-BTTRY-STARTER-KIT/5016107977"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 39,
+   "cost": {
+    "input_tokens_cost": 0.0017,
+    "output_tokens_cost": 0.00029,
+    "request_cost": 0.0025,
+    "total_cost": 0.00449
+   },
+   "prompt_tokens": 135,
+   "search_context_size": "low",
+   "total_tokens": 174
+  }
+ }
+}

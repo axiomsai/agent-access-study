@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.samsung.com/us/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26/",
+  "https://www.samsung.com/us/audio-sound/galaxy-buds-on/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/",
+  "https://www.samsung.com/us/mypage/myproducts/",
+  "https://news.samsung.com/us/category/product/",
+  "https://www.samsung.com/latin_en/one-ui/",
+  "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html",
+  "https://www.samsung.com/us/support/answer/ANS10002646/",
+  "https://www.samsung.com/us/apps/samsung-browser/"
+ ],
+ "cited_store": true,
+ "answer": "Title: Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US\n\nCategory: Mobile",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Title: Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US\n\nCategory: Mobile",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.samsung.com/us/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26/",
+   "https://www.samsung.com/us/audio-sound/galaxy-buds-on/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/",
+   "https://www.samsung.com/us/mypage/myproducts/",
+   "https://news.samsung.com/us/category/product/",
+   "https://www.samsung.com/latin_en/one-ui/",
+   "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html",
+   "https://www.samsung.com/us/support/answer/ANS10002646/",
+   "https://www.samsung.com/us/apps/samsung-browser/"
+  ],
+  "created": 1793749463,
+  "id": "resp_722d425c-15d6-4220-ba28-96826a4ed2bb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Samsung\n## Experience a whole new Galaxy\nBook your personal demo at a Samsung Experience Store\nGalaxy Z Fold8 Ultra | Fold8 | Flip8",
+    "source": "web",
+    "title": "Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US",
+    "url": "https://www.samsung.com/us/"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Galaxy S26 | S26+\n...\n## DESIGN\n### See the details up close\nSamsung.com or in Samsung Experience Stores^^",
+    "source": "web",
+    "title": "Samsung Galaxy S26 & S26+ | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Discover Galaxy Buds On, Open-Ear Headphones | Samsung US",
+    "source": "web",
+    "title": "Discover Galaxy Buds On, Open-Ear Headphones | Samsung US",
+    "url": "https://www.samsung.com/us/audio-sound/galaxy-buds-on/"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Galaxy S26 Ultra\n6.9” display with built-in Privacy Display^,^\n...\nVisit samsung.com for details.",
+    "source": "web",
+    "title": "Galaxy S26 Ultra",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/"
+   },
+   {
+    "date": "2026-02-14",
+    "last_updated": "2026-09-14",
+    "place_metadata": null,
+    "snippet": "To help us assist you, please describe the symptoms of your device in detail.",
+    "source": "web",
+    "title": "My Products",
+    "url": "https://www.samsung.com/us/mypage/myproducts/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Product - Samsung US Newsroom\n# Product\n## Featured News\n...\n#### Samsung Galaxy S26 FE: Delivering the Latest Flagship Features, Focused on What Matters Most",
+    "source": "web",
+    "title": "Product - Samsung US Newsroom",
+    "url": "https://news.samsung.com/us/category/product/"
+   },
+   {
+    "date": "2026-07-29",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Privacy & Security\n### Be safe from cyber threats\nEven if you've tapped a wrong link, you'll be warned just in time.\nWhen you access a malicious website through the Samsung Browser, a machine learning-based model will alert you with a warning that the page you're about to open might be dangerous.",
+    "source": "web",
+    "title": "One UI | Samsung Caribbean",
+    "url": "https://www.samsung.com/latin_en/one-ui/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "## LocalNetworkBlockedForUrls\nList of URL patterns.\nNetwork requests initiated from websites served by matching origins to local network endpoints are blocked from issuing Local Network Access requests.",
+    "source": "web",
+    "title": "LocalNetworkBlockedForUrls",
+    "url": "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Frequently asked questions about Samsung Browser\n## What is an error report?\nThe Browser app's team of developers strive to anticipate and fix any possible defects, but sometimes unpredictable errors occur.\nThrough the error report menu, you can send an email with a screenshot and device log to th...",
+    "source": "web",
+    "title": "Frequently asked questions about Samsung Browser",
+    "url": "https://www.samsung.com/us/support/answer/ANS10002646/"
+   },
+   {
+    "date": "2026-04-04",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Samsung Browser | Apps & Services | Samsung US\n...\n## Explore more of your browser\n### Toolbar\n#### Tip 2 Open a new tab\nTouch and hold \"Tab\" to instantly open a new tab.",
+    "source": "web",
+    "title": "Samsung Browser | Apps & Services",
+    "url": "https://www.samsung.com/us/apps/samsung-browser/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.00056,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00312
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

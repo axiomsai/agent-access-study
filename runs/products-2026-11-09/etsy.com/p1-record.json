@@ -1,0 +1,60 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/listing/1016338618",
+ "idx": 1,
+ "at": "2026-11-09T12:24:32-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "18998 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+   "price": 118.0,
+   "price_raw": "$118.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-09T18:24:43+00:00",
+   "age_days": 0,
+   "cost_usd": 0.33546
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+   "price": 106.2,
+   "price_raw": "$106.20",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00192
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+   "price": 106.2,
+   "price_raw": "$106.20+",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01235
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+   "price": 106.2,
+   "price_raw": "$106.20",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

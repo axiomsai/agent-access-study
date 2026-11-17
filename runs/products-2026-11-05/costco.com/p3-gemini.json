@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/p/-/hp-omnibook-5-16-2k-oled-touchscreen-copilot-pc-laptop-amd-ryzen-ai-9-465-32gb-ram-1tb-ssd-windows-11-home/4201003802",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00047,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T9mkhdPOjMnOvk86IfqvCa+Kh2Ldbkdwne/UuhuA22Z+UE1PsBgHN4ZpNBLRCKqjbt+B79gJsSsWg388XlFfcA6x5eZanSt7RhoLryAftftbUBcirAcsJJ5NHcBlSUxgxfB+Ye9QJ8g+5lgFA"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/p/-/hp-omnibook-5-16-2k-oled-touchscreen-copilot-pc-laptop-amd-ryzen-ai-9-465-32gb-ram-1tb-ssd-windows-11-home/4201003802",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 197,
+   "candidatesTokenCount": 164,
+   "totalTokenCount": 4160,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 197
+    }
+   ],
+   "toolUsePromptTokenCount": 3799,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3799
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "mdrsaqO7Eo2YqtsPwcOr-A4"
+ }
+}

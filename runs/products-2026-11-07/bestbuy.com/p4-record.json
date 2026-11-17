@@ -1,0 +1,60 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+ "idx": 4,
+ "at": "2026-11-07T13:43:49-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "7821 chars, copy dated 2026-11-03 (4 days old)",
+   "parsed": true,
+   "name": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-03T16:26:25+00:00",
+   "age_days": 4,
+   "cost_usd": 0.14036
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+   "price": 679.0,
+   "price_raw": "$679.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0014
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+   "price": 679.0,
+   "price_raw": "$679",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.03488
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page content did not show current stock status or a clearly current selling price",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00522
+  }
+ }
+}

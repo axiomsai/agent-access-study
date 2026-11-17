@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/cc-c-2030.html",
+  "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+  "https://m.shein.com/us/",
+  "https://us.shein.com/category/ALORUH-sc-0081871655.html",
+  "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+  "https://us.shein.com/Women%20Apparel-c-4436.html",
+  "https://ph.shein.com/",
+  "https://m.shein.com/us/all/",
+  "https://us.shein.com/About-Us-a-117.html",
+  "https://us.shein.com/About-US-a-117.html"
+ ],
+ "cited_store": true,
+ "answer": "Women's Clothing, Women Fashion Sale | SHEIN USA — Women’s Clothing [1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Women's Clothing, Women Fashion Sale | SHEIN USA — Women’s Clothing [1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/cc-c-2030.html",
+   "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+   "https://m.shein.com/us/",
+   "https://us.shein.com/category/ALORUH-sc-0081871655.html",
+   "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+   "https://us.shein.com/Women%20Apparel-c-4436.html",
+   "https://ph.shein.com/",
+   "https://m.shein.com/us/all/",
+   "https://us.shein.com/About-Us-a-117.html",
+   "https://us.shein.com/About-US-a-117.html"
+  ],
+  "created": 1793749471,
+  "id": "resp_be644e7c-6552-49d4-a7cc-335e9e3bf169",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Clothing\nHome/Women Apparel/Women Clothing/\n## Filter\n### Category\nWomen Tops, Blouses & TeeWomen Blouses & ShirtsWomen T-ShirtsWomen Tank Tops & CamisWomen Sweatshirts & HoodiesWomen Denim TopsWomen Denim Jackets & CoatsWomen Jean...",
+    "source": "web",
+    "title": "Women's Clothing | Dresses, Pants, Tops & More | SHEIN USA",
+    "url": "https://us.shein.com/cc-c-2030.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Shoes\nHome/Shoes/Women Shoes/\n...\n### Category\nWomen Wedges & PlatformWomen PumpsWomen FlatsWomen Fashion BootsWomen Ankle Boots & BootiesWomen Mid-Calf BootsWomen Knee-High BootsWomen Over-the-Knee BootsWomen Pant BootsWomen Sanda...",
+    "source": "web",
+    "title": "Women's Shoes| Shop Flats, Sandals & Heels Online | SHEIN",
+    "url": "https://www.shein.com/ncr/Women-Shoes-c-1745.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's Clothing, Women Fashion Sale | SHEIN USA\nFree Shipping\nOn SHEIN-shipped orders $29+",
+    "source": "web",
+    "title": "Women's Clothing, Women Fashion Sale | SHEIN USA",
+    "url": "https://m.shein.com/us/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > ALORUH\nHome/ALORUH/",
+    "source": "web",
+    "title": "Fashion ALORUH | SHEIN USA",
+    "url": "https://us.shein.com/category/ALORUH-sc-0081871655.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > shein\nHome/shein/\n...\n## Product list\nBalletiara\n-10%\nSHEIN Tween Girls 2 Pieces Ballet Bodysuit Set, Soft Lace Backless Hollow Camisole Bodysuit + Elastic Waist Fashion Gradient Mesh Skirt, Fitted Waist, Comfortable Skin-Friendly Soft S...",
+    "source": "web",
+    "title": "Fashion shein | SHEIN USA",
+    "url": "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home\n## Product list\n-35%",
+    "source": "web",
+    "title": "Home",
+    "url": "https://us.shein.com/Women%20Apparel-c-4436.html"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Shop The Latest Styles | Fashion Clothes for Women, Men & Kids Online | SHEIN Philippines",
+    "source": "web",
+    "title": "Shop The Latest Styles | Fashion Clothes for Women, Men ...",
+    "url": "https://ph.shein.com/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Up to 90% OFF Trendy Fashion, Home, Beauty & More | SHEIN US",
+    "source": "web",
+    "title": "Up to 90% OFF Trendy Fashion, Home, Beauty & More | SHEIN US",
+    "url": "https://m.shein.com/us/all/"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-09-05",
+    "place_metadata": null,
+    "snippet": "{{wishNum}}\n0\n...\nNew In\n...\nCurve\nMen Clothing",
+    "source": "web",
+    "title": "About Us",
+    "url": "https://us.shein.com/About-Us-a-117.html"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-08-23",
+    "place_metadata": null,
+    "snippet": "{{wishNum}}\n0\nCategories\nNew In\nSale\n...\nCurve",
+    "source": "web",
+    "title": "About Us | SHEIN USA",
+    "url": "https://us.shein.com/About-US-a-117.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.0006299999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00318
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 77
+  }
+ }
+}

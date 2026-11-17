@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/opt/pt/index",
+  "https://www.costco.com/office-products.html?currentPage=33&pageSize=24",
+  "https://www.costco.com/pharmacy/auto-tires.html",
+  "https://www.costco.com/",
+  "https://www.costco.com/sitemaps/categories",
+  "https://www.costco.com/catalog.html",
+  "https://www.costco.com/p/-/coddle-cameron-fabric-pull-out-sleeper-sofa-with-reversible-storage-chaise-dark-gray/4201014838",
+  "https://www.costco.com/opt/office-essentials-for-women",
+  "https://www.costco.com/canned-goods.html",
+  "https://www.costco.com/opt/home-improvement-storage-ideas"
+ ],
+ "cited_store": true,
+ "answer": "Welcome to Costco Wholesale — Shop All",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Welcome to Costco Wholesale — Shop All",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/opt/pt/index",
+   "https://www.costco.com/office-products.html?currentPage=33&pageSize=24",
+   "https://www.costco.com/pharmacy/auto-tires.html",
+   "https://www.costco.com/",
+   "https://www.costco.com/sitemaps/categories",
+   "https://www.costco.com/catalog.html",
+   "https://www.costco.com/p/-/coddle-cameron-fabric-pull-out-sleeper-sofa-with-reversible-storage-chaise-dark-gray/4201014838",
+   "https://www.costco.com/opt/office-essentials-for-women",
+   "https://www.costco.com/canned-goods.html",
+   "https://www.costco.com/opt/home-improvement-storage-ideas"
+  ],
+  "created": 1793749467,
+  "id": "resp_99ec39b6-89c5-4a9a-b274-9bad279f753f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Categories | Costco\n- ### Shop Savings by Department\n- ### Costco Business Center\n...\n# Product Collections",
+    "source": "web",
+    "title": "Categories",
+    "url": "https://www.costco.com/opt/pt/index"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Office Products\n# Office Products\n## Shop by Category\n...\n## Shop Related Categories\nFind Affordable Office Supplies for Work & Home",
+    "source": "web",
+    "title": "Office Products",
+    "url": "https://www.costco.com/office-products.html?currentPage=33&pageSize=24"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Tires & Auto | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Tires & Auto\n...\n## Shop Related Categories\nSo, whether you’re in the market for a heavy-duty diesel engine oil or a synthetic motor oil for advanced fuel economy, you’ll find exactly what you’re looking for at Costco.com.",
+    "source": "web",
+    "title": "Tires & Auto | Costco",
+    "url": "https://www.costco.com/pharmacy/auto-tires.html"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Welcome to Costco Wholesale\n# Costco Homepage\n**Shop All**\nValid 10/30/26 - 11/30/26",
+    "source": "web",
+    "title": "Costco Homepage",
+    "url": "https://www.costco.com/"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Site Map | Costco\n# Site Map\n...\n## Grocery & Household Essentials\n- 2-Day Delivery\n- Health & Beauty",
+    "source": "web",
+    "title": "Site Map | Costco",
+    "url": "https://www.costco.com/sitemaps/categories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Catalog  | Costco\n- ### Costco Business Center\nFind an expanded product selection for all types of businesses, from\nprofessional offices to food service operations.\nOur Costco Business\nCenter warehouses are open to all members.\n### Shop by Department\n1.\nBeverages\n2.\nCandy & Snacks\n3.\nDisposables\n4.\n...",
+    "source": "web",
+    "title": "Catalog | Costco",
+    "url": "https://www.costco.com/catalog.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Valid 10/30/26 through 12/28/26.",
+    "source": "web",
+    "title": "Coddle Cameron Fabric Pull-Out Sleeper Sofa with Reversible Storage Chaise, Dark Gray",
+    "url": "https://www.costco.com/p/-/coddle-cameron-fabric-pull-out-sleeper-sofa-with-reversible-storage-chaise-dark-gray/4201014838"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Office Essentials For Women | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Office Essentials For Women\nOffice essentials for women are thoughtfully curated to support productivity, organization, and comfort in any workspace.\nWhether setting up a dedicated home office or refreshing a pr...",
+    "source": "web",
+    "title": "Office Essentials For Women - Costco Wholesale",
+    "url": "https://www.costco.com/opt/office-essentials-for-women"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Canned Goods\n## Filter Results\n# Canned Goods\nCompare region updated",
+    "source": "web",
+    "title": "Canned Goods - Costco Wholesale",
+    "url": "https://www.costco.com/canned-goods.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Home Improvement Storage Ideas | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\n# Home Improvement Storage Ideas\nHome Improvement Storage Ideas can transform any space into a more organized, functional, and stylish environment.",
+    "source": "web",
+    "title": "Home Improvement Storage Ideas - Costco Wholesale",
+    "url": "https://www.costco.com/opt/home-improvement-storage-ideas"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 7,
+   "cost": {
+    "input_tokens_cost": 0.00061,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00314
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

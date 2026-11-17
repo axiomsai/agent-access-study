@@ -1,0 +1,60 @@
+{
+ "domain": "walmart.com",
+ "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+ "idx": 4,
+ "at": "2026-11-03T18:13:19-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15702 chars, copy dated 2026-11-04 (0 days old)",
+   "parsed": true,
+   "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:13:26+00:00",
+   "age_days": 0,
+   "cost_usd": 0.1554
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+   "price": 23.0,
+   "price_raw": "$23.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00056
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+   "price": 24.0,
+   "price_raw": "$24.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0237
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup",
+   "price": 23.0,
+   "price_raw": "$23.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00522
+  }
+ }
+}

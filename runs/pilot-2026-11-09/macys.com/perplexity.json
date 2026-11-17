@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/",
+  "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+  "https://www.macys.com/shop/product/volenca-59-inch-tall-narrow-bathroom-storage-cabinet-with-4-shelves-space-saving-bathroom-storage-organizer?ID=29030171",
+  "https://www.macys.com/shop/product/cuisinart-cos-330-30-electric-smoker?ID=9634764",
+  "https://www.macys.com/shop/featured/jelly%20shoes",
+  "https://www.macys.com/shop/brands?id=337697",
+  "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+  "https://www.macys.com/shop/electronics?id=168970",
+  "https://www.macys.com/shop/jewelry-watches?id=544",
+  "https://www.macys.com/shop/womens/clothing/plus-size/intimates?id=55773"
+ ],
+ "cited_store": true,
+ "answer": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com — Electronics",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com — Electronics",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/",
+   "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!",
+   "https://www.macys.com/shop/product/volenca-59-inch-tall-narrow-bathroom-storage-cabinet-with-4-shelves-space-saving-bathroom-storage-organizer?ID=29030171",
+   "https://www.macys.com/shop/product/cuisinart-cos-330-30-electric-smoker?ID=9634764",
+   "https://www.macys.com/shop/featured/jelly%20shoes",
+   "https://www.macys.com/shop/brands?id=337697",
+   "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255",
+   "https://www.macys.com/shop/electronics?id=168970",
+   "https://www.macys.com/shop/jewelry-watches?id=544",
+   "https://www.macys.com/shop/womens/clothing/plus-size/intimates?id=55773"
+  ],
+  "created": 1794248365,
+  "id": "resp_557824dd-a3f5-4193-b729-0e51c21d8d5c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com",
+    "source": "web",
+    "title": "Macy’s– Official Site",
+    "url": "https://www.macys.com/"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara - Macy's\n...\n# Lancôme Lash Idôle Lash-Lifting & Volumizing Waterproof Mascara\n4.5 (988)\n$25.50 (15% off)FRIENDapplied$30.00Details\n...\n## Product Details\n- A waterproof lash-lifting & volumizing mascara that targets and volumizes every single ...",
+    "source": "web",
+    "title": "https://www.macys.com/shop/product/lash-idole-lash...",
+    "url": "https://www.macys.com/shop/product/lash-idole-lash-lifting-volumizing-waterproof-mascara?ID=13633077&cm_sp=c2_3111US_browse_beauty-makeup-all-makeup-eyes-_-row0-_-ppp_buy-1-lanc%C3%B4me-mascara,-get-1-free!"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Volenca 59-Inch Tall Narrow Bathroom Storage Cabinet with 4 Shelves, Space-Saving Bathroom Storage Organizer - Macy's\n...\n1. Furniture & Mattresses\n# Volenca 59-Inch Tall Narrow Bathroom Storage Cabinet with 4 Shelves, Space-Saving Bathroom Storage Organizer\nShipped and sold by Kuyotq\n$136.98 (60% o...",
+    "source": "web",
+    "title": "Volenca 59-Inch Tall Narrow Bathroom Storage Cabinet with 4 Shelves, Space-Saving Bathroom Storage Organizer - Macy's",
+    "url": "https://www.macys.com/shop/product/volenca-59-inch-tall-narrow-bathroom-storage-cabinet-with-4-shelves-space-saving-bathroom-storage-organizer?ID=29030171"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Cuisinart COS-330 30\" Electric Smoker - Macy's\n```\n...\n1. Small Appliances\n# Cuisinart COS-330 30\" Electric Smoker\n4.1 (38)\n$299.99Details\n...\n## Product Details\n- Get that smoky flavor without using a traditional charcoal smoker The Cuisinart 30\" Electric Smoker is great for casual or first-time sm...",
+    "source": "web",
+    "title": "Cuisinart COS-330 30\" Electric Smoker - Macy's",
+    "url": "https://www.macys.com/shop/product/cuisinart-cos-330-30-electric-smoker?ID=9634764"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Jelly Shoes - Macy's\n```\n...\n# \"jelly shoes\"\n(500+ items)",
+    "source": "web",
+    "title": "Jelly Shoes - Macy's",
+    "url": "https://www.macys.com/shop/featured/jelly%20shoes"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Brands | Macy's\n```\n...\n1. Brands\n# Brands\n...\nBCBG, Tommy",
+    "source": "web",
+    "title": "Brands | Macy's",
+    "url": "https://www.macys.com/shop/brands?id=337697"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Women's Cotton Tops - Macy's\n```\n...\n1. Women's Fashion, Shoes & Accessories/\n2. Women's Clothing/\n3. Tops\n# Women's Cotton Shirts & Tops\n(500+)",
+    "source": "web",
+    "title": "Women's Cotton Tops - Macy's",
+    "url": "https://www.macys.com/shop/womens/clothing/tops/Fabric/Cotton?id=255"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Electronics | Macy's\n```\n...\n1. Electronics\n# Electronics\n(500+)",
+    "source": "web",
+    "title": "Electronics | Macy's",
+    "url": "https://www.macys.com/shop/electronics?id=168970"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Jewelry & Watches | Macy's\n```\n...\n1. Jewelry & Watches\n# Jewelry & Watches\n(500+)",
+    "source": "web",
+    "title": "Jewelry & Watches | Macy's",
+    "url": "https://www.macys.com/shop/jewelry-watches?id=544"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Plus Size Bras, Underwear & Lingerie | Macy's\n…\n1. Women's Fashion, Shoes & Accessories/\n2. Women's Clothing/\n...\n# Plus Size Bras, Underwear & Lingerie\n(500+)\nBrasUnderwearShapewearTights & HosieryLingerie",
+    "source": "web",
+    "title": "Plus Size Bras, Underwear & Lingerie | Macy's",
+    "url": "https://www.macys.com/shop/womens/clothing/plus-size/intimates?id=55773"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0007599999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00331
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 75
+  }
+ }
+}

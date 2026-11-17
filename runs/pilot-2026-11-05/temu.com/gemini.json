@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nProduct/Category: Jewelry",
+ "finish": "STOP",
+ "cost_usd": 0.00018,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nProduct/Category: Jewelry",
+       "thoughtSignature": "EnMKcQFpFH0TyZ8A5thMROLgJMdEer89qurxxC0ImmnpFhhkkdvNV5p5m6CJjfS8ijrJF5a1bv0qI9eT3wEvm7LC5WmihV5KnxhR/lCqIeaFEtgLpQeaxJ9kXUn/xmvW/hl11GnocDgeJQXUXlbcol/EWkSG"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.temu.com/",
+        "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 71,
+        "text": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 72,
+        "endIndex": 97,
+        "text": "Product/Category: Jewelry"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 53,
+   "totalTokenCount": 1614,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1499,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1499
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "kdTsasXFDbuIqtsP2YWguQU"
+ }
+}

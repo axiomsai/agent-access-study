@@ -1,0 +1,902 @@
+[
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/276582090868",
+  "idx": 1,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15404 chars, copy dated 2026-09-04 (62 days old)",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 439.99,
+    "price_raw": "$439.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-04T12:01:03+00:00",
+    "age_days": 62,
+    "cost_usd": 0.10457
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 399.99,
+    "price_raw": "$399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00056
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+    "price": 349.99,
+    "price_raw": "$349.99",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Dyson V15 Detect Total Clean Extra",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/157751149633",
+  "idx": 2,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15141 chars, copy dated 2026-11-04 (1 days old)",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:46+00:00",
+    "age_days": 1,
+    "cost_usd": 0.18288
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": 22.0,
+    "price_raw": "$22.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00076
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "adidas men VL Court 3.0 Shoes",
+    "price": 22.0,
+    "price_raw": "US $22.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02354
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/167031735841",
+  "idx": 3,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "16277 chars, copy dated 2026-08-15 (82 days old)",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-08-15T02:22:19+00:00",
+    "age_days": 82,
+    "cost_usd": 0.16433
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00083
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+    "price": 129.0,
+    "price_raw": "$129.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/168227853120",
+  "idx": 4,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16426 chars, copy dated 2026-10-29 (6 days old)",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1007.1,
+    "price_raw": "$1,007.10",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-10-29T20:27:52+00:00",
+    "age_days": 6,
+    "cost_usd": 0.10288
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1119.0,
+    "price_raw": "$1,119.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0006
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "DuroMax XP13000HX 13,000 Watt Portable Dual Fuel Gas Propane Generator - Recon",
+    "price": 1007.1,
+    "price_raw": "$1,007.10",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "url": "https://www.ebay.com/itm/144387248424",
+  "idx": 5,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "17289 chars, copy dated 2026-11-04 (1 days old)",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:13:50+00:00",
+    "age_days": 1,
+    "cost_usd": 0.13363
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00067
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP",
+    "price": 1559.0,
+    "price_raw": "$1,559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP2.7H Fast Charge🔋 120V AC Outlets x 5, Solar Generator",
+    "price": 1623.75,
+    "price_raw": "$1,623.75",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1016338618",
+  "idx": 1,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18800 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:29+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10009
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00192
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01235
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map",
+    "price": 106.2,
+    "price_raw": "$106.20+",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1145741800",
+  "idx": 2,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "19086 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:30+00:00",
+    "age_days": 0,
+    "cost_usd": 0.2531
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00199
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift",
+    "price": 39.99,
+    "price_raw": "$39.99+",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01231
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/4553600871",
+  "idx": 3,
+  "at": "2026-11-05T13:16:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "17944 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:29+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10052
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00198
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized Ceramic Celebration Plate | Custom Name Plate | Handmade Birthday Gift | Heirloom Pottery | Birthday Plate | 10.5-inch Plate - Etsy",
+    "price": 125.0,
+    "price_raw": "$125.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01235
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not accessible via search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/4435842809",
+  "idx": 4,
+  "at": "2026-11-05T13:16:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "17726 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 118.48,
+    "price_raw": "$118.48",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:49+00:00",
+    "age_days": 0,
+    "cost_usd": 0.16065
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 94.78,
+    "price_raw": "$94.78",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.002
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+    "price": 94.78,
+    "price_raw": "$94.78+",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in search results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/listing/1736171915",
+  "idx": 5,
+  "at": "2026-11-05T13:16:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "18538 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "Personalized Ceramic Hand Painted Cup",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:50+00:00",
+    "age_days": 0,
+    "cost_usd": 0.30672
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Personalized ceramic hand painted cup",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00201
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Personalized ceramic hand painted cup",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023530000000000002
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+  "idx": 1,
+  "at": "2026-11-05T13:16:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15179 chars, copy dated 2026-11-05 (0 days old)",
+    "parsed": true,
+    "name": "HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 539.0,
+    "price_raw": "$539.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T19:16:51+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10696
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 499.0,
+    "price_raw": "$499.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 539.0,
+    "price_raw": "$539.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01201
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "price": 519.0,
+    "price_raw": "$519.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+  "idx": 2,
+  "at": "2026-11-05T13:16:47-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15144 chars, copy dated 2026-10-23 (12 days old)",
+    "parsed": true,
+    "name": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 259.0,
+    "price_raw": "$259.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-23T21:25:44+00:00",
+    "age_days": 12,
+    "cost_usd": 0.106
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 319.0,
+    "price_raw": "$319.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00027
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 229.0,
+    "price_raw": "$229.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01244
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "price": 239.0,
+    "price_raw": "$239.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-17-in-ADA-Chair-Height-2-piece-1-28-GPF-Single-Flush-Round-Toilet-Map-Flush-1000g-Soft-Close-Seat-Included-HR-TRS01/325343119",
+  "idx": 3,
+  "at": "2026-11-05T13:16:47-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16469 chars, copy dated 2026-11-03 (2 days old)",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 139.0,
+    "price_raw": "$139.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T02:40:06+00:00",
+    "age_days": 2,
+    "cost_usd": 0.16893
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 159.0,
+    "price_raw": "$159.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0008
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 239.0,
+    "price_raw": "$239.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01248
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included",
+    "price": 169.0,
+    "price_raw": "$169.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+  "idx": 4,
+  "at": "2026-11-05T13:16:49-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15224 chars, copy dated 2026-11-03 (1 days old)",
+    "parsed": true,
+    "name": "Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 799.0,
+    "price_raw": "$799.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T19:43:24+00:00",
+    "age_days": 1,
+    "cost_usd": 0.14099
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 799.0,
+    "price_raw": "$799.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00091
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 949.0,
+    "price_raw": "$949.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01246
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "price": 949.0,
+    "price_raw": "$949.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "url": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+  "idx": 5,
+  "at": "2026-11-05T13:16:49-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15097 chars, copy dated 2026-10-31 (5 days old)",
+    "parsed": true,
+    "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 369.0,
+    "price_raw": "$369.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-31T14:51:59+00:00",
+    "age_days": 5,
+    "cost_usd": 0.13664
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 559.0,
+    "price_raw": "$559.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00083
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 359.0,
+    "price_raw": "$359.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01244
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ }
+]

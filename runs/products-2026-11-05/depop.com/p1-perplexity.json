@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/_style_and_stuff_/",
+  "https://www.depop.com/agelessoutfits/",
+  "https://www.depop.com/thriftedclosetz/",
+  "https://www.depop.com/",
+  "https://www.depop.com/products/madison_200j_-gray-cropped-hoodie-in-size-21ce/",
+  "https://www.depop.com/brooklyn_deals/",
+  "https://www.depop.com/us_/",
+  "https://www.depop.com/sebastianfashionshoppe/",
+  "https://www.depop.com/products/treasures4sure-gray-champion-hoodie-in-size-c7fe/",
+  "https://www.depop.com/cozydaisycreations/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/_style_and_stuff_/",
+   "https://www.depop.com/agelessoutfits/",
+   "https://www.depop.com/thriftedclosetz/",
+   "https://www.depop.com/",
+   "https://www.depop.com/products/madison_200j_-gray-cropped-hoodie-in-size-21ce/",
+   "https://www.depop.com/brooklyn_deals/",
+   "https://www.depop.com/us_/",
+   "https://www.depop.com/sebastianfashionshoppe/",
+   "https://www.depop.com/products/treasures4sure-gray-champion-hoodie-in-size-c7fe/",
+   "https://www.depop.com/cozydaisycreations/"
+  ],
+  "created": 1793907660,
+  "id": "resp_10b103d3-2879-45b0-a222-d7132a6bdf5a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "_style_and_stuff_'s Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# _style_and_stuff_\n(230)",
+    "source": "web",
+    "title": "_style_and_stuff_'s Shop | Depop",
+    "url": "https://www.depop.com/_style_and_stuff_/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "agelessoutfits's Shop | Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "agelessoutfits's Shop | Depop",
+    "url": "https://www.depop.com/agelessoutfits/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "thriftedclosetz's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# thriftedclosetz",
+    "source": "web",
+    "title": "thriftedclosetz's Shop | Depop",
+    "url": "https://www.depop.com/thriftedclosetz/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-08-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Gray cropped hoodie in size S #cropped #cozy\nNever worn | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Women's Grey Hoodie\n$2.19\nincl. marketplace fee\n$2.28\nSize S\nBrand new\n5% off",
+    "source": "web",
+    "title": "Gray cropped hoodie in size S #cropped #cozy Never worn | Depop",
+    "url": "https://www.depop.com/products/madison_200j_-gray-cropped-hoodie-in-size-21ce/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "brooklyn_deals's Shop | Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "brooklyn_deals's Shop | Depop",
+    "url": "https://www.depop.com/brooklyn_deals/"
+   },
+   {
+    "date": "2024-01-25",
+    "last_updated": "2025-07-16",
+    "place_metadata": null,
+    "snippet": "# us_\nUs Vintage’s shop\nDiscounts on bundles | Please ask any questions before purchase/PM offers | No returns/Trades || Free Shippinghttp://instagram.com/usvintage_",
+    "source": "web",
+    "title": "us_'s Shop | Depop",
+    "url": "https://www.depop.com/us_/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "sebastianfashionshoppe's Shop | Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "sebastianfashionshoppe's Shop | Depop",
+    "url": "https://www.depop.com/sebastianfashionshoppe/"
+   },
+   {
+    "date": "2026-08-14",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Gray Champion hoodie in size 10/12.\nCotton &...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Champion Kids' Grey Hoodie\n$3.85\nincl. marketplace fee",
+    "source": "web",
+    "title": "Gray Champion hoodie in size 10/12. Cotton &... | Depop",
+    "url": "https://www.depop.com/products/treasures4sure-gray-champion-hoodie-in-size-c7fe/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "cozydaisycreations's Shop | Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "cozydaisycreations's Shop | Depop",
+    "url": "https://www.depop.com/cozydaisycreations/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00077,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00349
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

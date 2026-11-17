@@ -1,0 +1,45 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/",
+ "started": "2026-11-05T13:10:11-06:00",
+ "robots": {
+  "status": 403,
+  "error": null,
+  "rules": {}
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.lowes.com/",
+  "bytes": 322778,
+  "error": null,
+  "title": "Lowe’s Home Improvement",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "4895 chars, copy dated 2026-11-05 (0 days old)",
+   "answer": "I opened the page with no errors, blocks or captcha.\n\n- **Page title:** Lowe's Home Improvement\n- **A category on the page:** Appliances",
+   "cost_usd": 0.0956
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+   "cost_usd": 0.00045
+  },
+  "openai": {
+   "verdict": "served_thin",
+   "why": "opened a shell page: 403 forbidden",
+   "answer": "Cannot open it: **403 Forbidden**.",
+   "cost_usd": 0.01124
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Lowe’s Home Improvement — Appliances",
+   "cost_usd": 0.00506
+  }
+ }
+}

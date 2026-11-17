@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/saunas.html",
+  "https://www.costco.com/opt/recreational-equipment",
+  "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+  "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191",
+  "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164",
+  "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlU2MVVBN0VodzRwMTNxNEVCT1BySlQ4QXdYOXhDOHloeFpiSTRycGVnMVhOUWYyWndRSUFjcW1KY19NOV8zTU5GRlBxckRlWlA1MG8xOG5hZFhpM0dPNVdpeEZ2VzNWWX5KMjBBTWtUV1NJUFJ0Q2xncG05ZXdwQUZOOHQ2dUEydThjbHhHTG9PelhNIQ!!/page/1/priorTransactionID/860916960",
+  "https://www.costco.com/f/-/connection-heat-wave-may-2022",
+  "https://customerservice.costco.com/app/answers/list/p/2169/categoryRecordID/RN_PRODUCT_2169"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/saunas.html",
+   "https://www.costco.com/opt/recreational-equipment",
+   "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each",
+   "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191",
+   "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164",
+   "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlU2MVVBN0VodzRwMTNxNEVCT1BySlQ4QXdYOXhDOHloeFpiSTRycGVnMVhOUWYyWndRSUFjcW1KY19NOV8zTU5GRlBxckRlWlA1MG8xOG5hZFhpM0dPNVdpeEZ2VzNWWX5KMjBBTWtUV1NJUFJ0Q2xncG05ZXdwQUZOOHQ2dUEydThjbHhHTG9PelhNIQ!!/page/1/priorTransactionID/860916960",
+   "https://www.costco.com/f/-/connection-heat-wave-may-2022",
+   "https://customerservice.costco.com/app/answers/list/p/2169/categoryRecordID/RN_PRODUCT_2169"
+  ],
+  "created": 1794249568,
+  "id": "resp_2afb1dc2-5344-4b78-9573-57deabcee8af",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands | Costco\n...\n3. Sports & Fitness\n...\n# Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands\nItem 3849544 | Model 3849544-18POD\n...\n## How To Get It\nChange My WarehouseUnavailable\n- Deep Steam Heat - Up to 135°F ...",
+    "source": "web",
+    "title": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light ...",
+    "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Buy Online\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nOnline Only\nHomedics 2-in-1 Portable Steam Sauna + Red Light Wands\nItem 3849544\nLimit 5.\n$199.99\nAfter $100 OFF\nValid 10/23/26 - 11/15/26\nValid 10/30/26 - 11/15/26\nBuy Online",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Saunas\n## Home Saunas & Personal Spas: Relax, Unwind and Recharge\n- **Indoor, Outdoor & Portable:** Indoor saunas, outdoor saunas and portable saunas offer instant relaxation.\n- **Compact 2-Person Saunas:** Energy-efficient 2-person saunas for master suites, home gyms, or tight spaces.",
+    "source": "web",
+    "title": "Saunas | Costco",
+    "url": "https://www.costco.com/saunas.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Recreational Equipment\nBackyard Discovery Bennett 2-4 Person Outdoor Sauna with Remote Wi-Fi Heating EDLP",
+    "source": "web",
+    "title": "Recreational Equipment",
+    "url": "https://www.costco.com/opt/recreational-equipment"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Costco Same-Day\n# Costco favorites delivered in as fast as 1 hour",
+    "source": "web",
+    "title": "Homedics Premium Steam Sauna, Black - Costco Same-Day Delivery",
+    "url": "https://sameday.costco.com/?next=/store/costco/products/104379614-homedics-premium-steam-sauna-black-1-each"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Homedics Infrared & Red Light Pain Therapy Wrap | Costco\n...\n3. Health & Personal Care\n...\n5. Home Health Care\n...\n# Homedics Infrared & Red Light Pain Therapy Wrap\nItem 1900871\n...\n## How To Get It\n- 20, 850 Nm Infrared LEDs Penetrate for Muscle Relief\n- 20, 660 Nm LEDs Boost Blood Flow, Speeding U...",
+    "source": "web",
+    "title": "Homedics Infrared & Red Light Pain Therapy Wrap",
+    "url": "https://www.costco.com/p/-/homedics-infrared-red-light-pain-therapy-wrap/4000329191"
+   },
+   {
+    "date": "2026-03-02",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\n## Search Results\nTo search for a product online at Costco.com, enter a keyword or an item number into the search engine at the top.",
+    "source": "web",
+    "title": "Product Availability",
+    "url": "https://customerservice.costco.com/app/answers/list/p/2164/categoryRecordID/RN_PRODUCT_2164"
+   },
+   {
+    "date": "2026-05-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\nMy Orders\nMembership Auto-Renewal",
+    "source": "web",
+    "title": "Find Answers - Costco Customer Service",
+    "url": "https://customerservice.costco.com/app/results/kw/sign%20in/okcsSearchSession/ZlU2MVVBN0VodzRwMTNxNEVCT1BySlQ4QXdYOXhDOHloeFpiSTRycGVnMVhOUWYyWndRSUFjcW1KY19NOV8zTU5GRlBxckRlWlA1MG8xOG5hZFhpM0dPNVdpeEZ2VzNWWX5KMjBBTWtUV1NJUFJ0Q2xncG05ZXdwQUZOOHQ2dUEydThjbHhHTG9PelhNIQ!!/page/1/priorTransactionID/860916960"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Heat wave\n### Two varieties, multiple differences\nTraditional electric steam saunas come closer to replicating an authentic Finnish wood-burning sauna experience.",
+    "source": "web",
+    "title": "SS - Heat wave (saunas)",
+    "url": "https://www.costco.com/f/-/connection-heat-wave-may-2022"
+   },
+   {
+    "date": "2025-06-30",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Welcome to Costco Customer Service\n...\n## Search Results\nResults 1 - 38 of 38\n- What are Costco’s hours of operation?\n...\n- What is needed to change the Primary Cardholder on a Business Membership and make changes?\n...\n…",
+    "source": "web",
+    "title": "Results",
+    "url": "https://customerservice.costco.com/app/answers/list/p/2169/categoryRecordID/RN_PRODUCT_2169"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 33,
+   "cost": {
+    "input_tokens_cost": 0.0011099999999999999,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00388
+   },
+   "prompt_tokens": 139,
+   "search_context_size": "low",
+   "total_tokens": 172
+  }
+ }
+}

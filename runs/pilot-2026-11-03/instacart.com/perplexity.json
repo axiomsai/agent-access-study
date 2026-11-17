@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.instacart.com/categories",
+  "https://www.instacart.com/",
+  "https://www.instacart.com/categories/1728-baby",
+  "https://www.instacart.com/categories/316-food?page=12869",
+  "https://www.instacart.com/store/giant-food-stores/collections/party-gifts",
+  "https://www.instacart.com/store/academy-sports-outdoors/collections/3108-other-goods",
+  "https://www.instacart.com/landing",
+  "https://www.instacart.com/store/walgreens/s?k=walgreens",
+  "https://www.instacart.com/categories/1361-household-essentials?page=490",
+  "https://www.instacart.com/categories/1764-office-supplies/2653-workspace-supplies/2659-workspace-accessories/2668-clips/3632-paper-clips?brand=smart-living"
+ ],
+ "cited_store": true,
+ "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n\nGrocery",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n\nGrocery",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.instacart.com/categories",
+   "https://www.instacart.com/",
+   "https://www.instacart.com/categories/1728-baby",
+   "https://www.instacart.com/categories/316-food?page=12869",
+   "https://www.instacart.com/store/giant-food-stores/collections/party-gifts",
+   "https://www.instacart.com/store/academy-sports-outdoors/collections/3108-other-goods",
+   "https://www.instacart.com/landing",
+   "https://www.instacart.com/store/walgreens/s?k=walgreens",
+   "https://www.instacart.com/categories/1361-household-essentials?page=490",
+   "https://www.instacart.com/categories/1764-office-supplies/2653-workspace-supplies/2659-workspace-accessories/2668-clips/3632-paper-clips?brand=smart-living"
+  ],
+  "created": 1793749494,
+  "id": "resp_5ce31a7b-d99f-42d0-9fcd-b03a1ed02627",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Same-Day Delivery or Pickup on Grocery, Alcohol, Home Essentials & More | Instacart\n# Same-day delivery and pickup options by Instacart are available from these categories and more",
+    "source": "web",
+    "title": "Produce",
+    "url": "https://www.instacart.com/categories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n# Order groceries for delivery or pickup today\n## All stores in San Francisco Bay Area\n### Choose what you want\nSelect items from your favorite grocery stores at Instacart.com or in the app.",
+    "source": "web",
+    "title": "Value Corner Pancake Syrup, Original - Instacart",
+    "url": "https://www.instacart.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Baby Products Near Me - Delivery or Pickup | Instacart\n...\n# Baby Delivery or Pickup",
+    "source": "web",
+    "title": "Baby Products Near Me - Delivery or Pickup | Instacart",
+    "url": "https://www.instacart.com/categories/1728-baby"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Food Products Near Me - Delivery or Pickup | Page 12869 | Instacart\n# Food Delivery or Pickup",
+    "source": "web",
+    "title": "Food Products Near Me - Delivery or Pickup | Page 12869 | Instacart",
+    "url": "https://www.instacart.com/categories/316-food?page=12869"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "GIANT Party & Gift Supplies Same-Day Delivery or Pickup | Instacart\n...\n# Party & Gift Supplies\n- ## Tasty Meets Veggie\n- Current price: $6.99$699",
+    "source": "web",
+    "title": "GIANT Party & Gift Supplies Same-Day Delivery or Pickup - Instacart",
+    "url": "https://www.instacart.com/store/giant-food-stores/collections/party-gifts"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Academy Sports + Outdoors Other Goods Same-Day Delivery | Instacart\n94105\n...\n## Academy Sports + Outdoors\n# Other Goods\n- Current price: $18.99$1899\n### Gatorade Thirst Quencher, Lemon Lime, Fruit Punch, Orange, 18 Pack\n18 x 12 fl oz\n- - Low calorie\nCurrent price: $12.99$1299\n### Bloom Raspberry Le...",
+    "source": "web",
+    "title": "Academy Sports + Outdoors Other Goods Same-Day Delivery",
+    "url": "https://www.instacart.com/store/academy-sports-outdoors/collections/3108-other-goods"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Instacart\n...\nItem isn't available in 94105\n...\n## Departments\n### Frozen",
+    "source": "web",
+    "title": "Instacart",
+    "url": "https://www.instacart.com/landing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Walgreens Walgreens Delivery Near Me | Instacart\nDelivery by 2:44-3:21am\n...\n# Results for \"walgreens\"\n- - Store choice\n- Best seller",
+    "source": "web",
+    "title": "Walgreens Walgreens Delivery Near Me | Instacart",
+    "url": "https://www.instacart.com/store/walgreens/s?k=walgreens"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Household Essentials Products Near Me - Delivery or Pickup | Page 490 | Instacart\n# Household Essentials Delivery or Pickup\n...\n## Household Essentials Near Me\nBuy your favorite Household Essentials online with Instacart.\nOrder Cleaners, Empty Spray Bottles, Laundry, and more from local and national...",
+    "source": "web",
+    "title": "Household Essentials Products Near Me - Delivery or Pickup",
+    "url": "https://www.instacart.com/categories/1361-household-essentials?page=490"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Smart Living Paper Clips Delivery or Pickup\n## Smart Living Paper Clips Near Me\nBuy your favorite Smart Living Paper Clips online with Instacart.\nOrder Smart Living Paper Clips from local and national retailers near you and enjoy on-demand, contactless delivery or pickup within 2 hours.\n...\n## FAQ...",
+    "source": "web",
+    "title": "Smart Living Paper Clips Delivery or Pickup - Instacart",
+    "url": "https://www.instacart.com/categories/1764-office-supplies/2653-workspace-supplies/2659-workspace-accessories/2668-clips/3632-paper-clips?brand=smart-living"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.0006399999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00319
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 75
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/276582090868",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110590622862&_ssn=testuser_truehiddendev&_sop=16&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/184112/i.html?_ssn=testuser_nomar_seller&_udhi=350&LH_All=1&LH_FS=0&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_FS=1&_dmd=2&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/182017/i.html?_ssn=testuser_nomar_seller&_udlo=45&LH_FS=0&_dmd=1&_oac=1&LH_BOPIS=1&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_All=1&_oac=1&LH_FS=1&LH_PrefLoc=98"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/276582090868",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110590622862&_ssn=testuser_truehiddendev&_sop=16&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/184112/i.html?_ssn=testuser_nomar_seller&_udhi=350&LH_All=1&LH_FS=0&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_FS=1&_dmd=2&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/182017/i.html?_ssn=testuser_nomar_seller&_udlo=45&LH_FS=0&_dmd=1&_oac=1&LH_BOPIS=1&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_All=1&_oac=1&LH_FS=1&LH_PrefLoc=98"
+  ],
+  "created": 1794080098,
+  "id": "resp_9ffb71d5-04da-4955-9122-3a78da7b095e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-01-30",
+    "place_metadata": null,
+    "snippet": "This vacuum cleaner surpasses all previous models we've owned, including Dyson, which was bulky and weighty.\nThe contemporary design is remarkably stylish, and its vacuuming capabilities are outstanding.\nIts lightweight build, cordless operation, convenient wall-mounted charging, and exceptional per...",
+    "source": "web",
+    "title": "Dyson V15 Detect Total Clean Extra",
+    "url": "https://www.ebay.com/itm/276582090868"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(112) (112) Items\n...\n# 112 results\n...\n- Buy It Now\n...\n- PLASTIC ECCENTRIC ESSEDUE ø 56 mm essaff0040",
+    "source": "web",
+    "title": "112 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-01",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_truehiddendev | eBay\n...\n## Filter\n- **All** - Computers, Tablets & Network Hardware\n- Business & Industrial",
+    "source": "web",
+    "title": "53 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110590622862&_ssn=testuser_truehiddendev&_sop=16&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 10 results\n- SOLENOID VALVE SAMSUNG DD81-02265A DD82-01588A",
+    "source": "web",
+    "title": "10 results",
+    "url": "https://www.sandbox.ebay.com/sch/184112/i.html?_ssn=testuser_nomar_seller&_udhi=350&LH_All=1&LH_FS=0&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# 117 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- HAND EDIT RANCILIO 36301030 FILTER HOLDER GASKET",
+    "source": "web",
+    "title": "117 results",
+    "url": "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&_oac=1&LH_FS=1&_dmd=2&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(297) (297) Items\n...\n# 297 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "297 results",
+    "url": "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- Buy It Now(14) (14) Items\n...\n# 14 results\n...\n- Buy It Now\n...\n- Under $15.00Remove filter",
+    "source": "web",
+    "title": "14 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n# 9 results\n...\n- Buy It Now\n...\n- Over $45.00Remove filter\n...\n- MOTOR EBM-PAPST M4Q045-CF01-75 230V 50/60HZ for Manitowoc Ice 2000219\nBrand New",
+    "source": "web",
+    "title": "9 results",
+    "url": "https://www.sandbox.ebay.com/sch/182017/i.html?_ssn=testuser_nomar_seller&_udlo=45&LH_FS=0&_dmd=1&_oac=1&LH_BOPIS=1&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(11) (11) Items",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_All=1&_oac=1&LH_FS=1&LH_PrefLoc=98"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00096,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00366
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

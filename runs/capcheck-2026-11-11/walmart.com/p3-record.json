@@ -1,0 +1,25 @@
+{
+ "domain": "walmart.com",
+ "idx": 3,
+ "url": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15410 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15410,
+   "input_tokens": 44317,
+   "cost_usd": 0.19365
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "84281 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 199.0,
+   "opened": "YES",
+   "doc_chars": 84281,
+   "input_tokens": 40289,
+   "cost_usd": 0.17642
+  }
+ }
+}

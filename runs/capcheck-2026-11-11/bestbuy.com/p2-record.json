@@ -1,0 +1,25 @@
+{
+ "domain": "bestbuy.com",
+ "idx": 2,
+ "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "9434 chars, copy dated 2026-11-11 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9434,
+   "input_tokens": 34031,
+   "cost_usd": 0.15608
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "9434 chars, copy dated 2026-11-11 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9434,
+   "input_tokens": 38776,
+   "cost_usd": 0.17426
+  }
+ }
+}

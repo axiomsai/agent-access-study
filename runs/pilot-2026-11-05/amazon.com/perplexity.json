@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+  "https://www.amazon.com/dp/B0B3HPRRQY",
+  "https://docs.aws.amazon.com/pdfs/marketplace/latest/userguide/aws-marketplace-ug.pdf",
+  "https://sellercentral.amazon.com/help/hub/reference/external/GYTR6SYGFA5E3EQC?locale=en-US",
+  "https://www.amazon.com/b?node=51812349011",
+  "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery",
+  "https://www.amazon.com/dp/B0BTPYCD86",
+  "https://www.amazon.com/dp/B0DQTTKQK1",
+  "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html",
+  "https://www.amazon.com/dp/B00F8HUDHA"
+ ],
+ "cited_store": true,
+ "answer": "Title: Amazon.com  \nCategory: Home & Kitchen[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Title: Amazon.com  \nCategory: Home & Kitchen[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+   "https://www.amazon.com/dp/B0B3HPRRQY",
+   "https://docs.aws.amazon.com/pdfs/marketplace/latest/userguide/aws-marketplace-ug.pdf",
+   "https://sellercentral.amazon.com/help/hub/reference/external/GYTR6SYGFA5E3EQC?locale=en-US",
+   "https://www.amazon.com/b?node=51812349011",
+   "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery",
+   "https://www.amazon.com/dp/B0BTPYCD86",
+   "https://www.amazon.com/dp/B0DQTTKQK1",
+   "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html",
+   "https://www.amazon.com/dp/B00F8HUDHA"
+  ],
+  "created": 1793905810,
+  "id": "resp_7e675832-311d-40cc-862b-80b09354bcda",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Foldable Banana Hanger, Metal Banana Holder, Hold 20 Bananas, Space-Saving Design, Folding with Magnets When Not in Use : Home & Kitchen\n- Home & Kitchen\n...\n- Storage & Organization\n...\nThis item cannot be shipped ...",
+    "source": "web",
+    "title": "Adhesive Banana Hook Under Cabinet, Under ... - Amazon.com",
+    "url": "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "We're here to help you move seamlessly through the dynamic mix of environments that make up your days.",
+    "source": "web",
+    "title": "3.5L large dopp kit made with water-resistant materials for your travel toiletries : Beauty & Personal Care",
+    "url": "https://www.amazon.com/dp/B0B3HPRRQY"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# AWS Marketplace\n## Complaint escalation\nmanagement first received the complaint.\n...\n## AWS Partner Assistant\nYou can provide content to AWS Partner Assistant in the following ways:\n• A product website URL.\nFor best results, provide the URL of a specific product page rather than a generic landing ...",
+    "source": "web",
+    "title": "AWS Marketplace - Seller Guide",
+    "url": "https://docs.aws.amazon.com/pdfs/marketplace/latest/userguide/aws-marketplace-ug.pdf"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Product title requirements and guidelines\n## Troubleshooting\nGo to the Manage All Inventory dashboard.\n2. Locate the blocked title.\n3. Edit the title to remove any policy violations (such as prohibited characters, promotional content, or excessive repetition).",
+    "source": "web",
+    "title": "Product title requirements and guidelines",
+    "url": "https://sellercentral.amazon.com/help/hub/reference/external/GYTR6SYGFA5E3EQC?locale=en-US"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Your recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=51812349011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "The API allows you to refine the search results using various filters, such as title, ASIN, and eligibility.",
+    "source": "web",
+    "title": "Discovery - Product and Product Category",
+    "url": "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "3 sustainability features Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Recording, Streaming, Podcasting, Studio and Computer Condenser Mic with Blue VO!CE effects, 4 Pickup Patterns, Plug and Play - Blackout 4.6 out of 5 stars 57,177 Get it as soon as Tuesday, Nov 3 FREE Shipping ...",
+    "source": "web",
+    "title": "Amazon.com: SENNHEISER Professional Profile - USB Cardioid Condenser Microphone & Table Stand, 1.2 m USB-C Cable - Mute Button, Built-in Headphone Jack, Gain, Mix & Volume Control, for PC & Mac,Black : Musical Instruments",
+    "url": "https://www.amazon.com/dp/B0BTPYCD86"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "TYMO is a beauty and fashion brand specializing in developing hair styling tools (Hair Straightening Brushes, Flat Irons, Hot Air Brush).",
+    "source": "web",
+    "title": "Rechargeable Beach Waves Curling Wand for Travel, 200M Ionic, Dual Voltage, Tangle-Free, Ceramic Coating, 1 Inch, Gold Blush : Beauty & Personal Care",
+    "url": "https://www.amazon.com/dp/B0DQTTKQK1"
+   },
+   {
+    "date": "2023-11-28",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "## OpenURL\n*`OpenURL` requires APL 1.1 or later.\nProvide an alternate experience for devices running older versions of APL.*\nOpen a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on th...",
+    "source": "web",
+    "title": "APL Standard Commands (APL 2022.2) | Alexa Skills Kit",
+    "url": "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-2.html"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "To move between items, use your keyboard's up or down arrows.",
+    "source": "web",
+    "title": "11 results for \"BBQ Sauce - Ogre Sauce - All-Purpose Craft Barbecue Sauce - Award Winning - Best Sauce You've Ever Had\"",
+    "url": "https://www.amazon.com/dp/B00F8HUDHA"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 13,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00337
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 69
+  }
+ }
+}

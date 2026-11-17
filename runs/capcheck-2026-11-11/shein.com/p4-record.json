@@ -1,0 +1,25 @@
+{
+ "domain": "shein.com",
+ "idx": 4,
+ "url": "https://us.shein.com/Satin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded but showed no product content, only an empty shell)",
+   "doc_chars": 135,
+   "input_tokens": 15922,
+   "cost_usd": 0.07159
+  },
+  "B_uncapped": {
+   "verdict": "served_thin",
+   "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page returned an empty shell with no product content)",
+   "doc_chars": 135,
+   "input_tokens": 15920,
+   "cost_usd": 0.07164
+  }
+ }
+}

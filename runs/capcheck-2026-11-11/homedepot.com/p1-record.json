@@ -1,0 +1,25 @@
+{
+ "domain": "homedepot.com",
+ "idx": 1,
+ "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15190 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 519.0,
+   "opened": "YES",
+   "doc_chars": 15190,
+   "input_tokens": 38927,
+   "cost_usd": 0.17105
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "17925 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 519.0,
+   "opened": "YES",
+   "doc_chars": 17925,
+   "input_tokens": 31675,
+   "cost_usd": 0.14166
+  }
+ }
+}

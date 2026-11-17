@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/p/dunkin-12-ounce-caffeine-ground-original-blend-each/0088133400046",
+  "https://www.kroger.com/q/coffee+dunkin",
+  "https://www.kroger.com/q/dunkin+coffee+kcup",
+  "https://www.kroger.com/q/coffeea",
+  "https://www.kroger.com/q/coffee",
+  "https://www.kroger.com/pb/dunkin-/ground-coffee/0400300003",
+  "https://www.kroger.com/q/k+cup+dunkin+donut+coffee",
+  "https://www.kroger.com/pdp-sitemap/kroger-product-details-sitemap-2.xml",
+  "https://www.kroger.com/q/flavored+ground+coffee",
+  "https://www.kroger.com/q/whole+bean"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Dunkin’ Original Blend Medium Roast Ground Coffee | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Dunkin’ Original Blend Medium Roast Ground Coffee | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/p/dunkin-12-ounce-caffeine-ground-original-blend-each/0088133400046",
+   "https://www.kroger.com/q/coffee+dunkin",
+   "https://www.kroger.com/q/dunkin+coffee+kcup",
+   "https://www.kroger.com/q/coffeea",
+   "https://www.kroger.com/q/coffee",
+   "https://www.kroger.com/pb/dunkin-/ground-coffee/0400300003",
+   "https://www.kroger.com/q/k+cup+dunkin+donut+coffee",
+   "https://www.kroger.com/pdp-sitemap/kroger-product-details-sitemap-2.xml",
+   "https://www.kroger.com/q/flavored+ground+coffee",
+   "https://www.kroger.com/q/whole+bean"
+  ],
+  "created": 1794249855,
+  "id": "resp_70e3c02e-703e-43cb-90f5-49c7fc55324a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Dunkin’ Original Blend Medium Roast Ground Coffee, 12 Ounces - Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# Dunkin’ Original Blend Medium Roast Ground Coffee\n4.67 383\nUPC: 0088133400046\nLocated in AISLE 10\nLow Stock\n$11.99$11.99\n$1.00/oz\n## SNAP EBT Eligible Item\n### Item Availability\nPickupAvail...",
+    "source": "web",
+    "title": "Kroger - Dunkin’ Original Blend Medium Roast Ground Coffee, 12 Ounces",
+    "url": "https://www.kroger.com/p/dunkin-12-ounce-caffeine-ground-original-blend-each/0088133400046"
+   },
+   {
+    "date": "2026-10-22",
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# coffee dunkin\n## 411 results\n411 products loaded\n...\n$7.99$11.99Sale: $7.99 discounted from $11.99\n$0.67/oz\nDunkin’ Original Blend Medium Roast Ground Coffee\n12 Ounces\nSNAP EBT\nSave $1 each when you buy 5 or moreView Offer\n...\nExp.\nOct. 27 - 4 days left!\n$17.79$17.79\n$0.99/oz\nDunkin’ Original Blen...",
+    "source": "web",
+    "title": "coffee dunkin - Kroger",
+    "url": "https://www.kroger.com/q/coffee+dunkin"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "$7.99$10.99Sale: $7.99 discounted from $10.99\n...\nDunkin’ Original Blend Medium Roast Coffee, K-Cup Pods\n3.7 Ounces\nSNAP EBT\n...\n### Save $1 each when you buy 5 or more\nExp.\nOct. 27\n$25.99$25.99\n$25.99/oz\nDunkin’ Original Blend Medium Roast Ground Coffee\n30 Ounces\nSNAP EBT\nLow Stock\n$29.99$30.99Sale...",
+    "source": "web",
+    "title": "dunkin coffee kcup - Kroger",
+    "url": "https://www.kroger.com/q/dunkin+coffee+kcup"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Dunkin’ Original Blend Medium Roast Ground Coffee\n12 Ounces\nSNAP EBT\nLow Stock\nPrice Cut\n$6.00$6.99Sale: $6.00 discounted from $6.99\n$0.55/oz\n...\nDunkin’ Original Blend Medium Roast Ground Coffee\n18 Ounces\nSNAP EBT\nLow Stock\nSave $2 each when you buy 3 or moreView Offer\n...\n$25.99/oz\nDunkin’ Origina...",
+    "source": "web",
+    "title": "coffeea - Kroger",
+    "url": "https://www.kroger.com/q/coffeea"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "### Dunkin’ Original Blend Medium Roast Ground Coffee\nAisle 10\n$13.99$13.99\n$1.33/oz",
+    "source": "web",
+    "title": "Coffee - Kroger",
+    "url": "https://www.kroger.com/q/coffee"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Filters\n#### Filter By\n(1)LavAzza (4)Maxwell House (8)McCafé (4)New England (1)Peet's® (11)Private Selection (10)Seattle's Best (12)Simple Truth Organic (2)Starbucks (20)The Original Donut Shop (4)UR (1)Wicked Joe (2)Yuban (1)illy (1)\n- AvailabilityIn-Stock Items Only (8)\n...\n# Dunkin' Ground Cof...",
+    "source": "web",
+    "title": "Dunkin' Ground Coffee in Beverages Department - Kroger",
+    "url": "https://www.kroger.com/pb/dunkin-/ground-coffee/0400300003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### Dunkin’ Original Blend Medium Roast Coffee, K-Cup Pods\nAisle 10\n$24.99$30.99Sale: $24.99 discounted from $30.99\n$0.78/each\n### Dunkin’ Original Blend Medium Roast Coffee, K-Cup Pods\nSave $2 each when you buy 3 or moreView 1 Offer\nAisle 10\n$9.99$10.99Sale: $9.99 discounted from $10.99\n$1.00/each\n...",
+    "source": "web",
+    "title": "k cup dunkin donut coffee",
+    "url": "https://www.kroger.com/q/k+cup+dunkin+donut+coffee"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046\nhttps://www.kroger.com/p/dunkin-vanilla-artificially-flavored-ground-coffee/0088133400047\nhttps://www.kroger.com/p/dunkin-hazelnut-artificially-flavored-ground-coffee/0088133400049\n…\n...\nhttps://www.kroger.com/p/...",
+    "source": "web",
+    "title": "kroger-product-details-sitemap-2.xml",
+    "url": "https://www.kroger.com/pdp-sitemap/kroger-product-details-sitemap-2.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# flavored ground coffee\n## 419 results\n### Dunkin’ Original Blend Medium Roast Ground Coffee\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Flavored Ground Coffee - Kroger",
+    "url": "https://www.kroger.com/q/flavored+ground+coffee"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# whole bean\n## 247 results\n247 products loaded\nAisle 10\n$11.99$11.99\n$1.00/oz\n### Dunkin’ Original Blend Medium Roast Whole Bean Coffee\nAisle 10\n$14.99$17.79Sale: $14.99 discounted from $17.79\n$0.83/oz\n### Dunkin’ Original Blend Medium Roast Whole Bean Coffee\nSave $2 each when you buy 3 or moreView...",
+    "source": "web",
+    "title": "whole bean",
+    "url": "https://www.kroger.com/q/whole+bean"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 29,
+   "cost": {
+    "input_tokens_cost": 0.00143,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00417
+   },
+   "prompt_tokens": 127,
+   "search_context_size": "low",
+   "total_tokens": 156
+  }
+ }
+}

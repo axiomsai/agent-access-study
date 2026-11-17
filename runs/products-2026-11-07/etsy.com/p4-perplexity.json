@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/c/clothing",
+  "https://www.etsy.com/market/etsy_shop_search",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/listing/1726114728/embroidered-silly-goose-sweatshirt?ls=r&pro=1&content_source=824ec84b18937f6af05a7e75478348fc%253ALTdad59ef2577c3957f33075feefa9838048df1c6e",
+  "https://www.etsy.com/market/handmade",
+  "https://www.etsy.com/market/personalized",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/seller-handbook/search/listings"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/c/clothing",
+   "https://www.etsy.com/market/etsy_shop_search",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/listing/1726114728/embroidered-silly-goose-sweatshirt?ls=r&pro=1&content_source=824ec84b18937f6af05a7e75478348fc%253ALTdad59ef2577c3957f33075feefa9838048df1c6e",
+   "https://www.etsy.com/market/handmade",
+   "https://www.etsy.com/market/personalized",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/seller-handbook/search/listings"
+  ],
+  "created": 1794080119,
+  "id": "resp_c29e9847-8770-42a4-a69c-d16fadce61b7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4432045135/jewish-mama-sweatshirt-cozy-crewneck\n(25)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Clothing - Etsy\n...\n- ### Custom Handmade Embroidery Sweaters, Baby Name Sweater, Knitted Baby Sweater, Baby Winter Jumper, Kids Flower Sweater, Kids Birthday Gift\n...\nStar Seller",
+    "source": "web",
+    "title": "Clothing",
+    "url": "https://www.etsy.com/c/clothing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy Shop Search - Etsy\n# Etsy Shop Search\n- ## When Will I Get a Job?\n...\n- ## How To Sell Products And Rank 1st On Etsy Search Page, Etsy Shop Seller Help Selling Guide, How To Rank On Etsy Shop Seller Handbook",
+    "source": "web",
+    "title": "Etsy Shop Search",
+    "url": "https://www.etsy.com/market/etsy_shop_search"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\n(1,000+ items)\n- ### Used Car History Report | Fast Delivery",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Accessories - Etsy\n# Accessories\n- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Embroidered Silly Goose Sweatshirt Embroidered Goose Crewneck Sweatshirt Silly Goose Shirt Funny Sweatshirt Funny Embroidered Shirt Gift - Etsy\n- Clothing\n- Try to refresh the page or come back later.\n# Embroidered Silly Goose Sweatshirt Embroidered Goose Crewneck Sweatshirt Silly Goose Shirt Funny ...",
+    "source": "web",
+    "title": "Embroidered Silly Goose Sweatshirt Embroidered Goose Crewneck Sweatshirt Silly Goose Shirt Funny Sweatshirt Funny Embroidered Shirt Gift - Etsy",
+    "url": "https://www.etsy.com/listing/1726114728/embroidered-silly-goose-sweatshirt?ls=r&pro=1&content_source=824ec84b18937f6af05a7e75478348fc%253ALTdad59ef2577c3957f33075feefa9838048df1c6e"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Handmade - Etsy\n# Handmade\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Handmade - Etsy",
+    "url": "https://www.etsy.com/market/handmade"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Personalized - Etsy\n# Personalized\n5,000+ items\n...\n- ## Personalized Bamboo Cutting Board, Engraved Wedding Charcuterie Board, Custom Christmas Gift, Gift for Her, Family Gift, Gifts for Parents",
+    "source": "web",
+    "title": "Personalized - Etsy",
+    "url": "https://www.etsy.com/market/personalized"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Etsy Com Shop\n- ## Vintage 32 In X Long CHRISTMAS Pillow BOLSTER Whimsical Artist Coco Dowley Tapestry SPARKLY Red Thread Rare www.etsy.com/shop/K1VINTAGE",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Seller Handbook - Search: listings\n# listings\n(194 results)",
+    "source": "web",
+    "title": "Seller Handbook - Search: listings - Etsy",
+    "url": "https://www.etsy.com/seller-handbook/search/listings"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00078,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00348
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

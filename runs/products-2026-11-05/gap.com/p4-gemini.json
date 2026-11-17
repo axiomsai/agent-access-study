@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/browse/product.do?pid=1184966022",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00021,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TgpsBmjuHFEZK0OWH/KHG6oyUyszT2pIPyzy5hdlgMe/XeziwT3HZK0SkLtIdAj/BmtpusEJjR3O5fMG8U96iLP95i6aEQ66vDA0HQycGiUJrTaHBBOG2FCby5Uv5NcV3Z/Vl2xVzkrAzmn7Y"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/browse/product.do?pid=1184966022",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 133,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 1878,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 133
+    }
+   ],
+   "toolUsePromptTokenCount": 1681,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1681
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ytvsavWtIaqKqtsPpdXCkQo"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+  "https://www.wayfair.com/decor-pillows/sb2/outdoor-red-wreaths-c477258-a124283~393427-a124289~393435.html",
+  "https://www.wayfair.com/decor-pillows/sb0/wreaths-c477258.html",
+  "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-lighted-wreath-w100657053.html?piid=484124750,525410254",
+  "https://www.wayfair.com/decor-pillows/sb1/wreaths-on-sale-c477258-a124291~8.html",
+  "https://www.wayfair.com/brand/bnd/the-holiday-aisle-b39582.html",
+  "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-wreath-w006619684.html",
+  "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-lighted-pvc-wreath-w006692901.html",
+  "https://www.wayfair.com/decor-pillows/cat/decor-pillows-c45752.html",
+  "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-christmas-wreath-w112007773.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Johnavan Faux Evergreen 32'' Holiday Wreath | PRICE: $273.10 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Johnavan Faux Evergreen 32'' Holiday Wreath | PRICE: $273.10 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+   "https://www.wayfair.com/decor-pillows/sb2/outdoor-red-wreaths-c477258-a124283~393427-a124289~393435.html",
+   "https://www.wayfair.com/decor-pillows/sb0/wreaths-c477258.html",
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-lighted-wreath-w100657053.html?piid=484124750,525410254",
+   "https://www.wayfair.com/decor-pillows/sb1/wreaths-on-sale-c477258-a124291~8.html",
+   "https://www.wayfair.com/brand/bnd/the-holiday-aisle-b39582.html",
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-wreath-w006619684.html",
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-lighted-pvc-wreath-w006692901.html",
+   "https://www.wayfair.com/decor-pillows/cat/decor-pillows-c45752.html",
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-christmas-wreath-w112007773.html"
+  ],
+  "created": 1794082288,
+  "id": "resp_22ac9b84-691b-4098-a8a9-cfaabb9574a2",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-07-25",
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath & Reviews | Wayfair\n48-Hour Clearance\n1. Decor & Pillows/\n2. Flowers & Plants/\n3. Wreaths/\n4. SKU: W100387869\n...\n# Johnavan Faux Evergreen 32'' Holiday Wreath\nByThe Holiday Aisle®\n4.9\nRated 4.9 out of 5 stars.\n112 Reviews\n...\n$273.10\nwa...",
+    "source": "web",
+    "title": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html"
+   },
+   {
+    "date": "2026-10-08",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "## Johnavan Faux Evergreen 32'' Holiday Wreath\nBy The Holiday Aisle®\n(112)\nRated 4.9 out of 5 stars.112 total votes\n$273.08\nwas~~$292.04~~\nFREE 2-Day Delivery\nGet it by Wed, Oct 14\nQuickview\nThis faux evergreen holiday wreath brings a festive look to your space with its lush, 32-inch base.\nIt’s pre-...",
+    "source": "web",
+    "title": "Outdoor Red Wreaths You'll Love",
+    "url": "https://www.wayfair.com/decor-pillows/sb2/outdoor-red-wreaths-c477258-a124283~393427-a124289~393435.html"
+   },
+   {
+    "date": "2026-11-06",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Daisy Lavender Grapevine 26\" Front Door Wreath\nBy The Holiday Aisle®\n(709)\nRated 4.8 out of 5 stars.709 total votes\n$58.99\nwas~~$61.99~~\n...\n## Faux Lighted Wreath\nBy The Holiday Aisle®\n3.1\" W x 36\" H x 36\" D, Green",
+    "source": "web",
+    "title": "Door Wreath & Door Reef | Way Day™: up to 80% off",
+    "url": "https://www.wayfair.com/decor-pillows/sb0/wreaths-c477258.html"
+   },
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "The Holiday Aisle® Faux Lighted Wreath & Reviews | Wayfair\n48-Hour Clearance\n1. Decor & Pillows/\n2. Flowers & Plants/\n3. Wreaths/\n4. SKU: W100657053\n...\nRated 4.7 out of 5 stars.\n...\n# Faux Lighted Wreath\nByThe Holiday Aisle®\n4.7\n...\nSize:\n3.1\" W x 36\" H x 36\" D\n3.1\" W x 36\" H x 36\" D\n3.1\" W x 47.2\"...",
+    "source": "web",
+    "title": "The Holiday Aisle® Faux Lighted Wreath & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-lighted-wreath-w100657053.html?piid=484124750,525410254"
+   },
+   {
+    "date": "2026-04-08",
+    "last_updated": "2026-05-06",
+    "place_metadata": null,
+    "snippet": "By The Holiday Aisle®\nOrange\nRated 4.8 out of 5 stars.344 total votes\n...\nThis artificial wreath brings a fresh botanical look to your entryway or living room.\nIt features a handcrafted design made from a blend of plastic, foam, and paper to create lifelike greenery and floral accents.\nThe arrangeme...",
+    "source": "web",
+    "title": "Wreaths On Sale | Front Door Wreaths - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/sb1/wreaths-on-sale-c477258-a124291~8.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Bright and Festive Outdoor Décor for a Magical Holiday Season\nCreate a magical winter wonderland with outdoor holiday decor.\nFrom faux garlands and wreaths to inflatable designs and lighted displays, our festive decor collection is sure to brighten up your outdoor space all season long!\n...\n## 24...",
+    "source": "web",
+    "title": "The Holiday Aisle® - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/the-holiday-aisle-b39582.html"
+   },
+   {
+    "date": "2025-01-03",
+    "last_updated": "2025-09-20",
+    "place_metadata": null,
+    "snippet": "Faux 30'' Wreath\n$83.99\nAdapt Adjustable Length Wreath Hanger\n$27.99\nBuy Both: $111.98\nGet it by Thu, Sep 25\n...\nRated 4.3 out of 5 stars.\nShowing 1-8 of 8 reviews\nRated 5 out of 5 stars.\nRated 4 out of 5 stars.\nRated 5 out of 5 stars.",
+    "source": "web",
+    "title": "The Holiday Aisle® 30\" Wreath & Reviews - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-wreath-w006619684.html"
+   },
+   {
+    "date": "2022-01-21",
+    "last_updated": "2025-09-20",
+    "place_metadata": null,
+    "snippet": "Handcrafted Faux Lighted Mixed Assortment 30'' Wreath\n$94.99\nAdapt Adjustable Length Wreath Hanger\n$27.99\nBuy Both: $122.98\nFREE Delivery\n...\nRated 4.8 out of 5 stars.\nShowing 1-4 of 4 reviews\nRated 5 out of 5 stars.",
+    "source": "web",
+    "title": "The Holiday Aisle® 30\" Lighted PVC Wreath - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-30-lighted-pvc-wreath-w006692901.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Decor & Pillows\nWall Décor\nDecorative Pillows & Blankets",
+    "source": "web",
+    "title": "Decor & Pillows",
+    "url": "https://www.wayfair.com/decor-pillows/cat/decor-pillows-c45752.html"
+   },
+   {
+    "date": "2024-12-03",
+    "last_updated": "2025-09-23",
+    "place_metadata": null,
+    "snippet": "Faux Christmas Wreath\n$64.99\nWreath Storage Bag\n$13.99\nBuy Both: $78.98\n...\nRated 4.7 out of 5 stars.\nShowing 1-6 of 6 reviews\nRated 5 out of 5 stars.\nRated 4 out of 5 stars.\n...\nRated 5 out of 5 stars.",
+    "source": "web",
+    "title": "The Holiday Aisle® Faux Christmas Wreath & Reviews - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-faux-christmas-wreath-w112007773.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 31,
+   "cost": {
+    "input_tokens_cost": 0.00157,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00434
+   },
+   "prompt_tokens": 138,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

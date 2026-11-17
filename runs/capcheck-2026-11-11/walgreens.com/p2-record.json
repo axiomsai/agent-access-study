@@ -1,0 +1,25 @@
+{
+ "domain": "walgreens.com",
+ "idx": 2,
+ "url": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "12929 chars, copy dated 2026-11-07 (4 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12929,
+   "input_tokens": 39386,
+   "cost_usd": 0.17194
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "12786 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12786,
+   "input_tokens": 44269,
+   "cost_usd": 0.19074
+  }
+ }
+}

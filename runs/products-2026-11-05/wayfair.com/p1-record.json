@@ -1,0 +1,60 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+ "idx": 1,
+ "at": "2026-11-05T13:35:53-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15698 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:35:58+00:00",
+   "age_days": 0,
+   "cost_usd": 0.23216
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+   "price": 619.99,
+   "price_raw": "$619.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00103
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+   "price": 629.99,
+   "price_raw": "$629.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02324
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page details did not show current price or stock status",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

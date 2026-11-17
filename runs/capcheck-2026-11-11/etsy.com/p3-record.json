@@ -1,0 +1,25 @@
+{
+ "domain": "etsy.com",
+ "idx": 3,
+ "url": "https://www.etsy.com/listing/4553600871",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "17922 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 125.0,
+   "opened": "YES",
+   "doc_chars": 17922,
+   "input_tokens": 22839,
+   "cost_usd": 0.10054
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "24619 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 125.0,
+   "opened": "YES",
+   "doc_chars": 24619,
+   "input_tokens": 22594,
+   "cost_usd": 0.09944
+  }
+ }
+}

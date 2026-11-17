@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/",
+  "https://www.wayfair.com/lighting/sb0/lamp-shades-c1801922.html",
+  "https://www.wayfair.com/furniture/sb1/standard-display-china-cabinets-c415179-a151219~495331.html",
+  "https://www.wayfair.com/bed-bath/sb0/mattresses-c544552.html",
+  "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html",
+  "https://www.wayfair.com/furniture/sb0/bookcases-c1780385.html",
+  "https://www.wayfair.com/furniture/sb1/solid-wood-dressers-chests-c46091-a73503~442217.html",
+  "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html",
+  "https://www.wayfair.com/discover",
+  "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+ ],
+ "cited_store": true,
+ "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Mattresses.",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Mattresses.",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/",
+   "https://www.wayfair.com/lighting/sb0/lamp-shades-c1801922.html",
+   "https://www.wayfair.com/furniture/sb1/standard-display-china-cabinets-c415179-a151219~495331.html",
+   "https://www.wayfair.com/bed-bath/sb0/mattresses-c544552.html",
+   "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html",
+   "https://www.wayfair.com/furniture/sb0/bookcases-c1780385.html",
+   "https://www.wayfair.com/furniture/sb1/solid-wood-dressers-chests-c46091-a73503~442217.html",
+   "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html",
+   "https://www.wayfair.com/discover",
+   "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+  ],
+  "created": 1794248365,
+  "id": "resp_71cec684-d11c-468b-8fef-076aa8af9eda",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "source": "web",
+    "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "url": "https://www.wayfair.com/"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Show Related CategoriesCategory\n- Table & Floor Lamps\n- Lamp Shades",
+    "source": "web",
+    "title": "Lamp Shades | Standing Lamp & Pretty Lampshades - Wayfair",
+    "url": "https://www.wayfair.com/lighting/sb0/lamp-shades-c1801922.html"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Standard Display & China Cabinets You'll Love | Wayfair\nFast & Free Shipping Over $35*\n- Kitchen & Dining Furniture\n- Display & China Cabinets\n...\n# Standard Display & China Cabinets\n- Standard (45 - 90 in.)\n- Standard (45 - 90 in.)\n- Standard Display & China Cabinets On Sale\n- Standard Display & Ch...",
+    "source": "web",
+    "title": "www.wayfair.com · furniture · sb1Standard Display & China Cabinets You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/standard-display-china-cabinets-c415179-a151219~495331.html"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Mattresses You'll Love | Wayfair\nFast & Free Shipping Over $35*\n- Mattresses & Foundations\n1. Bed & Bath/\n2. Mattresses & Foundations/\n3. All Mattresses\n# Mattresses\n## 12\" Medium Cooling Gel Memory Foam Mattress - Sleep by Wayfair™",
+    "source": "web",
+    "title": "Mattresses You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/bed-bath/sb0/mattresses-c544552.html"
+   },
+   {
+    "date": "2026-09-21",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Room Dividers\n## Room Divider 6 Ft. Tall Wide Privacy Screen, Folding Privacy Screens Freestanding Mocha",
+    "source": "web",
+    "title": "Room Dividers | Room Divider Screen & Wall Divider - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Bookcases | Bookshelves & Book Shelf\nFast & Free Shipping Over $35*\n...\n2. Living Room Furniture/\n3. Bookcases",
+    "source": "web",
+    "title": "Bookcases | Bookshelves & Book Shelf",
+    "url": "https://www.wayfair.com/furniture/sb0/bookcases-c1780385.html"
+   },
+   {
+    "date": "2026-08-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Solid Wood Dressers & Chests | Real Wood Chest of Drawers",
+    "source": "web",
+    "title": "Solid Wood Dressers & Chests | Real Wood Chest of Drawers",
+    "url": "https://www.wayfair.com/furniture/sb1/solid-wood-dressers-chests-c46091-a73503~442217.html"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Light Shades | Bedroom & Colored Lamp Shades\n...\n# Light Shades\n## Light Shades\nNot sure what kind of light shade you're looking for?\nBrowse our entire collection so you can choose the right light shade for your home.\nWhether it's in the dining room, kitchen island, bathroom, or hallway, Wayfair has...",
+    "source": "web",
+    "title": "Light Shades | Bedroom & Colored Lamp Shades - Wayfair",
+    "url": "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Discover Room Ideas\nFast & Free Shipping Over $35*\n- Open Decor & Pillows Menu Dropdown",
+    "source": "web",
+    "title": "Discover Room Ideas - Wayfair",
+    "url": "https://www.wayfair.com/discover"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Console Tables\n## Console, Sofa, and Entryway Tables\n### Creating Visual Balance with Console Table Arrangement\n- Console Tables On Sale\n- Console Tables\n...\n## 63-Inch Console Table With 3 Drawers, Farmhouse Entryway Table with Drawers For Hallway, Entryway, Living Room",
+    "source": "web",
+    "title": "Console, Sofa, and Entryway Tables - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 20,
+   "cost": {
+    "input_tokens_cost": 0.00065,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00321
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 77
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/",
+  "https://www.walgreens.com/store/c/productlist/l-theanine-amino-acids/N=361737-2000012336",
+  "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3",
+  "https://www.walgreens.com/q/groceries",
+  "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3",
+  "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340",
+  "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+  "https://www.walgreens.com/store/c/productlist/N=4294840275",
+  "https://www.walgreens.com/shop",
+  "https://www.walgreens.com/store/c/vitamin-c/ID=361635-tier3"
+ ],
+ "cited_store": true,
+ "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Grocery & Beverages[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Grocery & Beverages[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/",
+   "https://www.walgreens.com/store/c/productlist/l-theanine-amino-acids/N=361737-2000012336",
+   "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3",
+   "https://www.walgreens.com/q/groceries",
+   "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3",
+   "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340",
+   "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+   "https://www.walgreens.com/store/c/productlist/N=4294840275",
+   "https://www.walgreens.com/shop",
+   "https://www.walgreens.com/store/c/vitamin-c/ID=361635-tier3"
+  ],
+  "created": 1794079580,
+  "id": "resp_c112cbf1-75d5-488a-955f-b398bc73cf90",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n# Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "source": "web",
+    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "url": "https://www.walgreens.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Amino Acids | Walgreens\n# L-Theanine - Amino Acids\n- - Pickup\n- In-stock items only\n...\nPrice and inventory may vary from online to in store.\n...\n- **Walgreens L-Theanine 200 mg Capsules (Packaging May Vary)** - 60 ea\nWalgreens(102)\n$14.99$0.25 / ea\n...\nAdd to cartwill open overlay for Walgreens L-T...",
+    "source": "web",
+    "title": "L-Theanine - Amino Acids",
+    "url": "https://www.walgreens.com/store/c/productlist/l-theanine-amino-acids/N=361737-2000012336"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Prenatal Multivitamins - Shop Brands & Sales | Walgreens\n# Prenatal Vitamins\n## Refine",
+    "source": "web",
+    "title": "Prenatal Multivitamins - Shop Brands & Sales",
+    "url": "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Groceries\n...\n## Refine\n**Holiday Snacks & Beverage**\n...\n## Tea, coffee and drinks\nThe count will be inaccurate when sponsored products are displayed, when multiple sizes or colors of a product are grouped on a single product card, and when the in-stock filter is applied.",
+    "source": "web",
+    "title": "Groceries",
+    "url": "https://www.walgreens.com/q/groceries"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Cold Medicine | Walgreens\n- Adult Cold Remedies\n# Adult Cold Remedies",
+    "source": "web",
+    "title": "Cold Medicine | Walgreens",
+    "url": "https://www.walgreens.com/store/c/adult-cold-remedies/ID=361457-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Receive FREE 1-Hour Delivery when you spend $20 on these eligible products\n## Refine\n**Vitamins**\n...\n**Oral Care**\n...\n103 items filtered*",
+    "source": "web",
+    "title": "Receive FREE 1-Hour Delivery when you spend $20 on ...",
+    "url": "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Grocery & Beverages | Walgreens\n# Grocery & Beverages\n## Refine\n...\n6119 items filtered*",
+    "source": "web",
+    "title": "Grocery & Beverages",
+    "url": "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "| Walgreens\n…\n...\n# FSA/HSA\n- 0.33 FL Oz (10mL)\n- 0.5 oz\n...\nPrice and inventory may vary from online to in store.\n...\n- **Plan B One-Step Emergency Contraceptive** - 1 ea",
+    "source": "web",
+    "title": "FSA/HSA",
+    "url": "https://www.walgreens.com/store/c/productlist/N=4294840275"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Shop Medicine, Beauty, Vitamins & Wellness Essentials | Walgreens\n# Shop Medicine, Beauty, Vitamins & Wellness Essentials | Walgreens\nPhoto\nClearance\n...\n## Deals & Rewards\n**Grocery & Beverages**\n...\n## Shop by category\n- Grocery & Beverages",
+    "source": "web",
+    "title": "Mother's Day Wellness Gift Baskets For Health And Self Care",
+    "url": "https://www.walgreens.com/shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Vitamin C Supplements & Pills | Walgreens\n# Vitamin C\n## Refine",
+    "source": "web",
+    "title": "Vitamin C Supplements & Pills - Walgreens",
+    "url": "https://www.walgreens.com/store/c/vitamin-c/ID=361635-tier3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 22,
+   "cost": {
+    "input_tokens_cost": 0.0005899999999999999,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00315
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 80
+  }
+ }
+}

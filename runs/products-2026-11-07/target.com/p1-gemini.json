@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00074,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: The Ultimate Beauty Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TjNSLSpCATGfUXOhyha5daMb6/yFRAeUmkaR5zR1tYCsAkMu23KmuM+R9nsAn7oTJb/aMyYDhGRd1b+2Vxjfz08Q/pMcWYbhRFP7bft5plP4nP1ab3m0lEL3gAQLEN4drcxYfXncXOw9emWU3"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 144,
+   "candidatesTokenCount": 79,
+   "totalTokenCount": 7117,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 144
+    }
+   ],
+   "toolUsePromptTokenCount": 6894,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 6894
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "cH7vat6wLcup6dkPgemZgAY"
+ }
+}

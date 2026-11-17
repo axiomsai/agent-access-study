@@ -1,0 +1,60 @@
+{
+ "domain": "homedepot.com",
+ "url": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+ "idx": 5,
+ "at": "2026-11-09T12:25:19-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15107 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush HR-T30",
+   "price": 369.0,
+   "price_raw": "$369.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-09T18:25:25+00:00",
+   "age_days": 0,
+   "cost_usd": 0.13442
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush HR-T30",
+   "price": 379.0,
+   "price_raw": "$379.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00175
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "HOROW Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+   "price": 379.0,
+   "price_raw": "$379.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01245
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Non-Electric Elongated Bidet Toilet 1.0 GPF in White with ADA Chair Height, Foot Kick to Flush",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "UNKNOWN",
+   "opened": "NO: search result only, page not opened",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00521
+  }
+ }
+}

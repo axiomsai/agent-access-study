@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00192,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TEZVgAw3UACHwJ37uMVkld1GGAWe+dQ+dhdtyhHw6/9XptGXkoJFI3yIXUiip36HqOs93xqSEliIpfZJX698C5oUas1l/fhGjw9oj8rdqHL4gIGPTptRmXtOuVg3LhNBE+yt/T7c5RVMkR4h2"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 128,
+   "candidatesTokenCount": 84,
+   "totalTokenCount": 18935,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 128
+    }
+   ],
+   "toolUsePromptTokenCount": 18723,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 18723
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "x3jqaq7LMI7K_uMP2YHSsQI"
+ }
+}

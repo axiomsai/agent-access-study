@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Flonase Non-Drowsy Allergy Nasal Spray | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked, captcha, not allowed)",
+ "finish": "STOP",
+ "cost_usd": 0.00029,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Flonase Non-Drowsy Allergy Nasal Spray | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked, captcha, not allowed)",
+       "thoughtSignature": "EnMKcQFpFH0TqgN1BC/958BIhB0+eA5IsrNH2a6BaY1XC+qH5IAAmC8EUqji50+uPesgVPQj+bLPh9Wq87MwsuUXn6qxujZgwBJ5o2VgYjy7aQTF/CvLsXhay0ZV+uBBroPoDl6AMucdmK1jPw6z1cI4xWXy"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 153,
+   "candidatesTokenCount": 96,
+   "totalTokenCount": 2606,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 153
+    }
+   ],
+   "toolUsePromptTokenCount": 2357,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2357
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "n3_vaqiaFt2fqtsP5piKmAk"
+ }
+}

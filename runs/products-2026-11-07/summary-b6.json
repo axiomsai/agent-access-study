@@ -1,0 +1,1502 @@
+[
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+  "idx": 1,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15466 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:24+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14392
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": 175.0,
+    "price_raw": "$175.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00083
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": 175.0,
+    "price_raw": "$175.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0236
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: price and stock not shown in the available page result",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+  "idx": 2,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15494 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:26+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14747
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 145.0,
+    "price_raw": "$145.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00083
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lancôme 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 145.0,
+    "price_raw": "$145.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02368
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set",
+    "price": 123.25,
+    "price_raw": "$123.25",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/maison-francis-kurkdjian-3-piece-gentle-fluidity-gold-perfume-ritual-gift-set?ID=28809657",
+  "idx": 3,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15420 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:34+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14297
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": 310.0,
+    "price_raw": "$310.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00223
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": 310.0,
+    "price_raw": "$310.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023629999999999998
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set",
+    "price": 310.0,
+    "price_raw": "$310.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page not available in results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+  "idx": 4,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15426 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:16:42+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14268
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 157.25,
+    "price_raw": "$157.25",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0007
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 185.0,
+    "price_raw": "$185.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02359
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "4-Piece Flowerbomb Eau de Parfum Gift Set",
+    "price": 157.25,
+    "price_raw": "$157.25",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact page content unavailable",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+  "idx": 5,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15326 chars, copy dated 2026-11-07 (0 days old)",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-07T20:14:57+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14338
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0008
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Sol de Janeiro 3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02358
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "3-Piece Bum Bum Jet Set",
+    "price": 34.0,
+    "price_raw": "$34.00",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page could not be opened",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256813345982189.html",
+  "idx": 1,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool returned \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06657
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (redirected to login)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01132
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256810554257219.html",
+  "idx": 2,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (my web fetch tool returned \"url_not_allowed\" for this URL)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06678
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812897461561.html",
+  "idx": 3,
+  "at": "2026-11-07T14:14:52-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06676
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page details unavailable (search result did not open the exact product page)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812987473153.html",
+  "idx": 4,
+  "at": "2026-11-07T14:15:06-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (the web tool returned the error \"url_not_allowed\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06655
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page could not be opened (search result did not show the exact product page)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "url": "https://www.aliexpress.us/item/3256812095603119.html",
+  "idx": 5,
+  "at": "2026-11-07T14:15:06-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this URL)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06946
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "blocked",
+    "why": "opened, answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0113
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00513
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=1188295092",
+  "idx": 1,
+  "at": "2026-11-07T14:15:08-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7521 chars, copy dated 2026-11-07 (0 days old)",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-07T20:15:13+00:00",
+    "age_days": 0,
+    "cost_usd": 0.0997
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00049
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CashSoft Oversized Rollneck Sweater",
+    "price": 53.0,
+    "price_raw": "$53.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=908929032",
+  "idx": 2,
+  "at": "2026-11-07T14:15:13-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "8126 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 69.95,
+    "price_raw": "$69.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:02+00:00",
+    "age_days": 3,
+    "cost_usd": 0.09936
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 69.95,
+    "price_raw": "$69.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0004
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02352
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Kids CashSoft Zip Sweater Hoodie",
+    "price": 69.95,
+    "price_raw": "$69.95",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=914524042",
+  "idx": 3,
+  "at": "2026-11-07T14:15:13-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7394 chars, copy dated 2026-10-31 (6 days old)",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 59.0,
+    "price_raw": "$59.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-10-31T22:17:56+00:00",
+    "age_days": 6,
+    "cost_usd": 0.1017
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 94.0,
+    "price_raw": "$94.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00023
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Gap Australia",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01231
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CashSoft Rib Quarter-Zip Sweater",
+    "price": 59.0,
+    "price_raw": "$59.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=1184966022",
+  "idx": 4,
+  "at": "2026-11-07T14:15:14-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7649 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 17.0,
+    "price_raw": "$17.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:05+00:00",
+    "age_days": 3,
+    "cost_usd": 0.10859
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 17.0,
+    "price_raw": "$17.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00021
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kids CashSoft Rib Beanie",
+    "price": 17.0,
+    "price_raw": "$17.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02352
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error finding the exact product page",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "url": "https://www.gap.com/browse/product.do?pid=908887122",
+  "idx": 5,
+  "at": "2026-11-07T14:15:15-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7530 chars, copy dated 2026-11-04 (3 days old)",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:17:06+00:00",
+    "age_days": 3,
+    "cost_usd": 0.10732
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00049
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02352
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "CashSoft Crew Sweater",
+    "price": 79.95,
+    "price_raw": "$79.95",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/zoeyaliviaw12-gray-cropped-hoodie-with-star-eafc/",
+  "idx": 1,
+  "at": "2026-11-07T14:15:16-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the web tool returned \"url_not_accessible\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06912
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Walmart Women's Grey Hoodie",
+    "price": 6.0,
+    "price_raw": "$6.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01179
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+  "idx": 2,
+  "at": "2026-11-07T14:15:23-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06896
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The website blocked access to the page content.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Women's Blue Shorts",
+    "price": 4.0,
+    "price_raw": "$4.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0118
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/ptyjennu-message-before-buying-so-i-0180/",
+  "idx": 3,
+  "at": "2026-11-07T14:15:24-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06883
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Cotton On Women's Grey T-shirt",
+    "price": 9.0,
+    "price_raw": "$9.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0118
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+  "idx": 4,
+  "at": "2026-11-07T14:15:26-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the fetch failed with \"url_not_accessible\")",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06724
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 7e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Bebe Women's Green and Khaki T-shirt",
+    "price": 6.0,
+    "price_raw": "$6.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01184
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "url": "https://www.depop.com/products/jcwiley0h-never-been-worn-adidas-yoga-c487/",
+  "idx": 5,
+  "at": "2026-11-07T14:15:31-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06869
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "URL_RETRIEVAL_STATUS_ERROR",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 8e-05
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Adidas Women's Grey and Brown Leggings",
+    "price": 15.0,
+    "price_raw": "$15.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01182
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+  "idx": 1,
+  "at": "2026-11-07T14:15:33-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15236 chars, copy dated 2026-09-10 (57 days old)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-10T22:18:26+00:00",
+    "age_days": 57,
+    "cost_usd": 0.09929
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 12.99,
+    "price_raw": "$12.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 12.99,
+    "price_raw": "$12.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01192
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Maxwell House Original Roast Ground Coffee, Canister",
+    "price": 15.49,
+    "price_raw": "$15.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+  "idx": 2,
+  "at": "2026-11-07T14:15:33-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "14613 chars, copy dated 2026-11-07 (0 days old)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee, 10 oz",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-07T20:15:39+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13022
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 10.99,
+    "price_raw": "$10.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0006
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 10.99,
+    "price_raw": "$10.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01184
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Death Wish Coffee Co.® Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+  "idx": 3,
+  "at": "2026-11-07T14:15:34-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15209 chars, copy dated 2026-09-10 (57 days old)",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 10.99,
+    "price_raw": "$10.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-10T22:18:29+00:00",
+    "age_days": 57,
+    "cost_usd": 0.14318
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Dunkin' Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01205
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+  "idx": 4,
+  "at": "2026-11-07T14:15:36-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15270 chars, copy dated 2026-11-07 (0 days old)",
+    "parsed": true,
+    "name": "FOLGERS 25.9 OUNCE CLASSIC ROAST Each, 25.9 Ounces",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-07T20:15:41+00:00",
+    "age_days": 0,
+    "cost_usd": 0.10266
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01203
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "idx": 5,
+  "at": "2026-11-07T14:15:39-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "14210 chars, copy dated 2026-09-30 (38 days old)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-09-30T00:34:36+00:00",
+    "age_days": 38,
+    "cost_usd": 0.1029
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 14.49,
+    "price_raw": "$14.49",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0005
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 12.99,
+    "price_raw": "$12.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01185
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Kroger® Original Medium Roast Ground Coffee",
+    "price": 13.99,
+    "price_raw": "$13.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ }
+]

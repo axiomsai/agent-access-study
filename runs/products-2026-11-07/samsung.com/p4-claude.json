@@ -1,0 +1,144 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+ "retrieved_at": "2026-11-07T19:44:14+00:00",
+ "age_days": 0,
+ "doc_chars": 13974,
+ "doc_markers": [],
+ "answer": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.13854,
+ "raw": [
+  {
+   "id": "srvtoolu_019ZymQy99icc76dRzxYiaxr",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c.get('result_type'));t=c['content'];print(len(t));print(t[:1500])\n import re;print(re.findall(r'.{60}\\$\\d[\\d,]*\\.\\d\\d.{40}',t)[:10]);print([m for m in ['In stock','Out of stock','Sold out','Add to cart','Coming soon'] if m.lower() in t.lower()])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_017DMwiRZq4P8FAQoNWeaguz",
+   "caller": {
+    "tool_id": "srvtoolu_019ZymQy99icc76dRzxYiaxr",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_019ZymQy99icc76dRzxYiaxr",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/\nmeta-al:android:app_name: Shop Samsung\nmeta-al:android:package: com.samsung.ecomm\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-F776ULGAXAA&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\nmeta-al:ios:app_name: Shop Samsung\nmeta-al:ios:app_store_id: 1274679179\nmeta-description: Discover the Unlocked Galaxy Z Flip8 256GB in Mint, the world’s lightest flip with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\nmeta-og:description: Discover the Unlocked Galaxy Z Flip8 256GB in Mint, the world’s lightest flip with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\nmeta-og:site_name: Samsung US\nmeta-og:title: Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\nmeta-og:type: website\nmeta-og:url: https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/\nmeta-title: Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\nmeta-twitter:card: summary_large_image\nmeta-twitter:creator: @SamsungUS\nmeta-twitter:description: Discover the Unlocked Galaxy Z Flip8 256GB in Mint, the world’s lightest flip with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-twitter:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$\nmeta-twitter:site: @SamsungUS\nmeta-twitter:title: Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\nmeta-viewport: width=device-width\ntitle: Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\n---\n\nGalaxy Z Fold8 UltraGalaxy Z Fold8Galaxy Z Flip8\n\n4.9(761)\n\n# Galaxy Z Flip8\n\nStorage\n\nStorage\n\n256GB\n\n$1,199.99\n\n512GB\n\n$1,399.99\n\nColor\n\nColor\n\nOnline Exclusive\n\nOnly available at Samsung.com and Samsung Experience Stores\n\nMint\n\nPink\n\nCream\n\nGraphite\n\nConnectivity\n\nConnectivity\n\nDue to high demand, we are experiencing a delay in delivery on popular combinations\n\nGet it by Nov. 11\n\n![](https://image-us.samsung.com/SamsungUS/home/explore/samsung-s8/S8_Unlocked_configurator_v4.png)\n\nReviews\n\n### Galaxy Z Flip8\n\n4.9 (761 Reviews)\n\nRecommended by **86%** of customers.\n\nWrite a review\n\n5.0\n\n88% (671)\n\n4.0\n\n10% (74)\n\n3.0\n\n1% (11)\n\n2.0\n\n0% (2)\n\n1.0\n\n0% (3)\n\nView detail\n\nFeatures4.5\n\nPerformance4.4\n\nDesign4.4\n\nValue4.8\n\nAI Functionality4.7\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Z Flip8\n\n- Customers praise the slim, compact design that fits easily into pockets and small bags for convenient daily carry.\n- Reviewers highlight the expanded cover screen enabling messaging, notifications, timers, and app use without opening the device.\n- Many note significant improvements in speed, responsiveness, durability, and a sturdy hinge compared to previous models.\n- Users appreciate the stylish appearance, customizable themes and widgets, and ability to personalize their experience.\n- Customers describe the camera system as versatile and reliable, with seamless integration across the broader ecosystem.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/00ff287e-a06c-5a16-ba6c-e6f63bcae62e) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fd01ca76-c8be-5b98-b082-cef5449e1785) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/23fcc451-704d-502a-8e90-091347b3297e) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/c4c38449-1a47-53c9-a81f-03dc83da266c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5fabe14e-e9cc-5f6e-b66a-ba7cd1258ff5) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/dbb0a94e-e894-540b-9047-7c2faa575340) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/7f631855-395d-59b3-b815-ae4789968b12) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/cfcba7bc-2594-5ee7-a3c5-9fa64cd88915)\n\nFilters(0)\n\nSort byMost relevant\n\n761 Reviews\n\nFilters (0)761 Reviews\n\nSort byMost relevant\n\nOverall rating\n\nReviewer type\n\nKeywords\n\n1. Nellie\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-05\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   I chose Samsung Galaxy Z Flip 8 because I am an avid Samsung Cell Phone user. I only use Samsung phones for me and my family because the quality, durability & customer service is excellent. I am never disappointed in my Samsung phone and am always amazed how easy it is to use for my personal & business uses on the daily. The Samsung Care+ is well worth the cost as I am always reassured in case of emergencies. I enjoy using my new Samsung Galaxy Z Flip phone to stream movies, gaming & keeping up on the latest news with email...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/00ff287e-a06c-5a16-ba6c-e6f63bcae62e)\n   \n   Helpful? (33)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n2. ShanDu2K\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-13\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   Just got my hands on this amazing flip phone and it's a total game-changer! 📱 I chose it as my daily fun phone because it easily fits in my pocket when I'm on the go. When it's time to unwind, I can unfold it for an epic gaming session or chill with some web surfing. 🎮 Plus, it's surprisingly handy for quick work tasks, letting me reply to emails without any fuss. This little gadget really does it all, making my life so much easier and more fun! ✨ I'm not sure about any future upcoming models, but the rumor is that this m...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fd01ca76-c8be-5b98-b082-cef5449e1785)\n   \n   Helpful? (32)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n3. MBUHLAH\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-18\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   From the Z family, I chose Samsung Galaxy Z Flip 8! I use it every day for making calls, texting, checking emails, browsing the internet, taking photos and videos, using social media, and watching YouTube. I also love using it for staying connected with family, friends, and church activities. The phone is fast, the display looks beautiful, the camera takes great pictures, and the foldable design makes it very convenient to carry. The cover screen is especially useful for quickly checking notifications and messages without o...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/23fcc451-704d-502a-8e90-091347b3297e)\n   \n   Helpful? (23)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n4. MBUHLAH\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-18\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   I’m really enjoying my Samsung Galaxy Z Flip 8! I use it every day for making calls, texting, checking emails, browsing the internet, taking photos and videos, using social media, and watching YouTube. I also love using it for staying connected with family, friends, and church activities. The phone is fast, the display looks beautiful, the camera takes great pictures, and the foldable design makes it very convenient to carry. The cover screen is especially useful for quickly checking notifications and messages without openi...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/c4c38449-1a47-53c9-a81f-03dc83da266c)\n   \n   Helpful? (19)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n5. Lex90Lis08\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-07\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   The new Galaxy Z Flip8 is everything I hoped for. I chose the Z Flip series because of its compact size. The Z Flip5 was the first one I owned, and I hadn't upgraded until now. This new model is much thinner and a little wider. It's an obvious improvement over three generations, so it feels great and is noticeably faster. The battery lasts much longer, which is very important to me because I use my phone for work. The camera is also an improvement, although I wish it were as good as the Galaxy Note's. Still, the compact siz...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5fabe14e-e9cc-5f6e-b66a-ba7cd1258ff5)\n   \n   Helpful? (20)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n   \n   Response from Samsung:\n   \n   2026-08-07\n   \n   * * *\n   \n   **R&R Team**\n   \n   Hi there Lex90Lis08, thank you for sharing your thoughts about your Samsung Galaxy Z Flip8 with us. We couldn't be happier to hear that this device has not only met but exceeded all of your expectations in design and feel. We have provided a link to the full manual to help you maximize your experience with your device, and customize the settings to your usage. We have also provided a link to the Samsung Support Team to assist you further any time you have questions about your device. We appreciate you being a Samsung customer. -Elizabeth Product Manuals https://www.samsung.com/us/support/downloads/ Samsung Support smsng.us/Samsung-Support Samsung Community smsng.us/Samsung-Community Facebook smsng.us/Facebook-Messenger X https://smsng.us/X-Messages\n6. Burgerkim\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-07\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   I used Flip6 before and now I change to Flip8. First thing I notice, the main screen is more wide than before, it feel more comfortable to use. Also the hinge, when I fold and unfold, the crease line on the screen almost cannot see anymore. Before on Flip6 I always feel it when I touch there but now it is really smooth, I was surprised. Cover display also got much bigger and resolution is really good. Before I only use it for check time or notification but now I can actually do more thing on it. One more thing, when I take ...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/dbb0a94e-e894-540b-9047-7c2faa575340)\n   \n   Helpful? (20)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n7. Rayman3578\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-08\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   5\n   \n   I mainly use my phone for communication and work but with the newest version, feeling more sleek and fast compared to the previous version I owned the Z Flip5, runs more faster, having alot more space and battery usage. Definitely needed to get this phone the moment it was announced and will definitely continue buying/supporting Samsung with their products. As they delivered my new phone days early and easy to transport all my storage to the new phone, definitely recommended to other people who see my phone and are interest...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/7f631855-395d-59b3-b815-ae4789968b12)\n   \n   Helpful? (19)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   5\n8. carmslovesflip\n   \n   - Incentivized review\n   \n   4\n   \n   2026-08-05\n   \n   Color: Graphite|Storage: 256GB\n   \n   Color: Graphite|Storage: 256GB\n   \n   4\n   \n   I have been a loyal z flip girly since the first generation and I have throughly felt like every new flip came with updates that were absolutely worth the upgrade year after year. The 8 does have decent updates; however, these updates are more so for convenience rather than needs for increased usability. For me personally, I could've gone without the upgrade to the 8. I only upgraded due to the rumors of this being the last flip so I wanted to make sure I had the latest version if this were to be true. I think if you enjoy the flip 7 and don't need or can't afford the upgrade, then you're good and aren't missing out on...\n   \n   View more\n   \n   Helpful? (29)\n   \n   Originally posted on[Galaxy Z Flip8 256GB (Unlocked)(SM-F776UZKAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-flip8/)\n   \n   Value\n   \n   4\n\nLoading…\n\n![Bazaarvoice Authentic Reviews](https://apps.bazaarvoice.com/common/images/intelligent_trustmark_icons/trustmark_en.png)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-07T19:44:14+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/"
+   },
+   "tool_use_id": "srvtoolu_017DMwiRZq4P8FAQoNWeaguz",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_019ZymQy99icc76dRzxYiaxr/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c.get('result_type'));t=c['content'];print(len(t));print(t[:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019ZymQy99icc76dRzxYiaxr",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01UKYcWav7FQ1MsCRWM3RxCi",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/\", \"retrieved_at\": \"2026-11-07T19:44:14+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/\\nmeta-al:android:app_name: Shop Samsung\\nmeta-al:android:package: com.samsung.ecomm\\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-F776ULGAXAA&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\\nmeta-al:ios:app_name: Shop Samsung\\nmeta-al:ios:app_store_id: 1274679179\\nmeta-description: Discover the Unlocked Galaxy Z Flip8 256GB in Mint, the world\\u2019s lightest flip with flexible carrier compatibility. Find your foldable at Samsung US.\\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\\nmeta-og:description: Discover the Unlocked Galaxy Z Flip8 256GB in Mint, the world\\u2019s lightest flip with flexible carrier compatibility. Find your foldable at Samsung US.\\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\\nmeta-og:site_name: Samsung US\\nmeta-og:title: Buy the Unlocked Galaxy Z Flip8 256GB in Mint | Samsung US\\nmeta-og:type: website\\nmeta-og:url: https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/\\nmeta-title: Buy the Unlocked Galaxy Z Flip8 256GB \n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01UKYcWav7FQ1MsCRWM3RxCi",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01N49mWwek4SRNGxMQboWZTT",
+   "caller": null,
+   "input": {
+    "code": "import json,re;t=json.loads(r)['content']['source']['data']\nprint(re.findall(r'.{80}\\$\\d[\\d,]*(?:\\.\\d\\d)?.{60}',t,re.S)[:12])\nfor m in ['in stock','out of stock','sold out','add to cart','buy now','coming soon','pre-order','unavailable']:print(m,t.lower().count(m))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "['axy Z Fold8Galaxy Z Flip8\\n\\n4.9(761)\\n\\n# Galaxy Z Flip8\\n\\nStorage\\n\\nStorage\\n\\n256GB\\n\\n$1,199.99\\n\\n512GB\\n\\n$1,399.99\\n\\nColor\\n\\nColor\\n\\nOnline Exclusive\\n\\nOnly ava']\nin stock 0\nout of stock 0\nsold out 0\nadd to cart 0\nbuy now 0\ncoming soon 0\npre-order 0\nunavailable 0\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01N49mWwek4SRNGxMQboWZTT",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01PTT7JdbYowAAQ7ViLncVVE",
+   "caller": null,
+   "input": {
+    "code": "i=t.find('# Galaxy Z Flip8');print(t[i:i+2500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "# Galaxy Z Flip8\n\nStorage\n\nStorage\n\n256GB\n\n$1,199.99\n\n512GB\n\n$1,399.99\n\nColor\n\nColor\n\nOnline Exclusive\n\nOnly available at Samsung.com and Samsung Experience Stores\n\nMint\n\nPink\n\nCream\n\nGraphite\n\nConnectivity\n\nConnectivity\n\nDue to high demand, we are experiencing a delay in delivery on popular combinations\n\nGet it by Nov. 11\n\n![](https://image-us.samsung.com/SamsungUS/home/explore/samsung-s8/S8_Unlocked_configurator_v4.png)\n\nReviews\n\n### Galaxy Z Flip8\n\n4.9 (761 Reviews)\n\nRecommended by **86%** of customers.\n\nWrite a review\n\n5.0\n\n88% (671)\n\n4.0\n\n10% (74)\n\n3.0\n\n1% (11)\n\n2.0\n\n0% (2)\n\n1.0\n\n0% (3)\n\nView detail\n\nFeatures4.5\n\nPerformance4.4\n\nDesign4.4\n\nValue4.8\n\nAI Functionality4.7\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Z Flip8\n\n- Customers praise the slim, compact design that fits easily into pockets and small bags for convenient daily carry.\n- Reviewers highlight the expanded cover screen enabling messaging, notifications, timers, and app use without opening the device.\n- Many note significant improvements in speed, responsiveness, durability, and a sturdy hinge compared to previous models.\n- Users appreciate the stylish appearance, customizable themes and widgets, and ability to personalize their experience.\n- Customers describe the camera system as versatile and reliable, with seamless integration across the broader ecosystem.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/00ff287e-a06c-5a16-ba6c-e6f63bcae62e) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fd01ca76-c8be-5b98-b082-cef5449e1785) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/23fcc451-704d-502a-8e90-091347b3297e) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/c4c38449-1a47-53c9-a81f-03dc83da266c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5fabe14e-e9cc-5f6e-b66a-ba7cd1258ff5) ![Review image send by user](https://photos-u\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PTT7JdbYowAAQ7ViLncVVE",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSuAcKEAgTGAI4AUIIdGhpbmtpbmcSDM4Xm/FH7tjImpFPfxoMJZ5mrl5Zovip9m9hIjDt988QluiaPZCkka+hiFVy+TXitqQ6nwv2ziHVawmwmaJ62u/NodanxWctY1Ju0Lsq1QZWqGHs5wM4DZCDUYuRKCvJgI0TD1fjIBJH3N7+eZ3yj1PM0nCJswmZsXCIkD7A94wi5Fa0CTuv24VG7IOrmDrOpQLzqboRS2VB8X/DrsnKoi00XOxwEz/lHbf3RUw1ViM99fh1kTXarVZ1AYamF4lgC6EAC9cryw+wjWPkTQUeyKV7qGMIHYzA8ZjZRuYE1G0zJhTbnhAVZhQj6QHA+Aspe8Aj9AwCcgqFB1repKpATZruaAfV4fn5GdIVBHm1RjF3TcSDbtbljyueWwXsuBXMcjE5mCx4+M7o0XfAFKkdbt/aDws4cNJcT2x7IFtMqQ8D1vkEpfnBAnnB40El9P4xQshQmk3B8pgCbs0hxHj3qBnErgKRDX6cf2uGDIbTf8/t/e7FHDiChQcziPwGschfu4O394GSpjkdVh9E7oDDURphIDdY79aXMIrhEKxvblbDrwGVFrhBpD0v6/UzVw/GcCjTismlPies0cs2Qrq5IpiG8+vpN4VSGey0ZBIIY1x4EqVUebvE86r5SLMrUeeS+NrvOeri6wW7Lut1qVO0BXk1ZzbTgRy3zoVH6T3FLluRu+TfBsSb275KXsB2oBWxOZlu9phGsJbbeAfS3SJ4G04wORGp1vceChKI6SCaFSxDjmMbo84i0k5LrKHYmzLsOknzuMYqzMEkY6Mq2efOFryU3IZJVTpDtNCb6UO60JZB5oYPFhras0OFEnJJRb4DS3IjL82uwin4i5xy9j4MWdAqSaMxIro2oeaXXbhgm9o9ygCs4Uc/Bl/Ur4UZXmSIfk56Ool0Qr01VYu9LTAg43seALAPfyWlK4VyDvRtMY8yqBtDZzwwoC6MfDJKhgc1hQnlomwml0jtJP6l7Vw6jC9j6uhQ+g3/1aQp6X+yr/MVaKHVmfA+mHvrDC/GgmZ9hCZgRufuRAi+hKNytXjrRq03hqh6SZobEmwavwrlE+njYjIJFZ375iVG6iGDoQLdBvjczwuZvQ1+TZHUrLEtjnXugHnaIFFaWsFHgA9XusM9uaSztNYQFzygjVUSul0jNF9YahK+EUmJSfuvs95CltdCgkIqEMpXFtjiWyqbBW63l5+Kn7ApysL7ipXNB1wtcSpi3ceyynPf6b0htjoVlOx8BGfuGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

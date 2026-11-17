@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: $157.25 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0007,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: $157.25 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TJbIHu5eP282o22QZLa4dVXZwPp6QwwRErJl4j0ErJblapYLoVTjgKA04tDWPyXZ8z5YpCYOJGnGiN5TYjsiIlxHsNP3IfKL6YjJsAb9lPYEFW/7YABWeO2ArIu7KWsHeoLoPRXl/YMGBj6XB"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 154,
+   "candidatesTokenCount": 94,
+   "totalTokenCount": 6747,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 154
+    }
+   ],
+   "toolUsePromptTokenCount": 6499,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 6499
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "SxTyapWZDZbRz7IPnd_zgQo"
+ }
+}

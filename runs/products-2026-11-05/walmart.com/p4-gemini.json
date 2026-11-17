@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TdDaHvp6Qruk6BkDoFo4sK9Fn82DpXIdw6HtinnXksyjyN9VhkNZxwEjIqaW1VcKMzJoGeWUiQR2HLL8SYloC9I4pXSHvJGtHipOdI4T1vith7u6/4rRXaE70t1hR4zYopAEIDc1Tfe+9xhpH"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 179,
+   "candidatesTokenCount": 143,
+   "totalTokenCount": 5238,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 179
+    }
+   ],
+   "toolUsePromptTokenCount": 4916,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4916
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "QtXsauDRCamtz7IPoJ-UgQY"
+ }
+}

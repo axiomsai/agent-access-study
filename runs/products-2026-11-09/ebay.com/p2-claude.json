@@ -1,0 +1,165 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.ebay.com/itm/157751149633",
+ "retrieved_at": "2026-11-04T00:13:46+00:00",
+ "age_days": 5,
+ "doc_chars": 15141,
+ "doc_markers": [],
+ "answer": "NAME: adidas men VL Court 3.0 Shoes | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.17913,
+ "raw": [
+  {
+   "id": "srvtoolu_01XLySUog6Hf6SFarxo3Z1NN",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.ebay.com/itm/157751149633\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0]['title'],len(c));print(c[:2500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01QFDKMeb8hXg7Fyq3KTh2Cp",
+   "caller": {
+    "tool_id": "srvtoolu_01XLySUog6Hf6SFarxo3Z1NN",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.ebay.com/itm/157751149633"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01XLySUog6Hf6SFarxo3Z1NN",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.ebay.com/itm/157751149633\nmeta-description: VL Court 3.0 Shoes. Features of the VL Court 3.0 Shoes. adidas Sport is mainly targeting competitive sports. Everything at adidas reflects the spirit of our founder Adi Dassler. No matter how serious you are about sports, a sporting lifestyle does not end in the locker room.\nmeta-fb:app_id: 102628213125203\nmeta-google-adsense-account: sites-7757056108965234\nmeta-google-site-verification: 8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\nmeta-layout: main\nmeta-msvalidate.01: 34E98E6F27109BE1A9DCF19658EEEE33\nmeta-og:description: VL Court 3.0 Shoes. Features of the VL Court 3.0 Shoes. adidas Sport is mainly targeting competitive sports. Everything at adidas reflects the spirit of our founder Adi Dassler. No matter how serious you are about sports, a sporting lifestyle does not end in the locker room.\nmeta-og:image: https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l400.jpg\nmeta-og:site_name: eBay\nmeta-og:title: adidas men VL Court 3.0 Shoes | eBay\nmeta-og:type: ebay-objects:item\nmeta-og:url: https://www.ebay.com/itm/157751149633\nmeta-referrer: unsafe-url\nmeta-robots: max-snippet:-1, max-image-preview:large\nmeta-twitter:card: summary\nmeta-twitter:description: VL Court 3.0 Shoes. Features of the VL Court 3.0 Shoes. adidas Sport is mainly targeting competitive sports. Everything at adidas reflects the spirit of our founder Adi Dassler. No matter how serious you are about sports, a sporting lifestyle does not end in the locker room.\nmeta-twitter:image: https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l400.jpg\nmeta-twitter:site: @eBay\nmeta-twitter:title: adidas men VL Court 3.0 Shoes | eBay\nmeta-viewport: width=device-width, initial-scale=1\nmeta-y_key: acf32e2a69cbc2b0\nmeta-yandex-verification: 6e11485a66d91eff\ntitle: adidas men VL Court 3.0 Shoes | eBay\n---\n\n[Skip to main content](#mainContent)\n\nHi !Hi! [Sign in](https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh) or [register](https://signup.ebay.com/pa/crte)[Deals](https://www.ebay.com/deals)[Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)[Help & Contact](https://www.ebay.com/help/home)\n\n[Sell](https://www.ebay.com/sl/sell)\n\n[Watchlist](https://www.ebay.com/mye/myebay/watchlist) Expand Watch List\n\n[My eBay](https://www.ebay.com/mys/home?source=GBH) Expand My eBay\n\n- [Summary](https://www.ebay.com/mye/myebay/summary)\n- [Recently Viewed](https://www.ebay.com/mye/myebay/rvi)\n- [Bids/Offers](https://www.ebay.com/mye/myebay/bidsoffers)\n- [Watchlist](https://www.ebay.com/mye/myebay/watchlist)\n- [Purchase History](https://www.ebay.com/mye/myebay/purchase)\n- [Buy Again](https://www.ebay.com/mye/buyagain)\n- [Selling](https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK%3AME%3ALNLK%3AMESX&source=GBH)\n- [Saved Feed](https://www.ebay.com/mye/myebay/saved)\n- [Saved Searches](https://www.ebay.com/mye/myebay/savedsearches)\n- [Saved Sellers](https://www.ebay.com/mye/myebay/savedsellers)\n- [Payments](https://ppcapp.ebay.com/myppc/wallet/list)\n- [My Garage](https://www.ebay.com/g/mygarage)\n- [Preferences](https://www.ebay.com/d/myebay/preferences)\n- [My Collection](https://www.ebay.com/collection/hub)\n- [Messages](https://mesg.ebay.com/mesgweb/ViewMessages/0)\n- [PSA Vault](https://www.ebay.com/collection/category?notionalTypeId=Vault&period=1Y)\n- [Issue Resolution Center](https://resolution.ebay.com)\n\nNotifications\n\nLoading...\n\n[https://cart.ebay.com](https://cart.ebay.com) Expand Cart\n\nLoading...\n\n[eBay Home](https://www.ebay.com)\n\nShop by category\n\nAll Categories\n\nSearch [Advanced](https://www.ebay.com/sch/ebayadvsearch)\n\n![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l140.jpg) ![Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.](https://i.ebayimg.com/images/g/wqEAAeSwgyhq6j7w/s-l140.jpg) ![Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.](https://i.ebayimg.com/images/g/wocAAeSw-rZq6j7v/s-l140.jpg) ![White adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail.](https://i.ebayimg.com/images/g/w3EAAeSwQvpq6j7w/s-l140.jpg) ![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.](https://i.ebayimg.com/images/g/wBYAAeSw14tq6j7v/s-l140.jpg) ![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.](https://i.ebayimg.com/images/g/wDUAAeSwy6lq6j7v/s-l140.jpg) Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background. Picture 8 of 63 Picture 9 of 63 Picture 10 of 63 Picture 11 of 63 Picture 12 of 63 Picture 13 of 63 Picture 14 of 63 Picture 15 of 63 Picture 16 of 63 Picture 17 of 63 Picture 18 of 63 Picture 19 of 63 Picture 20 of 63 Picture 21 of 63 Picture 22 of 63 Picture 23 of 63 Picture 24 of 63 Picture 25 of 63 Picture 26 of 63 Picture 27 of 63 Picture 28 of 63 Picture 29 of 63 Picture 30 of 63 Picture 31 of 63 Picture 32 of 63 Picture 33 of 63 Picture 34 of 63 Picture 35 of 63 Picture 36 of 63 Picture 37 of 63 Picture 38 of 63 Picture 39 of 63 Picture 40 of 63 Picture 41 of 63 Picture 42 of 63 Picture 43 of 63 Picture 44 of 63 Picture 45 of 63 Picture 46 of 63 Picture 47 of 63 Picture 48 of 63 Picture 49 of 63 Picture 50 of 63 Picture 51 of 63 Picture 52 of 63 Picture 53 of 63 Picture 54 of 63 Picture 55 of 63 Picture 56 of 63 Picture 57 of 63 Picture 58 of 63 Picture 59 of 63 Picture 60 of 63 Picture 61 of 63 Picture 62 of 63 Picture 63 of 63\n\n## Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.\n\n264 sold today\n\n![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](https://i.ebayimg.com/thumbs/images/g/wU0AAeSwPddq6j7w/s-l500.jpg)\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nWhite adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background.\n\nPicture 8 of 63\n\nPicture 9 of 63\n\nPicture 10 of 63\n\nPicture 11 of 63\n\nPicture 12 of 63\n\nPicture 13 of 63\n\nPicture 14 of 63\n\nPicture 15 of 63\n\nPicture 16 of 63\n\nPicture 17 of 63\n\nPicture 18 of 63\n\nPicture 19 of 63\n\nPicture 20 of 63\n\nPicture 21 of 63\n\nPicture 22 of 63\n\nPicture 23 of 63\n\nPicture 24 of 63\n\nPicture 25 of 63\n\nPicture 26 of 63\n\nPicture 27 of 63\n\nPicture 28 of 63\n\nPicture 29 of 63\n\nPicture 30 of 63\n\nPicture 31 of 63\n\nPicture 32 of 63\n\nPicture 33 of 63\n\nPicture 34 of 63\n\nPicture 35 of 63\n\nPicture 36 of 63\n\nPicture 37 of 63\n\nPicture 38 of 63\n\nPicture 39 of 63\n\nPicture 40 of 63\n\nPicture 41 of 63\n\nPicture 42 of 63\n\nPicture 43 of 63\n\nPicture 44 of 63\n\nPicture 45 of 63\n\nPicture 46 of 63\n\nPicture 47 of 63\n\nPicture 48 of 63\n\nPicture 49 of 63\n\nPicture 50 of 63\n\nPicture 51 of 63\n\nPicture 52 of 63\n\nPicture 53 of 63\n\nPicture 54 of 63\n\nPicture 55 of 63\n\nPicture 56 of 63\n\nPicture 57 of 63\n\nPicture 58 of 63\n\nPicture 59 of 63\n\nPicture 60 of 63\n\nPicture 61 of 63\n\nPicture 62 of 63\n\nPicture 63 of 63\n\n4.8K\n\n## Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.\n\n![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l1600.jpg)\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nWhite adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background.\n\nadidas men VL Court 3.0 Shoes - Picture 8 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 9 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 10 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 11 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 12 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 13 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 14 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 15 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 16 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 17 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 18 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 19 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 20 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 21 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 22 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 23 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 24 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 25 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 26 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 27 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 28 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 29 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 30 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 31 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 32 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 33 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 34 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 35 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 36 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 37 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 38 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 39 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 40 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 41 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 42 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 43 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 44 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 45 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 46 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 47 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 48 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 49 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 50 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 51 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 52 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 53 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 54 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 55 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 56 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 57 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 58 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 59 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 60 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 61 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 62 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 63 of 63\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole. Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side. Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side. White adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background. adidas men VL Court 3.0 Shoes - Picture 8 of 63 adidas men VL Court 3.0 Shoes - Picture 9 of 63 adidas men VL Court 3.0 Shoes - Picture 10 of 63 adidas men VL Court 3.0 Shoes - Picture 11 of 63 adidas men VL Court 3.0 Shoes - Picture 12 of 63 adidas men VL Court 3.0 Shoes - Picture 13 of 63 adidas men VL Court 3.0 Shoes - Picture 14 of 63 adidas men VL Court 3.0 Shoes - Picture 15 of 63 adidas men VL Court 3.0 Shoes - Picture 16 of 63 adidas men VL Court 3.0 Shoes - Picture 17 of 63 adidas men VL Court 3.0 Shoes - Picture 18 of 63 adidas men VL Court 3.0 Shoes - Picture 19 of 63 adidas men VL Court 3.0 Shoes - Picture 20 of 63 adidas men VL Court 3.0 Shoes - Picture 21 of 63 adidas men VL Court 3.0 Shoes - Picture 22 of 63 adidas men VL Court 3.0 Shoes - Picture 23 of 63 adidas men VL Court 3.0 Shoes - Picture 24 of 63 adidas men VL Court 3.0 Shoes - Picture 25 of 63 adidas men VL Court 3.0 Shoes - Picture 26 of 63 adidas men VL Court 3.0 Shoes - Picture 27 of 63 adidas men VL Court 3.0 Shoes - Picture 28 of 63 adidas men VL Court 3.0 Shoes - Picture 29 of 63 adidas men VL Court 3.0 Shoes - Picture 30 of 63 adidas men VL Court 3.0 Shoes - Picture 31 of 63 adidas men VL Court 3.0 Shoes - Picture 32 of 63 adidas men VL Court 3.0 Shoes - Picture 33 of 63 adidas men VL Court 3.0 Shoes - Picture 34 of 63 adidas men VL Court 3.0 Shoes - Picture 35 of 63 adidas men VL Court 3.0 Shoes - Picture 36 of 63 adidas men VL Court 3.0 Shoes - Picture 37 of 63 adidas men VL Court 3.0 Shoes - Picture 38 of 63 adidas men VL Court 3.0 Shoes - Picture 39 of 63 adidas men VL Court 3.0 Shoes - Picture 40 of 63 adidas men VL Court 3.0 Shoes - Picture 41 of 63 adidas men VL Court 3.0 Shoes - Picture 42 of 63 adidas men VL Court 3.0 Shoes - Picture 43 of 63 adidas men VL Court 3.0 Shoes - Picture 44 of 63 adidas men VL Court 3.0 Shoes - Picture 45 of 63 adidas men VL Court 3.0 Shoes - Picture 46 of 63 adidas men VL Court 3.0 Shoes - Picture 47 of 63 adidas men VL Court 3.0 Shoes - Picture 48 of 63 adidas men VL Court 3.0 Shoes - Picture 49 of 63 adidas men VL Court 3.0 Shoes - Picture 50 of 63 adidas men VL Court 3.0 Shoes - Picture 51 of 63 adidas men VL Court 3.0 Shoes - Picture 52 of 63 adidas men VL Court 3.0 Shoes - Picture 53 of 63 adidas men VL Court 3.0 Shoes - Picture 54 of 63 adidas men VL Court 3.0 Shoes - Picture 55 of 63 adidas men VL Court 3.0 Shoes - Picture 56 of 63 adidas men VL Court 3.0 Shoes - Picture 57 of 63 adidas men VL Court 3.0 Shoes - Picture 58 of 63 adidas men VL Court 3.0 Shoes - Picture 59 of 63 adidas men VL Court 3.0 Shoes - Picture 60 of 63 adidas men VL Court 3.0 Shoes - Picture 61 of 63 adidas men VL Court 3.0 Shoes - Picture 62 of 63 adidas men VL Court 3.0 Shoes - Picture 63 of 63\n\nHave one to sell?\n\n[Sell one like this](https://www.ebay.com/sl/list?mode=SellLikeItem&itemId=157751149633&rt=nc&_trksid=p4429486.m117039.l2567)\n\n[Sell something else](https://www.ebay.com/sl/prelist/suggest)\n\nShare\n\n# adidas men VL Court 3.0 Shoes\n\nFree Shipping & Returns\n\n[https://www.ebay.com/",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "adidas men VL Court 3.0 Shoes | eBay",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-04T00:13:46+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.ebay.com/itm/157751149633"
+   },
+   "tool_use_id": "srvtoolu_01QFDKMeb8hXg7Fyq3KTh2Cp",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01XLySUog6Hf6SFarxo3Z1NN/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0]['title'],len(c));print(c[:2500])\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01XLySUog6Hf6SFarxo3Z1NN",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_014LyFJckGCigx9PWiC5oUNU",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.ebay.com/itm/157751149633\", \"retrieved_at\": \"2026-11-04T00:13:46+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.ebay.com/itm/157751149633\\nmeta-description: VL Court 3.0 Shoes. Features of the VL Court 3.0 Shoes. adidas Sport is mainly targeting competitive sports. Everything at adidas reflects the spirit of our founder Adi Dassler. No matter how serious you are about sports, a sporting lifestyle does not end in the locker room.\\nmeta-fb:app_id: 102628213125203\\nmeta-google-adsense-account: sites-7757056108965234\\nmeta-google-site-verification: 8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\\nmeta-layout: main\\nmeta-msvalidate.01: 34E98E6F27109BE1A9DCF19658EEEE33\\nmeta-og:description: VL Court 3.0 Shoes. Features of the VL Court 3.0 Shoes. adidas Sport is mainly targeting competitive sports. Everything at adidas reflects the spirit of our founder Adi Dassler. No matter how serious you are about sports, a sporting lifestyle does not end in the locker room.\\nmeta-og:image: https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l400.jpg\\nmeta-og:site_name: eBay\\nmeta-og:title: adidas men VL Court 3.0 Shoes | eBay\\nmeta-og:type: ebay-objects:item\\nmeta-og:url: https://www.ebay.com/itm/157751149633\\nmeta-referrer: unsafe-url\\nmeta-robots: max-snippet:-1, max-image-preview:large\\nmeta-twitter:card: summary\\nmeta-twitter:description: VL Court 3.0 Shoes. Featur\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_014LyFJckGCigx9PWiC5oUNU",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01PsVKU4L6RD8phMo4Rt1eAS",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nd=json.loads(r)['content']['source']['data']\nfor k in ['US \\$','\\$','stock','available','sold','ended','Buy It Now','out of stock']:\n  for m in list(re.finditer(k,d,re.I))[:4]:print(k,'::',d[max(0,m.start()-100):m.start()+120].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "sold :: idas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.  264 sold today  ![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](h\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PsVKU4L6RD8phMo4Rt1eAS",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSigUKEAgTGAI4AUIIdGhpbmtpbmcSDGvxw8QaDm4i87BX/xoMD2cxKNG3cso9r+qHIjAR4eTHWSn1zP44FNKxdwS4Zb/mQStcFEfvLBmnLhliUb5v00Nag/1xKQq2IVmZSmMqpwQxp3eMmL0pTNpT7imVvNvgYHw/UcKYTKa2XvuV9tFiCX6Ia/IcPSY4+ceiYGYx/4f946oo/cxt10npYZWadwKUq2hJXXU7ZPHZMK+xA+QxmmhhXdD82Sv7hjKoxOepddmD5tF8Pud3JyMA/IJNBIhSQ16/56dJOo19dKxwv7F397jVoMv7js4tbnQnrjMEyJ1p9cbWo9iK2N1IkVXud3psMN/iNBQMtrxGyyMe5xhRdHKAXQ4wj5F1N+B+1E9xZN2yhsmVhsICo8Tfcc7NAJsk0adyrztEQ9kebq80+76rw/3YJJbFou2uQ8t8ih+uU2mWNzb42ApZZw3OSvTXsPv/LNx11Sw8DMkhLFVkkDOf7YopXQMa43+p56MsTULAanwjAUyQlKRbwg9R3/153dDPShYrVgd5tPaHdqQ2Vx+TIyQ47JPLPDRLcUIY3g+I+CaLzBr13lZANHguJs0v2xtUnyJhDCNlfP1+xtTGbw4VRYAJduD3aonoyzmUhx3kDcL5QfU3E/1KcpU+4bp2rfwfwWilXtkYb8xs9Mqvb9tlBk1nAUFv4528QxAgM6Uxc2/f9rXC62i4GZcMw6skeRWuIZjiAd/owlYOAgkMfOg8V9fTH3r5P1/hcE40EVjRBeR8l1P9ZtKPmkU2XCztFliAHlEjL51MU1eYEyYlKMJf9P7ymisrBXUCzJ0L3vtr0hSfr6gPTxooHc9MYBShx14sYpCGeALm4hgB",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_01G1a3zsWXLDkdfP3ANRM6xS",
+   "caller": null,
+   "input": {
+    "code": "i=d.find('264 sold');print(len(d));print(d[i-1500:i+3000])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "15141\ndas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.](https://i.ebayimg.com/images/g/wBYAAeSw14tq6j7v/s-l140.jpg) ![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.](https://i.ebayimg.com/images/g/wDUAAeSwy6lq6j7v/s-l140.jpg) Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background. Picture 8 of 63 Picture 9 of 63 Picture 10 of 63 Picture 11 of 63 Picture 12 of 63 Picture 13 of 63 Picture 14 of 63 Picture 15 of 63 Picture 16 of 63 Picture 17 of 63 Picture 18 of 63 Picture 19 of 63 Picture 20 of 63 Picture 21 of 63 Picture 22 of 63 Picture 23 of 63 Picture 24 of 63 Picture 25 of 63 Picture 26 of 63 Picture 27 of 63 Picture 28 of 63 Picture 29 of 63 Picture 30 of 63 Picture 31 of 63 Picture 32 of 63 Picture 33 of 63 Picture 34 of 63 Picture 35 of 63 Picture 36 of 63 Picture 37 of 63 Picture 38 of 63 Picture 39 of 63 Picture 40 of 63 Picture 41 of 63 Picture 42 of 63 Picture 43 of 63 Picture 44 of 63 Picture 45 of 63 Picture 46 of 63 Picture 47 of 63 Picture 48 of 63 Picture 49 of 63 Picture 50 of 63 Picture 51 of 63 Picture 52 of 63 Picture 53 of 63 Picture 54 of 63 Picture 55 of 63 Picture 56 of 63 Picture 57 of 63 Picture 58 of 63 Picture 59 of 63 Picture 60 of 63 Picture 61 of 63 Picture 62 of 63 Picture 63 of 63\n\n## Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.\n\n264 sold today\n\n![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](https://i.ebayimg.com/thumbs/images/g/wU0AAeSwPddq6j7w/s-l500.jpg)\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nWhite adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background.\n\nPicture 8 of 63\n\nPicture 9 of 63\n\nPicture 10 of 63\n\nPicture 11 of 63\n\nPicture 12 of 63\n\nPicture 13 of 63\n\nPicture 14 of 63\n\nPicture 15 of 63\n\nPicture 16 of 63\n\nPicture 17 of 63\n\nPicture 18 of 63\n\nPicture 19 of 63\n\nPicture 20 of 63\n\nPicture 21 of 63\n\nPicture 22 of 63\n\nPicture 23 of 63\n\nPicture 24 of 63\n\nPicture 25 of 63\n\nPicture 26 of 63\n\nPicture 27 of 63\n\nPicture 28 of 63\n\nPicture 29 of 63\n\nPicture 30 of 63\n\nPicture 31 of 63\n\nPicture 32 of 63\n\nPicture 33 of 63\n\nPicture 34 of 63\n\nPicture 35 of 63\n\nPicture 36 of 63\n\nPicture 37 of 63\n\nPicture 38 of 63\n\nPicture 39 of 63\n\nPicture 40 of 63\n\nPicture 41 of 63\n\nPicture 42 of 63\n\nPicture 43 of 63\n\nPicture 44 of 63\n\nPicture 45 of 63\n\nPicture 46 of 63\n\nPicture 47 of 63\n\nPicture 48 of 63\n\nPicture 49 of 63\n\nPicture 50 of 63\n\nPicture 51 of 63\n\nPicture 52 of 63\n\nPicture 53 of 63\n\nPicture 54 of 63\n\nPicture 55 of 63\n\nPicture 56 of 63\n\nPicture 57 of 63\n\nPicture 58 of 63\n\nPicture 59 of 63\n\nPicture 60 of 63\n\nPicture 61 of 63\n\nPicture 62 of 63\n\nPicture 63 of 63\n\n4.8K\n\n## Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.\n\n![Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole.](https://i.ebayimg.com/images/g/wU0AAeSwPddq6j7w/s-l1600.jpg)\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side.\n\nWhite adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles.\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background.\n\nadidas men VL Court 3.0 Shoes - Picture 8 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 9 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 10 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 11 of 63\n\nadidas men VL Court 3.0 Shoes - Picture \n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01G1a3zsWXLDkdfP3ANRM6xS",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01KcYwmWaiFo1QB5i6SwkwRd",
+   "caller": null,
+   "input": {
+    "code": "print(d[-4000:])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": " - Picture 59 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 60 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 61 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 62 of 63\n\nadidas men VL Court 3.0 Shoes - Picture 63 of 63\n\nMaroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and a textured rubber outsole. Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side. Maroon adidas men VL Court 3.0 shoes with white stripes, white laces, and black Adidas logo on side. White adidas men VL Court 3.0 shoes with red and white stripes, wavy sole, and textured heel grip detail. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and Adidas logo on tongue in white. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and textured rubber outsoles. Maroon adidas men VL Court 3.0 shoes with white stripes, white midsoles, and matching laces on a plain background. adidas men VL Court 3.0 Shoes - Picture 8 of 63 adidas men VL Court 3.0 Shoes - Picture 9 of 63 adidas men VL Court 3.0 Shoes - Picture 10 of 63 adidas men VL Court 3.0 Shoes - Picture 11 of 63 adidas men VL Court 3.0 Shoes - Picture 12 of 63 adidas men VL Court 3.0 Shoes - Picture 13 of 63 adidas men VL Court 3.0 Shoes - Picture 14 of 63 adidas men VL Court 3.0 Shoes - Picture 15 of 63 adidas men VL Court 3.0 Shoes - Picture 16 of 63 adidas men VL Court 3.0 Shoes - Picture 17 of 63 adidas men VL Court 3.0 Shoes - Picture 18 of 63 adidas men VL Court 3.0 Shoes - Picture 19 of 63 adidas men VL Court 3.0 Shoes - Picture 20 of 63 adidas men VL Court 3.0 Shoes - Picture 21 of 63 adidas men VL Court 3.0 Shoes - Picture 22 of 63 adidas men VL Court 3.0 Shoes - Picture 23 of 63 adidas men VL Court 3.0 Shoes - Picture 24 of 63 adidas men VL Court 3.0 Shoes - Picture 25 of 63 adidas men VL Court 3.0 Shoes - Picture 26 of 63 adidas men VL Court 3.0 Shoes - Picture 27 of 63 adidas men VL Court 3.0 Shoes - Picture 28 of 63 adidas men VL Court 3.0 Shoes - Picture 29 of 63 adidas men VL Court 3.0 Shoes - Picture 30 of 63 adidas men VL Court 3.0 Shoes - Picture 31 of 63 adidas men VL Court 3.0 Shoes - Picture 32 of 63 adidas men VL Court 3.0 Shoes - Picture 33 of 63 adidas men VL Court 3.0 Shoes - Picture 34 of 63 adidas men VL Court 3.0 Shoes - Picture 35 of 63 adidas men VL Court 3.0 Shoes - Picture 36 of 63 adidas men VL Court 3.0 Shoes - Picture 37 of 63 adidas men VL Court 3.0 Shoes - Picture 38 of 63 adidas men VL Court 3.0 Shoes - Picture 39 of 63 adidas men VL Court 3.0 Shoes - Picture 40 of 63 adidas men VL Court 3.0 Shoes - Picture 41 of 63 adidas men VL Court 3.0 Shoes - Picture 42 of 63 adidas men VL Court 3.0 Shoes - Picture 43 of 63 adidas men VL Court 3.0 Shoes - Picture 44 of 63 adidas men VL Court 3.0 Shoes - Picture 45 of 63 adidas men VL Court 3.0 Shoes - Picture 46 of 63 adidas men VL Court 3.0 Shoes - Picture 47 of 63 adidas men VL Court 3.0 Shoes - Picture 48 of 63 adidas men VL Court 3.0 Shoes - Picture 49 of 63 adidas men VL Court 3.0 Shoes - Picture 50 of 63 adidas men VL Court 3.0 Shoes - Picture 51 of 63 adidas men VL Court 3.0 Shoes - Picture 52 of 63 adidas men VL Court 3.0 Shoes - Picture 53 of 63 adidas men VL Court 3.0 Shoes - Picture 54 of 63 adidas men VL Court 3.0 Shoes - Picture 55 of 63 adidas men VL Court 3.0 Shoes - Picture 56 of 63 adidas men VL Court 3.0 Shoes - Picture 57 of 63 adidas men VL Court 3.0 Shoes - Picture 58 of 63 adidas men VL Court 3.0 Shoes - Picture 59 of 63 adidas men VL Court 3.0 Shoes - Picture 60 of 63 adidas men VL Court 3.0 Shoes - Picture 61 of 63 adidas men VL Court 3.0 Shoes - Picture 62 of 63 adidas men VL Court 3.0 Shoes - Picture 63 of 63\n\nHave one to sell?\n\n[Sell one like this](https://www.ebay.com/sl/list?mode=SellLikeItem&itemId=157751149633&rt=nc&_trksid=p4429486.m117039.l2567)\n\n[Sell something else](https://www.ebay.com/sl/prelist/suggest)\n\nShare\n\n# adidas men VL Court 3.0 Shoes\n\nFree Shipping & Returns\n\n[https://www.ebay.com/\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01KcYwmWaiFo1QB5i6SwkwRd",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: adidas men VL Court 3.0 Shoes | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374",
+  "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310",
+  "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756",
+  "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087",
+  "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380",
+  "https://www.macys.com/shop/beauty/fragrance/Brand/Maison%20Francis%20Kurkdjian?id=277259",
+  "https://www.macys.com/shop/gift-sets/Pageindex/21?id=120043",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Fragrance/Gentle%20Fluidity?id=30087",
+  "https://www.macys.com/shop/star-rewards-member-exclusive/Beauty_department,Gender/Fragrance,Women?id=346466"
+ ],
+ "cited_store": true,
+ "answer": "NAME: 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set | PRICE: $310.00 | STOCK: UNKNOWN | OPENED: NO: page access was not available",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set | PRICE: $310.00 | STOCK: UNKNOWN | OPENED: NO: page access was not available",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374",
+   "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310",
+   "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756",
+   "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087",
+   "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380",
+   "https://www.macys.com/shop/beauty/fragrance/Brand/Maison%20Francis%20Kurkdjian?id=277259",
+   "https://www.macys.com/shop/gift-sets/Pageindex/21?id=120043",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Fragrance/Gentle%20Fluidity?id=30087",
+   "https://www.macys.com/shop/star-rewards-member-exclusive/Beauty_department,Gender/Fragrance,Women?id=346466"
+  ],
+  "created": 1793751416,
+  "id": "resp_86db86b6-21cb-415b-8a8f-6c56e7834aef",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Gentle Fluidity Gold Scented Body Oil, 2.4 oz.\nCurrent price $115.00; ;$115.00\n...\n### gentle Fluidity Gold Eau de Parfum\nCurrent price From $180.00 to $535.00; ;$180.00 - $535.00\nFriends & Family: $20 in Star Money per $100\nfree gift with purchase\n(345)\n- Maison Francis Kurkdjian\n...\n- ## Which...",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian - Macy's",
+    "url": "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "- Maison Francis Kurkdjian\n### 3-Pc.\nOUD satin mood Eau de Parfum Ritual Gift Set\nCurrent price $320.00; ;$320.00\n$20 Star Money per $100\nfree gift with purchase\n...\n- Maison Francis Kurkdjian\n### 3-Piece Gentle Fluidity Gold Eau de Parfum Refills Set\nCurrent price $180.00; ;$180.00\n$20 Star Money p...",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Travel Size & Mini Beauty Products - Macy's",
+    "url": "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Beauty | Macy's\n...\n- Maison Francis Kurkdjian\n### NEW!\n3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set\nCurrent price $310.00; ;$310.00\n$20 Star Money per $100\nfree gift with purchase\n- Maison Francis Kurkdjian\n### NEW!",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Beauty",
+    "url": "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Beauty Gift Sets | Macy's\n...\n# Maison Francis Kurkdjian Beauty Gift Sets\n...\n### 3-Pc.\nOUD satin mood Eau de Parfum Ritual Gift Set\nCurrent price $320.00; ;$320.00\n...\n- Maison Francis Kurkdjian\n### NEW!\n3-Piece Gentle Fluidity Gold Eau de Parfum Refills Set\nCurrent price $...",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Beauty Gift Sets",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Perfume & Eau de Parfum | Macy's\n...\n- Maison Francis Kurkdjian\n### gentle Fluidity Gold Eau de Parfum\nCurrent price From $180.00 to $535.00; ;$180.00 - $535.00\nfree gift with purchase\n(343)\n...\n…\n### NEW! 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set\nCurrent price $3...",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Perfume & Eau de Parfum - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "Luxury Gift Sets | Maison Francis Kurkdjian | Macy's\n...\n# Gift Selection: Luxury Gift Sets\n(25)\n- Maison Francis Kurkdjian\n...\n- Maison Francis Kurkdjian\n...\nfree gift with purchase\n...\n- Maison Francis Kurkdjian\n### NEW!\n4-Piece Gentle Fluidity Gold Precious Elixirs Set\nCurrent price $160.00; ;$16...",
+    "source": "web",
+    "title": "Luxury Gift Sets | Maison Francis Kurkdjian | Macy's",
+    "url": "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Fragrances for Women and Men | Macy's\n...\n### gentle Fluidity Gold Eau de Parfum\nCurrent price From $180.00 to $535.00; ;$180.00 - $535.00\n(343)\n- Maison Francis Kurkdjian\n...\n- Maison Francis Kurkdjian\n...\n### NEW! 3-Piece Gentle Fluidity Gold Eau de Parfum Refills Set\nCurr...",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Fragrances for Women and Men",
+    "url": "https://www.macys.com/shop/beauty/fragrance/Brand/Maison%20Francis%20Kurkdjian?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### NEW! 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set\nCurrent price $310.00; ;$310.00\nFriends & Family: $20 in Star Money per $100\nfree gift with purchase",
+    "source": "web",
+    "title": "Beauty Gift Sets & Value Sets",
+    "url": "https://www.macys.com/shop/gift-sets/Pageindex/21?id=120043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-15",
+    "place_metadata": null,
+    "snippet": "# Gentle Fluidity Perfume\n(2)\nBrands we love\n...\n- Maison Francis Kurkdjian\n### gentle Fluidity Gold Eau de Parfum\nCurrent price From $180.00 to $535.00; ;\n- Maison Francis Kurkdjian",
+    "source": "web",
+    "title": "Gentle Fluidity Perfume & Eau de Parfum - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Fragrance/Gentle%20Fluidity?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-14",
+    "place_metadata": null,
+    "snippet": "- Maison Francis Kurkdjian\n...\n### gentle Fluidity Gold Eau de Parfum\nCurrent price From $180.00 to $535.00; ;$180.00 - $535.00\n(343)\n...\n### NEW! 3-Piece Gentle Fluidity Gold Eau de Parfum Refills Set\nCurrent price $180.00; ;$180.00\n- Maison Francis Kurkdjian\n…\n...\n### 3-Pc. OUD satin mood Eau de P...",
+    "source": "web",
+    "title": "Star Rewards Member Exclusive | Macy's",
+    "url": "https://www.macys.com/shop/star-rewards-member-exclusive/Beauty_department,Gender/Fragrance,Women?id=346466"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 37,
+   "cost": {
+    "input_tokens_cost": 0.00127,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00407
+   },
+   "prompt_tokens": 144,
+   "search_context_size": "low",
+   "total_tokens": 181
+  }
+ }
+}

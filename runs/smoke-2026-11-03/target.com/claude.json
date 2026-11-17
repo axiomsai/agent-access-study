@@ -1,0 +1,95 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.target.com/",
+ "doc_chars": 411,
+ "doc_markers": [],
+ "answer": "I opened the page and got back text, but the page didn't have a title.\n\n- **Page title:** none. The tool returned `title: null` for https://www.target.com/.\n- **One category name on the page:** \"end-of-season clearance\". Other promotions on the page included \"college life savers\", \"bed & bath bonus\" and \"save $10 on jeans\".\n\nThe content was fetched on 2025-09-21 at 04:05 UTC.",
+ "cost_usd": 0.06763,
+ "raw": [
+  {
+   "id": "srvtoolu_019nSsKuXfidaSuLp3bfbQHh",
+   "caller": null,
+   "input": {
+    "code": "import json\nr=await web_fetch({\"url\":\"https://www.target.com/\"})\nif isinstance(r,dict):print(r)\nelse:\n    x=r[0];print(x.get('result_type'),x.get('title'));print(x['content'][:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01UGHKLHK9GRWvpSV9k8XJXw",
+   "caller": {
+    "tool_id": "srvtoolu_019nSsKuXfidaSuLp3bfbQHh",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.target.com/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_019nSsKuXfidaSuLp3bfbQHh",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "Load Complete Content\n\n\ncollege life savers\n\nup to 20% off everything you'll need for college.*\n\nbed & bath bonus spend $50, save $10* spend $100, save $25* promo code COLLEGE\n\nup to 30% off\n\nhome updates.*\n\nends Monday. extra 15% off rugs* with promo code BONANZA\n\nend-of-season clearance\n\nextra 10% off* with\npromo code EXTRA10\n\n\nsave $10 on jeans\n\nwhen you buy online or try on in\nstores.* promo code TRYON10",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": null,
+     "type": "document"
+    },
+    "retrieved_at": "2025-09-21T04:05:01+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.target.com/"
+   },
+   "tool_use_id": "srvtoolu_01UGHKLHK9GRWvpSV9k8XJXw",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_019nSsKuXfidaSuLp3bfbQHh/cell.py\", line 12, in <module>\n    x=r[0];print(x.get('result_type'),x.get('title'));print(x['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019nSsKuXfidaSuLp3bfbQHh",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01EHaPrWmkN21uJi4CxJUe6p",
+   "caller": null,
+   "input": {
+    "code": "print(type(r));print(str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'>\n{\"type\": \"web_fetch_result\", \"url\": \"https://www.target.com/\", \"retrieved_at\": \"2025-09-21T04:05:01+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"Load Complete Content\\n\\n\\ncollege life savers\\n\\nup to 20% off everything you'll need for college.*\\n\\nbed & bath bonus spend $50, save $10* spend $100, save $25* promo code COLLEGE\\n\\nup to 30% off\\n\\nhome updates.*\\n\\nends Monday. extra 15% off rugs* with promo code BONANZA\\n\\nend-of-season clearance\\n\\nextra 10% off* with\\npromo code EXTRA10\\n\\n\\nsave $10 on jeans\\n\\nwhen you buy online or try on in\\nstores.* promo code TRYON10\"}, \"title\": null}}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01EHaPrWmkN21uJi4CxJUe6p",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "I opened the page and got back text, but the page didn't have a title.\n\n- **Page title:** none. The tool returned `title: null` for https://www.target.com/.\n- **One category name on the page:** \"end-of-season clearance\". Other promotions on the page included \"college life savers\", \"bed & bath bonus\" and \"save $10 on jeans\".\n\nThe content was fetched on 2025-09-21 at 04:05 UTC.",
+   "type": "text"
+  }
+ ]
+}

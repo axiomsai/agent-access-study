@@ -1,0 +1,27 @@
+# Pilot store list, 2026-11-03. NOT the locked list (the lock needs a dated public top 100).
+# Source: Semrush "Top Retail Websites in the United States", September 2026 data, top 20 as shown
+# (https://www.semrush.com/trending-websites/us/retail, read 2026-11-03), plus amazon.com, rank 1 on Ahrefs'
+# US shopping list (https://ahrefstop.com/websites/united-states/shopping, October 2026), absent from Semrush's retail category.
+source: "Semrush US retail top 20 (Sep 2026) + amazon.com (Ahrefs US shopping #1, Oct 2026)"
+stores:
+  - amazon.com
+  - walmart.com
+  - temu.com
+  - ebay.com
+  - etsy.com
+  - homedepot.com
+  - target.com
+  - lowes.com
+  - cvs.com
+  - bestbuy.com
+  - samsung.com
+  - walgreens.com
+  - costco.com
+  - shein.com
+  - wayfair.com
+  - macys.com
+  - aliexpress.com
+  - gap.com
+  - depop.com
+  - instacart.com
+  - kroger.com

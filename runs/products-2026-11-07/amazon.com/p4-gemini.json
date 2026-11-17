@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/Bounty-Select-Size-Towels-6-Huge/dp/B07BHYGZ9S",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "finish": "STOP",
+ "cost_usd": 6e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+       "thoughtSignature": "EnMKcQFpFH0TyxQBJuecvL0gPDPTSmddJaxkZiVCST8RK+WBGLAchJBx//euNqqBjYK3D8wIoAFI9mUOO/eOWTJEdEKOSf+CXvGyVIVbKkVAbzpHv/Pde7sLGN7Uz1onwfEk1YxgI2zrVsXw2klMIwgsMCXG"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/Bounty-Select-Size-Towels-6-Huge/dp/B07BHYGZ9S",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 125,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 443,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 125
+    }
+   ],
+   "toolUsePromptTokenCount": 270,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 270
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "cHzvas_CJpToz7IP_svp0AI"
+ }
+}

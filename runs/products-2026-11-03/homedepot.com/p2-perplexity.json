@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+  "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1",
+  "https://www.homedepot.com/p/questions/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1",
+  "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd",
+  "https://www.homedepot.com/b/Bath-Toilets/HOROW/Vertical/N-5yc1vZbzbdZv6dZ1z0pphf",
+  "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/2",
+  "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257",
+  "https://www.homedepot.com/p/reviews/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257/1",
+  "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-White-ADA-Height-Soft-Close-Seat-Included-HR-0138/324558427",
+  "https://www.homedepot.com/p/HOROW-1-Piece-10-in-Rough-In-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-High-Efficiency-WaterSense-Toilet-HR-0038W-10/325766840"
+ ],
+ "cited_store": true,
+ "answer": "NAME: 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $239.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included | PRICE: $239.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+   "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1",
+   "https://www.homedepot.com/p/questions/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1",
+   "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd",
+   "https://www.homedepot.com/b/Bath-Toilets/HOROW/Vertical/N-5yc1vZbzbdZv6dZ1z0pphf",
+   "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/2",
+   "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257",
+   "https://www.homedepot.com/p/reviews/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257/1",
+   "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-White-ADA-Height-Soft-Close-Seat-Included-HR-0138/324558427",
+   "https://www.homedepot.com/p/HOROW-1-Piece-10-in-Rough-In-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-High-Efficiency-WaterSense-Toilet-HR-0038W-10/325766840"
+  ],
+  "created": 1793751271,
+  "id": "resp_2510515a-031a-445d-a659-668a0e3dc26a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included HR-0038W - The Home Depot\nBath\n...\n## Internet # 321046877\n## Model # HR-0038W\n...\n# 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included\n...\n$239.00\n$319.00\n...\n- Comfort seat height offers chair-height s...",
+    "source": "web",
+    "title": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White ...",
+    "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877"
+   },
+   {
+    "date": "2023-10-09",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "## Internet # 321046877\n## Model # HR-0038W\n## Store SKU # 1008162709\n# Customer Reviews for HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included\nby\n## HOROW\nQuestions & Answers (241)\n- Comfort seat height offers chair-height seating 17.3 in.\n- Top industry flush standard for...",
+    "source": "web",
+    "title": "Reviews for HOROW 1-Piece 1.1/1.6 GPF Dual Flush ...",
+    "url": "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1"
+   },
+   {
+    "date": "2023-10-09",
+    "last_updated": "2026-07-06",
+    "place_metadata": null,
+    "snippet": "## Internet # 321046877\n## Model # HR-0038W\n## Store SKU # 1008162709\n# Questions and Answers for HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included\nby\n## HOROW\nQuestions & Answers (226)\n- Comfort seat height offers chair-height seating 17.3 in.\n- Top industry flush standar...",
+    "source": "web",
+    "title": "Check The Home Depot's Q&A Before Buying: HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "url": "https://www.homedepot.com/p/questions/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/1"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Model# HR-0038W\nHOROW\n1-​Piece 1.​1/​1.​6 GPF Dual Flush Elongated Toilet in White Seat Included\nLimit 10 per order\n$259.00\n$319.00\nSave $60.00 (19%)\n(4.8 / 117)",
+    "source": "web",
+    "title": "Toilets",
+    "url": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# HOROW Toilets\n## Gallons Per Flush\n### Dual Flush: 1.1/1.6\nDual Flush: 1.1/1.6\n...\n## Product Width (in.)\n### HOROW Chair Height 1.​1/​1.​6 GPF Dual Flush Elongated Bidet Toilet in White HR-​0038W with Non-​Electric Toilet Seat\n(4.6 / 42)\nModel# HR-T0338WBD\n$337.00\n$359.00\nSave $22.00 (6%)\n...\n###...",
+    "source": "web",
+    "title": "HOROW - Vertical - Toilets",
+    "url": "https://www.homedepot.com/b/Bath-Toilets/HOROW/Vertical/N-5yc1vZbzbdZv6dZ1z0pphf"
+   },
+   {
+    "date": "2025-11-18",
+    "last_updated": "2026-08-18",
+    "place_metadata": null,
+    "snippet": "I bought the toilet because of the color and the sleek, modern design, especially for the comfort of the chair hight.\nI love how easy it is to clean because there are no crevices on the outside.\nI also like how the seat and cover close slowly without noise.\nThe Customer Service department was very e...",
+    "source": "web",
+    "title": "Reviews for HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated ...",
+    "url": "https://www.homedepot.com/p/reviews/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877/2"
+   },
+   {
+    "date": "2025-12-18",
+    "last_updated": "2026-10-07",
+    "place_metadata": null,
+    "snippet": "HOROW 1-piece 1.1/1.6 GPF Dual Flush Elongated Toilet in Matte White with ADA Chair Height, Soft-Close Seat Included T0338MW - The Home Depot\nBath\n...\nHOROW One Piece Toilets\n## Internet # 331421257\n## Model # T0338MW\n...\n# 1-piece 1.1/1.6 GPF Dual Flush Elongated Toilet in Matte White with ADA Chai...",
+    "source": "web",
+    "title": "HOROW 1-piece 1.1/1.6 GPF Dual Flush Elongated Toilet in Matte ...",
+    "url": "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257"
+   },
+   {
+    "date": "2026-09-30",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Reviews for HOROW 1-piece 1.1/1.6 GPF Dual Flush Elongated Toilet in Matte White with ADA Chair Height, Soft-Close Seat Included | Pg 1 - The Home Depot\nHome\n...\nHOROW One Piece Toilets\n## Internet # 331421257\n## Model # T0338MW\n## Store SKU # 1012419428\n# Customer Reviews for HOROW 1-piece 1.1/1.6 ...",
+    "source": "web",
+    "title": "Reviews for HOROW 1-piece 1.1/1.6 GPF Dual Flush ...",
+    "url": "https://www.homedepot.com/p/reviews/HOROW-1-piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257/1"
+   },
+   {
+    "date": "2026-02-02",
+    "last_updated": "2026-07-24",
+    "place_metadata": null,
+    "snippet": "## Internet # 324558427\n## Model # HR-0138\n## Shop HOROW\n# 1-piece 1.1/1.6 GPF High Efficiency Dual Flush Elongated Toilet in White, ADA Height, Soft-Close Seat Included\n...\nLimit 10 per order\n$259.00\nWas $280.00\nSave $21.00 (8%)\n...\nApply for a Home Depot Consumer Card\n- Comfort seat height offers ...",
+    "source": "web",
+    "title": "HOROW 1-piece 1.1/1.6 GPF High Efficiency Dual Flush ...",
+    "url": "https://www.homedepot.com/p/HOROW-1-piece-1-1-1-6-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-White-ADA-Height-Soft-Close-Seat-Included-HR-0138/324558427"
+   },
+   {
+    "date": "2025-12-18",
+    "last_updated": "2026-09-19",
+    "place_metadata": null,
+    "snippet": "## Internet # 325766840\n## Model # HR-0038W-10\nBath Savings Event\n## Shop HOROW\n# 1-Piece 10 in. Rough-In 1.1/1.6 GPF Dual Flush Elongated Toilet in White, High-Efficiency WaterSense Toilet\nQuestions & Answers (242)\nLimit 10 per order\n$309.00\n$349.00\nSave $40.00 (11%)\n...\n- Elongated toilet with a 1...",
+    "source": "web",
+    "title": "HOROW 1-Piece 10 in. Rough-In 1.1/1.6 GPF Dual Flush Elongated ...",
+    "url": "https://www.homedepot.com/p/HOROW-1-Piece-10-in-Rough-In-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-High-Efficiency-WaterSense-Toilet-HR-0038W-10/325766840"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 42,
+   "cost": {
+    "input_tokens_cost": 0.0019,
+    "output_tokens_cost": 0.00034,
+    "request_cost": 0.0025,
+    "total_cost": 0.00474
+   },
+   "prompt_tokens": 153,
+   "search_context_size": "low",
+   "total_tokens": 195
+  }
+ }
+}

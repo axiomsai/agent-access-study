@@ -1,0 +1,60 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+ "idx": 4,
+ "at": "2026-11-09T12:30:01-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (the web tool couldn't access the page, \"url_not_accessible\")",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.07011
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0003
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01137
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00058,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver | PRICE: $269.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TnsxpD4yoimaBAdJqGDi+qUFteqth7yM47MPm64oB6zClatv/spmvALc9zmf3gdNRWx46oDnJTbRF4mFiB0IV+U2CXdOpU7CCLPhDePR6ad+yjKNB3FaffknqhfLTQm6f2VKFmUlpwen3quvp"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 157,
+   "candidatesTokenCount": 107,
+   "totalTokenCount": 5439,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 157
+    }
+   ],
+   "toolUsePromptTokenCount": 5175,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5175
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "FQ_yavuJMe6aqtsP4NKykA0"
+ }
+}

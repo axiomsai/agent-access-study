@@ -1,0 +1,60 @@
+{
+ "domain": "depop.com",
+ "url": "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+ "idx": 4,
+ "at": "2026-11-09T12:43:53-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (the fetch failed with \"url_not_accessible\", so the page never loaded)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06723
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the website blocked access",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 8e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Bebe Women's Green and Khaki T-shirt",
+   "price": 6.0,
+   "price_raw": "$6.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01179
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

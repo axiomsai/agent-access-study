@@ -1,0 +1,25 @@
+{
+ "domain": "gap.com",
+ "idx": 2,
+ "url": "https://www.gap.com/browse/product.do?pid=908929032",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "8126 chars, copy dated 2026-11-04 (7 days old)",
+   "price": 69.95,
+   "opened": "YES",
+   "doc_chars": 8126,
+   "input_tokens": 23490,
+   "cost_usd": 0.1042
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "8027 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 69.95,
+   "opened": "YES",
+   "doc_chars": 8027,
+   "input_tokens": 22786,
+   "cost_usd": 0.09994
+  }
+ }
+}

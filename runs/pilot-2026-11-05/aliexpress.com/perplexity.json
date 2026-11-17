@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/item/1005007380588918.html",
+  "https://www.aliexpress.com/",
+  "https://www.aliexpress.com/item/1005003180810122.html",
+  "https://www.aliexpress.com/p/transparencycenter/tools.html",
+  "https://www.aliexpress.com/item/1005009214058231.html",
+  "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+  "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+  "https://www.aliexpress.com/item/1005009195385733.html",
+  "https://www.aliexpress.com/item/1005010342008500.html",
+  "https://www.aliexpress.com/w/wholesale-report.html"
+ ],
+ "cited_store": true,
+ "answer": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Luminous Keyboard Stress Relief Toy [1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Luminous Keyboard Stress Relief Toy [1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/item/1005007380588918.html",
+   "https://www.aliexpress.com/",
+   "https://www.aliexpress.com/item/1005003180810122.html",
+   "https://www.aliexpress.com/p/transparencycenter/tools.html",
+   "https://www.aliexpress.com/item/1005009214058231.html",
+   "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+   "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+   "https://www.aliexpress.com/item/1005009195385733.html",
+   "https://www.aliexpress.com/item/1005010342008500.html",
+   "https://www.aliexpress.com/w/wholesale-report.html"
+  ],
+  "created": 1793905858,
+  "id": "resp_a6874535-ba15-44e0-8eb9-b24f775b329b",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005007380588918.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## More to love\n### Luminous Keyboard Stress Relief Toy, Key Pendant, 4-in-1 Stress Relief Button Keychain, Stress-Relief Fingertip Clicker, Transparent Color, Car Key Pendant\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.\n...\nWelcome to AliE...",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping",
+    "url": "https://www.aliexpress.com/"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005003180810122.html"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "# Tools\nPlatform users can navigate to the product reporting interface by utilizing the report button located on the product detail page.",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.aliexpress.com/p/transparencycenter/tools.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Genmachine Mini PC R7 7840HS 780M R9 6900HX R5 ...",
+    "url": "https://www.aliexpress.com/item/1005009214058231.html"
+   },
+   {
+    "date": "2026-09-18",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "www aliexpress com - AliExpress\n...\n# Results for www aliexpress com\n**AliExpress (www.aliexpress.com) is a global e-commerce platform offering a vast selection of products across diverse categories, including electronics, fashion, home goods, and industrial supplies, with fast international shippin...",
+    "source": "web",
+    "title": "Www Aliexpress Com - AliExpress",
+    "url": "https://es.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+   },
+   {
+    "date": "2025-09-16",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Here’s what “specific link” means in practice: - **** Specific Link ****\nA direct URL that points to a single product listing on a marketplace like AliExpress, including the seller ID, product ID, and any unique tracking parameters.\nIt should load the exact product page without requiring further nav...",
+    "source": "web",
+    "title": "Give Me a Specific Link: The Ultimate Guide to Finding Your...",
+    "url": "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "New For Samsung S25 Plus Ultra SIM Card Slot SD ...",
+    "url": "https://www.aliexpress.com/item/1005009195385733.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "xmas sales NVIDIA SHIELD Android TV Pro - High Performance",
+    "url": "https://www.aliexpress.com/item/1005010342008500.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-01-16",
+    "place_metadata": null,
+    "snippet": "Aliexpress\nI'm shopping for...\nYour browser does not support JavaScript!",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/w/wholesale-report.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00062,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00318
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 81
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "homedepot.com",
+ "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+ "idx": 2,
+ "at": "2026-11-07T13:34:58-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "14961 chars, copy dated 2026-11-07 (0 days old)",
+   "parsed": true,
+   "name": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+   "price": 269.0,
+   "price_raw": "$269.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-07T19:24:45+00:00",
+   "age_days": 0,
+   "cost_usd": 0.1392
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "HOROW 1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+   "price": 319.0,
+   "price_raw": "$319.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00094
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+   "price": 269.0,
+   "price_raw": "$269.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01242
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "1-Piece 1.1/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+   "price": 239.0,
+   "price_raw": "$239.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00519
+  }
+ }
+}

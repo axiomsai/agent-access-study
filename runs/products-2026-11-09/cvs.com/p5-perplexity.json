@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+  "https://www.cvs.com/shop/ingredients/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+  "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=465530",
+  "https://www.cvs.com/shop/boiron-",
+  "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=926229",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Boiron/br",
+  "https://www.cvs.com/shop/health-benefits/fsa-hsa-eligible/q/Boiron/br",
+  "https://www.cvs.com/shop/boiron/q/Cold_&_Flu_Symptoms/sy",
+  "https://www.cvs.com/shop/brand-shop/b/boiron",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cold-flu-medicine/q/Homeopathic_Treatments/pt"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count | PRICE: $10.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count | PRICE: $10.99 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+   "https://www.cvs.com/shop/ingredients/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+   "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=465530",
+   "https://www.cvs.com/shop/boiron-",
+   "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=926229",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Boiron/br",
+   "https://www.cvs.com/shop/health-benefits/fsa-hsa-eligible/q/Boiron/br",
+   "https://www.cvs.com/shop/boiron/q/Cold_&_Flu_Symptoms/sy",
+   "https://www.cvs.com/shop/brand-shop/b/boiron",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cold-flu-medicine/q/Homeopathic_Treatments/pt"
+  ],
+  "created": 1794249025,
+  "id": "resp_474fd9a8-2ed0-4356-9185-b0c8f5f8f3fa",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-06-05",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms - CVS Pharmacy\n- Health & Medicine\n- Cough, Cold & Flu\n...\n# Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count\n4.3\n...\n## How to get it\nBrowse similar productsFind items available at your store\n## Details\nBoir...",
+    "source": "web",
+    "title": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms",
+    "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms Ingredients - CVS Pharmacy\n...\nOrder Status & History\n- Cough, Cold & Flu\n- Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms\n...\n# Ingredients for Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms\n...\n...",
+    "source": "web",
+    "title": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like ... - CVS",
+    "url": "https://www.cvs.com/shop/ingredients/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Customer Reviews: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms - CVS Pharmacy\nRepetir pedido fácilmente\n- Shop\n- Health & Medicine\n- Cough, Cold & Flu\n- Cold & Flu Medicine\n- Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms\n# Reseñas de clientes sobre Boiron Osc...",
+    "source": "web",
+    "title": "Reseñas de clientes sobre Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms",
+    "url": "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=465530"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Boiron\n11 products\n$19.99\n...\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (49)\n$10.99\n$7.33/oz.",
+    "source": "web",
+    "title": "Boiron",
+    "url": "https://www.cvs.com/shop/boiron-"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Customer Reviews: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms - CVS Pharmacy\nRepetir pedido fácilmente\n- Shop\n- Health & Medicine\n- Cough, Cold & Flu\n- Cold & Flu Medicine\n- Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms\n# Reseñas de clientes sobre Boiron Osc...",
+    "source": "web",
+    "title": "Reseñas de clientes sobre Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms",
+    "url": "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558-reviews?skuId=926229"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Boiron Cough, Cold & Flu at CVS Pharmacy\n...\n- Boiron Cough, Cold & Flu\n# Boiron Cough, Cold & Flu\n...\nPrice\nReviews\n1 product\n$19.99\n$1.32/ea.\n– to\n$39.49\n$3.33/ea.\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (49)\nPrices may vary from online to in store.\n...\n## Fi...",
+    "source": "web",
+    "title": "Boiron Cough, Cold & Flu at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Boiron/br"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Boiron FSA HSA Eligible at CVS Pharmacy\n...\n# Boiron FSA HSA Eligible\n...\n10 products\n$19.99\n$1.32/ea.\n– to\n$39.49\n$3.33/ea.\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (50)\n$10.99\n$7.33/oz.\n...\nThey are natural and really do hel...\n- Boiron Oscillococcinum Homeopa...",
+    "source": "web",
+    "title": "Boiron FSA HSA Eligible at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-benefits/fsa-hsa-eligible/q/Boiron/br"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Boiron at CVS Pharmacy\n...\n# Boiron\n...\nDelivery\nPrice\nReviews\n1 product\n$19.99\n$1.32/ea.\n– to\n$39.49\n$3.33/ea.\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (49)\nPrices may vary from online to in store.\n1\n- 1-800-679-9691",
+    "source": "web",
+    "title": "Boiron",
+    "url": "https://www.cvs.com/shop/boiron/q/Cold_&_Flu_Symptoms/sy"
+   },
+   {
+    "date": "2021-12-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Boiron\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (50)\n$18.49\n7.7¢/ea.\n...\n## Does CVS Carry Boiron Products?\nYes, CVS sells a variety of Boiron products in stores and online.",
+    "source": "web",
+    "title": "Buy Boiron Products Online",
+    "url": "https://www.cvs.com/shop/brand-shop/b/boiron"
+   },
+   {
+    "date": "2021-12-14",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Homeopathic Cold & Flu Medicine\n...\n9 products\n$19.99\n$1.32/ea.\n...\n## Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 CT\n4.3 (48)\n$14.49\n58.0¢/ea.\n...\nVery tasteful and I love cherry does my throat very well\n- Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms\n...",
+    "source": "web",
+    "title": "Homeopathic Cold Medicine ...",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cold-flu-medicine/q/Homeopathic_Treatments/pt"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 38,
+   "cost": {
+    "input_tokens_cost": 0.0014500000000000001,
+    "output_tokens_cost": 0.00029,
+    "request_cost": 0.0025,
+    "total_cost": 0.00424
+   },
+   "prompt_tokens": 134,
+   "search_context_size": "low",
+   "total_tokens": 172
+  }
+ }
+}

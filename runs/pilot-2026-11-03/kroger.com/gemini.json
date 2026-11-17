@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n\nProduct or Category Name: Fresh Grocery",
+ "finish": "STOP",
+ "cost_usd": 0.00231,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n\nProduct or Category Name: Fresh Grocery",
+       "thoughtSignature": "EnMKcQFpFH0TTzzyQS1CwkvpDbt19MFaw+8wT6sIn0pvbPhBOboxeeejoD+AMEFQoKUgn+oWuu1Xse8XUxOUlVDQm9RYzGI+B6eQJmOZNCMxNx8kYUvTe38YRwE2VeWgIOEzLhMkOumvX9oFFtOuNGRpu5po"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.kroger.com/",
+        "title": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 73,
+        "text": "Page Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 75,
+        "endIndex": 114,
+        "text": "Product or Category Name: Fresh Grocery"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 22903,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 22786,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 22786
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "MHLqarHwLYmhqtsPtIPPuQM"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart-4-all-terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+ "idx": 2,
+ "at": "2026-11-09T12:21:11-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product content)",
+   "retrieved_at": "2026-11-09T18:21:14+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10318
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "680/ 450/380/220/30 LBS Heavy Duty Foldable Utility Cart, 4 Wheels, Durable Alloy and 600D Oxford Cloth, No , Height Adjustable Wagon Cart, Suitable for Camping, Gardening and Shopping-black/ Blue/ Re",
+   "price": 19.11,
+   "price_raw": "$19.11",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00036
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01147
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error extracting the exact page",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0052
+  }
+ }
+}

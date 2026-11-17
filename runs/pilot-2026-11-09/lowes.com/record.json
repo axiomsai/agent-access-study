@@ -1,0 +1,45 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/",
+ "started": "2026-11-09T12:18:44-06:00",
+ "robots": {
+  "status": 403,
+  "error": null,
+  "rules": {}
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.lowes.com/",
+  "bytes": 325568,
+  "error": null,
+  "title": "Lowe’s Home Improvement",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "4888 chars, copy dated 2026-11-09 (0 days old)",
+   "answer": "I opened the page without any errors, blocks or captchas.\n\n- **Page title:** Lowe's Home Improvement (the full `<title>` tag reads \"Lowe’s Home Improvement…\" and is cut off in the text I got back)\n- **One category on the page:** Appliances",
+   "cost_usd": 0.0964
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Lowe's Home Improvement\nProduct/Category Name: Appliances",
+   "cost_usd": 0.0004
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Lowe’s Home Improvement  \nProduct/category name: Appliances ([lowes.com](https://www.lowes.com/))",
+   "cost_usd": 0.01207
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Lowe’s Home Improvement — Storage & Organization",
+   "cost_usd": 0.00507
+  }
+ }
+}

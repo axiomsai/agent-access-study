@@ -1,0 +1,60 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+ "idx": 2,
+ "at": "2026-11-09T12:29:40-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "9974 chars, copy dated 2026-10-08 (32 days old)",
+   "parsed": true,
+   "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+   "price": 465.0,
+   "price_raw": "$465.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-10-08T18:09:11+00:00",
+   "age_days": 32,
+   "cost_usd": 0.14402
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8-Drawer Steel Tool Chest (Black)",
+   "price": 299.0,
+   "price_raw": "$299.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00135
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+   "price": 299.0,
+   "price_raw": "$299.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01241
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8 -Drawer Steel Tool Chest ( Black )",
+   "price": 299.0,
+   "price_raw": "$299.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00519
+  }
+ }
+}

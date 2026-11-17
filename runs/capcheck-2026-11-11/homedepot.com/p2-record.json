@@ -1,0 +1,25 @@
+{
+ "domain": "homedepot.com",
+ "idx": 2,
+ "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "14961 chars, copy dated 2026-11-07 (4 days old)",
+   "price": 269.0,
+   "opened": "YES",
+   "doc_chars": 14961,
+   "input_tokens": 31183,
+   "cost_usd": 0.13775
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "17382 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 249.0,
+   "opened": "YES",
+   "doc_chars": 17382,
+   "input_tokens": 31021,
+   "cost_usd": 0.13676
+  }
+ }
+}

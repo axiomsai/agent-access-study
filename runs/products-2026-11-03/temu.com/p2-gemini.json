@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart--terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: 680/ 450/380/220/30 LBS Heavy Duty Foldable Utility Cart, -terrain Wheels, Durable Alloy and 600D Oxford Cloth, No , Height Adjustable Wagon Cart, Suitable for Camping, Gardening and Shopping-black/ Blue/ Red | PRICE: $19.11 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00036,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: 680/ 450/380/220/30 LBS Heavy Duty Foldable Utility Cart, -terrain Wheels, Durable Alloy and 600D Oxford Cloth, No , Height Adjustable Wagon Cart, Suitable for Camping, Gardening and Shopping-black/ Blue/ Red | PRICE: $19.11 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T3YYsGgtjuEeB/wMAMheHj4xYLBD+ohBnvV9EdofJPSM0huy7L0AynmHTbvprYPklQ1dy3ybBE3Q9mearfo58Qf4BVvydhyv4bbqqzFEiv49DM6/T8fmwIFp9JtPkLm3L26MPUaU2I2B1PwSF"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart--terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 217,
+   "candidatesTokenCount": 206,
+   "totalTokenCount": 2978,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 217
+    }
+   ],
+   "toolUsePromptTokenCount": 2555,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2555
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "r3jqapjkDIzWz7IP3dLk6QE"
+ }
+}

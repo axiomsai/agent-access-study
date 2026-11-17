@@ -1,0 +1,25 @@
+{
+ "domain": "wayfair.com",
+ "idx": 5,
+ "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15738 chars, copy dated 2026-08-29 (74 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15738,
+   "input_tokens": 42247,
+   "cost_usd": 0.18253
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "73644 chars, copy dated 2026-08-29 (74 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 73644,
+   "input_tokens": 38580,
+   "cost_usd": 0.17126
+  }
+ }
+}

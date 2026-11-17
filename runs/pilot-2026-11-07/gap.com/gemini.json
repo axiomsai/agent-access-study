@@ -1,0 +1,80 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category Name: Festive PJs",
+ "finish": "STOP",
+ "cost_usd": 0.00012,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct/Category Name: Festive PJs",
+       "thoughtSignature": "EnMKcQFpFH0TEEhq8AE+Hy2NdBIPWzqGgRiyWFBxBl3Pw4QSNNrvEFRw8RzCuHYw7h1DFA1yothFnFCzrgDs/Es0YRvJE0B7wCbhmbShwcu3e+QvWD5/6ruYJVuLKcbLcOgZoBEOl5uZWSp+sN3NkdLcA+IC"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.gap.com/",
+        "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 70,
+        "endIndex": 104,
+        "text": "Product/Category Name: Festive PJs"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 1053,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 940,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 940
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "bnvvapvtObihz7IPpI_DqQI"
+ }
+}

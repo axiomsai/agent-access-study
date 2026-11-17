@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/",
+  "https://www.lowes.com/pd/Hy-Lite-Wave-Acrylic-Block-Basement-Hopper-Window-3-in-Jamb-Tilting-Vinyl-New-construction-White-Basement-Hopper-Window/5021389597",
+  "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716",
+  "https://www.lowes.com/pd/Blaster-9-3-oz-Lubricant/1066849",
+  "https://www.lowes.com/pd/GE-7-4-cu-ft-Electric-Dryer-White/5014110827",
+  "https://www.lowes.com/pd/Whirlpool-1-9-cu-ft-1000-Watt-Over-the-Range-Microwave-with-Sensor-Cooking-Fingerprint-Resistant-Stainless-Steel/5015172017",
+  "https://www.lowes.com/ple/all",
+  "https://www.lowes.com/pl/footwear-accessories/2711368754867",
+  "https://www.lowes.com/pl/power-tools/jointers-planers/benchtop-stationary-tool-accessories/mobile-base/30-inch-deep/61744334-1169953285-4294701586",
+  "https://www.lowes.com/pl/small-appliances/cookers-steamers/4294857961"
+ ],
+ "cited_store": true,
+ "answer": "Lowe’s Home Improvement — Appliances",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Lowe’s Home Improvement — Appliances",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/",
+   "https://www.lowes.com/pd/Hy-Lite-Wave-Acrylic-Block-Basement-Hopper-Window-3-in-Jamb-Tilting-Vinyl-New-construction-White-Basement-Hopper-Window/5021389597",
+   "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716",
+   "https://www.lowes.com/pd/Blaster-9-3-oz-Lubricant/1066849",
+   "https://www.lowes.com/pd/GE-7-4-cu-ft-Electric-Dryer-White/5014110827",
+   "https://www.lowes.com/pd/Whirlpool-1-9-cu-ft-1000-Watt-Over-the-Range-Microwave-with-Sensor-Cooking-Fingerprint-Resistant-Stainless-Steel/5015172017",
+   "https://www.lowes.com/ple/all",
+   "https://www.lowes.com/pl/footwear-accessories/2711368754867",
+   "https://www.lowes.com/pl/power-tools/jointers-planers/benchtop-stationary-tool-accessories/mobile-base/30-inch-deep/61744334-1169953285-4294701586",
+   "https://www.lowes.com/pl/small-appliances/cookers-steamers/4294857961"
+  ],
+  "created": 1793905830,
+  "id": "resp_b18072a2-dc63-4469-b523-7a8ed3cd328d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Lowe’s Home Improvement\n...\nOur local stores do not honor online pricing.",
+    "source": "web",
+    "title": "Lowe's Home Improvement",
+    "url": "https://www.lowes.com/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-08-16",
+    "place_metadata": null,
+    "snippet": "# Hy-Lite Wave Acrylic Block Basement Hopper Window 3-in Jamb Tilting Vinyl New construction White Basement Hopper Window",
+    "source": "web",
+    "title": "Hy-Lite Wave Acrylic Block Basement Hopper Window 3-in Jamb Tilting Vinyl New construction White Basement Hopper Window Lowes.com",
+    "url": "https://www.lowes.com/pd/Hy-Lite-Wave-Acrylic-Block-Basement-Hopper-Window-3-in-Jamb-Tilting-Vinyl-New-construction-White-Basement-Hopper-Window/5021389597"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Easy Track 12.0-in to 25.2-in W Open Shelf Tower Unit White Solid Shelving Wood Closet System\nItem #1262620 |\nModel #PH38-WH",
+    "source": "web",
+    "title": "Easy Track 1-ft to 2.1-ft W x 7-ft H White Solid Shelving Wood Closet ...",
+    "url": "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716"
+   },
+   {
+    "date": "2026-06-23",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Blaster 9.3-oz Lubricant 16-TDL at Lowes.com\n...\n# Blaster Advanced Dry Lubricant 9.3 Ounce(s) Lubricant\nItem #236635 |\nModel #16-TDL\n...\n## Overview\nIt provides superior lubrication and is safe for use on most plastics.\n- Reduce friction and wear\n- Enhance performance",
+    "source": "web",
+    "title": "Blaster 9.3-oz Lubricant 16-TDL at Lowes.com",
+    "url": "https://www.lowes.com/pd/Blaster-9-3-oz-Lubricant/1066849"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "GE 7.4-cu ft Vented Electric Dryer (White) GTD58EBSVWS at Lowes.com\n...\n# GE 7.4-cu ft Vented Electric Dryer ( White )\nItem #5300459 |\nModel #GTD58EBSVWS",
+    "source": "web",
+    "title": "GE 7.4-cu ft Vented Electric Dryer (White) GTD58EBSVWS at ...",
+    "url": "https://www.lowes.com/pd/GE-7-4-cu-ft-Electric-Dryer-White/5014110827"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Whirlpool 1.9-cu ft 1000-Watt 29.88-in Over-the-Range Microwave with Sensor Cooking (Fingerprint Resistant Stainless Steel) WMH32519HZ at Lowes.com\n...\n# Whirlpool 1.9-cu ft Over-the-Range Microwave with Sensor Cooking ( Fingerprint Resistant Stainless Steel )\nItem #1207485 |\nModel #WMH32519HZ",
+    "source": "web",
+    "title": "Whirlpool 1.9-cu ft 1000-Watt 29.88-in Over-the-Range ...",
+    "url": "https://www.lowes.com/pd/Whirlpool-1-9-cu-ft-1000-Watt-Over-the-Range-Microwave-with-Sensor-Cooking-Fingerprint-Resistant-Stainless-Steel/5015172017"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "ALL Products at Lowe's\n...\nOur local stores do not honor online pricing.\n...\nFind My Store",
+    "source": "web",
+    "title": "ALL Products at Lowe's",
+    "url": "https://www.lowes.com/ple/all"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Footwear & Accessories at Lowes.com\n...\nFind My Store\n...\n# Footwear & Accessories",
+    "source": "web",
+    "title": "Footwear & Accessories at Lowes.com",
+    "url": "https://www.lowes.com/pl/footwear-accessories/2711368754867"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-09",
+    "place_metadata": null,
+    "snippet": "# Mobile base 30-Inch-Deep Benchtop & Stationary Tool Accessories",
+    "source": "web",
+    "title": "Mobile base 30-Inch-Deep Benchtop & Stationary Tool ...",
+    "url": "https://www.lowes.com/pl/power-tools/jointers-planers/benchtop-stationary-tool-accessories/mobile-base/30-inch-deep/61744334-1169953285-4294701586"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Cookers & Steamers at Lowes.com\n...\nErrors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted.\n- Appliances\n- /Small Appliances\n- /Cookers & Steamers\n...\n# Cooke...",
+    "source": "web",
+    "title": "Cookers & Steamers",
+    "url": "https://www.lowes.com/pl/small-appliances/cookers-steamers/4294857961"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 7,
+   "cost": {
+    "input_tokens_cost": 0.00069,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00322
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

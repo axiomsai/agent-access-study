@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/",
+  "https://www.walmart.com/?country=US",
+  "https://developer.walmart.com/us-marketplace/docs/request-an-item-report",
+  "https://www.walmart.com/all-departments",
+  "https://sellerhelp.walmart.com/s/?language=en_US",
+  "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0",
+  "https://corporate.walmart.com/askwalmart",
+  "https://www.walmart.com/robots.txt",
+  "https://marketplacelearn.walmart.com/guides/Item%20setup/Item%20content,%20imagery,%20and%20media/Product-Detail-Page:-overview",
+  "https://seller.walmart.com/reportseller"
+ ],
+ "cited_store": true,
+ "answer": "Walmart | Save Money. Live better. — Bedding, decor & more",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walmart | Save Money. Live better. — Bedding, decor & more",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/",
+   "https://www.walmart.com/?country=US",
+   "https://developer.walmart.com/us-marketplace/docs/request-an-item-report",
+   "https://www.walmart.com/all-departments",
+   "https://sellerhelp.walmart.com/s/?language=en_US",
+   "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0",
+   "https://corporate.walmart.com/askwalmart",
+   "https://www.walmart.com/robots.txt",
+   "https://marketplacelearn.walmart.com/guides/Item%20setup/Item%20content,%20imagery,%20and%20media/Product-Detail-Page:-overview",
+   "https://seller.walmart.com/reportseller"
+  ],
+  "created": 1793749450,
+  "id": "resp_c6cf0398-68f1-417c-976c-ac93d548c86c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\n...\n# Walmart | Save Money. Live better.\n- Newness only at Walmart\n...\n- Bedding, decor & more",
+    "source": "web",
+    "title": "Walmart | Save Money. Live better.",
+    "url": "https://www.walmart.com/"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\n...\n# Walmart | Save Money. Live better.\n- Fill up on trick-or-treat fun\n...\n- Get it as fast as 30 min.",
+    "source": "web",
+    "title": "Walmart",
+    "url": "https://www.walmart.com/?country=US"
+   },
+   {
+    "date": "2026-08-20",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "|Field name|Description|\n|--|--|\n|Product Name|Item title shown to customers.|\n| … | … |\n|Item Page URL|URL of the product page.|",
+    "source": "web",
+    "title": "Request an item report - developer.walmart.com",
+    "url": "https://developer.walmart.com/us-marketplace/docs/request-an-item-report"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "All Departments - Walmart.com\n- Switch countries\n# Browse Departments\n## Savings & Featured Shops\n## Arts, Crafts, Sewing & Party Supplies",
+    "source": "web",
+    "title": "All Departments",
+    "url": "https://www.walmart.com/all-departments"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "CSS Error\n...\nClose\n...\nClose\nError\nClose\n...\nMenu Open\n...\nSuccess",
+    "source": "web",
+    "title": "Walmart Seller Help",
+    "url": "https://sellerhelp.walmart.com/s/?language=en_US"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Help & customer support\n## 24. How to Contact Us\nIf you have any questions or comments, please contact us at https://walmart.com/help, or by mail at the following address: Walmart.com; 850 Cherry Ave., San Bruno, CA 94066.",
+    "source": "web",
+    "title": "Walmart.com Terms of Use",
+    "url": "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+   },
+   {
+    "date": "2025-03-26",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Ask Walmart (FAQs)\n# Ask Walmart\n## Search and explore the below categories of frequently asked questions.",
+    "source": "web",
+    "title": "Ask Walmart (FAQs)",
+    "url": "https://corporate.walmart.com/askwalmart"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-09-17",
+    "place_metadata": null,
+    "snippet": "#Sitemaps-https\n...\nUser-agent: Adsbot-Google",
+    "source": "web",
+    "title": "robots.txt",
+    "url": "https://www.walmart.com/robots.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "###### Packs & bundles\nIn this guide, you’ll learn about the product detail policy on Walmart.com.",
+    "source": "web",
+    "title": "Product details policy - Guides | Marketplace Learn - Walmart",
+    "url": "https://marketplacelearn.walmart.com/guides/Item%20setup/Item%20content,%20imagery,%20and%20media/Product-Detail-Page:-overview"
+   },
+   {
+    "date": "2026-10-22",
+    "last_updated": "2026-10-02",
+    "place_metadata": null,
+    "snippet": "# Report an issue with a seller or item\nUse this form to report suspicious Marketplace activity.\nYou can also call us at 1-800-WALMART (1-800-925-6278).",
+    "source": "web",
+    "title": "Report an issue with a seller or item - Walmart Seller Center",
+    "url": "https://seller.walmart.com/reportseller"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 16,
+   "cost": {
+    "input_tokens_cost": 0.00052,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00307
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 73
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html"
+  ]
+ ],
+ "answer": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $629.30 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.02342,
+ "raw": {
+  "id": "resp_051f8505f20a6419006af21369600887d1939a12aa867aea9b",
+  "object": "response",
+  "created_at": 1794249577,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794249579,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_051f8505f20a6419006af2136a092487d18ecbfa007c644d16",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html"
+    }
+   },
+   {
+    "id": "ws_051f8505f20a6419006af2136ac15887d1a578831050637624",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$",
+     "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html"
+    }
+   },
+   {
+    "id": "msg_051f8505f20a6419006af2136b881487d1a9e4d35ed6909a4b",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $629.30 | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 11684,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 250,
+   "output_tokens_details": {
+    "reasoning_tokens": 178
+   },
+   "total_tokens": 11934
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

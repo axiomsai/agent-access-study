@@ -1,0 +1,60 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+ "idx": 5,
+ "at": "2026-11-09T12:34:20-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "9380 chars, copy dated 2026-11-05 (4 days old)",
+   "parsed": true,
+   "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T13:45:46+00:00",
+   "age_days": 4,
+   "cost_usd": 0.18463
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00137
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023710000000000002
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00522
+  }
+ }
+}

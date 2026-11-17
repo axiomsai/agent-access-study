@@ -1,0 +1,45 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/",
+ "started": "2026-11-07T13:26:40-06:00",
+ "robots": {
+  "status": null,
+  "error": "TimeoutError: The read operation timed out",
+  "rules": {}
+ },
+ "control": {
+  "status": null,
+  "final_url": null,
+  "bytes": null,
+  "error": "TimeoutError: The read operation timed out",
+  "title": null,
+  "markers": [],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "16547 chars, copy dated 2026-11-07 (0 days old)",
+   "answer": "I opened the page with no errors, blocks or captcha.\n\n- **Page title:** Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n- **One category name:** Custom Cakes",
+   "cost_usd": 0.09847
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n\nProduct or Category Name: Fresh Bunch of Bananas",
+   "cost_usd": 0.00221
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Kroger : Fresh Food. Low Prices. | Shop Groceries Online  \nOne visible category/name: Shop Your Favorites",
+   "cost_usd": 0.01133
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries & Fresh Foods[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

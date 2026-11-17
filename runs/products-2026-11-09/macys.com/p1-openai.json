@@ -1,0 +1,150 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+  ]
+ ],
+ "answer": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.0236,
+ "raw": {
+  "id": "resp_06fa0b97f0bf0679006af21454645c87d1adfbb6ff4e2e8881",
+  "object": "response",
+  "created_at": 1794249812,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794249815,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_06fa0b97f0bf0679006af2145518cc87d19b9743af23b0d671",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+    }
+   },
+   {
+    "id": "ws_06fa0b97f0bf0679006af21455d55487d1b2cfd8e2bfb612a9",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set",
+     "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+    }
+   },
+   {
+    "id": "msg_06fa0b97f0bf0679006af21456f58887d1bc2179a320fe5922",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 12943,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 182,
+   "output_tokens_details": {
+    "reasoning_tokens": 145
+   },
+   "total_tokens": 13125
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

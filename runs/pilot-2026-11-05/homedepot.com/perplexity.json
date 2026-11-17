@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/",
+  "https://www.homedepot.com/p/KitchenAid-24-in-Front-control-Built-In-Tall-Tub-41-dBA-Dishwasher-in-PrintShield-Stainless-with-40-Total-Wash-Jets-KDFS324SPS/336625562",
+  "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749",
+  "https://www.homedepot.com/p/LG-4-5-Cu-Ft-Stackable-SMART-Front-Load-Washer-in-White-with-Steam-and-TurboWash360-Technology-WM4000HWA/312440202",
+  "https://www.homedepot.com/p/Glacier-Bay-22-in-Ceramic-Rectangular-Vessel-Bathroom-Sink-in-White-LW1814/322129848",
+  "https://www.homedepot.com/c/diy_projects_and_ideas",
+  "https://www.homedepot.com/p/GE-24-7-cu-ft-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-Energy-Star-GNE25JYKFS/319236498",
+  "https://www.homedepot.com/p/LG-33-in-W-20-cu-ft-Smart-3-Door-French-Door-Refrigerator-Counter-Depth-MAX-in-Stainless-Steel-with-Dual-Ice-Makers-LF20G6331S/334293585",
+  "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+  "https://www.homedepot.com/b/Window-Treatments-Blinds/N-5yc1vZch24"
+ ],
+ "cited_store": true,
+ "answer": "The Home Depot — Tools[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "The Home Depot — Tools[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/",
+   "https://www.homedepot.com/p/KitchenAid-24-in-Front-control-Built-In-Tall-Tub-41-dBA-Dishwasher-in-PrintShield-Stainless-with-40-Total-Wash-Jets-KDFS324SPS/336625562",
+   "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749",
+   "https://www.homedepot.com/p/LG-4-5-Cu-Ft-Stackable-SMART-Front-Load-Washer-in-White-with-Steam-and-TurboWash360-Technology-WM4000HWA/312440202",
+   "https://www.homedepot.com/p/Glacier-Bay-22-in-Ceramic-Rectangular-Vessel-Bathroom-Sink-in-White-LW1814/322129848",
+   "https://www.homedepot.com/c/diy_projects_and_ideas",
+   "https://www.homedepot.com/p/GE-24-7-cu-ft-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-Energy-Star-GNE25JYKFS/319236498",
+   "https://www.homedepot.com/p/LG-33-in-W-20-cu-ft-Smart-3-Door-French-Door-Refrigerator-Counter-Depth-MAX-in-Stainless-Steel-with-Dual-Ice-Makers-LF20G6331S/334293585",
+   "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+   "https://www.homedepot.com/b/Window-Treatments-Blinds/N-5yc1vZch24"
+  ],
+  "created": 1793905809,
+  "id": "resp_85964806-2c30-4754-95fa-360c23effaee",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "KitchenAid 24 in.\nFront control Built-In Tall Tub 41 dBA Dishwasher in PrintShield Stainless with 40+ Total Wash Jets KDFS324SPS - The Home Depot\n...\n## Internet # 336625562\n## Model # KDFS324SPS\n...\n# 24 in. Front control Built-In Tall Tub 41 dBA Dishwasher in PrintShield Stainless with 40+ Total W...",
+    "source": "web",
+    "title": "KitchenAid 24 in. Front control Built-In Tall Tub 41 dBA ...",
+    "url": "https://www.homedepot.com/p/KitchenAid-24-in-Front-control-Built-In-Tall-Tub-41-dBA-Dishwasher-in-PrintShield-Stainless-with-40-Total-Wash-Jets-KDFS324SPS/336625562"
+   },
+   {
+    "date": "2026-08-19",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Internet # 339700749\n...\n## Shop ALIEN\n# Alien Power Super Concentrated Stain Remover 24 oz. All Purpose Cleaner Spray (2-Pack)\n...\n$29.99",
+    "source": "web",
+    "title": "Alien Power Super Concentrated Stain Remover 24 oz. All ...",
+    "url": "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "LG 4.5 Cu.\nFt.\nStackable SMART Front Load Washer in White with Steam and TurboWash360 Technology WM4000HWA - The Home Depot\nAppliances\n...\n## Internet # 312440202\n## Model # WM4000HWA\n## Store SKU # 1005793819\n...\nYou can view more details about your washer's smart features and specifications on [Th...",
+    "source": "web",
+    "title": "LG 4.5 Cu. Ft. Stackable SMART Front Load Washer in ...",
+    "url": "https://www.homedepot.com/p/LG-4-5-Cu-Ft-Stackable-SMART-Front-Load-Washer-in-White-with-Steam-and-TurboWash360-Technology-WM4000HWA/312440202"
+   },
+   {
+    "date": "2026-02-11",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Glacier Bay 22 in.\nCeramic Rectangular Vessel Bathroom Sink in White LW1814 - The Home Depot\n...\n## Internet # 322129848\n## Model # LW1814\n## Store SKU # 1008339519\n...\n# 22 in. Ceramic Rectangular Vessel Bathroom Sink in White\n...\nPay **$61.71** after **$25 OFF** your total qualifying purchase upon...",
+    "source": "web",
+    "title": "Glacier Bay 22 in. Ceramic Rectangular Vessel Bathroom Sink in White LW1814 - The Home Depot",
+    "url": "https://www.homedepot.com/p/Glacier-Bay-22-in-Ceramic-Rectangular-Vessel-Bathroom-Sink-in-White-LW1814/322129848"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "DIY Projects and Ideas - The Home Depot\n...\n# DIY Projects and Ideas",
+    "source": "web",
+    "title": "DIY Projects and Ideas",
+    "url": "https://www.homedepot.com/c/diy_projects_and_ideas"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Internet # 319236498\n## Model # GNE25JYKFS\n...\n## Shop GE\n# 24.7 cu. ft. French Door Refrigerator in Fingerprint resistant, stainless Steel, Energy Star\n(11980)Questions & Answers (1378)\nLimit 6 per order\n$2,299.00",
+    "source": "web",
+    "title": "GE 24.7 cu. ft. French Door Refrigerator in Fingerprint resistant ...",
+    "url": "https://www.homedepot.com/p/GE-24-7-cu-ft-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-Energy-Star-GNE25JYKFS/319236498"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "LG 33 in.\nW. 20 cu.ft.\nSmart 3-Door French Door Refrigerator Counter Depth MAX in Stainless Steel with Dual Ice Makers LF20G6331S - The Home Depot\n...\n# 33 in. W. 20 cu.ft. Smart 3-Door French Door Refrigerator Counter Depth MAX in Stainless Steel with Dual Ice Makers",
+    "source": "web",
+    "title": "LG 33 in. W. 20 cu.ft. Smart 3-Door French Door Refrigerator ...",
+    "url": "https://www.homedepot.com/p/LG-33-in-W-20-cu-ft-Smart-3-Door-French-Door-Refrigerator-Counter-Depth-MAX-in-Stainless-Steel-with-Dual-Ice-Makers-LF20G6331S/334293585"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Tools - The Home Depot\n...\n# Tools\n## Black Friday Trusted Tool Savings",
+    "source": "web",
+    "title": "Tools - The Home Depot",
+    "url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Blinds - The Home Depot\nWindow Treatments\nBlinds\n# Blinds",
+    "source": "web",
+    "title": "Blinds - The Home Depot",
+    "url": "https://www.homedepot.com/b/Window-Treatments-Blinds/N-5yc1vZch24"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 8,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00336
+   },
+   "prompt_tokens": 59,
+   "search_context_size": "low",
+   "total_tokens": 67
+  }
+ }
+}

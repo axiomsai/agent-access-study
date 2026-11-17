@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+  "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+  "https://www.walgreens.com/q/allergy+and+sinus",
+  "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045",
+  "https://www.walgreens.com/q/sinus+congestion+medications",
+  "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045",
+  "https://www.walgreens.com/store/c/productlist/N=360545-98948372310",
+  "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3",
+  "https://www.walgreens.com/store/c/productlist/N=20003545/1/ShopAll=20003545?ext=social-FBIG_NowandAlways-Acquisition_SaySneeze",
+  "https://www.walgreens.com/store/c/productlist/cold-and-flu-medications-cough-cold-and-flu/N=360887-2000011429"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea | PRICE: $7.79 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+   "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118",
+   "https://www.walgreens.com/q/allergy+and+sinus",
+   "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045",
+   "https://www.walgreens.com/q/sinus+congestion+medications",
+   "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045",
+   "https://www.walgreens.com/store/c/productlist/N=360545-98948372310",
+   "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3",
+   "https://www.walgreens.com/store/c/productlist/N=20003545/1/ShopAll=20003545?ext=social-FBIG_NowandAlways-Acquisition_SaySneeze",
+   "https://www.walgreens.com/store/c/productlist/cold-and-flu-medications-cough-cold-and-flu/N=360887-2000011429"
+  ],
+  "created": 1794249306,
+  "id": "resp_0d9702fa-7e33-4f13-a8e7-d374d21ba073",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-16",
+    "place_metadata": null,
+    "snippet": "# Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea\n4.5 out of 5 stars.\n280 total reviews.\nNavigate to Ratings and Reviews section\n$7.79 $0.32/ea\nWhen ordered online\n...\nSave to shopping list\n- - Relieves symptoms due to hay fever\n- For sneezing & itchy, watery eyes\n- Pseudoephedrine fr...",
+    "source": "web",
+    "title": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Walgreens - Allergy Medicine\nAdd to cartwill open overlay for Walgreens Multi-Symptom Allergy Gelcaps\n...\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets** - 24 ea\nWalgreens(286)\n$7.79$0.32 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nPickup available\nSame Day Delivery available\nAdd to ...",
+    "source": "web",
+    "title": "Walgreens - Allergy Medicine",
+    "url": "https://www.walgreens.com/store/c/productlist/walgreens-allergy-medicine/N=361485-118"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Allergy And Sinus\n## Refine\nPrice and inventory may vary from online to in store.\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets ** - 24 ea\nWalgreens(283)\n$7.79$0.32 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nS...",
+    "source": "web",
+    "title": "Allergy and Sinus | Walgreens",
+    "url": "https://www.walgreens.com/q/allergy+and+sinus"
+   },
+   {
+    "date": "2000-09-10",
+    "last_updated": "2025-06-27",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaPickup availableSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Walgreens | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=100035996-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Sinus Congestion Medications\n## Refine\nPrice and inventory may vary from online to in store.\n...\n- **Walgreens Daytime & Nighttime Sinus PE Congestion Tablets** - 20 ea\nWalgreens(68)\n$8.29$0.41 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Del...",
+    "source": "web",
+    "title": "Sinus Congestion Medications | Walgreens",
+    "url": "https://www.walgreens.com/q/sinus+congestion+medications"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaFall into Wellness: Extra...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Allergy Medications | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=2000011391-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-14",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\nAdd to cartwill open overlay for Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs\n- **Walgreens Sinus PE + Allergy Maximum Strength Tablets ** - 24 ea\nWalgreens(283)\n$7.79$0.32 / ea\nFlash Sale!\nExtra 20% off...\nPickup available\nSame Day Delivery available\nAdd to cartwill o...",
+    "source": "web",
+    "title": "Allergy & Sinus | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=360545-98948372310"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\n## Refine\n### Walgreens Sinus PE + Allergy Maximum Strength Tablets - 24 eaWalgreens$7.79$0.32 / eaExtra 15% off $25+ Pickup...Buy in store onlyCheck other stores Opens a simulated dialogSame Day Delivery availableShipping Available",
+    "source": "web",
+    "title": "Walgreens Brand Allergy & Sinus",
+    "url": "https://www.walgreens.com/store/c/allergy-and-sinus/id=360885-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-24",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\n...\nExtra 15% off $35+ Sitewi...- **Walgreens Sinus PE + Allergy Maximum Strength Tablets ** - 24 ea\nWalgreens\n$7.79$0.32 / ea\nExtra 15% off $35+ Sitewi...",
+    "source": "web",
+    "title": "Allergy & Sinus - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20003545/1/ShopAll=20003545?ext=social-FBIG_NowandAlways-Acquisition_SaySneeze"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Cold & Flu Medications - Cough, Cold & Flu\n**Walgreens Non-Drowsy Nasal Decongestant PE Tablets** - 36 ea\nWalgreens(309)\n$10.99$0.31 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nOTC benefit card: If you ...\nPickup available\nSame Day Delivery available\nShipping Available\nAdd to cartwill open overl...",
+    "source": "web",
+    "title": "Cold & Flu Medications - Cough, Cold & Flu | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/cold-and-flu-medications-cough-cold-and-flu/N=360887-2000011429"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 36,
+   "cost": {
+    "input_tokens_cost": 0.00139,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00416
+   },
+   "prompt_tokens": 133,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

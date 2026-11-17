@@ -1,0 +1,25 @@
+{
+ "domain": "walgreens.com",
+ "idx": 1,
+ "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "12762 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: error (the page loaded, but only the title and site menu came through, with no price or stock shown)",
+   "doc_chars": 12762,
+   "input_tokens": 42130,
+   "cost_usd": 0.18074
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "12762 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12762,
+   "input_tokens": 22799,
+   "cost_usd": 0.10018
+  }
+ }
+}

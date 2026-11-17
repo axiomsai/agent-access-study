@@ -1,0 +1,104 @@
+{
+ "domain": "target.com",
+ "url": "https://www.target.com/",
+ "started": "2026-11-09T12:18:43-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.target.com/",
+  "bytes": 399884,
+  "error": null,
+  "title": "Target : Expect More. Pay Less.",
+  "markers": [
+   "captcha"
+  ],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "411 chars, copy dated 2025-09-21 (414 days old)",
+   "answer": "I opened https://www.target.com/ (retrieved 2025-09-21 04:05 UTC).\n\n- **Page title:** The tool didn't return one (the title field was `null`), so I can't tell you what it is.\n- **One category name on the page:** \"end-of-season clearance\"",
+   "cost_usd": 0.06684
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Target : Expect More. Pay Less.\nProduct/Category: Toys & Games",
+   "cost_usd": 0.00078
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: **Target : Expect More. Pay Less.**  \nOne product/category name visible: **Home & Decor** ([target.com](https://www.target.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Title: Homepage  \nCategory: Toys",
+   "cost_usd": 0.00506
+  }
+ }
+}

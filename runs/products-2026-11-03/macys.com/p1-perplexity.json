@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+  "https://www.macys.com/shop/brands/carolina-herrera?id=31620",
+  "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259",
+  "https://www.macys.com/shop/featured/perfumes-de-mujer",
+  "https://www.macys.com/shop/featured/212-carolina-herrera",
+  "https://www.macys.com/shop/gifts/Beauty_fragrance_set_type/Perfume%20Sets?id=341584",
+  "https://www.macys.com/shop/beauty?id=290756",
+  "https://www.macys.com/shop/beauty/luxury-brands?id=198055",
+  "https://www.macys.com/shop/beauty/fragrance/perfume?id=30087",
+  "https://www.macys.com/shop/beauty/Brand/Carolina%20Herrera?id=290756"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: $175.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+   "https://www.macys.com/shop/brands/carolina-herrera?id=31620",
+   "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259",
+   "https://www.macys.com/shop/featured/perfumes-de-mujer",
+   "https://www.macys.com/shop/featured/212-carolina-herrera",
+   "https://www.macys.com/shop/gifts/Beauty_fragrance_set_type/Perfume%20Sets?id=341584",
+   "https://www.macys.com/shop/beauty?id=290756",
+   "https://www.macys.com/shop/beauty/luxury-brands?id=198055",
+   "https://www.macys.com/shop/beauty/fragrance/perfume?id=30087",
+   "https://www.macys.com/shop/beauty/Brand/Carolina%20Herrera?id=290756"
+  ],
+  "created": 1793751407,
+  "id": "resp_e2d3aaf6-bec7-4c70-a1af-2c2220c06c51",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set - Macy's\n```\n...\n# Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set\n4.7 (838)\n$175.00 ($225.00 value) Details\n...\n## Product Details\n- Celebrate this holiday season and discover the La Bomba Gift Set.\nThis floral fruity ambery fragranc...",
+    "source": "web",
+    "title": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set - Macy's",
+    "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(887)\n- Carolina Herrera\n...\n- Carolina Herrera\n...\n### La Bomba Eau de Parfum Collection\nCurrent price From $117.30 to $140.25...",
+    "source": "web",
+    "title": "Carolina Herrera | Fragrances & Fashion Options",
+    "url": "https://www.macys.com/shop/brands/carolina-herrera?id=31620"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\nCurrent price $175.00; ;$175.00\n$225.00 value\nfree gift with purchase\nHispanic Founded\n(793)\n- Carolina Herrera\n### 3-Piece Good Girl Eau de Parfum Gift Set\n...\n- Carolina Herrera\n### La Bomba Eau de Parfum Collection\nCurrent price From ...",
+    "source": "web",
+    "title": "Fragrances for Women & Men - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- DIOR\n…\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(889)\n...\n- Carolina Herrera\n### Good Girl Crystal Class Collector Eau de Parfum Spray, 2.7 oz.\nCurrent price $143.65;...",
+    "source": "web",
+    "title": "Perfumes De Mujer - Macy's",
+    "url": "https://www.macys.com/shop/featured/perfumes-de-mujer"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code EARLY;$148.75 (15% off)\nEARLY applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(856)\n- Carolina Herrera\n### La Bomba Eau de Parfum Collection\nCurrent price From $117.30 to $140.25; 15% off;...",
+    "source": "web",
+    "title": "212 Carolina Herrera",
+    "url": "https://www.macys.com/shop/featured/212-carolina-herrera"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Carolina Herrera\n### 3-Piece Good Girl Mini Gift Set\n...\n- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(887)\n- Yves Saint Laurent\n...\n- Carolina Herrera",
+    "source": "web",
+    "title": "Gift Guide | Thoughtful & Unique Gifts for Everyone | Macy's",
+    "url": "https://www.macys.com/shop/gifts/Beauty_fragrance_set_type/Perfume%20Sets?id=341584"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(889)\n- DIOR\n...\n### La Bomba Eau de Parfum Collection\nCurrent price From $117.30 to $140.25; 15% off; with ...",
+    "source": "web",
+    "title": "Beauty | Macy's",
+    "url": "https://www.macys.com/shop/beauty?id=290756"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(889)\n- Carolina Herrera",
+    "source": "web",
+    "title": "Luxury Beauty Brands",
+    "url": "https://www.macys.com/shop/beauty/luxury-brands?id=198055"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Sales & Offers\n- Carolina Herrera\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code FRIEND;$148.75 (15% off)\nFRIEND applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(889)\n...\n- Yves Saint Laurent\n...\n### La Bomba Eau de Parfum Collection\nCurrent price From $...",
+    "source": "web",
+    "title": "Vanille Gourmande Perfume & Eau de Parfum - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "…\n### 3-Piece La Bomba Eau de Parfum Gift Set\n$148.75; 15% off; with code EARLY;$148.75 (15% off)\nEARLY applied\nPrevious price $175.00;$175.00$225.00 value\nHispanic Founded\n(853)\n- Carolina Herrera\n...\n- Carolina Herrera\n...\n### La Bomba Eau de Parfum Collection\nCurrent price From $117.30 to $140.25...",
+    "source": "web",
+    "title": "Carolina Herrera Beauty - Macy's",
+    "url": "https://www.macys.com/shop/beauty/Brand/Carolina%20Herrera?id=290756"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.0013,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00407
+   },
+   "prompt_tokens": 135,
+   "search_context_size": "low",
+   "total_tokens": 170
+  }
+ }
+}

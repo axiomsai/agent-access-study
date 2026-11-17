@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/theme/hoodies/",
+  "https://www.depop.com/",
+  "https://www.depop.com/products/wrldwidehindss-zoo-york-acid-wash-cropped-9a36/",
+  "https://www.depop.com/products/fleekb-gray-essentials-hoodie/",
+  "https://www.depop.com/shoprideon/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/explore/vintage-wool-coats-trending/?moduleOrigin=meganav",
+  "https://www.depop.com/products/olivianicolevs9-dark-gray-cropped-hoodie-with-55b1/",
+  "https://www.depop.com/products/11hwinkie_star-american-apparel-black-cropped-zip-5fc8/",
+  "https://news.depop.com/?moduleOrigin=selling_trends"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/theme/hoodies/",
+   "https://www.depop.com/",
+   "https://www.depop.com/products/wrldwidehindss-zoo-york-acid-wash-cropped-9a36/",
+   "https://www.depop.com/products/fleekb-gray-essentials-hoodie/",
+   "https://www.depop.com/shoprideon/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/explore/vintage-wool-coats-trending/?moduleOrigin=meganav",
+   "https://www.depop.com/products/olivianicolevs9-dark-gray-cropped-hoodie-with-55b1/",
+   "https://www.depop.com/products/11hwinkie_star-american-apparel-black-cropped-zip-5fc8/",
+   "https://news.depop.com/?moduleOrigin=selling_trends"
+  ],
+  "created": 1794249837,
+  "id": "resp_370e9a97-01d4-49ba-8746-ed0b1f2bce75",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Hoodies - Depop\n- ### '80s\n...\n- ### '80s\n...\n# Hoodies\n(4.42M results)",
+    "source": "web",
+    "title": "Hoodies - Depop",
+    "url": "https://www.depop.com/theme/hoodies/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-10-25",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Zoo York Acid Wash Cropped Hoodie (Size L)\n...\n# Zoo York Men's Grey and Black Hoodie",
+    "source": "web",
+    "title": "Zoo York Acid Wash Cropped Hoodie (Size L) Level up... | Depop",
+    "url": "https://www.depop.com/products/wrldwidehindss-zoo-york-acid-wash-cropped-9a36/"
+   },
+   {
+    "date": "2024-02-25",
+    "last_updated": "2025-05-07",
+    "place_metadata": null,
+    "snippet": "Loading…Loading…Loading…Loading…Loading…\ngray essentials hoodieLoading…\nfleekbLoading…Loading…",
+    "source": "web",
+    "title": "gray essentials hoodie | Depop",
+    "url": "https://www.depop.com/products/fleekb-gray-essentials-hoodie/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "shoprideon's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# shoprideon\n933 sold",
+    "source": "web",
+    "title": "shoprideon's Shop | Depop",
+    "url": "https://www.depop.com/shoprideon/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# The Depop Circular\nWith everything from new product features to inspiration and updates from our community – come here to stay in the loop with all things Depop.\n- Trending on Depop: September | Classic coats, homecoming, and all things medieval\n...\n- Become a Depop Campus Manager",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": "2026-10-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Vintage wool coats | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Vintage wool coats\n### Popular brands",
+    "source": "web",
+    "title": "Vintage wool coats | Depop",
+    "url": "https://www.depop.com/explore/vintage-wool-coats-trending/?moduleOrigin=meganav"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Dark gray cropped hoodie with drawstring #cropped...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\nolivianicolev19\n...\n# Bella+Canvas Women's Grey and Black Hoodie\n$5.95\nincl. marketplace fee",
+    "source": "web",
+    "title": "Dark gray cropped hoodie with drawstring #cropped... | Depop",
+    "url": "https://www.depop.com/products/olivianicolevs9-dark-gray-cropped-hoodie-with-55b1/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "American Apparel black cropped zip up hoodie...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# American Apparel Women's Black Hoodie",
+    "source": "web",
+    "title": "American Apparel black cropped zip up hoodie... | Depop",
+    "url": "https://www.depop.com/products/11hwinkie_star-american-apparel-black-cropped-zip-5fc8/"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Home page | Depop newsroom\n...\n# Depop Partners with Amelia Dimoldenberg to Bring Her Signature Style to Fans in Celebration of the Final Series of Chicken Shop Date\n## Latest news\n### Depop taps its community to design a capsule collection with Vans\nThe Vans x Depop six-piece capsule collection, in...",
+    "source": "web",
+    "title": "Home page | Depop newsroom",
+    "url": "https://news.depop.com/?moduleOrigin=selling_trends"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00355
+   },
+   "prompt_tokens": 125,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

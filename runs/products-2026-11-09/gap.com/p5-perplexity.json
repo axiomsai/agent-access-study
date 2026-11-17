@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908887122",
+  "https://www.gap.com/browse/new/gapstudio?cid=3045197&mlink=1,1,PDP_BANNER_MERCH_ALL_GapStudio",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://www.gap.com/browse/new/essentials-shop?cid=3043824",
+  "https://www.gap.com/browse/women/just-in/new-arrivals?cid=3042036&style=3042037",
+  "https://www.gap.com/browse/category.do?cid=3023389",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://www.gap.com/browse/product.do?cid=1004904&vid=1&pid=941847002",
+  "https://www.gap.com/browse/product.do?pid=203045002",
+  "https://www.gap.com/browse/product.do?pid=7705750020012&pr_rd_page=3"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908887122",
+   "https://www.gap.com/browse/new/gapstudio?cid=3045197&mlink=1,1,PDP_BANNER_MERCH_ALL_GapStudio",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://www.gap.com/browse/new/essentials-shop?cid=3043824",
+   "https://www.gap.com/browse/women/just-in/new-arrivals?cid=3042036&style=3042037",
+   "https://www.gap.com/browse/category.do?cid=3023389",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://www.gap.com/browse/product.do?cid=1004904&vid=1&pid=941847002",
+   "https://www.gap.com/browse/product.do?pid=203045002",
+   "https://www.gap.com/browse/product.do?pid=7705750020012&pr_rd_page=3"
+  ],
+  "created": 1794249837,
+  "id": "resp_72523b47-f4d6-43bd-9391-87b99dcb9bb0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "CashSoft Crew Sweater | Gap\n...\n# CashSoft Crew Sweater\n# CashSoft Crew Sweater\n$79.95\n...\n## Color:\nHappy Stripe\n...\nRegularTallPetite\n## Size\nXXS\n...\nOur bestselling fabric that feels cashmere-soft.Crafted in a midweight plush yarn.\nRefined with a special brushed technique.\nIt's everyday luxury.\n-...",
+    "source": "web",
+    "title": "CashSoft Crew Sweater - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=908887122"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "GapStudio, Designed by Zac Posen | Gap\n...\n20 items in the product grid\n- Filter & Sort\n...\n20 Results\n## Fall Capsule\n1 color\n### GapStudio High Rise Pintuck Jeans\n$128.00$64.00\n1 color\n### GapStudio Logo Baseball Hat\n$34.00$17.00\n...\n### GapStudio Printed Denim Sheer T-Shirt\n$38.00$19.00\n...\n### G...",
+    "source": "web",
+    "title": "Fall Capsule",
+    "url": "https://www.gap.com/browse/new/gapstudio?cid=3045197&mlink=1,1,PDP_BANNER_MERCH_ALL_GapStudio"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "309 items in the product grid\n309 Results\n## Explore Our Favorites\n### Adult Oversized Trench Coat\n$168.00$89.99",
+    "source": "web",
+    "title": "Explore Our Favorites",
+    "url": "https://www.gap.com/browse/new/essentials-shop?cid=3043824"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Just In\n193 items in the product grid\n193 Results\n## New Arrivals\n31 colors\n### Low Rise Long & Lean Jeans\n$99.95$49.00",
+    "source": "web",
+    "title": "Women Just In New Arrivals - Gap",
+    "url": "https://www.gap.com/browse/women/just-in/new-arrivals?cid=3042036&style=3042037"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3023389"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-01",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=941847002&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D941847002%23pdp-page-content&deep_link_value=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D941847002%23...",
+    "source": "web",
+    "title": "Stripe roll-sleeve popover",
+    "url": "https://www.gap.com/browse/product.do?cid=1004904&vid=1&pid=941847002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "Denim shirt | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=203045002&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D203045002%23pdp-page-content&deep_link_value=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.d...",
+    "source": "web",
+    "title": "www.gap.com · browse · productDenim shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=203045002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Denim Jumpsuit | Gap\n60% off limited-time deals\n# Denim Jumpsuit\nOut of Stock\n# Denim Jumpsuit\n$89.95\n$69.99\n...\nLearn more here.\n- Product #770575",
+    "source": "web",
+    "title": "Denim Jumpsuit - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=7705750020012&pr_rd_page=3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00107,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00377
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "costco.com",
+ "idx": 4,
+ "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (the page couldn't be reached: url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15637,
+   "cost_usd": 0.07001
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "6525 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6525,
+   "input_tokens": 29432,
+   "cost_usd": 0.13083
+  }
+ }
+}

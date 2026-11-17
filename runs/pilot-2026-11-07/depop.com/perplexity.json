@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/products/hall8virginia-sweet-pea-leopard-print-wrap-5ccd/",
+  "https://www.depop.com/category/womens/",
+  "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/",
+  "https://www.depop.com/explore/",
+  "https://www.depop.com/category/beauty/",
+  "https://www.depop.com/products/madbinsaigon-y2k-whimsy-black-ruffle-cardigan-56eb/",
+  "https://www.depop.com/products/annienl3n-adorable-white-and-black-polka-ff22/",
+  "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/",
+  "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+ ],
+ "cited_store": true,
+ "answer": "Depop - buy, sell, discover unique fashion — '80s",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Depop - buy, sell, discover unique fashion — '80s",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/products/hall8virginia-sweet-pea-leopard-print-wrap-5ccd/",
+   "https://www.depop.com/category/womens/",
+   "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/",
+   "https://www.depop.com/explore/",
+   "https://www.depop.com/category/beauty/",
+   "https://www.depop.com/products/madbinsaigon-y2k-whimsy-black-ruffle-cardigan-56eb/",
+   "https://www.depop.com/products/annienl3n-adorable-white-and-black-polka-ff22/",
+   "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/",
+   "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+  ],
+  "created": 1794079609,
+  "id": "resp_68d45a15-fb52-443d-9dd0-0cedb67cfa06",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Sweet Pea leopard print wrap top 🤎 great for going...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Sweet Pea leopard print wrap top 🤎 great for going... | Depop",
+    "url": "https://www.depop.com/products/hall8virginia-sweet-pea-leopard-print-wrap-5ccd/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Secondhand, Vintage & Preloved Women's Clothing | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Women's Clothing\n(58.2M results)\nGet your next wardrobe update right here.\nFrom staples like dresses, shirts and jeans to the trending designer and vintage items.\nDenim for all seasons from 70s, 90s and 00s.\nShoe...",
+    "source": "web",
+    "title": "See All Womenswear",
+    "url": "https://www.depop.com/category/womens/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Sperry Crest Vibe casual slip-on/laced canvas...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Sperry Women's Purple Trainers\n$13.30\nincl. marketplace fee",
+    "source": "web",
+    "title": "Sperry Crest Vibe casual slip-on/laced canvas... | Depop",
+    "url": "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/"
+   },
+   {
+    "date": "2026-07-30",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Explore\nSneakers.\nWhatever your style.\nFind it on Depop",
+    "source": "web",
+    "title": "Explore - Depop",
+    "url": "https://www.depop.com/explore/"
+   },
+   {
+    "date": "2025-05-28",
+    "last_updated": "2025-06-19",
+    "place_metadata": null,
+    "snippet": "# Beauty\n...\nExplore this collection of must-have beauty products.\nMakeup, skincare, accessories and designer fragrance.",
+    "source": "web",
+    "title": "Beauty | Depop",
+    "url": "https://www.depop.com/category/beauty/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "y2k whimsy black ruffle cardigan\nwith glittery knit...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "y2k whimsy black ruffle cardigan with glittery knit... | Depop",
+    "url": "https://www.depop.com/products/madbinsaigon-y2k-whimsy-black-ruffle-cardigan-56eb/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Adorable sheer white and black polka dot button down...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Adorable sheer white and black polka dot button down... | Depop",
+    "url": "https://www.depop.com/products/annienl3n-adorable-white-and-black-polka-ff22/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Stutterheim light Sakura pink bucket hat in size S...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Stutterheim light Sakura pink bucket hat in size S... | Depop",
+    "url": "https://www.depop.com/products/nicvropa-stutterheim-light-pink-bucket-hat-ffe9/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Polo Ralph Lauren baby jumpsuits in red, navy, and...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\nSlide 1 of 2\n# Polo Ralph Lauren Kids Boys' Multi Jumpsuit",
+    "source": "web",
+    "title": "Polo Ralph Lauren baby jumpsuits in red, navy, and... | Depop",
+    "url": "https://www.depop.com/products/ggssg_110-polo-ralph-lauren-baby-jumpsuits-ab15/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 14,
+   "cost": {
+    "input_tokens_cost": 0.00062,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00316
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 71
+  }
+ }
+}

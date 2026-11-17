@@ -1,0 +1,60 @@
+{
+ "domain": "aliexpress.com",
+ "url": "https://www.aliexpress.us/item/3256810554257219.html",
+ "idx": 2,
+ "at": "2026-11-09T12:43:12-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: not allowed (the web tool refused this URL with error \"url_not_allowed\")",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.06939
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the page is blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 7e-05
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (redirected to login cookie sync page)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01132
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page not found",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

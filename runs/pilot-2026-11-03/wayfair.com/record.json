@@ -1,0 +1,102 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/",
+ "started": "2026-11-03T17:44:23-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.wayfair.com/",
+  "bytes": 399973,
+  "error": null,
+  "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors &amp; More",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "answer": "I couldn't open the page. When my web tool tried to fetch https://www.wayfair.com/, it came back with the error code **`url_not_accessible`**.\n\nThe tool didn't say why, so I can't tell whether the site blocked the request, showed a captcha or something else. Because of that, I don't have a page titl",
+   "cost_usd": 0.06605
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Page Title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n**Product/Category Name:** Furniture",
+   "cost_usd": 0.00039
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nCategory: Furniture ([wayfair.com](https://www.wayfair.com/))",
+   "cost_usd": 0.01196
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Bedding & Bath[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

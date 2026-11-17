@@ -1,0 +1,25 @@
+{
+ "domain": "etsy.com",
+ "idx": 5,
+ "url": "https://www.etsy.com/listing/1736171915",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "18381 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 48.0,
+   "opened": "YES",
+   "doc_chars": 18381,
+   "input_tokens": 38713,
+   "cost_usd": 0.17259
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "52995 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 48.0,
+   "opened": "YES",
+   "doc_chars": 52995,
+   "input_tokens": 22734,
+   "cost_usd": 0.0992
+  }
+ }
+}

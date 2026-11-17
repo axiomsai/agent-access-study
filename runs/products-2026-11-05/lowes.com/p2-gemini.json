@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8-Drawer Steel Tool Chest (Black) | PRICE: $299.00 | STOCK: OUT OF STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00133,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: CRAFTSMAN 2000 Series 51.72-in W x 24.74-in H x 16.32-in D 8-Drawer Steel Tool Chest (Black) | PRICE: $299.00 | STOCK: OUT OF STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TWsgamyp3Fj4s080K6bQh/VyfnN3UIaiGXtAXShEPgWGkBQDUYFJay5DFnT9K50W4g7n5+Rv8vC+6v39Lues+Cwb5qiNyfTEecbtnNuEMJDcSgLV8WF74Pbmlze8+XUbWOSr3Qftyb8b/aHmm"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 151,
+   "candidatesTokenCount": 127,
+   "totalTokenCount": 12929,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 151
+    }
+   ],
+   "toolUsePromptTokenCount": 12651,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 12651
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "Sdjsaqm-Nfe7qtsP4tW8sQo"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+ "idx": 5,
+ "at": "2026-11-05T13:12:53-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the page loaded but showed only the title \"Temu\", with no product name, price or stock)",
+   "retrieved_at": "2026-11-05T19:12:57+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10309
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "3pcs Men's Sweatpants Casual Athletic Lounge Pants for Everyday Workout Relaxed Wear",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00216
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01138
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00516
+  }
+ }
+}

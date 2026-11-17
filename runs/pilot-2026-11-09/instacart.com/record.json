@@ -1,0 +1,102 @@
+{
+ "domain": "instacart.com",
+ "url": "https://www.instacart.com/",
+ "started": "2026-11-09T12:19:26-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "ClaudeBot": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": false,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.instacart.com/",
+  "bytes": 399905,
+  "error": null,
+  "title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "answer": "I couldn't open the page. When I tried to fetch https://www.instacart.com/, the web tool returned the error `url_not_allowed`. That means the tool's own rules wouldn't let it access this URL, so the request never reached the site. It wasn't a captcha or the site blocking me.\n\nBecause the page never ",
+   "cost_usd": 0.06624
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "answer": "Blocked",
+   "cost_usd": 3e-05
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "answer": "Could not open it: **error — timeout fetching**.",
+   "cost_usd": 0.01125
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You — Grocery delivery",
+   "cost_usd": 0.00507
+  }
+ }
+}

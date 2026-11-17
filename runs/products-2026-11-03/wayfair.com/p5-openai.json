@@ -1,0 +1,150 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html"
+  ]
+ ],
+ "answer": "NAME: Mahler 42 \" W Console Table | PRICE: $99.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.02297,
+ "raw": {
+  "id": "resp_0fae187afd0d14d4006aea7965c99887d09ecf8efd63128c6f",
+  "object": "response",
+  "created_at": 1793751397,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793751400,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0fae187afd0d14d4006aea796654f087d08d5f3dbd343d86b2",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html"
+    }
+   },
+   {
+    "id": "ws_0fae187afd0d14d4006aea79672e6087d087afd41069653aae",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "$",
+     "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html"
+    }
+   },
+   {
+    "id": "msg_0fae187afd0d14d4006aea7968408887d0be461fb0fa275f3e",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Mahler 42 \" W Console Table | PRICE: $99.99 | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 10555,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 2560
+   },
+   "output_tokens": 165,
+   "output_tokens_details": {
+    "reasoning_tokens": 134
+   },
+   "total_tokens": 10720
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

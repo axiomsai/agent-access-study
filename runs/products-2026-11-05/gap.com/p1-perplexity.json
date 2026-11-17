@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=1188295092",
+  "https://www.gap.com/",
+  "https://www.gap.com/browse/category.do?cid=17045",
+  "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+  "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+  "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+  "https://www.gap.com/browse/product.do?pid=888869022",
+  "https://www.gap.com/browse/category.do?cid=1023990%22",
+  "https://www.gap.com/browse/product.do?pid=8638080023203",
+  "https://www.gap.com/browse/product.do?vid=1&pid=989359002"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=1188295092",
+   "https://www.gap.com/",
+   "https://www.gap.com/browse/category.do?cid=17045",
+   "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+   "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+   "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+   "https://www.gap.com/browse/product.do?pid=888869022",
+   "https://www.gap.com/browse/category.do?cid=1023990%22",
+   "https://www.gap.com/browse/product.do?pid=8638080023203",
+   "https://www.gap.com/browse/product.do?vid=1&pid=989359002"
+  ],
+  "created": 1793907656,
+  "id": "resp_ba808ada-79ac-48a1-bbd8-87b130b0b5a3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "CashSoft Oversized Rollneck Sweater | Gap\n...\n# CashSoft Oversized Rollneck Sweater\n$89.95\n$89.95\n$53.00\n6 Ratings\n...\n## Color:\nCharcoal Grey\n...\n## Product details\n- Supersoft cotton-blend sweater.\nIn an oversized fit and slightly cropped length.\n- Rollneck.\n- Long sleeves with drop shoulders.\n- P...",
+    "source": "web",
+    "title": "CashSoft Oversized Rollneck Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=1188295092"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nThe Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Sign up for email",
+    "url": "https://www.gap.com/browse/category.do?cid=17045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Limited time only | Early Black Friday Deals from $8 + Extra 20% Off in App only.",
+    "source": "web",
+    "title": "Girls' Multi Back To School Looks | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Shop All Styles\n280 items in the product grid\n- Filter & Sort\n...\n## All Products",
+    "source": "web",
+    "title": "Men Shop All Styles Accessories",
+    "url": "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# All Div Sorts\n## Feels like Gap Sweats\n[](https://www.gap.com/browse/product.do?pid=883546022)\n[Matching set",
+    "source": "web",
+    "title": "TESTING CID's All Div Sorts Feels like Gap Sweats",
+    "url": "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-23",
+    "place_metadata": null,
+    "snippet": "Relaxed Pique Polo | Gap\n...\n# Relaxed Pique Polo\n## Product details\nLearn more at [gapinc.com/equity](https://www.gapinc.com/en-us/impact/bridging-the-equity-gap).\n...\n## Reviews\n- [Relaxed Straight-Hem Seersucker Shirt](https://www.gap.com/browse/product.do?pid=901653002)",
+    "source": "web",
+    "title": "Relaxed Pique Polo",
+    "url": "https://www.gap.com/browse/product.do?pid=888869022"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "www.gap.com · browse · categoryGap",
+    "url": "https://www.gap.com/browse/category.do?cid=1023990%22"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Mid Rise Relaxed Straight Jeans\nLearn more at gapinc.com/equity ., Product #863808](https://content.gapinc.com/b/0061/527/374/cn61527374.png?width=737)",
+    "source": "web",
+    "title": "Mid Rise Relaxed Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=8638080023203"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-14",
+    "place_metadata": null,
+    "snippet": "# Fitted boyfriend shirt\n## Product details\n- Twill weave.\n- Long sleeves with single button cuffs.\n...\n- Rear shoulder yoke.\n- Product #989359",
+    "source": "web",
+    "title": "Fitted boyfriend shirt",
+    "url": "https://www.gap.com/browse/product.do?vid=1&pid=989359002"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00082,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00353
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 143
+  }
+ }
+}

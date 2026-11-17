@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/clp/B0DQYR6X8R",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the request was blocked by the target website",
+ "finish": "STOP",
+ "cost_usd": 6e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the request was blocked by the target website",
+       "thoughtSignature": "EnMKcQFpFH0TMqA+6auK4yf+PKMDDm5FRG1X4rwkNb0qqQhWTkajZJ43BMWgzpUvtaDFTufg/SEd9zkTqO64HimynQjmdwqZpRkzQ8jvBfwiWlsimANEex+ZX2OooQZiklavc+b+HGM4DRMejgvZjzkhcSof"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/clp/B0DQYR6X8R",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 125,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 450,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 125
+    }
+   ],
+   "toolUsePromptTokenCount": 270,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 270
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "J9XsapvKNviwqtsP0bGjuQ8"
+ }
+}

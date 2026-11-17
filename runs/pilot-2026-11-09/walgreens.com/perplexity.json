@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/",
+  "https://www.walgreens.com/q/groceries",
+  "https://www.walgreens.com/shop",
+  "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+  "https://www.walgreens.com/q/body+wash",
+  "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1",
+  "https://www.walgreens.com/store/c/productlist/N=4106/1/Brands=yes",
+  "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+  "https://www.walgreens.com/store/c/productlist/chocolate---bag-gifts-under-20-/N=521142-2000013458",
+  "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+ ],
+ "cited_store": true,
+ "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You  \nPharmacy",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You  \nPharmacy",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/",
+   "https://www.walgreens.com/q/groceries",
+   "https://www.walgreens.com/shop",
+   "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+   "https://www.walgreens.com/q/body+wash",
+   "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1",
+   "https://www.walgreens.com/store/c/productlist/N=4106/1/Brands=yes",
+   "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+   "https://www.walgreens.com/store/c/productlist/chocolate---bag-gifts-under-20-/N=521142-2000013458",
+   "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+  ],
+  "created": 1794248351,
+  "id": "resp_0677608f-8391-43e0-93b2-27fbea1dd9ac",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n# Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "source": "web",
+    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "url": "https://www.walgreens.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Groceries | Walgreens\n# Groceries\n## Refine\n- - +1.25\n- 1.25 L Bottle\n...\n**Holiday Snacks & Beverage**",
+    "source": "web",
+    "title": "Groceries",
+    "url": "https://www.walgreens.com/q/groceries"
+   },
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Shop Medicine, Beauty, Vitamins & Wellness Essentials | Walgreens\n# Shop Medicine, Beauty, Vitamins & Wellness Essentials | Walgreens\nPhoto\nClearance\n...\n## Deals & Rewards\n**Grocery & Beverages**",
+    "source": "web",
+    "title": "Mother's Day Wellness Gift Baskets For Health And Self Care",
+    "url": "https://www.walgreens.com/shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Cold and Flu Medicine | Walgreens\n# Cold and Flu Medicine\n## Up to 25% OFF\ncold & flu relief when you need it.\nGet what you need for cold, flu & COVID-19 relief\n...\n## Expert tips & articles\nWeb.\n...\nhttps://www.mayoclinic.org/diseases-conditions/common-cold/symptoms-causes/syc-20351605opens in a ne...",
+    "source": "web",
+    "title": "Cold and Flu Medicine",
+    "url": "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Body Wash | Walgreens\n# Body Wash\n...\n## Refine\nPrice and inventory may vary from online to in store.\n- **Walgreens Creamy Cocoa Butter & Shea Body Wash** - 15 fl oz",
+    "source": "web",
+    "title": "Body Wash | Walgreens",
+    "url": "https://www.walgreens.com/q/body+wash"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Toys, Games & Books | Walgreens\n# Toys, Games & Books",
+    "source": "web",
+    "title": "Toys, Games & Books",
+    "url": "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Vanicream | Walgreens\n# Vanicream\n## Refine",
+    "source": "web",
+    "title": "Vanicream",
+    "url": "https://www.walgreens.com/store/c/productlist/N=4106/1/Brands=yes"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Grocery & Beverages | Walgreens\n# Grocery & Beverages\n## Refine\n**Holiday Snacks & Beverage**\n**Adult Beverage**\n...\n6356 items filtered*",
+    "source": "web",
+    "title": "Grocery & Beverages",
+    "url": "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3"
+   },
+   {
+    "date": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Sort and filter overlay, Beginning of the content\nRefine\nRefine",
+    "source": "web",
+    "title": "Chocolate - Bag",
+    "url": "https://www.walgreens.com/store/c/productlist/chocolate---bag-gifts-under-20-/N=521142-2000013458"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Prenatal Multivitamins - Shop Brands & Sales | Walgreens\n# Prenatal Vitamins\n## Refine",
+    "source": "web",
+    "title": "Prenatal Multivitamins - Shop Brands & Sales",
+    "url": "https://www.walgreens.com/store/c/prenatal-multivitamins/ID=20001152-tier3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.00052,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00307
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 75
+  }
+ }
+}

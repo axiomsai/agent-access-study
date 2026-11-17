@@ -1,0 +1,902 @@
+[
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+  "idx": 1,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "10141 chars, copy dated 2026-11-06 (3 days old)",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-06T18:20:48+00:00",
+    "age_days": 3,
+    "cost_usd": 0.14652
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+    "price": 325.0,
+    "price_raw": "$325",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0015
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+    "price": 579.0,
+    "price_raw": "$579.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+    "price": 259.99,
+    "price_raw": "$259.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+  "idx": 2,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "10902 chars, copy dated 2026-11-08 (0 days old)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-08T22:36:27+00:00",
+    "age_days": 0,
+    "cost_usd": 0.18326
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": 612.0,
+    "price_raw": "$612.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00137
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Core i5 1335U 2023 16GB Memory 256GB Storage Arctic Grey",
+    "price": 499.99,
+    "price_raw": "$499.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023719999999999998
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey",
+    "price": 612.0,
+    "price_raw": "$612",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+  "idx": 3,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "8421 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "bella PRO SmartCrisp 8 qt. Touchscreen Air Fryer Stainless Steel",
+    "price": 49.99,
+    "price_raw": "$49.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T12:53:09+00:00",
+    "age_days": 0,
+    "cost_usd": 0.17666
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": 49.99,
+    "price_raw": "$49.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00129
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": 49.99,
+    "price_raw": "$49.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02365
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+  "idx": 4,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "7821 chars, copy dated 2026-11-03 (6 days old)",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-03T16:26:25+00:00",
+    "age_days": 6,
+    "cost_usd": 0.14368
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": 679.0,
+    "price_raw": "$679.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0014
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver",
+    "price": 499.99,
+    "price_raw": "$499.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023710000000000002
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver",
+    "price": 679.0,
+    "price_raw": "$679.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+  "idx": 5,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "9380 chars, copy dated 2026-11-05 (4 days old)",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-05T13:45:46+00:00",
+    "age_days": 4,
+    "cost_usd": 0.18463
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00137
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.023710000000000002
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "price": 349.0,
+    "price_raw": "$349.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00522
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+  "idx": 1,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16049 chars, copy dated 2026-11-08 (1 days old)",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-08T14:44:36+00:00",
+    "age_days": 1,
+    "cost_usd": 0.17987
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01233
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy S26 Ultra 512GB Cobalt Violet Unlocked Smartphone",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+  "idx": 2,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15080 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1599.99,
+    "price_raw": "$1,599.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:34:25+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14155
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1899.99,
+    "price_raw": "$1,899.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Buy the Unlocked Galaxy Z Fold8 512GB in Pistachio | Samsung US",
+    "price": 1799.99,
+    "price_raw": "$1,799.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01236
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8",
+    "price": 1899.99,
+    "price_raw": "$1,899.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+  "idx": 3,
+  "at": "2026-11-09T12:34:20-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "16511 chars, copy dated 2026-11-08 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-08T20:06:29+00:00",
+    "age_days": 0,
+    "cost_usd": 0.174
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 2299.99,
+    "price_raw": "$2,299.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00059
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02268
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Galaxy Z Fold8 Ultra",
+    "price": 2299.99,
+    "price_raw": "$2,299.99",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+  "idx": 4,
+  "at": "2026-11-09T12:34:43-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "14070 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:34:47+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14015
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00057
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1199.99,
+    "price_raw": "$1,199.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01226
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Z Flip8",
+    "price": 1249.99,
+    "price_raw": "$1,249.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00514
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
+  "idx": 5,
+  "at": "2026-11-09T12:34:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "13692 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra (14.6\")",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T02:37:27+00:00",
+    "age_days": 0,
+    "cost_usd": 0.20298
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0006
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra (14.6\")",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01227
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Galaxy Tab S12 Ultra (14.6\")",
+    "price": 1399.99,
+    "price_raw": "$1,399.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+  "idx": 1,
+  "at": "2026-11-09T12:34:45-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "1929 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:34:50+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13216
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": 7.79,
+    "price_raw": "$7.79",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00035
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02238
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea",
+    "price": 7.79,
+    "price_raw": "$7.79",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+  "idx": 2,
+  "at": "2026-11-09T12:34:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12929 chars, copy dated 2026-11-07 (1 days old)",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-07T19:44:15+00:00",
+    "age_days": 1,
+    "cost_usd": 0.14975
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea",
+    "price": 4.99,
+    "price_raw": "$4.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00035
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01195
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 ea",
+    "price": 4.99,
+    "price_raw": "$4.99",
+    "stock": "IN STOCK",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+  "idx": 3,
+  "at": "2026-11-09T12:34:46-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12962 chars, copy dated 2026-11-08 (0 days old)",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-08T20:23:08+00:00",
+    "age_days": 0,
+    "cost_usd": 0.18977
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00036
+   },
+   "openai": {
+    "verdict": "served_thin",
+    "why": "opened a shell page: 403 forbidden",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked/403 Forbidden",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01138
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea",
+    "price": 16.99,
+    "price_raw": "$16.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00519
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+  "idx": 4,
+  "at": "2026-11-09T12:34:47-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12732 chars, copy dated 2026-11-04 (5 days old)",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-04T00:15:44+00:00",
+    "age_days": 5,
+    "cost_usd": 0.17652
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": 20.99,
+    "price_raw": "$20.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00042
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01194
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Claritin 24 Hour Allergy Liqui-Gels 10 mg",
+    "price": 24.99,
+    "price_raw": "$24.99",
+    "stock": "IN STOCK",
+    "opened": "NO: the exact product page was not opened by the web tool",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+  "idx": 5,
+  "at": "2026-11-09T12:34:48-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "12764 chars, copy dated 2026-11-08 (0 days old)",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-08T19:30:49+00:00",
+    "age_days": 0,
+    "cost_usd": 0.14049
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00042
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02231
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Flonase Non-Drowsy Allergy Nasal Spray, 72.0 ea",
+    "price": 19.99,
+    "price_raw": "$19.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ }
+]

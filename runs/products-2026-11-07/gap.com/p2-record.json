@@ -1,0 +1,60 @@
+{
+ "domain": "gap.com",
+ "url": "https://www.gap.com/browse/product.do?pid=908929032",
+ "idx": 2,
+ "at": "2026-11-07T14:15:13-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "8126 chars, copy dated 2026-11-04 (3 days old)",
+   "parsed": true,
+   "name": "Kids CashSoft Zip Sweater Hoodie",
+   "price": 69.95,
+   "price_raw": "$69.95",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:17:02+00:00",
+   "age_days": 3,
+   "cost_usd": 0.09936
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Kids CashSoft Zip Sweater Hoodie",
+   "price": 69.95,
+   "price_raw": "$69.95",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0004
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Kids CashSoft Zip Sweater Hoodie",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02352
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Kids CashSoft Zip Sweater Hoodie",
+   "price": 69.95,
+   "price_raw": "$69.95",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

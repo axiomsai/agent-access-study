@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n\nProduct/Category Name: Vitamins & Supplements",
+ "finish": "STOP",
+ "cost_usd": 0.00045,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n\nProduct/Category Name: Vitamins & Supplements",
+       "thoughtSignature": "EnMKcQFpFH0TAZnqM8akGj0C85UC9M0zKfPH+/3GQwbw73dwNTl681q1hpYn6XE45xCx+FcTT9aAkP7FrFYDlutOY+gi6//TpJZoesTkf3KPOwFZjekpw2ci/QUnnqYTDg4rktDBAJdF4I6mKcmD1N5TL764"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.walgreens.com/",
+        "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 72,
+        "text": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 74,
+        "endIndex": 119,
+        "text": "Product/Category Name: Vitamins & Supplements"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 64,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 4326,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 64
+    }
+   ],
+   "toolUsePromptTokenCount": 4205,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4205
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "1XHqaq2rIsSUmtkP9vLBiAM"
+ }
+}

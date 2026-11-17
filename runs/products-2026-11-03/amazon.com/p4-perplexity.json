@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/clp/B0DQYR6X8R",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+  "https://www.amazon.com/s?srs=19421563011",
+  "https://www.amazon.com/-/es/",
+  "https://www.amazon.com/dp/s?k=dp&page=3",
+  "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+  "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.97 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.97 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/clp/B0DQYR6X8R",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+   "https://www.amazon.com/s?srs=19421563011",
+   "https://www.amazon.com/-/es/",
+   "https://www.amazon.com/dp/s?k=dp&page=3",
+   "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+   "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+  ],
+  "created": 1793751199,
+  "id": "resp_9a5a8097-000c-418b-a88f-c7e886b9766b",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon's Choice\nBounty Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls\n4.8 (25.8K)\nWays to buy: Regular Price\nRegular Price -28% $6.97 List: $9.69 Join Prime to get FREE delivery Tomorrow, Nov 4\nSubscribe & Save -32% $6.62 List Price: $9.69 Join Prime to get FREE delivery ...",
+    "source": "web",
+    "title": "Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls ...",
+    "url": "https://www.amazon.com/clp/B0DQYR6X8R"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "contact us\n...\nSkip to main search results\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n...\n## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*\n...\n## Amazon Basics DisplayPort 1.4 Cable, 32.4Gbps...",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Skip to main content\n...\nYour recently viewed items and featured recommendations\n...\nAfter viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19421563011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com en espanol.\nGasta menos.\nSonríe más.\n- ## Imprescindibles para la cocina\n- ## Todo para tu belleza",
+    "source": "web",
+    "title": "Amazon.com en espanol. Gasta menos. Sonríe más.",
+    "url": "https://www.amazon.com/-/es/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "## 8K 4K DisplayPort Cable 1.4, VESA Certified DP Cord 3.3ft\n8K@60Hz, 4K@144Hz, 2K@240Hz, 32.4Gbps High Speed, for Gaming Monitor & Graphic & PC, HDCP 2.2/FreeSync/G-Sync, Braided, Grey\n4.6*4.6 out of 5 stars*",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp&page=3"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com : amazon.co.uk\n- Disability Customer Support\n...\n## Amazon eGift Card\nBirthday\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.co.uk",
+    "url": "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Skip to main content\nSee products\nBack to top\n...\nSell on Amazon",
+    "source": "web",
+    "title": "Home",
+    "url": "https://www.amazon.com/stores/page/68969ADD-8BEB-4C1F-BD3A-692C3E9918C8"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.00094,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00368
+   },
+   "prompt_tokens": 118,
+   "search_context_size": "low",
+   "total_tokens": 159
+  }
+ }
+}

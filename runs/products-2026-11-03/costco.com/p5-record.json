@@ -1,0 +1,60 @@
+{
+ "domain": "costco.com",
+ "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+ "idx": 5,
+ "at": "2026-11-03T18:15:57-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "6596 chars, copy dated 2026-11-04 (0 days old)",
+   "parsed": true,
+   "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:16:01+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10235
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00049
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01241
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

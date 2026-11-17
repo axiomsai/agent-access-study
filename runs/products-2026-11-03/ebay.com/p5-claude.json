@@ -1,0 +1,139 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.ebay.com/itm/144387248424",
+ "retrieved_at": "2026-11-04T00:13:50+00:00",
+ "age_days": 0,
+ "doc_chars": 17289,
+ "doc_markers": [],
+ "answer": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.13158,
+ "raw": [
+  {
+   "id": "srvtoolu_017ZcW13TC2Kdjz2CXDy8cDg",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.ebay.com/itm/144387248424\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0]['title']);import re\n for k in ['US $','Price','stock','available','sold','ended','Out of']:\n  for m in re.finditer(k,c):print(c[max(0,m.start()-80):m.start()+80].replace('\\n',' '));break"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_019zhUTuYXd3AWTHsmzJCVRW",
+   "caller": {
+    "tool_id": "srvtoolu_017ZcW13TC2Kdjz2CXDy8cDg",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.ebay.com/itm/144387248424"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_017ZcW13TC2Kdjz2CXDy8cDg",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.ebay.com/itm/144387248424\nmeta-description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric generator can expand its capacity from 3.6kWh to 25kWh. Capacity 3600Wh 3600Wh 4096Wh 4096Wh 7200Wh 7200Wh.\nmeta-fb:app_id: 102628213125203\nmeta-google-adsense-account: sites-7757056108965234\nmeta-google-site-verification: 8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\nmeta-layout: main\nmeta-msvalidate.01: 34E98E6F27109BE1A9DCF19658EEEE33\nmeta-og:description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric generator can expand its capacity from 3.6kWh to 25kWh. Capacity 3600Wh 3600Wh 4096Wh 4096Wh 7200Wh 7200Wh.\nmeta-og:image: https://i.ebayimg.com/images/g/sQQAAeSwhPNq6HYk/s-l400.jpg\nmeta-og:site_name: eBay\nmeta-og:title: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay\nmeta-og:type: ebay-objects:item\nmeta-og:url: https://www.ebay.com/itm/144387248424\nmeta-referrer: unsafe-url\nmeta-robots: max-snippet:-1, max-image-preview:large\nmeta-twitter:card: summary\nmeta-twitter:description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric generator can expand its capacity from 3.6kWh to 25kWh. Capacity 3600Wh 3600Wh 4096Wh 4096Wh 7200Wh 7200Wh.\nmeta-twitter:image: https://i.ebayimg.com/images/g/sQQAAeSwhPNq6HYk/s-l400.jpg\nmeta-twitter:site: @eBay\nmeta-twitter:title: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay\nmeta-viewport: width=device-width, initial-scale=1\nmeta-y_key: acf32e2a69cbc2b0\nmeta-yandex-verification: 6e11485a66d91eff\ntitle: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay\n---\n\n[Skip to main content](#mainContent)\n\nHi !Hi! [Sign in](https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh) or [register](https://signup.ebay.com/pa/crte)[Deals](https://www.ebay.com/deals)[Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)[Help & Contact](https://www.ebay.com/help/home)\n\n[Sell](https://www.ebay.com/sl/sell)\n\n[Watchlist](https://www.ebay.com/mye/myebay/watchlist) Expand Watch List\n\n[My eBay](https://www.ebay.com/mys/home?source=GBH) Expand My eBay\n\n- [Summary](https://www.ebay.com/mye/myebay/summary)\n- [Recently Viewed](https://www.ebay.com/mye/myebay/rvi)\n- [Bids/Offers](https://www.ebay.com/mye/myebay/bidsoffers)\n- [Watchlist](https://www.ebay.com/mye/myebay/watchlist)\n- [Purchase History](https://www.ebay.com/mye/myebay/purchase)\n- [Buy Again](https://www.ebay.com/mye/buyagain)\n- [Selling](https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK%3AME%3ALNLK%3AMESX&source=GBH)\n- [Saved Feed](https://www.ebay.com/mye/myebay/saved)\n- [Saved Searches](https://www.ebay.com/mye/myebay/savedsearches)\n- [Saved Sellers](https://www.ebay.com/mye/myebay/savedsellers)\n- [Payments](https://ppcapp.ebay.com/myppc/wallet/list)\n- [My Garage](https://www.ebay.com/g/mygarage)\n- [Preferences](https://www.ebay.com/d/myebay/preferences)\n- [My Collection](https://www.ebay.com/collection/hub)\n- [Messages](https://mesg.ebay.com/mesgweb/ViewMessages/0)\n- [PSA Vault](https://www.ebay.com/collection/category?notionalTypeId=Vault&period=1Y)\n- [Issue Resolution Center](https://resolution.ebay.com)\n\nNotifications\n\nLoading...\n\n[https://cart.ebay.com](https://cart.ebay.com) Expand Cart\n\nLoading...\n\n[eBay Home](https://www.ebay.com)\n\nShop by category\n\nAll Categories\n\nSearch [Advanced](https://www.ebay.com/sch/ebayadvsearch)\n\n![](https://ir.ebaystatic.com/f/c4uaywiq0y1mrh0jfqkgbvsdpez.png)SAVE UP TO 5%[See all eligible items and terms](https://www.ebay.com/str/ecoflowofficial?_soffType=SaleEvent&_soffid=18755397106&_tab=sales&_trksid=p2047675.m2197)\n\n![Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.](https://i.ebayimg.com/images/g/sQQAAeSwhPNq6HYk/s-l140.jpg) ![Video 1 of 2](https://i.ebayimg.com/images/g/h6YAAOSwGgRlg9uW/s-l140.png)\n\n![Black EcoFlow DELTA Pro 3600Wh power station plugged into a white inverter on a house wall at dusk.](https://i.ebayimg.com/images/g/V78AAOSwB3tlmuJo/s-l140.jpg) ![Black EcoFlow DELTA Pro 3600Wh power station with digital display outdoors near a tent and collapsible solar panels.](https://i.ebayimg.com/images/g/G4EAAOSwOthlg9up/s-l140.jpg) ![EcoFlow X-TREAM Charging station with solar panels and AC outlets outdoors near a modern house.](https://i.ebayimg.com/images/g/MHEAAOSwpqVlg9uo/s-l140.jpg) ![Woman pulling black EcoFlow DELTA Pro 3600Wh power station on wheels along a sunlit path with trees in the background.](https://i.ebayimg.com/images/g/5I8AAOSwFAllg9uq/s-l140.jpg) Man setting up black EcoFlow DELTA Pro 3600Wh power station outdoors, text shows expandable capacity from 3.6kWh to 10.8kWh. Smartphone showing EcoFlow DELTA Pro 3600Wh power station app with app control, Wi-Fi, and Bluetooth connectivity. Black EcoFlow DELTA Pro 3600Wh power station with 15 versatile outlets, connected to a wall socket in a bright room. Two black EcoFlow DELTA Pro 3600Wh power stations charging laundry room appliances, text: “Power Almost Everything.” White modern house at night with lit windows, outdoor seating, and mounted EcoFlow power station on wall. Black EcoFlow DELTA Pro power station with wheels beside folded solar panels on lawn in front of modern house. White washing machines with EcoFlow DELTA Pro power station, laundry basket, wooden coat rack, and text “POWER PRETTY MUCH ANYTHING.” EcoFlow DELTA Pro 3600Wh power station connected to a smart home panel, shown outdoors with modern house in background. Black and gray EcoFlow DELTA Pro 3600Wh power station with digital display, multiple USB ports, and 20A and 30A outlets. Black and gray EcoFlow DELTA Pro 3600Wh power station with rear control panel, dual battery ports, and four wheels. Person pulling black and gray EcoFlow DELTA Pro 3600Wh power station on wheels across gravel camping area. Two people loading an EcoFlow DELTA Pro 3600Wh power station into a pickup truck bed. Man and woman loading luggage onto white North Trail ULTRALITE RV, with black EcoFlow power station on grass nearby. Four black and gray EcoFlow DELTA Pro 3600Wh power stations with digital displays are lined up on a tiled patio. Black EcoFlow DELTA Pro 3600Wh power station with solar panel deployed outdoors near modern glass house. White Ford Freedom Elite RV with slide-out section, solar panel, and two people sitting in folding chairs. Modern living room with gray floral wall, flat-screen TV, sofas, and two EcoFlow DELTA Pro 3600Wh power stations on floor. Black and silver EcoFlow DELTA Pro 3600Wh power station with digital display, multiple ports, and wheels, labeled “Refurbished.” Video 2 of 2\n\n## Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.\n\n6 sold today\n\n![Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.](https://i.ebayimg.com/thumbs/images/g/sQQAAeSwhPNq6HYk/s-l500.jpg)\n\nVideo 1 of 2\n\nBlack EcoFlow DELTA Pro 3600Wh power station plugged into a white inverter on a house wall at dusk.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with digital display outdoors near a tent and collapsible solar panels.\n\nEcoFlow X-TREAM Charging station with solar panels and AC outlets outdoors near a modern house.\n\nWoman pulling black EcoFlow DELTA Pro 3600Wh power station on wheels along a sunlit path with trees in the background.\n\nMan setting up black EcoFlow DELTA Pro 3600Wh power station outdoors, text shows expandable capacity from 3.6kWh to 10.8kWh.\n\nSmartphone showing EcoFlow DELTA Pro 3600Wh power station app with app control, Wi-Fi, and Bluetooth connectivity.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with 15 versatile outlets, connected to a wall socket in a bright room.\n\nTwo black EcoFlow DELTA Pro 3600Wh power stations charging laundry room appliances, text: “Power Almost Everything.”\n\nWhite modern house at night with lit windows, outdoor seating, and mounted EcoFlow power station on wall.\n\nBlack EcoFlow DELTA Pro power station with wheels beside folded solar panels on lawn in front of modern house.\n\nWhite washing machines with EcoFlow DELTA Pro power station, laundry basket, wooden coat rack, and text “POWER PRETTY MUCH ANYTHING.”\n\nEcoFlow DELTA Pro 3600Wh power station connected to a smart home panel, shown outdoors with modern house in background.\n\nBlack and gray EcoFlow DELTA Pro 3600Wh power station with digital display, multiple USB ports, and 20A and 30A outlets.\n\nBlack and gray EcoFlow DELTA Pro 3600Wh power station with rear control panel, dual battery ports, and four wheels.\n\nPerson pulling black and gray EcoFlow DELTA Pro 3600Wh power station on wheels across gravel camping area.\n\nTwo people loading an EcoFlow DELTA Pro 3600Wh power station into a pickup truck bed.\n\nMan and woman loading luggage onto white North Trail ULTRALITE RV, with black EcoFlow power station on grass nearby.\n\nFour black and gray EcoFlow DELTA Pro 3600Wh power stations with digital displays are lined up on a tiled patio.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with solar panel deployed outdoors near modern glass house.\n\nWhite Ford Freedom Elite RV with slide-out section, solar panel, and two people sitting in folding chairs.\n\nModern living room with gray floral wall, flat-screen TV, sofas, and two EcoFlow DELTA Pro 3600Wh power stations on floor.\n\nBlack and silver EcoFlow DELTA Pro 3600Wh power station with digital display, multiple ports, and wheels, labeled “Refurbished.”\n\nVideo 2 of 2\n\n15K\n\n## Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.\n\n![Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.](https://i.ebayimg.com/images/g/sQQAAeSwhPNq6HYk/s-l1600.jpg)\n\nBlack EcoFlow DELTA Pro 3600Wh power station plugged into a white inverter on a house wall at dusk.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with digital display outdoors near a tent and collapsible solar panels.\n\nEcoFlow X-TREAM Charging station with solar panels and AC outlets outdoors near a modern house.\n\nWoman pulling black EcoFlow DELTA Pro 3600Wh power station on wheels along a sunlit path with trees in the background.\n\nMan setting up black EcoFlow DELTA Pro 3600Wh power station outdoors, text shows expandable capacity from 3.6kWh to 10.8kWh.\n\nSmartphone showing EcoFlow DELTA Pro 3600Wh power station app with app control, Wi-Fi, and Bluetooth connectivity.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with 15 versatile outlets, connected to a wall socket in a bright room.\n\nTwo black EcoFlow DELTA Pro 3600Wh power stations charging laundry room appliances, text: “Power Almost Everything.”\n\nWhite modern house at night with lit windows, outdoor seating, and mounted EcoFlow power station on wall.\n\nBlack EcoFlow DELTA Pro power station with wheels beside folded solar panels on lawn in front of modern house.\n\nWhite washing machines with EcoFlow DELTA Pro power station, laundry basket, wooden coat rack, and text “POWER PRETTY MUCH ANYTHING.”\n\nEcoFlow DELTA Pro 3600Wh power station connected to a smart home panel, shown outdoors with modern house in background.\n\nBlack and gray EcoFlow DELTA Pro 3600Wh power station with digital display, multiple USB ports, and 20A and 30A outlets.\n\nBlack and gray EcoFlow DELTA Pro 3600Wh power station with rear control panel, dual battery ports, and four wheels.\n\nPerson pulling black and gray EcoFlow DELTA Pro 3600Wh power station on wheels across gravel camping area.\n\nTwo people loading an EcoFlow DELTA Pro 3600Wh power station into a pickup truck bed.\n\nMan and woman loading luggage onto white North Trail ULTRALITE RV, with black EcoFlow power station on grass nearby.\n\nFour black and gray EcoFlow DELTA Pro 3600Wh power stations with digital displays are lined up on a tiled patio.\n\nBlack EcoFlow DELTA Pro 3600Wh power station with solar panel deployed outdoors near modern glass house.\n\nWhite Ford Freedom Elite RV with slide-out section, solar panel, and two people sitting in folding chairs.\n\nModern living room with gray floral wall, flat-screen TV, sofas, and two EcoFlow DELTA Pro 3600Wh power stations on floor.\n\nBlack and silver EcoFlow DELTA Pro 3600Wh power station with digital display, multiple ports, and wheels, labeled “Refurbished.”\n\nRe-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets. EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP - Video 1 of 2\n\nBlack EcoFlow DELTA Pro 3600Wh power station plugged into a white inverter on a house wall at dusk. Black EcoFlow DELTA Pro 3600Wh power station with digital display outdoors near a tent and collapsible solar panels. EcoFlow X-TREAM Charging station with solar panels and AC outlets outdoors near a modern house. Woman pulling black EcoFlow DELTA Pro 3600Wh power station on wheels along a sunlit path with trees in the background. Man setting up black EcoFlow DELTA Pro 3600Wh power station outdoors, text shows expandable capacity from 3.6kWh to 10.8kWh. Smartphone showing EcoFlow DELTA Pro 3600Wh power station app with app control, Wi-Fi, and Bluetooth connectivity. Black EcoFlow DELTA Pro 3600Wh power station with 15 versatile outlets, connected to a wall socket in a bright room. Two black EcoFlow DELTA Pro 3600Wh power stations charging laundry room appliances, text: “Power Almost Everything.” White modern house at night with lit windows, outdoor seating, and mounted EcoFlow power station on wall. Black EcoFlow DELTA Pro power station with wheels beside folded solar panels on lawn in front of modern house. White washing machines with EcoFlow DELTA Pro power station, laundry basket, wooden coat rack, and text “POWER PRETTY MUCH ANYTHING.” EcoFlow DELTA Pro 3600Wh power station connected to a smart home panel, shown outdoors with modern house in background. Black and gray EcoFlow DELTA Pro 3600Wh power station with digital display, multiple USB ports, and 20A and 30A outlets. Black and gray EcoFlow DELTA Pro 3600Wh power station with rear control panel, dual battery ports, and four wheels. Person pulling black and gray EcoFlow DELTA Pro 3600Wh power station on wheels across gravel camping area. Two people loading an EcoFlow DELTA Pro 3600Wh power station into a pickup truck bed. Man and woman loading luggage onto white North Trail ULTRALITE RV, with black EcoFlow power station on grass nearby. Four black and gray EcoFlow DELTA Pro 3600Wh power stations with digital displays are lined up on a tiled patio. Black EcoFlow DELTA Pro 3600Wh power station with solar panel deployed outdoors near modern glass house. White Ford Freedom Elite RV with slide-out section, solar panel, and two people sitting in folding chairs. Modern living room with gray floral wall, flat-screen TV, sofas, and two EcoFlow DELTA Pro 3600Wh power stations on floor. Black and silver EcoFlow DELTA Pro 3600Wh power station with digital display, multiple ports, and wheels, labeled “Refurbished.” EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP - Video 2 of 2\n\nHave one to sell?\n\n[Sell one like this](https://www.ebay.com/sl/list?mode=SellLikeItem&itemId=144387248424&rt=nc&_trksid=p4429486.m117039.l2567)\n\n[Sell something else](https://www.ebay.com/sl/prelist/suggest)\n\nShare\n\neBay Refurbished\n\n# EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP\n\n[https://www.ebay.com/str/ecoflowofficial?_trksid=p4429486.m3561.l161210](https://www.ebay.com/str/ecoflowofficial?_trksid=p4429486.m3561.l161210)\n\n[EcoFlow Official Store](https://www.ebay.com/str/ecoflowofficial?_trksid=p4429486.m3561.l161211)\n\n(47683)\n\n99.8% positive\n\n[Seller's other itemsSeller's other items](https://www.ebay.com/str/ecoflowofficial?_trksid=p4429486.m3561.l170197)\n\n[Message](https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F144387248424%3Fm2mOpen%3D1)\n\neBay Live seller[See events](https://www.ebay.com/ebaylive/sellers/fcvtjvdnswq)\n\nUS $1,559.00\n\nWas US $2,899.00 (46% off)\n\nWhat does this price mean?\n\nRecent sales price provided by the seller\n\n$1,359.00 with coupon code Price details\n\nWas\n\nUS $2,899.00\n\n(46% off) -US $1,340.00\n\nItem price\n\nUS $1,559.00\n\nShipping\n\nFREE\n\nCoupons\n\n-US $200.00\n\nSAVE20TECH\n\nApply code during checkout\n\nEstimated total\n\nUS $1,359.00*\n\nYou save: US $1,540.00\n\n*Applicable sales tax and other charges may be added at checkout\n\nas low as $96.52/mo with Learn more\n\nCondition:\n\nCertified - RefurbishedCertified - Refurbished\n\nMore information - About this item condition\n\n“>Works like new. Restored to factory settings.>May have minor scratches or dents.>May be missing ”... [Read moreabout condition](#ABOUT_THIS_ITEM)\n\nQuantity:\n\n5,980 sold\n\n20% off with code SAVE20TECH\n\nEnds 08 Nov • Max $200.00[See details](https://www.ebay.com/e/_electronics/26-rw44-tech-the-halls-er-sfc)\n\n- [Buy It Now](https://www.ebay.com/atc/binctr?item=144387248424&quantity=1&fromPage=4429486&rev",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-04T00:13:50+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.ebay.com/itm/144387248424"
+   },
+   "tool_use_id": "srvtoolu_019zhUTuYXd3AWTHsmzJCVRW",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_017ZcW13TC2Kdjz2CXDy8cDg/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0]['title']);import re\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_017ZcW13TC2Kdjz2CXDy8cDg",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01PDLEAq39rFJ3Vpvtthft48",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.ebay.com/itm/144387248424\", \"retrieved_at\": \"2026-11-04T00:13:50+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.ebay.com/itm/144387248424\\nmeta-description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric generator can expand its capacity from 3.6kWh to 25kWh. Capacity 3600Wh 3600Wh 4096Wh 4096Wh 7200Wh 7200Wh.\\nmeta-fb:app_id: 102628213125203\\nmeta-google-adsense-account: sites-7757056108965234\\nmeta-google-site-verification: 8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\\nmeta-layout: main\\nmeta-msvalidate.01: 34E98E6F27109BE1A9DCF19658EEEE33\\nmeta-og:description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric generator can expand its capacity from 3.6kWh to 25kWh. Capacity 3600Wh 3600Wh 4096Wh 4096Wh 7200Wh 7200Wh.\\nmeta-og:image: https://i.ebayimg.com/images/g/sQQAAeSwhPNq6HYk/s-l400.jpg\\nmeta-og:site_name: eBay\\nmeta-og:title: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | eBay\\nmeta-og:type: ebay-objects:item\\nmeta-og:url: https://www.ebay.com/itm/144387248424\\nmeta-referrer: unsafe-url\\nmeta-robots: max-snippet:-1, max-image-preview:large\\nmeta-twitter:card: summary\\nmeta-twitter:description: DELTA Pro 3600Wh Power Station. Applied with DELTA Pro Extra Batteries or Smart Generators, the electric g\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PDLEAq39rFJ3Vpvtthft48",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01MTtk8eAsUP71TcGDScWzLD",
+   "caller": null,
+   "input": {
+    "code": "import json,re;c=json.loads(r)['content']['source']['data']\nfor k in ['US \\$','available','sold','ended','Out of stock','Buy It Now','no longer']:\n  for m in list(re.finditer(k,c))[:2]:print(k,'::',c[max(0,m.start()-100):m.start()+100].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "US \\$ :: 24%3Fm2mOpen%3D1)  eBay Live seller[See events](https://www.ebay.com/ebaylive/sellers/fcvtjvdnswq)  US $1,559.00  Was US $2,899.00 (46% off)  What does this price mean?  Recent sales price provided by\nUS \\$ ::  eBay Live seller[See events](https://www.ebay.com/ebaylive/sellers/fcvtjvdnswq)  US $1,559.00  Was US $2,899.00 (46% off)  What does this price mean?  Recent sales price provided by the seller  $1,35\nsold ::  DELTA Pro 3600Wh power station with black and silver unit, control panel, and multiple outlets.  6 sold today  ![Re-certified refurbished EcoFlow DELTA Pro 3600Wh power station with black and silver \nsold :: atches or dents.>May be missing ”... [Read moreabout condition](#ABOUT_THIS_ITEM)  Quantity:  5,980 sold  20% off with code SAVE20TECH  Ends 08 Nov • Max $200.00[See details](https://www.ebay.com/e/_e\nBuy It Now :: v • Max $200.00[See details](https://www.ebay.com/e/_electronics/26-rw44-tech-the-halls-er-sfc)  - [Buy It Now](https://www.ebay.com/atc/binctr?item=144387248424&quantity=1&fromPage=4429486&rev\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01MTtk8eAsUP71TcGDScWzLD",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_015igMBbvXLTfBwkT5oKyfif",
+   "caller": null,
+   "input": {
+    "code": "m=re.search(r'\\n# (.+)',c);print(m and m.group(1))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_015igMBbvXLTfBwkT5oKyfif",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: EcoFlow DELTA Pro 3600Wh Power Station Generator Certified Refurbished, LFP | PRICE: $1,559.00 | STOCK: IN STOCK | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

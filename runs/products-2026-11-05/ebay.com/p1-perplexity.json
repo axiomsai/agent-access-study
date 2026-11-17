@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/276582090868",
+  "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591066865&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3&_oac=1",
+  "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_ItemCondition=3&LH_BOPIS=1&LH_PrefLoc=98&LH_BIN=1&_sop=16&LH_RPA=1&_pgn=2",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_BIN=1&LH_FS=1&LH_BOPIS=1&_sop=15",
+  "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_All=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/183960/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_FS=1&_oac=1&LH_PrefLoc=2&_udlo=25&_udhi=50",
+  "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/276582090868",
+   "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591066865&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3&_oac=1",
+   "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_ItemCondition=3&LH_BOPIS=1&LH_PrefLoc=98&LH_BIN=1&_sop=16&LH_RPA=1&_pgn=2",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_BIN=1&LH_FS=1&LH_BOPIS=1&_sop=15",
+   "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_All=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/183960/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_FS=1&_oac=1&LH_PrefLoc=2&_udlo=25&_udhi=50",
+   "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3"
+  ],
+  "created": 1793906204,
+  "id": "resp_337c8ac6-06b1-4720-8764-1fe808f07563",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-01-30",
+    "place_metadata": null,
+    "snippet": "This vacuum cleaner surpasses all previous models we've owned, including Dyson, which was bulky and weighty.\nThe contemporary design is remarkably stylish, and its vacuuming capabilities are outstanding.\nIts lightweight build, cordless operation, convenient wall-mounted charging, and exceptional per...",
+    "source": "web",
+    "title": "Dyson V15 Detect Total Clean Extra",
+    "url": "https://www.ebay.com/itm/276582090868"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(297) (297) Items\n...\n# 297 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "297 results",
+    "url": "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(15) (15) Items",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?item=110591066865&_ssn=testuser_nomar_seller&_udhi=15&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(371) (371) Items",
+    "source": "web",
+    "title": "371 results",
+    "url": "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069079&_ssn=testuser_nomar_seller&_oac=1&_udhi=20&LH_ItemCondition=3&LH_BOPIS=1&LH_PrefLoc=98&LH_BIN=1&_sop=16&LH_RPA=1&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(322) (322) Items\n...\n# 322 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "322 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_BIN=1&LH_FS=1&LH_BOPIS=1&_sop=15"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# 288 results\nor Best Offer\n...\n- GLOBE MCR59, SWITCH COVER\nBrand New\n$14.98",
+    "source": "web",
+    "title": "288 results",
+    "url": "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_All=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(115) (115) Items\n...\n# 115 results\n...\n- Buy It Now\n...\n- Under $35.00Remove filter\n...\n- BEARING SKF 6205 2RS C3\nBrand New",
+    "source": "web",
+    "title": "115 results",
+    "url": "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(13) (13) Items\n...\n# 13 results\n- THERMOCOUPLE UNIVERSAL KIT 1200MM SKL",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/181982/i.html?item=110591054673&_ssn=testuser_nomar_seller&LH_BOPIS=1&_oac=1&_udhi=25&LH_PrefLoc=98&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- Buy It Now(14) (14) Items",
+    "source": "web",
+    "title": "14 results",
+    "url": "https://www.sandbox.ebay.com/sch/183960/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_FS=1&_oac=1&LH_PrefLoc=2&_udlo=25&_udhi=50"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# 117 results\n- HAND EDIT RANCILIO 36301030 FILTER HOLDER GASKET\nBrand New\n$12.34",
+    "source": "web",
+    "title": "117 results",
+    "url": "https://www.sandbox.ebay.com/sch/42892/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=25&LH_BOPIS=1&_dmd=1&LH_FS=1&LH_BIN=1&LH_RPA=0&_sop=12&LH_PrefLoc=3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00097,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00367
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

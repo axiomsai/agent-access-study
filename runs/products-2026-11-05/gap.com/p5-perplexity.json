@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908887122",
+  "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+  "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+  "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+  "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+  "https://www.gap.com/browse/product.do?pid=8318530220000",
+  "https://www.gap.com/browse/product.do?pid=5315083220404",
+  "https://www.gap.com/browse/product.do?pid=8907820024005",
+  "https://www.gap.com/browse/product.do?pid=8638080023203",
+  "https://www.gap.com/browse/product.do?pid=11797880023232"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908887122",
+   "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+   "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+   "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+   "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+   "https://www.gap.com/browse/product.do?pid=8318530220000",
+   "https://www.gap.com/browse/product.do?pid=5315083220404",
+   "https://www.gap.com/browse/product.do?pid=8907820024005",
+   "https://www.gap.com/browse/product.do?pid=8638080023203",
+   "https://www.gap.com/browse/product.do?pid=11797880023232"
+  ],
+  "created": 1793907666,
+  "id": "resp_f8989dbe-4025-4859-a1c5-cc5c0bbb20c3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "CashSoft Crew Sweater | Gap\nExclusions apply.\nEnds 11/2.\n...\n# CashSoft Crew Sweater\n# CashSoft Crew Sweater\n$79.95\n$79.95\n...\n## Color:\nHappy Stripe\n...\nRegularTallPetite\n## Size\nXXS\n...\n## Product details\nOur bestselling fabric that feels cashmere-soft.Crafted in a midweight plush yarn.\nRefined wi...",
+    "source": "web",
+    "title": "CashSoft Crew Sweater - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=908887122"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Limited time only | Early Black Friday Deals from $8 + Extra 20% Off in App only.",
+    "source": "web",
+    "title": "Girls' Multi Back To School Looks | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "This item is currently sold out.\nEnjoy exclusive perks with a Banana Republic Rewards Credit Card like 25% off your first purchase with a new card.",
+    "source": "web",
+    "title": "Women's Wedding & Special Occasion Attire - Banana Republic - Gap",
+    "url": "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Shop All Styles\n280 items in the product grid\n- Filter & Sort\n...\n## All Products",
+    "source": "web",
+    "title": "Men Shop All Styles Accessories",
+    "url": "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# All Div Sorts\n## Feels like Gap Sweats\n[](https://www.gap.com/browse/product.do?pid=883546022)",
+    "source": "web",
+    "title": "TESTING CID's All Div Sorts Feels like Gap Sweats",
+    "url": "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=8318530220000&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Eyelet Crop Top\nOut of Stock\n...\n## Product details\n- Sheer, airy cotton cropped top.\n- Scoop neck with tie.",
+    "source": "web",
+    "title": "Eyelet Crop Top",
+    "url": "https://www.gap.com/browse/product.do?pid=8318530220000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Poplin PJ Shirt | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=5315083220404&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Poplin PJ Shirt\n![Image 1 of 6, Soft cotton poplin pajama shirt., Notch collar., Long...",
+    "source": "web",
+    "title": "Poplin PJ Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=5315083220404"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Oversized Denim Shirt Jacket | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=8907820024005&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Oversized Denim Shirt Jacket\n$99.95\n$99.95\n$49.00\n...\nIn Stock\n...\n## Pr...",
+    "source": "web",
+    "title": "Oversized Denim Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=8907820024005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Mid Rise Relaxed Straight Jeans\n## Product details\n- Fit: A full-length jean that's fitted on the waist & straight all the way down.",
+    "source": "web",
+    "title": "Mid Rise Relaxed Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=8638080023203"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=11797880023232&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Gap × A.P.C. Boot Jeans\n...\nCompared with conventional wash methods, Washwell uses at least 20% less water.\n.....",
+    "source": "web",
+    "title": "Gap × A.P.C. Boot Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=11797880023232"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00106,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00376
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

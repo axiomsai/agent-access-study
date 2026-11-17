@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.instacart.com/",
+  "https://www.instacart.com/categories",
+  "https://www.instacart.com/categories/1361-household-essentials/1403-water-filters-and-softeners",
+  "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces",
+  "https://www.instacart.com/categories/316-food?page=4106",
+  "https://www.instacart.com/categories/1790-party-and-occasions/2836-party-supplies",
+  "https://www.instacart.com/landing?product_id=17830798&retailer_id=233&region_id=3393473093.00000&mrid=328925523",
+  "https://www.instacart.com/categories/316-food/844-pantry/974-canned-goods/1017-canned-tomatoes?page=57",
+  "https://www.instacart.com/categories/1602-personal-care?page=1717",
+  "https://www.instacart.com/categories/2-alcohol?page=1723"
+ ],
+ "cited_store": true,
+ "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You — Grocery delivery",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Instacart | Grocery Delivery or Pickup from Local Stores Near You — Grocery delivery",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.instacart.com/",
+   "https://www.instacart.com/categories",
+   "https://www.instacart.com/categories/1361-household-essentials/1403-water-filters-and-softeners",
+   "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces",
+   "https://www.instacart.com/categories/316-food?page=4106",
+   "https://www.instacart.com/categories/1790-party-and-occasions/2836-party-supplies",
+   "https://www.instacart.com/landing?product_id=17830798&retailer_id=233&region_id=3393473093.00000&mrid=328925523",
+   "https://www.instacart.com/categories/316-food/844-pantry/974-canned-goods/1017-canned-tomatoes?page=57",
+   "https://www.instacart.com/categories/1602-personal-care?page=1717",
+   "https://www.instacart.com/categories/2-alcohol?page=1723"
+  ],
+  "created": 1794248386,
+  "id": "resp_35d99cb0-610f-41d5-82d8-9d88cc39c8b4",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n# Order groceries for delivery or pickup today\n...\n## All stores in San Francisco Bay Area\nScan the QR code with your camera.\n...\n## Grocery delivery you can count on\n### Choose what you want\nSelect items from your favorite grocery st...",
+    "source": "web",
+    "title": "Roasted & Salted Cashew Pieces (25 lb) Delivery or ...",
+    "url": "https://www.instacart.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Same-day delivery and pickup options by Instacart are available from these categories and more",
+    "source": "web",
+    "title": "Same-Day Delivery or Pickup on Grocery, Alcohol, Home ...",
+    "url": "https://www.instacart.com/categories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Water Filters and Softeners Products Near Me - Delivery or Pickup | Instacart\n...\nWater Filters and Softeners\n# Water Filters and Softeners Delivery or Pickup\n...\n## Water Filters and Softeners Near Me\nOrder Water Filters and Softeners from local and national retailers near you and enjoy on-demand, ...",
+    "source": "web",
+    "title": "Water Filters and Softeners Delivery or Pickup - Instacart",
+    "url": "https://www.instacart.com/categories/1361-household-essentials/1403-water-filters-and-softeners"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Sauces Products Near Me - Delivery or Pickup | Instacart\n...\n# Sauces Delivery or Pickup",
+    "source": "web",
+    "title": "Sauces Products Near Me - Delivery or Pickup | Instacart",
+    "url": "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Food Products Near Me - Delivery or Pickup | Page 4106 | Instacart\n# Food Delivery or Pickup",
+    "source": "web",
+    "title": "Food Products Near Me - Delivery or Pickup | Page 4106",
+    "url": "https://www.instacart.com/categories/316-food?page=4106"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Party Supplies Products Near Me - Delivery or Pickup | Instacart\n### Fast delivery\n# Party Supplies Delivery or Pickup\n...\n## Party Supplies Near Me\nOrder Balloons & Accessories, Party Decorations, Party Invitations, and more from local and national retailers near you and enjoy on-demand, contactles...",
+    "source": "web",
+    "title": "Party Supplies Products Near Me - Delivery or Pickup",
+    "url": "https://www.instacart.com/categories/1790-party-and-occasions/2836-party-supplies"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "DeLallo Olive Bruschetta\n...\n# DeLallo Olive Bruschetta\n7.05 oz\n# DeLallo Olive Bruschetta\n7.05 oz\n$8.99\nAlbertsons\n$8.99",
+    "source": "web",
+    "title": "DeLallo Olive, Bruschetta - Instacart",
+    "url": "https://www.instacart.com/landing?product_id=17830798&retailer_id=233&region_id=3393473093.00000&mrid=328925523"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Canned Tomatoes Products Near Me - Delivery or Pickup | Page 57 | Instacart\n...\n# Canned Tomatoes Delivery or Pickup\n...\n## Canned Tomatoes Near Me\nBuy your favorite Canned Tomatoes online with Instacart.\nOrder Canned Tomato Sauce, Canned Whole Tomatoes, Canned Crushed Tomatoes, and more from local ...",
+    "source": "web",
+    "title": "Canned Tomatoes Products Near Me - Delivery or Pickup",
+    "url": "https://www.instacart.com/categories/316-food/844-pantry/974-canned-goods/1017-canned-tomatoes?page=57"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Personal Care Products Near Me - Delivery or Pickup | Page 1717 | Instacart\n...\n# Personal Care Delivery or Pickup",
+    "source": "web",
+    "title": "Personal Care Products Near Me - Delivery or Pickup | Page 1717",
+    "url": "https://www.instacart.com/categories/1602-personal-care?page=1717"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Alcohol Products Near Me - Delivery or Pickup | Page 1723 | Instacart\n...\n# Alcohol Delivery or Pickup",
+    "source": "web",
+    "title": "Alcohol Products Near Me - Delivery or Pickup | Page 1723",
+    "url": "https://www.instacart.com/categories/2-alcohol?page=1723"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 16,
+   "cost": {
+    "input_tokens_cost": 0.0006699999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00322
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+  "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html?piid=788755636&auctionId=d9e3906b-6eeb-4e19-99b5-adcb8fd6af65&trackingId=%7B%22adType%22:%22WSP%22,%22auctionId%22:%22d9e3906b-6eeb-4e19-99b5-adcb8fd6af65%22%7D&adTypeId=1",
+  "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-100-italian-leather-swivel-club-chair-two-pack-pkl11150.html?piid=107150431",
+  "https://www.wayfair.com/keyword.php?keyword=22+inch+swivel+chairs",
+  "https://www.wayfair.com/furniture/sb1/wade-logan-accent-chairs-c416225-a467~36989.html",
+  "https://www.wayfair.com/furniture/sb1/all-leather-options-accent-chairs-c416225-a471~630603.html",
+  "https://www.wayfair.com/furniture/sb2/barrel-leather-accent-chairs-c416225-a469~281283-a75221~467054.html",
+  "https://www.wayfair.com/furniture/sb1/leather-accent-chairs-c416225-a471~4751.html",
+  "https://www.wayfair.com/furniture/sb0/small-accent-chairs-c1867354.html",
+  "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page details did not show current price or stock status",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page details did not show current price or stock status",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+   "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html?piid=788755636&auctionId=d9e3906b-6eeb-4e19-99b5-adcb8fd6af65&trackingId=%7B%22adType%22:%22WSP%22,%22auctionId%22:%22d9e3906b-6eeb-4e19-99b5-adcb8fd6af65%22%7D&adTypeId=1",
+   "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-100-italian-leather-swivel-club-chair-two-pack-pkl11150.html?piid=107150431",
+   "https://www.wayfair.com/keyword.php?keyword=22+inch+swivel+chairs",
+   "https://www.wayfair.com/furniture/sb1/wade-logan-accent-chairs-c416225-a467~36989.html",
+   "https://www.wayfair.com/furniture/sb1/all-leather-options-accent-chairs-c416225-a471~630603.html",
+   "https://www.wayfair.com/furniture/sb2/barrel-leather-accent-chairs-c416225-a469~281283-a75221~467054.html",
+   "https://www.wayfair.com/furniture/sb1/leather-accent-chairs-c416225-a471~4751.html",
+   "https://www.wayfair.com/furniture/sb0/small-accent-chairs-c1867354.html",
+   "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html"
+  ],
+  "created": 1793907378,
+  "id": "resp_c70c2899-3020-4034-8cd2-f911ab8b357b",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair & Reviews | Wayfair\n...\n1. Furniture/\n2. Living Room Furniture/\n3. Chairs & Seating/\n4. Accent Chairs/\n5. SKU: W100398878\n## Customer Reviews\n4.8\nRated 4.8 out of 5 stars.\n1,294 Reviews\n...\n# Crandell Top Grain 100% Genu...",
+    "source": "web",
+    "title": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair & Reviews | Wayfair\n...\n1. Furniture/\n2. Living Room Furniture/\n3. Chairs & Seating/\n4. Accent Chairs/\n5. SKU: W100398878\n## Customer Reviews\n4.8\nRated 4.8 out of 5 stars.\n1,292 Reviews\n...\n# Crandell Top Grain 100% Genu...",
+    "source": "web",
+    "title": "Crandell Top Grain 100% Genuine Italian Leather Swivel ...",
+    "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html?piid=788755636&auctionId=d9e3906b-6eeb-4e19-99b5-adcb8fd6af65&trackingId=%7B%22adType%22:%22WSP%22,%22auctionId%22:%22d9e3906b-6eeb-4e19-99b5-adcb8fd6af65%22%7D&adTypeId=1"
+   },
+   {
+    "date": "2026-09-24",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "Wade Logan® Crandell 100% Italian Leather Swivel Club Chair Two Pack & Reviews | Wayfair\n...\n# Crandell 100% Italian Leather Swivel Club Chair Two Pack\nByWade Logan®\n...\nCrandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nQty: 2\n...\nThis 2-piece swivel barrel chair set brings a moder...",
+    "source": "web",
+    "title": "Wade Logan® Crandell 100% Italian Leather Swivel Club Chair Two Pack & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-100-italian-leather-swivel-club-chair-two-pack-pkl11150.html?piid=107150431"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Crandell 100% Italian Leather Swivel Club Chair Two Pack\nBy Wade Logan®\nVintage Caramel\n...\n## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nVintage Navy Pebbled Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$529.99\nwas~~$747.00~~\nFREE 2-Day...",
+    "source": "web",
+    "title": "22 Inch Swivel Chairs - Wayfair",
+    "url": "https://www.wayfair.com/keyword.php?keyword=22+inch+swivel+chairs"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nVintage Genuine Leather\n(1282)\nRated 4.8 out of 5 stars.1282 total votes\n$493.20\nwas~~$747.00~~\nOpen Box:$192.34\nFREE 3-Day Delivery\nGet it by Tue, Oct 20\nQuickview\nThis swivel barrel chair features a rounded silho...",
+    "source": "web",
+    "title": "Wade Logan® Accent Chairs | Furniture & Swivel Chair - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/wade-logan-accent-chairs-c416225-a467~36989.html"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nCaramel Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$629.99\nwas~~$747.00~~\nFREE 2-Day Delivery\nGet it by Sat, Nov 7\nQuickview\nThis swivel barrel chair features a rounded silhouette with a compa...",
+    "source": "web",
+    "title": "All Leather Options Accent Chairs You'll Love - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/all-leather-options-accent-chairs-c416225-a471~630603.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nCaramel Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$629.99\nwas~~$747.00~~\nFREE 2-Day Delivery\nGet it by Sat, Nov 7\nQuickview\nThis swivel barrel chair features a rounded silhouette with a compa...",
+    "source": "web",
+    "title": "Barrel Leather Accent Chairs You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb2/barrel-leather-accent-chairs-c416225-a469~281283-a75221~467054.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nCaramel Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$629.99\nwas~~$747.00~~\nFREE Fast Delivery\nGet it by Wed, Nov 11\nQuickview\nThis swivel barrel chair features a rounded silhouette with a compa...",
+    "source": "web",
+    "title": "Leather Chairs",
+    "url": "https://www.wayfair.com/furniture/sb1/leather-accent-chairs-c416225-a471~4751.html"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nCaramel Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$629.99\nwas~~$747.00~~\nFREE 2-Day Delivery\nGet it by Fri, Nov 6\nQuickview\nThis swivel barrel chair features a rounded silhouette with a compa...",
+    "source": "web",
+    "title": "Small Accent Chairs - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/small-accent-chairs-c1867354.html"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair\nBy Wade Logan®\nCaramel Genuine Leather\n(1294)\nRated 4.8 out of 5 stars.1294 total votes\n$629.99\nwas~~$747.00~~\nFREE 2-Day Delivery\nGet it by Sat, Nov 7\nQuickview\nThis swivel barrel chair features a rounded silhouette with a compa...",
+    "source": "web",
+    "title": "Swivel Chairs",
+    "url": "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.00176,
+    "output_tokens_cost": 0.00031,
+    "request_cost": 0.0025,
+    "total_cost": 0.00457
+   },
+   "prompt_tokens": 140,
+   "search_context_size": "low",
+   "total_tokens": 181
+  }
+ }
+}

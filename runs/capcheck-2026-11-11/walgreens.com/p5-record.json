@@ -1,0 +1,25 @@
+{
+ "domain": "walgreens.com",
+ "idx": 5,
+ "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "12764 chars, copy dated 2026-11-08 (3 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12764,
+   "input_tokens": 34335,
+   "cost_usd": 0.149
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "12764 chars, copy dated 2026-11-08 (3 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12764,
+   "input_tokens": 39230,
+   "cost_usd": 0.17064
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "kroger.com",
+ "idx": 5,
+ "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "14210 chars, copy dated 2026-09-30 (42 days old)",
+   "price": 14.49,
+   "opened": "YES",
+   "doc_chars": 14210,
+   "input_tokens": 22959,
+   "cost_usd": 0.10226
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "14210 chars, copy dated 2026-09-30 (42 days old)",
+   "price": 14.49,
+   "opened": "YES",
+   "doc_chars": 14210,
+   "input_tokens": 22796,
+   "cost_usd": 0.09992
+  }
+ }
+}

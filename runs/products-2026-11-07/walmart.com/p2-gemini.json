@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Apple AirPods 4 | PRICE: $89.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00054,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Apple AirPods 4 | PRICE: $89.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TM8fMxQF7FLI4kFR4qI2U0osDQZVnMnMjERmgOOP9DCkvkI0phq0WEJjgZ5CyuKAyIWQcBwAKGjITd7syXZMNLNKnFe9VC31Llnv5LXpk2xUGtoosqag2D7ctarYO/HOK4n4m4L2jwxU6Il24"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 136,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 5245,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 136
+    }
+   ],
+   "toolUsePromptTokenCount": 5044,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5044
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "dXzvarnhM5v0z7IP8d7IqQI"
+ }
+}

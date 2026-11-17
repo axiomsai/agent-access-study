@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00064,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TgMtvoy4B8dI1uRR3qh4+hGQixLJ4n0dHmYQK0NbtgDzZWVN5MOFuRqUxhNVGM2anPnmmlI/WTsm8WnEPvDebUw4ZQA50j2GPh3L8RMKLm2y3ybkiXvw2EvAHgjtiHRXX5PYv5aw0hq9eGYZC"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 144,
+   "candidatesTokenCount": 79,
+   "totalTokenCount": 6175,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 144
+    }
+   ],
+   "toolUsePromptTokenCount": 5952,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5952
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "cX7var2yLLvUz7IP8NCSiQw"
+ }
+}

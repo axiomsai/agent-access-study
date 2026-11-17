@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page was blocked",
+ "finish": "STOP",
+ "cost_usd": 6e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page was blocked",
+       "thoughtSignature": "EnMKcQFpFH0TUkebZ1vdUI2GfrMOI4u/SWEJG4wZq+ALyo+fQEIeInxUHUHyzsmV2sLPm6dUX0yX4cb7DSNYRd/dKQ5/KQ69Yd6vRERyQkk9a3e3YRufUetKSC/LHTvxrOkmcEknQLL6AsElNefBFJVDg3rv"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 126,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 452,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 126
+    }
+   ],
+   "toolUsePromptTokenCount": 274,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 274
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "mXjqarWmNu_mz7IPoMva6A8"
+ }
+}

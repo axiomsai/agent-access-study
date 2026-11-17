@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.amazon.com/clp/B07BGLT25K",
+  "https://us.amazon.com/Scott-Comfortplus-Toilet-Tissue-Double/dp/B07BGLT25K/ref=zg_bs_g_hpc_d_sccl_1/146-9794450-3926942?psc=1",
+  "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://docs.business.amazon.com/docs/using-guided-buying",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/-/es/b?node=12766669011",
+  "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.amazon.com/clp/B07BGLT25K",
+   "https://us.amazon.com/Scott-Comfortplus-Toilet-Tissue-Double/dp/B07BGLT25K/ref=zg_bs_g_hpc_d_sccl_1/146-9794450-3926942?psc=1",
+   "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://docs.business.amazon.com/docs/using-guided-buying",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/-/es/b?node=12766669011",
+   "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd"
+  ],
+  "created": 1794079867,
+  "id": "resp_d4883459-204a-48c0-bf2e-72ebc123ddd9",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "Scott Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue\n4.5 ** (147.7K)\n100K+ bought in past week\n-12% $5.68$5.68 ($0.20/100 Sheets) List: $6.49$6.49\n$6.99 delivery Wed, Oct 21\n...\nBrand\nScott\nSpecial Feature\nAbsorbent, Clog Free, Perforated, Sept...",
+    "source": "web",
+    "title": "Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets ...",
+    "url": "https://us.amazon.com/clp/B07BGLT25K"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue\n- Health & Household\n...\n- Household Supplies\n...\n# Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",
+    "source": "web",
+    "title": "Amazon.com: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",
+    "url": "https://us.amazon.com/Scott-Comfortplus-Toilet-Tissue-Double/dp/B07BGLT25K/ref=zg_bs_g_hpc_d_sccl_1/146-9794450-3926942?psc=1"
+   },
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying",
+    "url": "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\n...\nin Every Room\nBlink\nSmart Security",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying - What are Amazon Business APIs?",
+    "url": "https://docs.business.amazon.com/docs/using-guided-buying"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 100,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Después de ver las páginas de detalles de productos, consulta esta sección para encontrar una manera sencilla de navegar a las páginas de tu interés.",
+    "source": "web",
+    "title": "Vender",
+    "url": "https://www.amazon.com/-/es/b?node=12766669011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com: : Stores\nFilter byIn stock\n- Poly Voyager 5200 Wireless Headset (Plantronics) - Single-Ear Bluetooth Headset w/Noise-Canceling Mic - Ergonomic Design - Voice Controls - Lightweight - Connect to Mobile/Tablet via Bluetooth\n4.1*4.1 out of 5 stars* 25,8454.1 out of 5 stars.\n25,845 customer ...",
+    "source": "web",
+    "title": "Amazon.com: : Stores",
+    "url": "https://www.amazon.com/stores/page/preview?_encoding=UTF8&isSlp=1&isPreview=1&asins=B01H2RBQUG,B0C6FN7XGH,B00DQ5NU76,B0C6FKBXGQ,B0C6FM33P2,B09VYGY8R6,B0C6FMM4W4,B0C6FGRYPC,B09VYH5C9D,B09VYGFGW9,B09VYFZNDX,B09VYFXV66,B0C6FJB585,B0C6FHXT15,B0C6FLXL5W,B0C6FJTW7S,B0C6FLQX2G,B0C6FFNSVV,B0C6FP93LJ,B09VYG22ZH,B09VYHFS3N,B09VYH3ZKM,B0C6FHWFPP,B0C6FMNZ6K,B0C6FN5VND,B0C6FLRXBD,B0C6FMM4W9,B0C6FKFRSZ,B0C6FHSXL1,B0C6FKB9CY,B0C6FKD8VS,B0C6FLQPG1,B0C6FJ8LR5,B0C6FMRJ42,B0C6FLTYHM,B0C6FJN3XT,B0BW4XP541,B0C6FHL94M,B0C6FLN2SB,B0C6FKC5N4,B0C6FM1RLZ,B0C6FM91QW,B0C6FPNWDK,B0C6FGHFBD,B0C6FMXZ5Z,B0C6FLJTDM,B0C6FM1STN,B0C6FKFTQY,B0C6FJMZ44,&pd_rd_i=B09VYGY8R6&pd_rd_w=JoBav&content-id=amzn1.sym.a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_p=a7ae4103-0b5f-4961-bc2c-cabb5c594223&pf_rd_r=BYW34ZN245C1P91A2DSV&pd_rd_wg=0av6b&pd_rd_r=de334456-23fe-4821-8bfd-3bc82be1f87d&ref_=oct_dx_dotd"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 46,
+   "cost": {
+    "input_tokens_cost": 0.00163,
+    "output_tokens_cost": 0.00025,
+    "request_cost": 0.0025,
+    "total_cost": 0.00438
+   },
+   "prompt_tokens": 115,
+   "search_context_size": "low",
+   "total_tokens": 161
+  }
+ }
+}

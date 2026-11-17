@@ -1,0 +1,45 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is inaccessible due to a technical error or site restriction.",
+ "finish": "STOP",
+ "cost_usd": 0.0001,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is inaccessible due to a technical error or site restriction.",
+       "thoughtSignature": "EnMKcQFpFH0TY1SZA20z/nvnpCPi1qZv4LjEGzS7LFPProBT7HmV0HAWpkviF/SPAqrycCb3G8K/72NHSthV3p26TIjey+Dn0WcusHTgKI9nMi3lUONMUVFNACD8rNhrBZxAUbAt6NvVTFjYqT1SL2gi3wWf"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 173,
+   "candidatesTokenCount": 111,
+   "totalTokenCount": 695,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 173
+    }
+   ],
+   "toolUsePromptTokenCount": 411,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 411
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "ktrsauimK-KjqtsPiYussA0"
+ }
+}

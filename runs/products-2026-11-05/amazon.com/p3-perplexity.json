@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7985848,30,43,mobile_web,0,0,0,0:0,0,0,0,0&tag=bfmal-20&channelId=1&plpRedirect=mhFallback",
+  "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+  "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+  "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+  "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/-/es/s?srs=2596415011",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: $15.29 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: $15.29 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7985848,30,43,mobile_web,0,0,0,0:0,0,0,0,0&tag=bfmal-20&channelId=1&plpRedirect=mhFallback",
+   "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
+   "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to",
+   "https://webservices.amazon.com/paapi5/documentation/offersV2.html",
+   "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/-/es/s?srs=2596415011",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011"
+  ],
+  "created": 1793905966,
+  "id": "resp_f1d00ca7-d943-41c2-82db-0233d64f7a8d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household\n...\n# Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage\n...\nSize: 48 Count (Pack of...",
+    "source": "web",
+    "title": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household",
+    "url": "https://www.amazon.com/dp/B00MNV8E0C?lv=shuf&ascsubtag=7985848,30,43,mobile_web,0,0,0,0:0,0,0,0,0&tag=bfmal-20&channelId=1&plpRedirect=mhFallback"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $15.29 $ 15 . 29 $0.32 per count ( $0.32 $0.32 / count) FREE delivery on ord...",
+    "source": "web",
+    "title": "Amazon.com: Amazon Basics 48-Pack AA Alkaline High ...",
+    "url": "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "For example, here is a hypothetical macro tag for Google Ads returned from a call to the `macroTag` endpoint:\n…\nHere is an example landing page URL that the campaign will drive to:\n```\nhttps://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C\n```\n…\n```\nhttps://www.amazon...",
+    "source": "web",
+    "title": "how to use the Amazon Attribution API",
+    "url": "https://advertising.amazon.com/API/docs/en-us/guides/amazon-attribution/how-to"
+   },
+   {
+    "date": "2025-03-02",
+    "last_updated": "2025-08-05",
+    "place_metadata": null,
+    "snippet": "\"ItemsResult\": {\n\"Items\": [\n\"ASIN\": \"B00MNV8E0C\",\n\"DetailPageURL\": \"https://www.amazon.com/dp/B00MNV8E0C?tag=example&linkCode=ogi&th=1&psc=1\",\n\"OffersV2\": {\n\"Listings\": [\n\"Availability\": {\n\"MaxOrderQuantity\": 1,\n\"MinOrderQuantity\": 1,\n\"Type\": \"IN_STOCK\"\n},\n\"Condition\": {\n\"ConditionNote\": \"\",\n\"SubCon...",
+    "source": "web",
+    "title": "results matching \" \"",
+    "url": "https://webservices.amazon.com/paapi5/documentation/offersV2.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/3434C6SY83S01?ref_=wl_share"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\neero WiFi\nStream 4K Video",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# 1-48 de más de 900,000 resultados\n...\n## Apple Auriculares inalámbricos AirPods Pro 3 con cancelación activa de\nTraducción en vivo, detección de frecuencia cardíaca, función de audífono, auriculares Bluetooth, audio espacial, carga USB-C\n4.4*4.4 de 5 estrellas*\n...\n## Amazon Fire TV Stick 4K Plus,...",
+    "source": "web",
+    "title": "Amazon.com:",
+    "url": "https://www.amazon.com/-/es/s?srs=2596415011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : products\n...\nMore Buying Choices\n## Tampax Pearl Tampons for Women Multipack, with LeakGuard Braid, Light/Regular/Super Absorbency, Unscented, 94 Count (2 Packs of 47) (Packaging May Vary)\n$21.03(3 new offers)",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n...\nPrice, product page$6.95$6.95 ($1.05$1.05/feet) Typical: $7.82\nTypical: $7.82$7.82\n...\n## Amazon Basics DisplayPort 1.4 Cable, 32.4Gbps High-Speed, 8K@60Hz, 4K@120Hz, Dynamic HDR and 3D, Gold-Plated Plugs, HBR3 Compatible, 6 Foot, Black\n4.7*4.7 out of 5 stars*\n(16.2K)\n3K+ bought ...",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : Laptop Accessories\n…\n## Laptop Screen Extender,15.6\" Portable Monitor, FHD 1080P Ultra-Slim Travel Monitor with Speakers, Triple Display Extension, Compatible with 13-17.3\" Laptops\n4.4*4.4 out of 5 stars*\n(213)\nPrice, product page$259.99$259.99\n...\n## UGREEN Vertical Laptop Stand Holder...",
+    "source": "web",
+    "title": "Amazon.com: Laptop Accessories",
+    "url": "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 51,
+   "cost": {
+    "input_tokens_cost": 0.00155,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00432
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

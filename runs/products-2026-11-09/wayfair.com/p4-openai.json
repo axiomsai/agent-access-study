@@ -1,0 +1,135 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html"
+  ]
+ ],
+ "answer": "NAME: The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.01203,
+ "raw": {
+  "id": "resp_0e8e809de36b6f8f006af2136adc8487d1adc9c3ef039ba3d2",
+  "object": "response",
+  "created_at": 1794249578,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794249580,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0e8e809de36b6f8f006af2136baacc87d18c0a69599df03d78",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html"
+    }
+   },
+   {
+    "id": "msg_0e8e809de36b6f8f006af2136c4f1887d1a016095c1ffa9765",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 7305,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 101,
+   "output_tokens_details": {
+    "reasoning_tokens": 60
+   },
+   "total_tokens": 7406
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

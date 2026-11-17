@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/gcp/300001352/main",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+  "https://he.aliexpress.com/w/wholesale-aliexpress-products-search.html",
+  "https://www.aliexpress.com/w/wholesale-us-warehouse.html",
+  "https://www.aliexpress.com/w/wholesale-shop-usa.html",
+  "https://www.aliexpress.com/w/wholesale-usa-warehouse.html",
+  "https://pl.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+  "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://he.aliexpress.com/w/wholesale-alibaba-express-usa.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/gcp/300001352/main",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+   "https://he.aliexpress.com/w/wholesale-aliexpress-products-search.html",
+   "https://www.aliexpress.com/w/wholesale-us-warehouse.html",
+   "https://www.aliexpress.com/w/wholesale-shop-usa.html",
+   "https://www.aliexpress.com/w/wholesale-usa-warehouse.html",
+   "https://pl.aliexpress.com/w/wholesale-www-aliexpress-com.html",
+   "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://he.aliexpress.com/w/wholesale-alibaba-express-usa.html"
+  ],
+  "created": 1794082506,
+  "id": "resp_e93fda7d-22e5-43c4-8c00-8dca2cbbff0a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Sale Ends:\nNov 19, 04:59 (GMT0)",
+    "source": "web",
+    "title": "AliExpress",
+    "url": "https://www.aliexpress.com/gcp/300001352/main"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### 6MM Stainless Steel Smooth Rings For Women Men Titanium Steel Ring Couple Wedding Fashion Waterproof Jewelry Gift",
+    "source": "web",
+    "title": "Aliexpress items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-items.html"
+   },
+   {
+    "date": "2025-11-20",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "aliexpress products search - Buy aliexpress products search with free shipping on AliExpress",
+    "source": "web",
+    "title": "aliexpress products search",
+    "url": "https://he.aliexpress.com/w/wholesale-aliexpress-products-search.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "US Warehouse Shipping Supplies -AliExpress\n...\n### 24-fret electric guitar with HH pickups, black hardware, mahogany body, shipped from US warehouse, free shipping",
+    "source": "web",
+    "title": "Us warehouse-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-us-warehouse.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Results for shop usa\n- ****Armrests****\nDesigned specifically for the Chevrolet Cruze (2008–2021), these double-layer armrests feature a durable **leather and ABS plastic construction**, offering both comfort and structural integrity.",
+    "source": "web",
+    "title": "Shop USA - AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-shop-usa.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-09-23",
+    "place_metadata": null,
+    "snippet": "Luminous Flux\nAll249-2000 Lumen249LM - 2000LM2000-82000 Lumen2000LM - 82000LM500Lumens - 999Lumens500 - 999 Lumen1000 Lumens - 1999 Lumens1000 - 1999 Lumen> 2000 Lumens2000 Lumen & Above\n...\nAll28 W20 W30 W\nCertification",
+    "source": "web",
+    "title": "Usa warehouse-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-usa-warehouse.html"
+   },
+   {
+    "date": "2025-12-04",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### POEDAGAR Fashion Original Men Clock Waterproof Stainless Steel Creative Man Wristwatch Quartz Casual Business Men's Watches High Quality Reloj\nhttps www.aliexpress.com item 3256806768589834.html",
+    "source": "web",
+    "title": "Kup www aliexpress com z bezpłatną wysyłką na AliExpress version",
+    "url": "https://pl.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+   },
+   {
+    "date": "2025-12-04",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Results for https www.aliexpress.us\n**AliExpress.us is the official U.S.-based domain for AliExpress, offering global shoppers fast, secure access to a vast marketplace of authentic, competitively priced products—from electronics and fashion to home goods and industrial supplies—with reliable ship...",
+    "source": "web",
+    "title": "https www.aliexpress.us",
+    "url": "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-10-06",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Results for alibaba express usa\n**AliExpress USA offers a wide selection of high-quality automotive and musical instrument parts, including LED turn signals for Subaru, OEM oxygen sensors, and clarinet barrels, all available with fast shipping and competitive pricing for U.S. customers.**",
+    "source": "web",
+    "title": "Artex Tactical vest multi-functional MOLLE quick release vest laser cutting waterproof and wear-resistant outdoor hunting training backpack",
+    "url": "https://he.aliexpress.com/w/wholesale-alibaba-express-usa.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0008,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00349
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 134
+  }
+ }
+}

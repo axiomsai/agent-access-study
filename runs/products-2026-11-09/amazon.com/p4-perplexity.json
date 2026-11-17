@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/clp/B0DQYR6X8R",
+  "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/139-7594820-7520525?pd_rd_w=eCu8e&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=F92R4PY2N6JKGJEEXN0Q&pd_rd_wg=BSqPl&pd_rd_r=0e05a4d5-e7cf-49ec-b687-81c1b6868acb&pd_rd_i=B0DQYR6X8R&psc=1",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/s?rh=n:2235625011",
+  "https://us.amazon.com/b/ref=badges_flashgrab_infinite?_encoding=UTF8&node=216294324011&ishaul=1&pageAsin=B0HHRZ2YC4&pd_rd_w=X0eje&content-id=amzn1.sym.9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_p=9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_r=P6A7CYFS7H1CHMYKK29W&pd_rd_wg=aNaZ8&pd_rd_r=fa3f2b39-f846-441b-9bb5-9ece6f0948a4",
+  "https://www.amazon.com/mobile-apps/b?node=2350149011",
+  "https://www.amazon.com/b?ie=UTF8&node=20338496011",
+  "https://us.amazon.com/b?node=204815148011&ref=sr_z_ibs"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.97 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls | PRICE: $6.97 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/clp/B0DQYR6X8R",
+   "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/139-7594820-7520525?pd_rd_w=eCu8e&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=F92R4PY2N6JKGJEEXN0Q&pd_rd_wg=BSqPl&pd_rd_r=0e05a4d5-e7cf-49ec-b687-81c1b6868acb&pd_rd_i=B0DQYR6X8R&psc=1",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/s?rh=n:2235625011",
+   "https://us.amazon.com/b/ref=badges_flashgrab_infinite?_encoding=UTF8&node=216294324011&ishaul=1&pageAsin=B0HHRZ2YC4&pd_rd_w=X0eje&content-id=amzn1.sym.9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_p=9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_r=P6A7CYFS7H1CHMYKK29W&pd_rd_wg=aNaZ8&pd_rd_r=fa3f2b39-f846-441b-9bb5-9ece6f0948a4",
+   "https://www.amazon.com/mobile-apps/b?node=2350149011",
+   "https://www.amazon.com/b?ie=UTF8&node=20338496011",
+   "https://us.amazon.com/b?node=204815148011&ref=sr_z_ibs"
+  ],
+  "created": 1794248465,
+  "id": "resp_1c3eb520-a8b9-4fda-add0-ad7b019a00ab",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Bounty Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls\n4.8 (26.2K)\nWays to buy: Regular Price\nRegular Price $9.69 Join Prime to get FREE delivery Tomorrow, Nov 10\n...\nAmazon's Choice\nAmazon's Choice Scott Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per R...",
+    "source": "web",
+    "title": "Bounty Select-A-Size Paper Towels",
+    "url": "https://www.amazon.com/clp/B0DQYR6X8R"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $6.97 $ 6 . 97 $2.83 per Sheets ( $2.83 $2.83 /100 Sheets) FREE delivery Friday, November 13 on orders shipped by Amaz...",
+    "source": "web",
+    "title": "Amazon.com: Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls : Health & Household",
+    "url": "https://us.amazon.com/Bounty-Select-Towels-Triple-Regular/dp/B0DQYR6X8R/ref=zg_bs_c_hpc_d_sccl_3/139-7594820-7520525?pd_rd_w=eCu8e&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=F92R4PY2N6JKGJEEXN0Q&pd_rd_wg=BSqPl&pd_rd_r=0e05a4d5-e7cf-49ec-b687-81c1b6868acb&pd_rd_i=B0DQYR6X8R&psc=1"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Silkland 80Gbps DisplayPort Cable 2.1 [VESA Certified] 6.6FT/2M, DP80 HDR\n16K@60Hz, 8K@240Hz, 4K@540Hz 480Hz 360Hz 240Hz, DP 2.1 Cable for DisplayPort 1.4 Cable, HDR, DSC HDCP 2.3 Gaming Monitor 5090\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 1,000 results for \"products\"\nLira Clinical BIO Caviar Crème - Ultra-Hydrating Facial Moisturizer - 1 oz | BV-OSC Vitamin C, Colloidal Gold And Silver, Madonna Lily Plant Stem Cells, Macadamia Oil, Kukui Nut Oil, Aging Complexion",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nEnter a few words into the search box and select the magnifying glass icon.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range\n4.6*4.6 out of 5 stars*\n(12.9K)\n10K+ bought in past month\nPrice, product page$23.00$23.00 List: $2...",
+    "source": "web",
+    "title": "Amazon.com:",
+    "url": "https://www.amazon.com/s?rh=n:2235625011"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "30 PCS Cable Organizer for Desktop, Data Cable Management Ties, Wire & Network Routing Fixer",
+    "source": "web",
+    "title": "Amazon.com: Limited Time Deals",
+    "url": "https://us.amazon.com/b/ref=badges_flashgrab_infinite?_encoding=UTF8&node=216294324011&ishaul=1&pageAsin=B0HHRZ2YC4&pd_rd_w=X0eje&content-id=amzn1.sym.9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_p=9c136d3d-0b31-44a9-afd3-2205aaffa9c2&pf_rd_r=P6A7CYFS7H1CHMYKK29W&pd_rd_wg=aNaZ8&pd_rd_r=fa3f2b39-f846-441b-9bb5-9ece6f0948a4"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Apps & Games\n# Apps & Games\n# Department\n- *4 Stars & Up* & Up\n...\n- Fire TV (1st Generation)\nFire TV (1st Generation)\n- Fire TV (2nd Generation)\nFire TV (2nd Generation)\n- Amazon Fire TV (3rd Generation)\nAmazon Fire TV (3rd Generation)\n- Fire TV Stick (1st Generation)\nFire TV Stick (1st...",
+    "source": "web",
+    "title": "Apps & Games - amazon.com",
+    "url": "https://www.amazon.com/mobile-apps/b?node=2350149011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com: : All Departments\n# Amazon.com ships worldwide\nAMAZON DELIVERS TO YOU",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?ie=UTF8&node=20338496011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Overview\nYou can discover and seamlessly shop for products that are not currently available on Amazon.",
+    "source": "web",
+    "title": "All Departments",
+    "url": "https://us.amazon.com/b?node=204815148011&ref=sr_z_ibs"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 40,
+   "cost": {
+    "input_tokens_cost": 0.00144,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00418
+   },
+   "prompt_tokens": 118,
+   "search_context_size": "low",
+   "total_tokens": 158
+  }
+ }
+}

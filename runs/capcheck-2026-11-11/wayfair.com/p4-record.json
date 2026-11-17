@@ -1,0 +1,25 @@
+{
+ "domain": "wayfair.com",
+ "idx": 4,
+ "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15648 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15648,
+   "input_tokens": 53088,
+   "cost_usd": 0.22819
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "73523 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 73523,
+   "input_tokens": 59953,
+   "cost_usd": 0.26131
+  }
+ }
+}

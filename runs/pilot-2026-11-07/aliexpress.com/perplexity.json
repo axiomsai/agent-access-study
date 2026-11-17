@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/",
+  "https://www.aliexpress.com/item/1005006005801853.html",
+  "https://www.aliexpress.com/p/transparencycenter/tools.html",
+  "https://www.aliexpress.com/store/3375006",
+  "https://www.aliexpress.com/item/1005011989562200.html",
+  "https://www.aliexpress.com/item/1005006435087026.html",
+  "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+  "https://www.aliexpress.com/item/1005006903456649.html",
+  "https://www.aliexpress.com/p/cookie-setting/index.html",
+  "https://www.aliexpress.com/w/wholesale-report.html"
+ ],
+ "cited_store": true,
+ "answer": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Pokémon TCG Sword & Shield Darkness Ablaze Booster Box English Version Collectible Trading Cards Game Collection Card Gift[1]",
+ "cost_usd": 0.00509,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Pokémon TCG Sword & Shield Darkness Ablaze Booster Box English Version Collectible Trading Cards Game Collection Card Gift[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/",
+   "https://www.aliexpress.com/item/1005006005801853.html",
+   "https://www.aliexpress.com/p/transparencycenter/tools.html",
+   "https://www.aliexpress.com/store/3375006",
+   "https://www.aliexpress.com/item/1005011989562200.html",
+   "https://www.aliexpress.com/item/1005006435087026.html",
+   "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+   "https://www.aliexpress.com/item/1005006903456649.html",
+   "https://www.aliexpress.com/p/cookie-setting/index.html",
+   "https://www.aliexpress.com/w/wholesale-report.html"
+  ],
+  "created": 1794079605,
+  "id": "resp_1587bc6a-7204-40d6-8356-234548ca9579",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## More to love\n### Pok é mon TCG Sword & Shield Darkness Ablaze Booster Box English Version Collectible Trading Cards Game Collection Card Gift\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping",
+    "url": "https://www.aliexpress.com/"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005006005801853.html"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "# Tools\nPlatform users can navigate to the product reporting interface by utilizing the report button located on the product detail page.",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.aliexpress.com/p/transparencycenter/tools.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "ALI Store - Amazing products with exclusive discounts on AliExpress\n...\n40 followers\n- **#### AliExpress Multi-Language Sites**",
+    "source": "web",
+    "title": "ALI Store - Amazing products with exclusive discounts on ...",
+    "url": "https://www.aliexpress.com/store/3375006"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Untitled",
+    "url": "https://www.aliexpress.com/item/1005011989562200.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005006435087026.html"
+   },
+   {
+    "date": "2025-09-16",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Here’s what “specific link” means in practice: - **** Specific Link ****\nA direct URL that points to a single product listing on a marketplace like AliExpress, including the seller ID, product ID, and any unique tracking parameters.\nIt should load the exact product page without requiring further nav...",
+    "source": "web",
+    "title": "Give Me a Specific Link: The Ultimate Guide to Finding Your...",
+    "url": "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "SOYO Graphics Cards AMD Radeon RX580 2048SP 8G ...",
+    "url": "https://www.aliexpress.com/item/1005006903456649.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\n- **#### AliExpress Multi-Language Sites**\n- **#### Browse by Category**",
+    "source": "web",
+    "title": "AliExpress",
+    "url": "https://www.aliexpress.com/p/cookie-setting/index.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-01-16",
+    "place_metadata": null,
+    "snippet": "Aliexpress\nI'm shopping for...\nYour browser does not support JavaScript!",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/w/wholesale-report.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 38,
+   "cost": {
+    "input_tokens_cost": 0.00056,
+    "output_tokens_cost": 0.0001,
+    "request_cost": 0.0025,
+    "total_cost": 0.00316
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 95
+  }
+ }
+}

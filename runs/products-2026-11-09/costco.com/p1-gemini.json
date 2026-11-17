@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | PRICE: NONE | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00054,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro | PRICE: NONE | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TAQQsCK8CmVoEkgsD5x1RnINR4aIyvyj9QmPwM/ZrORQqgqUEXYEPDmClZrYtUngQs7in8v/EYDyJpTu/vwk83vG9hSXZp6yBUoMmsu9TTpsON9HUh34v4QoNcDVF7I+Ik/dch+c2Y0npyObk"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 156,
+   "candidatesTokenCount": 93,
+   "totalTokenCount": 5170,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 156
+    }
+   ],
+   "toolUsePromptTokenCount": 4921,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4921
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "TxPyatm-E6HQz7IP27K-6Ak"
+ }
+}

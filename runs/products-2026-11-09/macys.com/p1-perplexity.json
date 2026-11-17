@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+  "https://www.macys.com/shop/brands/carolina-herrera?id=31620",
+  "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439",
+  "https://www.macys.com/shop/carolina-herrera-perfume?id=77105",
+  "https://www.macys.com/shop/featured/flowerbomb-gift-set",
+  "https://www.macys.com/customer-service/articles/our-products",
+  "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+  "https://www.macys.com/shop/beauty/gift-sets/limited-edition?id=358034",
+  "https://www.macys.com/shop/beauty/best-sellers?id=250064"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+   "https://www.macys.com/shop/brands/carolina-herrera?id=31620",
+   "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439",
+   "https://www.macys.com/shop/carolina-herrera-perfume?id=77105",
+   "https://www.macys.com/shop/featured/flowerbomb-gift-set",
+   "https://www.macys.com/customer-service/articles/our-products",
+   "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+   "https://www.macys.com/shop/beauty/gift-sets/limited-edition?id=358034",
+   "https://www.macys.com/shop/beauty/best-sellers?id=250064"
+  ],
+  "created": 1794249819,
+  "id": "resp_e1a15ec6-310e-4b1f-85eb-6ae7fd1b1956",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set - Macy's\n```\n...\n# Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set\n...\n- La Bomba Eau de Parfum, 2.7 oz.\nLa Bomba Body Lotion, 3.4 oz.\nLa Bomba Eau de Parfum Travel Spray, 0.34 oz.\n- FRAGRANCE FAMILY:\n- Fruity Floral\n...\n- Web ID: 276...",
+    "source": "web",
+    "title": "Carolina Herrera 3-Piece La Bomba Eau de Parfum Gift Set - Macy's",
+    "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Carolina Herrera | Fragrances & Fashion Options | Macy's\n...\n1. Brands/",
+    "source": "web",
+    "title": "Carolina Herrera | Fragrances & Fashion Options | Macy's",
+    "url": "https://www.macys.com/shop/brands/carolina-herrera?id=31620"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "# Carolina Herrera Fragrance\n...\n## Armani I Will\n#### Estée Lauder GLIMMER",
+    "source": "web",
+    "title": "Fragrances for Women & Men - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/Brand/Carolina%20Herrera?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Perfume Gift Sets | Macy's\n...\nCurrent price $199.00; ;$199.00",
+    "source": "web",
+    "title": "Perfume Gift Sets | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "1. Carolina Herrera\n# Carolina Herrera\n(41)\n- Carolina Herrera\n...\n- Carolina Herrera",
+    "source": "web",
+    "title": "Shop Carolina Herrera Perfume with Macys.com Beauty",
+    "url": "https://www.macys.com/shop/carolina-herrera-perfume?id=77105"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Flowerbomb Gift Set - Macy's\n...\n# \"flowerbomb gift set\"\n(41 items)\n- Viktor & Rolf\n...\n- Viktor & Rolf",
+    "source": "web",
+    "title": "Flowerbomb Gift Set",
+    "url": "https://www.macys.com/shop/featured/flowerbomb-gift-set"
+   },
+   {
+    "date": "2026-07-01",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Below are answers to common questions about products available on macys.com.",
+    "source": "web",
+    "title": "Our Products",
+    "url": "https://www.macys.com/customer-service/articles/our-products"
+   },
+   {
+    "date": "2026-07-01",
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "You can search by:\n- Item name\n- Short description\n- Brand name",
+    "source": "web",
+    "title": "How can I find an item online or in store? - Macy's",
+    "url": "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Limited Edition Beauty and Makeup Gift Sets | Macy's\n...\n# Limited Edition",
+    "source": "web",
+    "title": "Limited Edition Beauty and Makeup Gift Sets | Macy's",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/limited-edition?id=358034"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### 25-Days of Beauty Advent Calendar Set\nMacy's Exclusive",
+    "source": "web",
+    "title": "Beauty Best Sellers - Macy's",
+    "url": "https://www.macys.com/shop/beauty/best-sellers?id=250064"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 32,
+   "cost": {
+    "input_tokens_cost": 0.00077,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00354
+   },
+   "prompt_tokens": 135,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

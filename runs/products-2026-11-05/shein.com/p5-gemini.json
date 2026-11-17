@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FWomen-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html&risk-id=E4946641167988192129",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page_risk_crawler_block",
+ "finish": "STOP",
+ "cost_usd": 0.00122,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page_risk_crawler_block",
+       "thoughtSignature": "EnMKcQFpFH0THP/a0kpqgHQJ5H6DD+zc9KCHdiF/jMo4nAuhqM11v8rYABYM+k4MWZ+W5Dbdv5Rbn3r8nqLcT5RmK0FU8Gjvyt1gPyijdVW/qN9tKLlnYjTDGm7YCQIU734LiFxo6wyn1fSf5ZfXqcGncOK/"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FWomen-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html&risk-id=E4946641167988192129",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 173,
+   "candidatesTokenCount": 102,
+   "totalTokenCount": 11891,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 173
+    }
+   ],
+   "toolUsePromptTokenCount": 11616,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 11616
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "pNrsas-HKKmtz7IPq56UgQY"
+ }
+}

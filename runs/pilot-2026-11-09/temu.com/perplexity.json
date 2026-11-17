@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.temu.com/es-en",
+  "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105",
+  "https://www.temu.com/lt-en/c.html",
+  "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-",
+  "https://www.temu.com/robots.txt",
+  "https://www.temu.com/how-to-order.html",
+  "https://www.temu.com/about_temu_home.html",
+  "https://seller.temu.com/policy-page.html?type=36",
+  "https://www.temu.com/intellectual-property-policy.html",
+  "https://www.temu.com/fr/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099524968000&adg_ctx=a-ca5ae209&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1540904153338&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099524968000&_x_ns_keyword=%7Bkeyword%7D&_x_ns_product_id=17592253666195&_x_ns_site_id=106&locale_override=69~~EUR&mrk_rec=1"
+ ],
+ "cited_store": true,
+ "answer": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More — Women’s Fashion Hoodie",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More — Women’s Fashion Hoodie",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.temu.com/es-en",
+   "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105",
+   "https://www.temu.com/lt-en/c.html",
+   "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-",
+   "https://www.temu.com/robots.txt",
+   "https://www.temu.com/how-to-order.html",
+   "https://www.temu.com/about_temu_home.html",
+   "https://seller.temu.com/policy-page.html?type=36",
+   "https://www.temu.com/intellectual-property-policy.html",
+   "https://www.temu.com/fr/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099524968000&adg_ctx=a-ca5ae209&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1540904153338&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099524968000&_x_ns_keyword=%7Bkeyword%7D&_x_ns_product_id=17592253666195&_x_ns_site_id=106&locale_override=69~~EUR&mrk_rec=1"
+  ],
+  "created": 1794248324,
+  "id": "resp_ba24120c-71c0-4716-b113-6be880860128",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-20",
+    "place_metadata": null,
+    "snippet": "Temu Spain | Explore the Latest Clothing, Beauty, Home, Jewelry & More\n...\n# Temu homepage",
+    "source": "web",
+    "title": "Temu Spain | Explore the Latest Clothing, Beauty, Home, Jewelry ...",
+    "url": "https://www.temu.com/es-en"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\n...\n### Women'S Fashion Hoodie, Halloween Theme Bat Silhouette Print, Suitable for Fashion-Forward Women, Ideal for Casual Outings And Parties, Effortlessly Creating Eerie And Festive Style [Print Design - No Texture] Open in new tab.\n...",
+    "source": "web",
+    "title": "Temu.com Official Site - Free Shipping Today - All Categories",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Temu | Shop All Categories - Free Returns Within 90 Days\n...\n5-Star Rated\n1. # Shop All Categories",
+    "source": "web",
+    "title": "Temu | Shop All Categories - Free Returns Within 90 Days",
+    "url": "https://www.temu.com/lt-en/c.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "### Trunk Pet Mat, Pet Mat for In-Car Travel And for The Car Trunk, Car Seat Cushion, Pet Mat for The Rear Row And The Trunk of The Car Open in new tab.",
+    "source": "web",
+    "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-01-17",
+    "place_metadata": null,
+    "snippet": "Disallow: /w/\nDisallow: /s/\nDisallow: /*?*opt_level=*title=*",
+    "source": "web",
+    "title": "Temu | Shop for Clothing, Shoes, Jewelry, Beauty & More",
+    "url": "https://www.temu.com/robots.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# How to order\nPurchasing an item on Temu is easy.\nSimply follow the steps below.",
+    "source": "web",
+    "title": "Order Steps",
+    "url": "https://www.temu.com/how-to-order.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "If you are a shopper with questions about Temu, please visit Temu Support Center.",
+    "source": "web",
+    "title": "About Temu",
+    "url": "https://www.temu.com/about_temu_home.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Temu Product Safety and Compliance Policy\nTemu prohibits the posting or sale of products containing pornographic or inappropriate content.",
+    "source": "web",
+    "title": "Temu",
+    "url": "https://seller.temu.com/policy-page.html?type=36"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Temu | Intellectual Property Policy\n## 1. Report Infringement\n- List of infringing products (URLs for the product detail page of the specified product).",
+    "source": "web",
+    "title": "Temu | Intellectual property",
+    "url": "https://www.temu.com/intellectual-property-policy.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "This item was discontinued\nItem details are unavailable.\nCheck out similar items.",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/fr/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099524968000&adg_ctx=a-ca5ae209&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1540904153338&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099524968000&_x_ns_keyword=%7Bkeyword%7D&_x_ns_product_id=17592253666195&_x_ns_site_id=106&locale_override=69~~EUR&mrk_rec=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.0005899999999999999,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00315
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

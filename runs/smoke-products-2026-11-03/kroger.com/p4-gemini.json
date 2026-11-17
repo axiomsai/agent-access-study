@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Folgers Classic Roast Ground Coffee, Medium Roast | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0005,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Folgers Classic Roast Ground Coffee, Medium Roast | PRICE: $16.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T5tvDm1yYBLmffQ9eDHRk+Y/zkNV2/cdggsEqPAX93EGxO+SJFPoYMzOn4YJzYa0HHh/3ujFjhw5pUI3r2CC8I0g6rLrZzp5qFSBoThiheZCILmi8Nj3WC/Ye1RFlEsOncoGp8ABB0HL3qOSX"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 148,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 4766,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 148
+    }
+   ],
+   "toolUsePromptTokenCount": 4536,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4536
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "e3jqarP8MOasqtsPgIa0iQ8"
+ }
+}

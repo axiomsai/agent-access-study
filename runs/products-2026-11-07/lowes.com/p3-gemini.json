@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: $349.00 | STOCK: OUT OF STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00108,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: $349.00 | STOCK: OUT OF STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TA6SKpAyGwvTzVOagkA3VJQCyzAWNHPQ5lVN6J3E2st/Fx4xyGMHf7sSzfQ3/pDz314UhdAjlvB7jSNfLVvcBIGtVofIzRinjlsleIhu18v/rES5C7+oTXsn8LY64UlWni2W8FPSESkVJlHbH"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 169,
+   "candidatesTokenCount": 121,
+   "totalTokenCount": 10409,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 169
+    }
+   ],
+   "toolUsePromptTokenCount": 10119,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 10119
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "eH7vat_tDeaq6dkPt53K-AU"
+ }
+}

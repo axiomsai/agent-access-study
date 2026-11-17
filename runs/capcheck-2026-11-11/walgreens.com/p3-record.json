@@ -1,0 +1,25 @@
+{
+ "domain": "walgreens.com",
+ "idx": 3,
+ "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "12962 chars, copy dated 2026-11-08 (3 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12962,
+   "input_tokens": 42961,
+   "cost_usd": 0.1855
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "12962 chars, copy dated 2026-11-08 (3 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12962,
+   "input_tokens": 41936,
+   "cost_usd": 0.18132
+  }
+ }
+}

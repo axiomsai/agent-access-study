@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: $2,499.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00052,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: $2,499.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TlvYsHwI/rcmyjDR/CkHopIphCSbuWZbRu0BiQRgZySgW9YbjeRnhgQJdD6uHDUV7ZznfmFmGp+OVRnVtuOkF9CIO9KLRXtDO3WKsNtdoHQfY+5PcZaMJX80edexzcwbSo+kmhnDb8NO0Pf8r"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 152,
+   "candidatesTokenCount": 96,
+   "totalTokenCount": 4956,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 152
+    }
+   ],
+   "toolUsePromptTokenCount": 4708,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4708
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "NXnqaoKyGuasqtsPgIa0iQ8"
+ }
+}

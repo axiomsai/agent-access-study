@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908929032&%20Jackets",
+  "https://www.gap.com/browse/girls/shop-all-styles?cid=1127946&mlink=5058,1,HP_Promo_Main_G",
+  "https://www.gap.com/browse/home.do?ssiteID=GAP",
+  "https://www.gap.com/?msockid=05ae8014b2776fde277a966ab3c06ede",
+  "https://athleta.gap.com/browse/new/mothers-day-gift-guide?cid=1192141",
+  "https://www.gap.com/Asset_Archive/GPWeb/content/0014/460/630/footer_gpUS_FT1_111617.html?v=2",
+  "https://www.gap.com/browse/division.do?cid=1015086&mlink=39813",
+  "https://oldnavy.gap.com/browse/product.do?pid=487332002",
+  "https://www.gap.com/Asset_Archive/AllBrands/customerService/cms/cs_sidebar-right_gap.html",
+  "https://www.gap.com/browse/product.do?pid=9089290321106"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $55.00 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $55.00 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908929032&%20Jackets",
+   "https://www.gap.com/browse/girls/shop-all-styles?cid=1127946&mlink=5058,1,HP_Promo_Main_G",
+   "https://www.gap.com/browse/home.do?ssiteID=GAP",
+   "https://www.gap.com/?msockid=05ae8014b2776fde277a966ab3c06ede",
+   "https://athleta.gap.com/browse/new/mothers-day-gift-guide?cid=1192141",
+   "https://www.gap.com/Asset_Archive/GPWeb/content/0014/460/630/footer_gpUS_FT1_111617.html?v=2",
+   "https://www.gap.com/browse/division.do?cid=1015086&mlink=39813",
+   "https://oldnavy.gap.com/browse/product.do?pid=487332002",
+   "https://www.gap.com/Asset_Archive/AllBrands/customerService/cms/cs_sidebar-right_gap.html",
+   "https://www.gap.com/browse/product.do?pid=9089290321106"
+  ],
+  "created": 1793751438,
+  "id": "resp_69b06cb3-6011-4d5c-b6da-ceddad283d1a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Zip Sweater Hoodie | Gap\n...\n# Kids CashSoft Zip Sweater Hoodie\n# Kids CashSoft Zip Sweater Hoodie\n$69.95\n$55.00\n5 Ratings\n## Color:\nRainbow Stripe\n...\nXS (4/5)S (6/7)M (8)L (10)XL (12)XXL (14/16)",
+    "source": "web",
+    "title": "Kids CashSoft Zip Sweater Hoodie",
+    "url": "https://www.gap.com/browse/product.do?pid=908929032&%20Jackets"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Shop All Styles\n## All Products\n[Matching set\n...\n$29.95](https://www.gap.com/browse/product.do?pid=1184756002)",
+    "source": "web",
+    "title": "Shop All Styles",
+    "url": "https://www.gap.com/browse/girls/shop-all-styles?cid=1127946&mlink=5058,1,HP_Promo_Main_G"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Warm knits.\n...\nA stack of sweaters, outfitted for fall.",
+    "source": "web",
+    "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+    "url": "https://www.gap.com/browse/home.do?ssiteID=GAP"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n...\nWarm knits.",
+    "source": "web",
+    "title": "Shop Latest Offers + Gap Women’s, Men’s, Baby & Kids Clothing",
+    "url": "https://www.gap.com/?msockid=05ae8014b2776fde277a966ab3c06ede"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "DETAILS\n...\n# Mother's Day Shop\n## Top Gifts for Her\n$59.00$19.97](https://athleta.gap.com/browse/product.do?pid=864092002)",
+    "source": "web",
+    "title": "New Mother's Day Gift Guide",
+    "url": "https://athleta.gap.com/browse/new/mothers-day-gift-guide?cid=1192141"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "## [Buy Gift Cards](https://www.gap.com/browse/product.do?pid=000173)",
+    "source": "web",
+    "title": "Gap Cards",
+    "url": "https://www.gap.com/Asset_Archive/GPWeb/content/0014/460/630/footer_gpUS_FT1_111617.html?v=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "This was so wanted, it sold out.\nBut we have more best selling styles for you.",
+    "source": "web",
+    "title": "Sign up - Gap",
+    "url": "https://www.gap.com/browse/division.do?cid=1015086&mlink=39813"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "High-Waisted Wow Flare Jeans | Old Navy\n...\n# High-Waisted Wow Flare Jeans\n# High-Waisted Wow Flare Jeans\n$23.00\n$36.99 38% off\n...\nJust the right amount of flare at a jaw-dropping price.\n- high waisted\n- zip fly\n- flare leg\n- Product #487332",
+    "source": "web",
+    "title": "High-Waisted Wow Flare Jeans | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/product.do?pid=487332002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "## Contact Us\n### Chat\nStart a **chat** using the icon in the bottom-right corner of the page.",
+    "source": "web",
+    "title": "Gap",
+    "url": "https://www.gap.com/Asset_Archive/AllBrands/customerService/cms/cs_sidebar-right_gap.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Zip Sweater Hoodie | Gap\n...\n# Kids CashSoft Zip Sweater Hoodie\n# Kids CashSoft Zip Sweater Hoodie\n$69.95\n$55.00\n...\nIt's everyday luxury.\n- Supersoft knit cotton-blend full-zip sweater hoodie.\nIn a cropped length.\n- Hooded design.\n- Long sleeves.\n- Zipper front.\n- Ribbed hem.\n- Produc...",
+    "source": "web",
+    "title": "Kids CashSoft Zip Sweater Hoodie",
+    "url": "https://www.gap.com/browse/product.do?pid=9089290321106"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.0008100000000000001,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00353
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 144
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0003,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Natrol Melatonin 5mg Ultra Sleep Blend Fast-Dissolve Tablets, Raspberry, 30 CT | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TxTd5whm8AJQ39OPTityqtaA7Nhwk2CYN92EL9zn9tC7Ir22MaDtTT9gyB1WBwlzKItGv3dT4C1VCHokPhm8KjZRlq9+oz8Rzt46H880dR/msjX+JRFl8IYxsisANX0RIi5avjgqT61RFYjZn"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 157,
+   "candidatesTokenCount": 99,
+   "totalTokenCount": 2733,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 157
+    }
+   ],
+   "toolUsePromptTokenCount": 2477,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2477
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "j37vaoWzF-2fz7IPmrjCyQc"
+ }
+}

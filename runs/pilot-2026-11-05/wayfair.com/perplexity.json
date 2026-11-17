@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/home-improvement/sb1/smart-toilets-toilets-c1789951-a4509~489149.html",
+  "https://www.wayfair.com/furniture/sb0/accent-chairs-c416225.html",
+  "https://www.wayfair.com/discover",
+  "https://www.wayfair.com/",
+  "https://www.wayfair.com/furniture/sb0/sofas-c413892.html",
+  "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html",
+  "https://www.wayfair.com/decor-pillows/sb1/blinds-shades-on-sale-c481847-a69470~8.html",
+  "https://www.wayfair.com/storage-organization/sb0/shoe-storage-cabinets-c1869016.html",
+  "https://www.wayfair.com/furniture/sb0/desks-c1780384.html",
+  "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html"
+ ],
+ "cited_store": true,
+ "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\nFurniture",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\nFurniture",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/home-improvement/sb1/smart-toilets-toilets-c1789951-a4509~489149.html",
+   "https://www.wayfair.com/furniture/sb0/accent-chairs-c416225.html",
+   "https://www.wayfair.com/discover",
+   "https://www.wayfair.com/",
+   "https://www.wayfair.com/furniture/sb0/sofas-c413892.html",
+   "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html",
+   "https://www.wayfair.com/decor-pillows/sb1/blinds-shades-on-sale-c481847-a69470~8.html",
+   "https://www.wayfair.com/storage-organization/sb0/shoe-storage-cabinets-c1869016.html",
+   "https://www.wayfair.com/furniture/sb0/desks-c1780384.html",
+   "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html"
+  ],
+  "created": 1793905854,
+  "id": "resp_b3c7f67c-8c28-4345-9674-ff3ffabe37eb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Bidet Toilets | Toilet With Built In Bidet & Fancy Toilet With Bidet",
+    "source": "web",
+    "title": "Toilet With Built In Bidet & Fancy Toilet With Bidet - Wayfair",
+    "url": "https://www.wayfair.com/home-improvement/sb1/smart-toilets-toilets-c1789951-a4509~489149.html"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Accent Chairs | Living Room Chairs & Seating\nFast & Free Shipping Over $35*\n- Chairs & Seating",
+    "source": "web",
+    "title": "Accent Chairs | Living Room Chairs & Seating - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/accent-chairs-c416225.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Discover Room Ideas\nFast & Free Shipping Over $35*\n- Open Bedding & Bath Menu Dropdown\n- Open Decor & Pillows Menu Dropdown",
+    "source": "web",
+    "title": "Discover Room Ideas - Wayfair",
+    "url": "https://www.wayfair.com/discover"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "source": "web",
+    "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "url": "https://www.wayfair.com/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Sofas & Couches | Living Room Furniture & Living Room Furniture Sets\nFast & Free Shipping Over $35*\n...\n2. Living Room Furniture/",
+    "source": "web",
+    "title": "Sofas & Couches | Living Room Furniture & ...",
+    "url": "https://www.wayfair.com/furniture/sb0/sofas-c413892.html"
+   },
+   {
+    "date": "2026-09-06",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Walk-In Closet Systems | Walk In Closet Organizer & Storage Closet\n...\n# Walk-In Closet Systems\n- Walk-In Closet Systems On Sale\n- Walk-In Closet Systems",
+    "source": "web",
+    "title": "Walk-In Closet Systems - Wayfair",
+    "url": "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Blinds & Shades On Sale You'll Love | Wayfair\n...\n# Blinds & Shades On Sale\n- Blinds & Shades On Sale",
+    "source": "web",
+    "title": "Blinds & Shades On Sale You'll Love - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/sb1/blinds-shades-on-sale-c481847-a69470~8.html"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Shoe Storage Cabinets | Shoe Rack Cabinet & Shoe Organizer\nFast & Free Shipping Over $35*\n1. Storage & Organization/\n2. Shoe Storage/\n...\n# Shoe Storage Cabinets\n- Shoe Storage Cabinets On Sale\n- Shoe Storage Cabinets\n...\n- Wayfair Verified\nWayfair Verified Shoe Storage Cabinets",
+    "source": "web",
+    "title": "Shoe Storage Cabinets - Wayfair",
+    "url": "https://www.wayfair.com/storage-organization/sb0/shoe-storage-cabinets-c1869016.html"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Desks | Office Furniture & Home Desk\nFast & Free Shipping Over $35*\n- Office Furniture",
+    "source": "web",
+    "title": "Desks | Office Furniture & Home Desk",
+    "url": "https://www.wayfair.com/furniture/sb0/desks-c1780384.html"
+   },
+   {
+    "date": "2026-09-11",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# WG Wood Products\nWith everything from magazine racks and DVD shelving to jewelry cabinets and spice racks, WG Wood Products is the perfect place for all your home accent needs!",
+    "source": "web",
+    "title": "WG Wood Products - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00057,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00312
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

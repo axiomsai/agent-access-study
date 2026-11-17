@@ -1,0 +1,123 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.gap.com/browse/product.do?pid=1184966022",
+ "retrieved_at": "2026-11-04T00:17:05+00:00",
+ "age_days": 5,
+ "doc_chars": 7649,
+ "doc_markers": [],
+ "answer": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.11567,
+ "raw": [
+  {
+   "id": "srvtoolu_01JnAwQCoY1a9itjy4Q3XBXU",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.gap.com/browse/product.do?pid=1184966022\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c.get('result_type'));t=c['content'];print(len(t));print(t[:2500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01L3x7xidbvTYo2c8eM6P1oW",
+   "caller": {
+    "tool_id": "srvtoolu_01JnAwQCoY1a9itjy4Q3XBXU",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.gap.com/browse/product.do?pid=1184966022"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01JnAwQCoY1a9itjy4Q3XBXU",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.gap.com/browse/product.do?pid=1184966022\nmeta-apple-itunes-app: app-id=326347260\nmeta-description: Shop Gap's Kids CashSoft Rib Beanie: Our bestselling fabric that feels cashmere-soft. Crafted in a midweight plush yarn. Refined with a special brushed technique. It's everyday luxury.Supersoft ribbed knit beanie., Explore the Gap Gift Shop., This product was made in a factory that invests in gender equity and women’s empowerment through RISE. Learn more at gapinc.com/equity ., Product #1184966\nmeta-google: notranslate\nmeta-google-site-verification: ev_CY7lXAB9mBuu8ITNd-DjzUW6--V9TYQQ-7Vv_8ZE\nmeta-next-size-adjust:\nmeta-robots: max-image-preview:standard\nmeta-viewport: width=device-width, initial-scale=1\ntitle: Kids CashSoft Rib Beanie | Gap\n---\n\n[Gap](https://www.gap.com/?ssiteID=GAP)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/?ssiteID=GAP)[Banana Republic](https://bananarepublic.gap.com/?ssiteID=GAP)[Athleta](https://athleta.gap.com/?ssiteID=GAP)\n\nThe Holiday Kickoff Event: 40–60% off PJs, accessories & more\n\n[The Holiday Kickoff Event: 40–60% off PJs, accessories & more Select styles.](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_1 \"The Holiday Kickoff Event: 40–60% off PJs, accessories & more Select styles.\")\n\nSelect styles.\n\nDetails\n\nApp Exclusive: extra 10% off [Download now](https://gap.onelink.me/9QBP/24qe2l4x?mlink=55277%2C1%2Cglobalbanner_2)\n\n[App Exclusive: extra 10% off Download now Exclusions apply.](https://gap.onelink.me/9QBP/24qe2l4x?mlink=55277%2C1%2Cglobalbanner_2 \"App Exclusive: extra 10% off Download now Exclusions apply.\")\n\nExclusions apply.\n\nDetails\n\n![Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.](https://content.gapinc.com/d/f0fjn4mj46g5d1o28se00u5wl6fug275.svg)\n\nMake the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11. [Shop now](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_GGR_CARD_RET_PROMO)\n\n[Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_GGR_CARD_RET_PROMO \"Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.\")\n\nDetails\n\n[![Gap logo](https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--light.svg)![Gap logo](https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--dark.svg)](https://www.gap.com/)\n\n- [Women](https://www.gap.com/browse/division.do?cid=5643&mlink=39813%2C30012485%2CMegnav_Women&nav=meganav%3AWomen%3A%3A)\n- [Men](https://www.gap.com/browse/division.do?cid=5063&mlink=39813%2C30012485%2CMegnav_Men&clink=30012485&nav=meganav%3AMen%3A%3A)\n- [Girls](https://www.gap.com/browse/division.do?cid=1137865&mlink=39813%2C30012485%2CMegnav_Girls&clink=30012485&nav=meganav%3AGirls%3A%3A)\n- [Boys](https://www.gap.com/browse/division.do?cid=1137867&mlink=39813%2C30012485%2CMegnav_Boys&clink=30012485&nav=meganav%3ABoys%3A%3A)\n- [Baby & Toddler](https://www.gap.com/browse/division.do?cid=1137869&mlink=39813%2C30012485%2CMegnav_Baby&clink=30012485&nav=meganav%3ABaby%20%26%20Toddler%3A%3A)\n- [Accessories](https://www.gap.com/browse/info.do?cid=3057018&mlink=39813%2C30012485%2CMegnav_Accessories&clink=30012485&nav=meganav%3AAccessories%3A%3A&nav=meganav%3AAccessories%3A%3A)\n- [Gifts](https://www.gap.com/browse/gift-shop/gift-shop?cid=3024953&mlink=39813%2C30012485%2CMegnav_Gifts&nav=meganav%3AGifts%3A%3A)\n- [GapX](https://www.gap.com/browse/info.do?cid=3044135&nav=meganav%3AGapX%3A%3A)\n\n1. [Boys](https://www.gap.com/browse/boys?cid=1137867&bc=true&nav=breadcrumbs%3ABoys%3A%3A)\n2. /\n3. [Shop All Accessories](https://www.gap.com/browse/category.do?cid=96875&bc=true#pageId=0&department=16)\n\n# Kids CashSoft Rib Beanie\n\n![Image 1 of 4, Our bestselling fabric that feels cashmere-soft. Crafted in a midweight plush yarn. Refined with a special brushed technique. It's everyday luxury., Supersoft ribbed knit beanie., Explore the Gap Gift Shop ., This product was made in a factory that invests in gender equity and women’s empowerment through RISE. Learn more at gapinc.com/equity ., Product #1184966](https://content.gapinc.com/b/0064/210/890/cn64210890.png?width=737)\n\n![Image 2 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/210/898/cn64210898.png?width=737)\n\n![Image 3 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/210/903/cn64210903.png?width=737)\n\n![Image 4 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/218/629/cn64218629.png?width=737)\n\n# Kids CashSoft Rib Beanie\n\n$29.95\n\n$17.00\n\n[1 Rating](#pdp-reviews-container)\n\n40% off + extra 10% in the app\n\n## Color:\n\nModern Red\n\n## Size\n\nS/M L/XL\n\n1\n\nAdd to Bag\n\nPayPal Pay in 4\n\nAfterpay andKlarna available for orders $35+\n\nFree Fast Shipping\n\non $50+ for Rewards Members.\n\n[Sign in](https://www.gap.com/my-account/sign-in?targetURL=%2Fbrowse%2Fproduct.do%3Fpid%3D1184966022%26cid%3Dundefined%26vid%3Dundefined%26pcid%3Dundefined) or [Join](https://www.gap.com/my-account/sign-in?targetURL=%2Fbrowse%2Fproduct.do%3Fpid%3D1184966022%26cid%3Dundefined%26vid%3Dundefined%26pcid%3Dundefined)\n\nIn-Store Pickup\n\nSelect a Store\n\n## Product details\n\n## Fabric & care\n\n## Shipping & returns\n\n![two pictures of a sweater and a jacket on a white background](https://content.gapinc.com/d/026jn5lf767a6oq7n4g6218cp606etr2.jpg)[](https://www.gap.com/browse/girls/cozy-shop/cashsoft?cid=1135179&style=3025708&mlink=1%2C1%2CPDP_BANNER_MERCH_KG_CashSoft)\n\n![](https://content.gapinc.com/d/6my20p6jopo12vg1q523b0gsdge14o8o.svg)\n\nOur bestselling fabric made to feel  \ncashmere-soft, crafted in a midweight  \nplush yarn, and refined with a special  \nbrushed technique.\n\nEasy to wash. Easy to wear.  \nIt’s everyday luxury — without the strings.\n\n[Shop the CashSoft collection](https://www.gap.com/browse/girls/cozy-shop/cashsoft?cid=1135179&style=3025708&mlink=1%2C1%2CPDP_BANNER_MERCH_KG_CashSoft)\n\n## Reviews\n\nWrite a Review\n\nLoading reviews\n\nWrite a Review\n\nLoading reviews\n\nRelated items\n\n- [Kids CashSoft Sweater Skort](https://www.gap.com/browse/product.do?pid=1181614012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Rib T-Shirt](https://www.gap.com/browse/product.do?pid=911642042&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids CashSoft Polo Sweater Dress](https://www.gap.com/browse/product.do?pid=1189065012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids CashSoft Crew Socks (2-Pack)](https://www.gap.com/browse/product.do?pid=1184967002&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids CashSoft Oversized Fair Isle Sweater Dress](https://www.gap.com/browse/product.do?pid=1184971022&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Rib Crew T-Shirt](https://www.gap.com/browse/product.do?pid=1181306012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Embroidered Rib T-Shirt](https://www.gap.com/browse/product.do?pid=898822002&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Rib Tights](https://www.gap.com/browse/product.do?pid=912959012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Pointelle Rib Cardigan](https://www.gap.com/browse/product.do?pid=908904012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Sherpa Headband](https://www.gap.com/browse/product.do?pid=913003012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Kids CashSoft Rib Beanie | Gap",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-04T00:17:05+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.gap.com/browse/product.do?pid=1184966022"
+   },
+   "tool_use_id": "srvtoolu_01L3x7xidbvTYo2c8eM6P1oW",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01JnAwQCoY1a9itjy4Q3XBXU/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c.get('result_type'));t=c['content'];print(len(t));print(t[:2500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01JnAwQCoY1a9itjy4Q3XBXU",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01DJenHWoo1e67zDt2KLWaKg",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:3000])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.gap.com/browse/product.do?pid=1184966022\", \"retrieved_at\": \"2026-11-04T00:17:05+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.gap.com/browse/product.do?pid=1184966022\\nmeta-apple-itunes-app: app-id=326347260\\nmeta-description: Shop Gap's Kids CashSoft Rib Beanie: Our bestselling fabric that feels cashmere-soft. Crafted in a midweight plush yarn. Refined with a special brushed technique. It's everyday luxury.Supersoft ribbed knit beanie., Explore the Gap Gift Shop., This product was made in a factory that invests in gender equity and women\\u2019s empowerment through RISE. Learn more at gapinc.com/equity ., Product #1184966\\nmeta-google: notranslate\\nmeta-google-site-verification: ev_CY7lXAB9mBuu8ITNd-DjzUW6--V9TYQQ-7Vv_8ZE\\nmeta-next-size-adjust:\\nmeta-robots: max-image-preview:standard\\nmeta-viewport: width=device-width, initial-scale=1\\ntitle: Kids CashSoft Rib Beanie | Gap\\n---\\n\\n[Gap](https://www.gap.com/?ssiteID=GAP)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/?ssiteID=GAP)[Banana Republic](https://bananarepublic.gap.com/?ssiteID=GAP)[Athleta](https://athleta.gap.com/?ssiteID=GAP)\\n\\nThe Holiday Kickoff Event: 40\\u201360% off PJs, accessories & more\\n\\n[The Holiday Kickoff Event: 40\\u201360% off PJs, accessories & more Select styles.](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_1 \\\"The Holiday Kickoff Event: 40\\u201360% off PJs, accessories & more Select styles.\\\")\\n\\nSelect styles.\\n\\nDetails\\n\\nApp Exclusive: extra 10% off [Download now](https://gap.onelink.me/9QBP/24qe2l4x?mlink=55277%2C1%2Cglobalbanner_2)\\n\\n[App Exclusive: extra 10% off Download now Exclusions apply.](https://gap.onelink.me/9QBP/24qe2l4x?mlink=55277%2C1%2Cglobalbanner_2 \\\"App Exclusive: extra 10% off Download now Exclusions apply.\\\")\\n\\nExclusions apply.\\n\\nDetails\\n\\n![Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.](https://content.gapinc.com/d/f0fjn4mj46g5d1o28se00u5wl6fug275.svg)\\n\\nMake the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11. [Shop now](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_GGR_CARD_RET_PROMO)\\n\\n[Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.](https://www.gap.com/browse/women/shop-all-styles?cid=1127938&mlink=55277%2C1%2Cglobalbanner_GGR_CARD_RET_PROMO \\\"Make the holidays even more rewarding: 2x points for Encore Cardmembers. Ends 11/11.\\\")\\n\\nDetails\\n\\n[![Gap logo](https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--light.svg)![Gap logo](https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--dark.svg)](https://www.gap.com/)\\n\\n- [Women](https://www.gap.com/browse/division.do?cid=5643&mlink=39813%2C30012485%2CMegnav_\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01DJenHWoo1e67zDt2KLWaKg",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_012kN85zpqCRzAGUP75z2VQg",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nt=json.loads(r)['content']['source']['data']\ni=t.find('# Kids CashSoft');print(t[i:i+2500] if i>=0 else None)\nfor k in ['$','tock','Add to Bag','sold out']:\n  print(k,[t[m.start()-80:m.start()+80] for m in re.finditer(re.escape(k),t)][:6])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "# Kids CashSoft Rib Beanie\n\n![Image 1 of 4, Our bestselling fabric that feels cashmere-soft. Crafted in a midweight plush yarn. Refined with a special brushed technique. It's everyday luxury., Supersoft ribbed knit beanie., Explore the Gap Gift Shop ., This product was made in a factory that invests in gender equity and women’s empowerment through RISE. Learn more at gapinc.com/equity ., Product #1184966](https://content.gapinc.com/b/0064/210/890/cn64210890.png?width=737)\n\n![Image 2 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/210/898/cn64210898.png?width=737)\n\n![Image 3 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/210/903/cn64210903.png?width=737)\n\n![Image 4 of 4, Kids CashSoft Rib Beanie](https://content.gapinc.com/b/0064/218/629/cn64218629.png?width=737)\n\n# Kids CashSoft Rib Beanie\n\n$29.95\n\n$17.00\n\n[1 Rating](#pdp-reviews-container)\n\n40% off + extra 10% in the app\n\n## Color:\n\nModern Red\n\n## Size\n\nS/M L/XL\n\n1\n\nAdd to Bag\n\nPayPal Pay in 4\n\nAfterpay andKlarna available for orders $35+\n\nFree Fast Shipping\n\non $50+ for Rewards Members.\n\n[Sign in](https://www.gap.com/my-account/sign-in?targetURL=%2Fbrowse%2Fproduct.do%3Fpid%3D1184966022%26cid%3Dundefined%26vid%3Dundefined%26pcid%3Dundefined) or [Join](https://www.gap.com/my-account/sign-in?targetURL=%2Fbrowse%2Fproduct.do%3Fpid%3D1184966022%26cid%3Dundefined%26vid%3Dundefined%26pcid%3Dundefined)\n\nIn-Store Pickup\n\nSelect a Store\n\n## Product details\n\n## Fabric & care\n\n## Shipping & returns\n\n![two pictures of a sweater and a jacket on a white background](https://content.gapinc.com/d/026jn5lf767a6oq7n4g6218cp606etr2.jpg)[](https://www.gap.com/browse/girls/cozy-shop/cashsoft?cid=1135179&style=3025708&mlink=1%2C1%2CPDP_BANNER_MERCH_KG_CashSoft)\n\n![](https://content.gapinc.com/d/6my20p6jopo12vg1q523b0gsdge14o8o.svg)\n\nOur bestselling fabric made to feel  \ncashmere-soft, crafted in a midweight  \nplush yarn, and refined with a special  \nbrushed technique.\n\nEasy to wash. Easy to wear.  \nIt’s everyday luxury — without the strings.\n\n[Shop the CashSoft collection](https://www.gap.com/browse/girls/cozy-shop/cashsoft?cid=1135179&style=3025708&mlink=1%2C1%2CPDP_BANNER_MERCH_KG_CashSoft)\n\n## Reviews\n\nWrite a Review\n\nLoading reviews\n\nWrite a Review\n\nLoading reviews\n\nRelated items\n\n- [Kids CashSoft Sweater Skort](https://www.gap.com/browse/product.do?pid=1181614012&cl=true&nav=smartlink%3ABoys%3A%3AShop%20All%20Accessories)\n- [Kids Rib T-Shirt](https://www.gap.com/browse/product.do?pid=9\n$ ['apinc.com/b/0064/218/629/cn64218629.png?width=737)\\n\\n# Kids CashSoft Rib Beanie\\n\\n$29.95\\n\\n$17.00\\n\\n[1 Rating](#pdp-reviews-container)\\n\\n40% off + extra 10% in the a', 'm/b/0064/218/629/cn64218629.png?width=737)\\n\\n# Kids CashSoft Rib Beanie\\n\\n$29.95\\n\\n$17.00\\n\\n[1 Rating](#pdp-reviews-container)\\n\\n40% off + extra 10% in the app\\n\\n## C', 'M L/XL\\n\\n1\\n\\nAdd to Bag\\n\\nPayPal Pay in 4\\n\\nAfterpay andKlarna available for orders $35+\\n\\nFree Fast Shipping\\n\\non $50+ for Rewards Members.\\n\\n[Sign in](https://www.ga', ' Pay in 4\\n\\nAfterpay andKlarna available for orders $35+\\n\\nFree Fast Shipping\\n\\non $50+ for Rewards Members.\\n\\n[Sign in](https://www.gap.com/my-account/sign-in?targ']\ntock []\nAdd to Bag [')\\n\\n40% off + extra 10% in the app\\n\\n## Color:\\n\\nModern Red\\n\\n## Size\\n\\nS/M L/XL\\n\\n1\\n\\nAdd to Bag\\n\\nPayPal Pay in 4\\n\\nAfterpay andKlarna available for orders $35+\\n\\nFree ']\nsold out []\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_012kN85zpqCRzAGUP75z2VQg",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSuQgKEAgTGAI4AUIIdGhpbmtpbmcSDO9VJk9gt2NKZsYDghoMUTnH8hrVD3SiwPP+IjA4B6GBCqps7LQZiWTGka+iCHRzcYgHgAtIbaX0GW2nuNO7R7zfKQeZGaUfoyljdhAq1ge2yumkJAf/1NBV9qVQ1ah6UzLLfnf5Jt9TbLjJGiuP4MvzQewykrGNOfncDDWxDYCoynNo6JZXzPpws7Zp//aX+9CQF7v3+WW6jLTihcqopRBASeIplnc8W0qWwQ0fZKsXUeIhyxYcH3wog2Jxw3ELlNpqnkRwjWYz6TkS6xZvRXOtcNYSNgI8m9Rr4Hj7FkUHDXtWBCUau/D98eiz6VPLMBZ+EdXWFOhYh1L1dnhgfncKpy8fLz+4E5m8foXXzGHOciKEt9MiThyVuThBUWFe1j5Add7xrGtmRWM4cw+hNdZivx6oi8Mtn9vn+I5J6cND4Y3RqnP5ci8wCEhlOXT1IfBeBRV7Ut0Bb8WXrhaTomrFMrVF+QbjwrxU6mUxEI21XGahRdlYV9VWp252Ws1lHACrYlZGN9Dmx7G1sEcwf4kz69Ox/laBdx5Sznf7Da5BDaQIfiCbnZdmBc9QWSqUzIW7vOikiyN79YDYeGhN5bTqPwRccLoHZrHRJOsr1r2z1hzj/T44yNjYhsgEpWUJnMsdbwVK2vu9+fGnkpPN+JgWTrh5JKZ/gWSM/aIU0GRR6BU2M1PgVuVqAHbYUesBhP3R0ffGgqrFUJ1yMR/uoX5QQZXFOJEcUhkLDgvmA4SHHOea7xOyau2ORyaQ/QGPfnozjvqYA+fVpxlxl3ph6LxuHOTwPqnJ0eAFGK3sCMF9Fzz8H6/nvjkZxfu/JqIJCFqrQRvNhn0Cl4BD3jMPtj7aHMDRNg8wyzmNIxsMW4R7wihQUc/kmH8xlyDDObRX5KPn61NJqYQBp5gt0/kyDIWvaFFJ1Hea0Lzg1KpUTQhodDXFplRlgcAnixYi+LU7DL2WTGznVqDlTzpl4K0PdKToJauWBBgOOrmKCSydxQ+z/DweixwPjg/kpf6FHYFvbWQNyUPmkhIMUVh45fdTZAtlLttixw7pjoZ8UAkM42fcKY6g1BUyT00XusUJIgSkcg4PKvA7GqeLSRtbhaDMXKotxBqsQXOM1pV8mHFxjFTcBALc6M+HSGxSZ9TbrCWiiP8RhlrLAydmDTrh3fMM+QY0nkNd2ZXWmqONvd6g+S8EYYnJCq9eMklPSffB1wEXUTG9rVSq2CvuVFwqzw+86ZTfB7GEXhBcfBITC9/5zHcacRr2L88DQXIzhLvi6fx8UKmDI95yR5iWCJuoBVb6GU6eftHZRpPXAY6vcHfsIi6ir1S9WtUL1RKKgVOAL8akuKmH2wppuXdOQpwdt5lblq4KZQ2sYlBjP1IP4brIaeVrvJuG7EORINpeZ1opvtBRJl1WTTwhGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Kids CashSoft Rib Beanie | PRICE: $17.00 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

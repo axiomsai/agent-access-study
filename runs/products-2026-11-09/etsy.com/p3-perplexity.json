@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/market/etsy_shop_search",
+  "https://www.etsy.com/help/categories/seller",
+  "https://www.etsy.com/",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/search/shops",
+  "https://www.etsy.com/market/search_by_seller",
+  "https://www.etsy.com/market/ety",
+  "https://www.etsy.com/market/crafts_supplies_and_tools"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/market/etsy_shop_search",
+   "https://www.etsy.com/help/categories/seller",
+   "https://www.etsy.com/",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/search/shops",
+   "https://www.etsy.com/market/search_by_seller",
+   "https://www.etsy.com/market/ety",
+   "https://www.etsy.com/market/crafts_supplies_and_tools"
+  ],
+  "created": 1794248699,
+  "id": "resp_7b72b0c7-929d-4805-ad05-365498e152f1",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "All Categories - Etsy\n# All Categories\nHome & Living\nAccessories\n(1,000+ items)\n- ### Let Me Manifest For You | Love, Money, Career, Luck Or Any Wish, Same Day\n(2,227)\nStar Seller\nSale Price $4.65 $4.65\n$15.50 Original Price $15.50 (70% off)\nPerenOracle From shop PerenOracle\n...\n- ### Used Car Histo...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Etsy Shop Search - Etsy\n# Etsy Shop Search\n313+ items",
+    "source": "web",
+    "title": "Etsy Shop Search",
+    "url": "https://www.etsy.com/market/etsy_shop_search"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Complete Etsy Category List\n## What are the new categories?\nThis is a comprehensive list of all the categories and sub-categories of the Etsy Marketplace.",
+    "source": "web",
+    "title": "Complete Etsy Category List",
+    "url": "https://www.etsy.com/help/categories/seller"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n968+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Local Etsy Shops - Etsy\n# Shop local in\n## Etsy's picks from local sellers",
+    "source": "web",
+    "title": "Local Shops",
+    "url": "https://www.etsy.com/search/shops"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Search by Seller - Etsy\n# Search by Seller\n1,000+ items",
+    "source": "web",
+    "title": "Search by Seller - Etsy",
+    "url": "https://www.etsy.com/market/search_by_seller"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Ety",
+    "url": "https://www.etsy.com/market/ety"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-11-27",
+    "place_metadata": null,
+    "snippet": "# Crafts Supplies and Tools\nReview spotlight\nHere is a selection of four-star and five-star reviews from customers who were delighted with the products they found in this category.",
+    "source": "web",
+    "title": "Crafts Supplies and Tools",
+    "url": "https://www.etsy.com/market/crafts_supplies_and_tools"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00073,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00344
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

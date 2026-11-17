@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.ebay.com/itm/276582090868",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished | PRICE: $399.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00056,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished | PRICE: $399.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TDPByRwfthxRuWTNW1SKDcrCX4e7N2+dG+JD2DZ3Qo2XGqksbFtgn2CI7udeuWmFbMNPh+rkfKDuSj+qH4HYn5RZ5Thkr5dCkkzMcmHkNpH5acmj7E71yteeGNiHczus6ZjLm83o/la8T1dyw"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.ebay.com/itm/276582090868",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 129,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 5365,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 129
+    }
+   ],
+   "toolUsePromptTokenCount": 5165,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5165
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "9A_yauWhMqXVz7IP0uWRsAs"
+ }
+}

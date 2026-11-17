@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Women's Clothing, Women Fashion Sale | SHEIN USA\nProduct/Category Name: Dresses",
+ "finish": "STOP",
+ "cost_usd": 0.00025,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Women's Clothing, Women Fashion Sale | SHEIN USA\nProduct/Category Name: Dresses",
+       "thoughtSignature": "EnMKcQFpFH0TK1eAA8POQD3TqiEegvLAhe32AAfvOL8edlfBqGhVUy33LJtC+nFXi25dF+ATxsSnaMjJ3Y/LtcixF2aGK9bZaUBsU4QHqS2PX+clB+4Tok6556yp31tKHbY+iHK45ul9p7p7aZhSh3S35CDh"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://us.shein.com/",
+        "title": "Women's Clothing, Women Fashion Sale | SHEIN USA"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 60,
+        "text": "Page Title: Women's Clothing, Women Fashion Sale | SHEIN USA"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 61,
+        "endIndex": 91,
+        "text": "Product/Category Name: Dresses"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 2388,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 2274,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2274
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "2nHqaqOyMrnoz7IPkp6wkAU"
+ }
+}

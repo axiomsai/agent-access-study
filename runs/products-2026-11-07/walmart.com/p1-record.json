@@ -1,0 +1,60 @@
+{
+ "domain": "walmart.com",
+ "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+ "idx": 1,
+ "at": "2026-11-07T13:30:46-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "16625 chars, copy dated 2026-11-07 (0 days old)",
+   "parsed": true,
+   "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-07T19:30:51+00:00",
+   "age_days": 0,
+   "cost_usd": 0.1865
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+   "price": 269.0,
+   "price_raw": "$269.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00057
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+   "price": 269.0,
+   "price_raw": "$269.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02358
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Samsung Galaxy Tab A11+ Widescreen Tablet, 128GB, Android 16, Silver",
+   "price": 269.0,
+   "price_raw": "$269.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "bestbuy.com",
+ "idx": 5,
+ "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "9380 chars, copy dated 2026-11-05 (6 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9380,
+   "input_tokens": 32452,
+   "cost_usd": 0.14551
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "9380 chars, copy dated 2026-11-05 (6 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9380,
+   "input_tokens": 32372,
+   "cost_usd": 0.14541
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "homedepot.com",
+ "idx": 4,
+ "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "18168 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 819.0,
+   "opened": "YES",
+   "doc_chars": 18168,
+   "input_tokens": 39625,
+   "cost_usd": 0.17548
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "52761 chars, copy dated 2026-11-10 (1 days old)",
+   "price": 819.0,
+   "opened": "YES",
+   "doc_chars": 52761,
+   "input_tokens": 32891,
+   "cost_usd": 0.1478
+  }
+ }
+}

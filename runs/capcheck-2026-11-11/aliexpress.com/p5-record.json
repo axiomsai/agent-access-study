@@ -1,0 +1,25 @@
+{
+ "domain": "aliexpress.com",
+ "idx": 5,
+ "url": "https://www.aliexpress.us/item/3256812095603119.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+   "doc_chars": 0,
+   "input_tokens": 15340,
+   "cost_usd": 0.06662
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15490,
+   "cost_usd": 0.06836
+  }
+ }
+}

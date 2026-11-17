@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash | PRICE: $499.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash | PRICE: $499.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TOtDvqklXCOEukrafUI/VJM+5I+I6ZWm8yGB1p/UJgKG0JIhi2RB/fTuMnjkUCG1jb0cI30Z74CAACFYv/V+tb+QKcAi/rZ1w33jPODOlL45hhez+VBYQruPyf5QBWK2Xtcvezxh2a25wfkVW"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 179,
+   "candidatesTokenCount": 131,
+   "totalTokenCount": 5343,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 179
+    }
+   ],
+   "toolUsePromptTokenCount": 5033,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5033
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "LNbsavTYJ6WwqtsP8uHIsQ0"
+ }
+}

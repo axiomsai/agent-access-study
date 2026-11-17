@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00045,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+       "thoughtSignature": "EnMKcQFpFH0TV4ymW1RR6riKAmgWijZNpUtmb4xR4jQ3V4BD3RVQwpliHG7LLiDIrsFVDNxZ8fH/AdEBtid+ajT8KB4xwN0h9/DMMgtNzQjiSNxqo38NDBnegg9alLSGSefSt2KeLioU7lH+xlCi+133TSL6"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.lowes.com/",
+        "title": "Lowe's Home Improvement"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 39,
+        "text": "**Page Title:** Lowe's Home Improvement"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 40,
+        "endIndex": 77,
+        "text": "**Product/Category Name:** Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 47,
+   "totalTokenCount": 4372,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4263,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4263
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "odTsaovUI-GUmtkPubyokQk"
+ }
+}

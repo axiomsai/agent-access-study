@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\nProduct/Category Name: Galaxy S26 Ultra",
+ "finish": "STOP",
+ "cost_usd": 0.00044,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\nProduct/Category Name: Galaxy S26 Ultra",
+       "thoughtSignature": "EnMKcQFpFH0TNnVaD4zN/Z8EcMs0VhF0eozC050U3sWuQZxB67unvUBgMvnN+43z0U5bj7M6FZhqA2bfIBk8qL7ox/0i3qYvcTllpXU7p8bibNhO6OjhihQD+WL9Xnqc+/cnYZ/7FZihBtvxTXMN2oSu7e0S"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 49,
+   "totalTokenCount": 4269,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4158,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4158
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "lA7yavjiLoahz7IP-vHngAo"
+ }
+}

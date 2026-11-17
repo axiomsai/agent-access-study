@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page content was blocked by a consent/privacy wall",
+ "finish": "STOP",
+ "cost_usd": 0.0003,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page content was blocked by a consent/privacy wall",
+       "thoughtSignature": "EnMKcQFpFH0TduTpDhDdznsh7n2Bl4oFP/XkgyePvROGvycti2je9zqSQDU7mG7qKyb82zuG+FySl4w4XzdsUwi/Vuw3p4nXmk2iUmQIR5ikWV5CpkMRNr0tOY7r76yMqDsUXc8DXD0co+i+Ac73yBxmgHO0"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 166,
+   "candidatesTokenCount": 99,
+   "totalTokenCount": 2683,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 166
+    }
+   ],
+   "toolUsePromptTokenCount": 2418,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2418
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "m3_vav6jPLzmqtsP1_uT-AU"
+ }
+}

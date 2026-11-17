@@ -1,0 +1,25 @@
+{
+ "domain": "walgreens.com",
+ "idx": 4,
+ "url": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "12732 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12732,
+   "input_tokens": 23264,
+   "cost_usd": 0.10394
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "12732 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 12732,
+   "input_tokens": 40522,
+   "cost_usd": 0.17575
+  }
+ }
+}

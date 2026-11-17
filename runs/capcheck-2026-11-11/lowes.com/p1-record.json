@@ -1,0 +1,25 @@
+{
+ "domain": "lowes.com",
+ "idx": 1,
+ "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "11408 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 11408,
+   "input_tokens": 48873,
+   "cost_usd": 0.21375
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "11760 chars, copy dated 2026-10-16 (26 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 11760,
+   "input_tokens": 31863,
+   "cost_usd": 0.14135
+  }
+ }
+}

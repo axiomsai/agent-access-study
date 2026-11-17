@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908929032",
+  "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+  "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+  "https://oldnavy.gap.com/browse/product.do?pid=488993142",
+  "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+  "https://www.gap.com/browse/product.do?pid=11797890020003",
+  "https://www.gap.com/browse/product.do?pid=9114020022603",
+  "https://www.gap.com/browse/product.do?pid=5982130222828",
+  "https://www.gap.com/browse/product.do?pid=519501002",
+  "https://www.gap.com/browse/product.do?pid=11848190020001"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $55.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $55.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908929032",
+   "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+   "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615",
+   "https://oldnavy.gap.com/browse/product.do?pid=488993142",
+   "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481",
+   "https://www.gap.com/browse/product.do?pid=11797890020003",
+   "https://www.gap.com/browse/product.do?pid=9114020022603",
+   "https://www.gap.com/browse/product.do?pid=5982130222828",
+   "https://www.gap.com/browse/product.do?pid=519501002",
+   "https://www.gap.com/browse/product.do?pid=11848190020001"
+  ],
+  "created": 1793907658,
+  "id": "resp_65a5d64a-3b94-4064-90b6-ccb45d1d06c1",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Kids CashSoft Zip Sweater Hoodie | Gap\n...\n3. Sweatshirts & Sweatpants\n# Kids CashSoft Zip Sweater Hoodie\n# Kids CashSoft Zip Sweater Hoodie\n$69.95\n$55.00\n...\n## Product details\n...\nIt's everyday luxury.\n- Supersoft knit cotton-blend full-zip sweater hoodie.\nIn a cropped length.\n- Hooded design.\n- L...",
+    "source": "web",
+    "title": "Kids CashSoft Zip Sweater Hoodie",
+    "url": "https://www.gap.com/browse/product.do?pid=908929032"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Limited time only | Early Black Friday Deals from $8 + Extra 20% Off in App only.",
+    "source": "web",
+    "title": "Girls' Multi Back To School Looks | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "This item is currently sold out.\nEnjoy exclusive perks with a Banana Republic Rewards Credit Card like 25% off your first purchase with a new card.",
+    "source": "web",
+    "title": "Women's Wedding & Special Occasion Attire - Banana Republic - Gap",
+    "url": "https://bananarepublic.gap.com/browse/women/special-occasions?cid=3027615"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-03",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=488993142&c=af_banner_campaign&http_referrer=https%3A%2F%2Foldnavy.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D488993142&deep_link_value=https%3A%2F%2Foldnavy.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D488993142)\n...\n# Dynami...",
+    "source": "web",
+    "title": "Dynamic Fleece 4.0 Hoodie | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/product.do?pid=488993142"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# All Div Sorts\n## Feels like Gap Sweats\n[Matching set\n...\n__VintageSoft Zip Hoodie__\n...\n$69.95$27.00](https://www.gap.com/browse/product.do?pid=883546022)",
+    "source": "web",
+    "title": "TESTING CID's All Div Sorts Feels like Gap Sweats",
+    "url": "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-sweats?cid=3042189&style=3044481"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Gap × A.P.C. Wool Cable-Knit Sweater | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=11797890020003&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Gap × A.P.C. Wool Cable-Knit Sweater\nSold Out\n![Image 1 of 2, S...",
+    "source": "web",
+    "title": "Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=11797890020003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=9114020022603&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do",
+    "source": "web",
+    "title": "Mid Rise Straight Taper Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=9114020022603"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=5982130222828&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Modern '90s Loose Khakis\n## Waist\nSize Guide\n28W30W\n...\n## Product details\nOur roomy, chilled-to-the-max throwb...",
+    "source": "web",
+    "title": "Modern '90s Loose Khakis",
+    "url": "https://www.gap.com/browse/product.do?pid=5982130222828"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-09",
+    "place_metadata": null,
+    "snippet": "https://impression.appsflyer.com/326347260?pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=519501002&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D519501002&deep_link_value=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct...",
+    "source": "web",
+    "title": "You Might Also Like",
+    "url": "https://www.gap.com/browse/product.do?pid=519501002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Denim Tie-Neck Big Shirt | Gap\n...\npid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=11848190020001&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do\n...\n# Denim Tie-Neck Big Shirt\n![Image 1 of 6, Our oversized shirt pulled straigh...",
+    "source": "web",
+    "title": "Denim Tie-Neck Big Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=11848190020001"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00128,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00399
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

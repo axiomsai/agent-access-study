@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/browse/product.do?pid=914524042",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $94.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00023,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $94.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TzLp9yY/lZrzDTmBQpxQQyZ9kunP6AekIc+hI+JW9n3jbhy5w/8J2AL6gaEgZHMqrqykd1u2IwbZ0HzAURUsoTsLc8fk7HerZwgJdwtJlooLFKG55kn10yu+pvK35Aw7A+SvrZSCJ6OfzpOty"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/browse/product.do?pid=914524042",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 132,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 2094,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 132
+    }
+   ],
+   "toolUsePromptTokenCount": 1898,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1898
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "xdvsavTQGriKqtsPw-WF4AQ"
+ }
+}

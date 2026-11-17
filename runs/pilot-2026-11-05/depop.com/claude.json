@@ -1,0 +1,97 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.depop.com/",
+ "retrieved_at": "2025-09-21T03:45:25+00:00",
+ "age_days": 410,
+ "doc_chars": 326,
+ "doc_markers": [],
+ "answer": "I opened the page, but it didn't return a title. The `title` field came back empty (null), so I can't tell you what the page's title is.\n\nThe page also didn't show any product or category names. All I got back was a short bit of homepage text:\n- \"Build an empire from your bedroom!\"\n- \"Find something that means something\"\n- \"Buy, sell and explore the most unique and inspiring things in the world.\"\n- A cookie notice and a search prompt.\n\nThere was no error, block or captcha. The page loaded, but only this small amount of text came through, probably because the rest of the site is filled in by scripts that my tool doesn't run.",
+ "cost_usd": 0.06836,
+ "raw": [
+  {
+   "id": "srvtoolu_019HqUkD5xYVzkuMiPBmHsvD",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.depop.com/\"})\nif isinstance(r,dict):print(r)\nelse:\n    d=r[0];print(d.get('title'),d.get('result_type'));print(d['content'][:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01R5XujFB31W3Fyhczm9cia4",
+   "caller": {
+    "tool_id": "srvtoolu_019HqUkD5xYVzkuMiPBmHsvD",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.depop.com/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_019HqUkD5xYVzkuMiPBmHsvD",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "Build an empire from your bedroom!\n\nFind something that means something\nBuy, sell and explore the most unique and inspiring things in the world.\nDepop app screen\nWelcome to Depop! By visiting our site you accept the use of cookies which improve the quality of your visit.\n    hit enter to search or escape to close this window",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": null,
+     "type": "document"
+    },
+    "retrieved_at": "2025-09-21T03:45:25+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.depop.com/"
+   },
+   "tool_use_id": "srvtoolu_01R5XujFB31W3Fyhczm9cia4",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_019HqUkD5xYVzkuMiPBmHsvD/cell.py\", line 11, in <module>\n    d=r[0];print(d.get('title'),d.get('result_type'));print(d['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019HqUkD5xYVzkuMiPBmHsvD",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01UZdgWTXSqNr5GLLm2c8gbN",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.depop.com/\", \"retrieved_at\": \"2025-09-21T03:45:25+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"Build an empire from your bedroom!\\n\\nFind something that means something\\nBuy, sell and explore the most unique and inspiring things in the world.\\nDepop app screen\\nWelcome to Depop! By visiting our site you accept the use of cookies which improve the quality of your visit.\\n    hit enter to search or escape to close this window\"}, \"title\": null}}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01UZdgWTXSqNr5GLLm2c8gbN",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "I opened the page, but it didn't return a title. The `title` field came back empty (null), so I can't tell you what the page's title is.\n\nThe page also didn't show any product or category names. All I got back was a short bit of homepage text:\n- \"Build an empire from your bedroom!\"\n- \"Find something that means something\"\n- \"Buy, sell and explore the most unique and inspiring things in the world.\"\n- A cookie notice and a search prompt.\n\nThere was no error, block or captcha. The page loaded, but only this small amount of text came through, probably because the rest of the site is filled in by scripts that my tool doesn't run.",
+   "type": "text"
+  }
+ ]
+}

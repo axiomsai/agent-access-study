@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.samsung.com/sec/",
+  "https://www.samsung.com/us/",
+  "https://www.samsung.com/us/sustainability/accessibility/web-accessibility/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26/",
+  "https://news.samsung.com/us/category/product/",
+  "https://www.samsung.com/galaxy-s26-ultra",
+  "https://www.samsung.com/hk_en/one-ui",
+  "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html",
+  "https://www.samsung.com/us/support/answer/ANS10002646/",
+  "https://www.samsung.com/us/apps/samsung-browser/"
+ ],
+ "cited_store": true,
+ "answer": "Samsung US — Galaxy",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Samsung US — Galaxy",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.samsung.com/sec/",
+   "https://www.samsung.com/us/",
+   "https://www.samsung.com/us/sustainability/accessibility/web-accessibility/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26/",
+   "https://news.samsung.com/us/category/product/",
+   "https://www.samsung.com/galaxy-s26-ultra",
+   "https://www.samsung.com/hk_en/one-ui",
+   "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html",
+   "https://www.samsung.com/us/support/answer/ANS10002646/",
+   "https://www.samsung.com/us/apps/samsung-browser/"
+  ],
+  "created": 1793905833,
+  "id": "resp_84cb2fd6-c60c-4666-b512-5e05720c49ea",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## 동영상 보기 레이어 팝업\n{Origin=https://www.samsung.com, country=sec, requestId=sec:1793858607:204082, num=20, client-type=web, Content-Type=application/json}",
+    "source": "web",
+    "title": "Samsung 대한민국 | 모바일 | TV | 가전 | IT",
+    "url": "https://www.samsung.com/sec/"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Samsung\n## Experience a whole new Galaxy\nBook your personal demo at a Samsung Experience Store",
+    "source": "web",
+    "title": "Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US",
+    "url": "https://www.samsung.com/us/"
+   },
+   {
+    "date": "2026-08-25",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Accessibility Statement\nThis website is regularly tested using a vartiety of assistance technologies.\nWe reccomend using the following web browser/screen reader\ncombinations for an optimized experience:\nFor Windows users: JAWS an Internet explorer or NVDA and Firefox\nFor Mac users: VoiceOver and ...",
+    "source": "web",
+    "title": "Web Accessibility",
+    "url": "https://www.samsung.com/us/sustainability/accessibility/web-accessibility/"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Galaxy S26 | S26+\n...\n## DESIGN\n### See the details up close\nSamsung.com or in Samsung Experience Stores^^",
+    "source": "web",
+    "title": "Samsung Galaxy S26 & S26+ | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Product - Samsung US Newsroom\n# Product\n## Featured News\n...\n#### Samsung Galaxy S26 FE: Delivering the Latest Flagship Features, Focused on What Matters Most",
+    "source": "web",
+    "title": "Product",
+    "url": "https://news.samsung.com/us/category/product/"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- Galaxy S26 Ultra\n6.9” display with built-in Privacy Display^,^\n...\nVisit samsung.com for details.",
+    "source": "web",
+    "title": "Samsung Galaxy S26 Ultra | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/galaxy-s26-ultra"
+   },
+   {
+    "date": "2026-07-24",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Requires One UI 7.0 or above to support\n## Frequently Asked Questions\nIf the allowed number of attempts is exceeded, your device will be permanently locked, which can only be released by a factory reset.",
+    "source": "web",
+    "title": "One UI | Samsung Hong Kong",
+    "url": "https://www.samsung.com/hk_en/one-ui"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "## LocalNetworkBlockedForUrls\nList of URL patterns.\nNetwork requests initiated from websites served by matching origins to local network endpoints are blocked from issuing Local Network Access requests.",
+    "source": "web",
+    "title": "LocalNetworkBlockedForUrls",
+    "url": "https://developer.samsung.com/browser/policy/local-network-blocked-for-urls.html"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Frequently asked questions about Samsung Browser\n## What is an error report?\nThe Browser app's team of developers strive to anticipate and fix any possible defects, but sometimes unpredictable errors occur.\nThrough the error report menu, you can send an email with a screenshot and device log to th...",
+    "source": "web",
+    "title": "Frequently asked questions about Samsung Browser",
+    "url": "https://www.samsung.com/us/support/answer/ANS10002646/"
+   },
+   {
+    "date": "2026-04-04",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Samsung Browser | Apps & Services | Samsung US\n...\n## Explore more of your browser\n### Toolbar\n#### Tip 2 Open a new tab\nTouch and hold \"Tab\" to instantly open a new tab.",
+    "source": "web",
+    "title": "Samsung Browser | Apps & Services",
+    "url": "https://www.samsung.com/us/apps/samsung-browser/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 4,
+   "cost": {
+    "input_tokens_cost": 0.0006299999999999999,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00315
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 61
+  }
+ }
+}

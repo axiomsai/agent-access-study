@@ -1,0 +1,60 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+ "idx": 5,
+ "at": "2026-11-07T14:11:09-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "15738 chars, copy dated 2026-08-29 (70 days old)",
+   "parsed": true,
+   "name": "Longshore Tides Mahler 42'' Console Table",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-08-29T12:45:08+00:00",
+   "age_days": 70,
+   "cost_usd": 0.22845
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Mahler 42\" W Console Table",
+   "price": 99.99,
+   "price_raw": "$99.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00182
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Mahler 42 \" W Console Table",
+   "price": 101.99,
+   "price_raw": "$101.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02283
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Mahler 42'' Console Table",
+   "price": 96.99,
+   "price_raw": "$96.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

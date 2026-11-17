@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/etsy_shop_search",
+  "https://www.etsy.com/market/digital_planners",
+  "https://www.etsy.com/market/planner_adhd",
+  "https://www.etsy.com/market/listings",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/handmade"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error retrieving exact page",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error retrieving exact page",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/etsy_shop_search",
+   "https://www.etsy.com/market/digital_planners",
+   "https://www.etsy.com/market/planner_adhd",
+   "https://www.etsy.com/market/listings",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/handmade"
+  ],
+  "created": 1794080098,
+  "id": "resp_2b498b87-67e1-4b99-94c7-1215da749964",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "FREE shipping\n## Dangle Earring https://www.etsy.com/shop/RemembranceFashion\n- ## https://www.etsy.com/listing/4493969257/funny-cartoon-mouse-pad-with-wrist-rest\n(20)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy Shop Search - Etsy\n# Etsy Shop Search\n- ## When Will I Get a Job?\n...\n- ## Etsy SEO Mastery Ebook: Rank #1 on Etsy Search (Digital Download)\n...\n## Common Questions\nSee each listing for more details.",
+    "source": "web",
+    "title": "Etsy Shop Search",
+    "url": "https://www.etsy.com/market/etsy_shop_search"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Digital Planners - Etsy\n# Digital Planners\n- ## All In One Digital Planner 26, 2027, 2028, 2029 + Any Year + 11 Languages Digital Planner, Journal Goodnotes Template, Weekly, Daily Planner\n(4.6k)\nSale Price $0.50 $0.50\n$2.03 Original Price $2.03 (75% off)\nDigital Download\n- ## All-in-One Digital Pla...",
+    "source": "web",
+    "title": "Digital Planners - Etsy",
+    "url": "https://www.etsy.com/market/digital_planners"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Planner Adhd - Etsy\n# Planner Adhd\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Planner Adhd - Etsy",
+    "url": "https://www.etsy.com/market/planner_adhd"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Listings\n5,000+ items\n...\n- ## Delta Reign Master Set Placeholders, Printable Complete Binder pages + Checklist (Digital Download)",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\n(1,000+ items)\n- ### Used Car History Report | Fast Delivery\n(123)\nStar Seller\n...\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Etsy Com Shop - Etsy\n# Etsy Com Shop\n- ## https://www.etsy.com/your/shops/me/listing-editor/copy/4566434047#media",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated\n(3,643)\nStar Seller\nSale Price $3.50 $3.50",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Handmade - Etsy\n# Handmade\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Handmade - Etsy",
+    "url": "https://www.etsy.com/market/handmade"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.00079,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00348
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 135
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "shein.com",
+ "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html",
+ "idx": 2,
+ "at": "2026-11-09T12:39:03-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (url_too_long, the web tool refused the URL because it is too long)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.07277
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "success status but answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the reason (blocked, captcha, not allowed)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00139
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+   "price": 3.9,
+   "price_raw": "$3.90",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01215
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+   "price": 3.9,
+   "price_raw": "$3.90",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00527
+  }
+ }
+}

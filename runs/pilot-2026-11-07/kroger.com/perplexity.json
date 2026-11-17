@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/",
+  "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858",
+  "https://www.kroger.com/q/kro",
+  "https://www.kroger.com/q/daw",
+  "https://www.kroger.com/q/monkfruit",
+  "https://www.kroger.com/d/grocery",
+  "https://www.kroger.com/i/3rdparty",
+  "https://www.kroger.com/d/shop-all-departments",
+  "https://www.kroger.com/health/pharmacy",
+  "https://www.kroger.com/q/ihealth"
+ ],
+ "cited_store": true,
+ "answer": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries & Fresh Foods[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries & Fresh Foods[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/",
+   "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858",
+   "https://www.kroger.com/q/kro",
+   "https://www.kroger.com/q/daw",
+   "https://www.kroger.com/q/monkfruit",
+   "https://www.kroger.com/d/grocery",
+   "https://www.kroger.com/i/3rdparty",
+   "https://www.kroger.com/d/shop-all-departments",
+   "https://www.kroger.com/health/pharmacy",
+   "https://www.kroger.com/q/ihealth"
+  ],
+  "created": 1794079680,
+  "id": "resp_7b7cc634-1846-4f1a-82fe-4694df15ad1f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store",
+    "url": "https://www.kroger.com/"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger® Black Tea Bags, 100 ct - Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# Kroger® Black Tea Bags",
+    "source": "web",
+    "title": "Kroger Black Tea Bags, 100 CT",
+    "url": "https://www.kroger.com/p/kroger-black-tea-bags/0001111066858"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Kroger",
+    "url": "https://www.kroger.com/q/kro"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "daw - Kroger",
+    "url": "https://www.kroger.com/q/daw"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Monkfruit - Kroger",
+    "url": "https://www.kroger.com/q/monkfruit"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "Groceries & Fresh Foods - Kroger\nat Harrisonburg\n| 1790 E Market St\n1. Shop All Departments\n2. Groceries & Fresh Foods",
+    "source": "web",
+    "title": "Groceries & Fresh Foods - Kroger",
+    "url": "https://www.kroger.com/d/grocery"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kroger\n# Wheat a minute… that page doesn’t exist!",
+    "source": "web",
+    "title": "Wheat a minute… that page doesn't exist! - Kroger",
+    "url": "https://www.kroger.com/i/3rdparty"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "Shop All Departments - Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Shop All Departments",
+    "url": "https://www.kroger.com/d/shop-all-departments"
+   },
+   {
+    "date": "2026-06-11",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Pharmacy Services: Prescriptions, Refills & Convenient Care - Kroger - Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n## \"We want our patients to feel personally cared for. Not just like a number\" Mark\nFor general help, reach out to the Customer Service Department at: 800-576-4377\n...\nMonday-Friday: ...",
+    "source": "web",
+    "title": "Pharmacy Services: Prescriptions, Refills & Convenient Care",
+    "url": "https://www.kroger.com/health/pharmacy"
+   },
+   {
+    "date": "2026-06-24",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "ihealth - Kroger",
+    "url": "https://www.kroger.com/q/ihealth"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00051,
+    "output_tokens_cost": 7e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00308
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 83
+  }
+ }
+}

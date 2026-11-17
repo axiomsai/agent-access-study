@@ -1,0 +1,60 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/listing/1736171915",
+ "idx": 5,
+ "at": "2026-11-05T13:16:45-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "18538 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Personalized Ceramic Hand Painted Cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:16:50+00:00",
+   "age_days": 0,
+   "cost_usd": 0.30672
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Personalized ceramic hand painted cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00201
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Personalized ceramic hand painted cup",
+   "price": 48.0,
+   "price_raw": "$48.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023530000000000002
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00513
+  }
+ }
+}

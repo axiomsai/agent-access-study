@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/",
+  "https://www.kroger.com/p/schwartz-brothers-bakery-kosher-bread/0077403400060",
+  "https://www.kroger.com/stores/grocery/wi/middleton/mm-middleton/534/00128",
+  "https://www.kroger.com/q/cheese+grated",
+  "https://www.kroger.com/p/gia-russa-marinara-pasta-sauce/0002682500893",
+  "https://www.kroger.com/q/food",
+  "https://www.kroger.com/q/hams",
+  "https://www.kroger.com/d/frozen",
+  "https://www.kroger.com/q/tools",
+  "https://www.kroger.com/q/whole+milk"
+ ],
+ "cited_store": true,
+ "answer": "Groceries & Pharmacy | Order Online or Shop In-Store  \nFrozen Food & Groceries",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Groceries & Pharmacy | Order Online or Shop In-Store  \nFrozen Food & Groceries",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/",
+   "https://www.kroger.com/p/schwartz-brothers-bakery-kosher-bread/0077403400060",
+   "https://www.kroger.com/stores/grocery/wi/middleton/mm-middleton/534/00128",
+   "https://www.kroger.com/q/cheese+grated",
+   "https://www.kroger.com/p/gia-russa-marinara-pasta-sauce/0002682500893",
+   "https://www.kroger.com/q/food",
+   "https://www.kroger.com/q/hams",
+   "https://www.kroger.com/d/frozen",
+   "https://www.kroger.com/q/tools",
+   "https://www.kroger.com/q/whole+milk"
+  ],
+  "created": 1793905928,
+  "id": "resp_e12e6135-926a-4a84-96b1-06a7fb8b038c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nat Harrisonburg\n| 1790 E Market St\n...\n## GLP-1 friendly protein.\n### we support your weight loss journey.\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Groceries & Pharmacy | Order Online or Shop In-Store",
+    "url": "https://www.kroger.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Schwartz Brothers Bakery Kosher Bread, 26.5 Oz - Kroger\nat Harrisonburg\n| 1790 E Market St\n## 250 Item Limit Exceeded\n1. Home\n2. Bakery\n3. Bread by Lifestyle\n4. Schwartz Brothers Bakery Kosher Bread\n...\n# Schwartz Brothers Bakery Kosher Bread\n...\n## SNAP EBT Eligible Item\n### Item Availability",
+    "source": "web",
+    "title": "Schwartz Brothers Bakery Kosher Bread, 26.5 Oz - Kroger",
+    "url": "https://www.kroger.com/p/schwartz-brothers-bakery-kosher-bread/0077403400060"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "6800 Century Ave Middleton, WI\nat Harrisonburg\n| 1790 E Market St\n...\n5. Store Details\n# MM Middleton\n6800 Century Ave Middleton, WI 53562\n### MM Middleton\nStore hours are currently unavailable.\nPlease call the store for more information.\nOpen Until 11 PM\n6800 Century Ave Middleton, WI 53562608-831-...",
+    "source": "web",
+    "title": "Digital Coupons for Groceries - Deals & Discounts Every Day",
+    "url": "https://www.kroger.com/stores/grocery/wi/middleton/mm-middleton/534/00128"
+   },
+   {
+    "date": "2026-09-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "cheese grated",
+    "url": "https://www.kroger.com/q/cheese+grated"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Gia Russa Marinara Pasta Sauce, 24 oz - Kroger\nat Harrisonburg\n| 1790 E Market St\n## 250 Item Limit Exceeded\n...\n2. Pantry\n3. Pasta & Pasta Sauces\n4. Gia Russa Marinara Pasta Sauce\n...\n# Gia Russa Marinara Pasta Sauce\n...\n## SNAP EBT Eligible Item\nThis selection is unavailable.\nPlease choose another...",
+    "source": "web",
+    "title": "Gia Russa Marinara Pasta Sauce, 24 oz",
+    "url": "https://www.kroger.com/p/gia-russa-marinara-pasta-sauce/0002682500893"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "food",
+    "url": "https://www.kroger.com/q/food"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# hams\n## 297 results\n### Kroger® Ham Steaks\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Kroger",
+    "url": "https://www.kroger.com/q/hams"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Frozen Food & Groceries - Kroger\nat Harrisonburg\n| 1790 E Market St\n1. Shop All Departments\n2. Frozen Food & Groceries\n# frozen.\n## Our Exclusive Brands.\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Frozen Food & Groceries",
+    "url": "https://www.kroger.com/d/frozen"
+   },
+   {
+    "date": "2025-03-10",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# tools\n## 93 results\n### Everyday Living® Plastic Funnel Set\nAccessibility StatementIf you are using a screen reader and having difficulty with this website, please call 1-800-576-4377.",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.kroger.com/q/tools"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Whole Milk - Kroger",
+    "url": "https://www.kroger.com/q/whole+milk"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00066,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00321
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

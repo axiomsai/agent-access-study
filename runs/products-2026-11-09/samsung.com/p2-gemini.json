@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-unlocked-sku-sm-f971uzgaxaa/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy Z Fold8 | PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy Z Fold8 | PRICE: $1,899.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TwVLZ5vc87seagGzZ2DOQaSKNYu6mZKk08plbj/XTgEJIDelVVTy43HKcizB0SllTzHHZ3E6UnI4ZZkTR1XrAHFdqCUXJmBLesH6Huo9la3nBBqUMMQ9PDgrGuUM2NVodvPSwBwBiNkOmFW1i"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/galaxy-z-fold8-256gb-unlocked-sku-sm-f971uzgaxaa/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 130,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 5557,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 130
+    }
+   ],
+   "toolUsePromptTokenCount": 5365,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5365
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "PBLyaoT3H9Xoz7IP16nV4AU"
+ }
+}

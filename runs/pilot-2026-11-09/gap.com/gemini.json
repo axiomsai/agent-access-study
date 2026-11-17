@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct or Category Name: Festive PJs",
+ "finish": "STOP",
+ "cost_usd": 0.00012,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Gap Individual style for Women's, Men's, Baby & Kids' Clothing\nProduct or Category Name: Festive PJs",
+       "thoughtSignature": "EnMKcQFpFH0TDRIkJY2SaZvA2J1VKHWBhz0Ik/qpbTIuMiZsfuK3HvjGyNq0FA5SQ+k1BeRitAR1X24eTXPzLHEU1//5nOwRu7vpojb6PF1oqk/30pZ10hdLYaY+vL+SNCsjMrtvziJLq3iz9RPbajOSW54k"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 1049,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 940,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 940
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "qQ7yase4Joahz7IP-vHngAo"
+ }
+}

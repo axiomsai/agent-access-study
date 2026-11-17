@@ -1,0 +1,25 @@
+{
+ "domain": "cvs.com",
+ "idx": 2,
+ "url": "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "6303 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6303,
+   "input_tokens": 37877,
+   "cost_usd": 0.16485
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "6303 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 6303,
+   "input_tokens": 22611,
+   "cost_usd": 0.10108
+  }
+ }
+}

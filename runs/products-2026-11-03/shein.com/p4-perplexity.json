@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/pdsearch/High%20Low%20Dress/",
+  "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html",
+  "https://us.shein.com/Women-Party-Wear-c-5360.html",
+  "https://us.shein.com/Elegant-Halter-Satin-Feather-Trim-High-Slit-Maxi-Evening-Dress-For-Wedding-Gala-Red-Carpet-Formal-Events-p-568753522.html",
+  "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+  "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html",
+  "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html",
+  "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html",
+  "https://us.shein.com/Women-Dresses-c-12472.html",
+  "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=548162383&currency=USD&requestId=ssr-5ab27a937e744e56&landing_page_id=1&activity_id=5051&div_key=25482cc3a26ee427_72dddf5b89a621c8"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page unavailable (search returned a different product page)",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: exact page unavailable (search returned a different product page)",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/pdsearch/High%20Low%20Dress/",
+   "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html",
+   "https://us.shein.com/Women-Party-Wear-c-5360.html",
+   "https://us.shein.com/Elegant-Halter-Satin-Feather-Trim-High-Slit-Maxi-Evening-Dress-For-Wedding-Gala-Red-Carpet-Formal-Events-p-568753522.html",
+   "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+   "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html",
+   "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html",
+   "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html",
+   "https://us.shein.com/Women-Dresses-c-12472.html",
+   "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=548162383&currency=USD&requestId=ssr-5ab27a937e744e56&landing_page_id=1&activity_id=5051&div_key=25482cc3a26ee427_72dddf5b89a621c8"
+  ],
+  "created": 1793751379,
+  "id": "resp_1dff527d-ca96-4193-970b-3c89ab349b2d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Local\n-75%\nWomen Halter Sleeveless Chiffon High Low Midi Formal Dress, Elegant Ruched Irregular Ruffle Gown For Bridesmaid Wedding Evening Party Dating\n$42.99\n$42.99\nQuickShip\nFree Shipping\n...\nLocal2026 Women's Elegant Halter Neck Midi Dress With Ruffle High-Low Hem, Perfect For Formal Events And S...",
+    "source": "web",
+    "title": "Search High Low Dress | SHEIN USA",
+    "url": "https://us.shein.com/pdsearch/High%20Low%20Dress/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Home > Women Cocktail Dresses\n## Product list\n-43%\nElegant Women's Sleeveless Formal Long Dress, Asymmetrical Neckline Ruched Satin Fabric, Slim Fit Mermaid Cocktail Dress Party Wedding\n...\nLocal\n-44%\nElegant Halter Satin Feather Trim High Slit Maxi Evening Dress For Wedding Gala Red Carpet Formal...",
+    "source": "web",
+    "title": "Fashion Women Cocktail Dresses | SHEIN USA",
+    "url": "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Home > Women Party Wear\n## Product list\nLocal\n-44%\nElegant Halter Satin Feather Trim High Slit Maxi Evening Dress For Wedding Gala Red Carpet Formal Events\n$45.00\n$45.00\n100+ sold",
+    "source": "web",
+    "title": "Fashion Women Party Wear",
+    "url": "https://us.shein.com/Women-Party-Wear-c-5360.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Elegant Halter Satin Feather Trim High Slit Maxi Evening Dress For Wedding Gala Red Carpet Formal Events | SHEIN USA\n...\n2. Women Apparel/\n3. Weddings & Events/\n...\n6. Elegant Halter Satin Feather Trim High Slit Maxi Evening Dress For Wedding Gala Red Carpet Formal Events\n# Elegant Halter Satin Feat...",
+    "source": "web",
+    "title": "Elegant Halter Satin Feather Trim High Slit Maxi Evening Dress For Wedding Gala Red Carpet Formal Events | SHEIN",
+    "url": "https://us.shein.com/Elegant-Halter-Satin-Feather-Trim-High-Slit-Maxi-Evening-Dress-For-Wedding-Gala-Red-Carpet-Formal-Events-p-568753522.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Home > Curve Halter Dresses\n## Product list\nSOLERSUN Plus Size Women's Autumn/Winter Fashion Solid Color Halterneck Halter Neck Tie Long Sleeve Mini Dress, Elegant Draped Fitted Short Dress With Metal Ring Detail, Flowy Bodycon Slim Fit Evening Gown, Suitable For Dinner, Nightclub, Date, Party, Mu...",
+    "source": "web",
+    "title": "Fashion Curve Halter Dresses",
+    "url": "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Home > Minimalist Party Dresses\n## Product list\n-30%\n2026 Womens Halter Neck Maxi Dress Backless Sleeveless Casual Loose Fit Flowy Sundress For Summer Beach Vacation\n$27.80",
+    "source": "web",
+    "title": "Minimalist Party Dresses | Fashion Minimalist Party Dresses ...",
+    "url": "https://us.shein.com/style/Minimalist-Party-Dresses-sc-001431126.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Home > Satin Dresses\n## Product list\nSkyraze Women's Elegant Cream White Square Neck Pleated Sleeveless Mini Dress,Satin Cottagecore Retro French Style,Date Summer Wedding Graduation Party Wear\n...\n-5%\nGlamine Women's Pink Satin Chiffon Halter Neck Backless Mini Dress, Sexy Waist Exposed Double Ru...",
+    "source": "web",
+    "title": "Satin Dresses - SHEIN",
+    "url": "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Home > Elegant Midi Dresses\n## Product list\nSilk Satin Slip Dress For Women V Neck Lace Trim Asymmetrical Hemline Sleeveless Spaghetti Strap Backless Mini Dress Going Out Party Clubwear\nOnly 7 left",
+    "source": "web",
+    "title": "Fashion Elegant Midi Dresses",
+    "url": "https://us.shein.com/style/Elegant-Midi-Dresses-sc-00117148.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Home > Women Dresses\n## Product list\nCHARMVALE Women's Short Dress With High Neck, Satin Satin Sleeves, Bodycon Hem And Contrast Lace",
+    "source": "web",
+    "title": "Fashion Women Dresses - SHEIN USA",
+    "url": "https://us.shein.com/Women-Dresses-c-12472.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Women Luxurious Satin Cowl Neck Backless Maxi Dress Sexy Slim Fit Evening Formal Gown\n-62%\n$53.58\n$141.00\nColor\nSize\nL\nJust watched\n...\nWomen Luxurious Satin Cowl Neck Backless Maxi Dress Sexy Slim Fit Evening Formal Gown\n(4)\n...\nSHEIN BAE Olive Green,Autumn,Elegant,Formal Satin Ruched Fitted Backle...",
+    "source": "web",
+    "title": "WELCOME TO SHEIN",
+    "url": "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=548162383&currency=USD&requestId=ssr-5ab27a937e744e56&landing_page_id=1&activity_id=5051&div_key=25482cc3a26ee427_72dddf5b89a621c8"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.0013,
+    "output_tokens_cost": 0.00032,
+    "request_cost": 0.0025,
+    "total_cost": 0.00412
+   },
+   "prompt_tokens": 161,
+   "search_context_size": "low",
+   "total_tokens": 189
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/appliances/sb1/miele-vacuums-c419317-a6701~40477.html",
+  "https://www.wayfair.com/brand/bnd/miele-b40477-masterClID~863.html",
+  "https://www.wayfair.com/appliances/sb1/bagged-vacuums-c419317-a131330~481895.html",
+  "https://www.wayfair.com/keyword.php?keyword=miele+vacuum+c2",
+  "https://www.wayfair.com/appliances/sb2/all-hard-floors-carpets-rugs-lightweight-canister-vacuums-c1867728-a131330~434675-a154213~514055.html",
+  "https://www.wayfair.com/appliances/sb0/canister-vacuums-c1867728.html",
+  "https://www.wayfair.com/appliances/pdp/miele-guard-l1-allfloor-bagged-canister-vacuum-cleaner-with-airclean-plus-filter-allteq-universal-floorhead-and-allfloor-floorbrush-led-display-panel-in-obsidian-blackrose-gold-meel1210.html",
+  "https://www.wayfair.com/appliances/pdp/miele-guard-l1-bagged-canister-vacuum-cleaner-with-airclean-filter-electro-plus-floorhead-allteq-universal-floorhead-led-display-panel-in-nordic-bluespace-grey-meel1209.html",
+  "https://www.wayfair.com/appliances/sb2/bagged-pet-canister-vacuums-c1867728-a131330~434676-a131330~481895.html",
+  "https://www.wayfair.com/appliances/pdp/miele-classic-c1-turbo-team-canister-vacuum-w002384939.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $899.00 | STOCK: IN STOCK | OPENED: NO: blocked",
+ "cost_usd": 0.00524,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey | PRICE: $899.00 | STOCK: IN STOCK | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/appliances/sb1/miele-vacuums-c419317-a6701~40477.html",
+   "https://www.wayfair.com/brand/bnd/miele-b40477-masterClID~863.html",
+   "https://www.wayfair.com/appliances/sb1/bagged-vacuums-c419317-a131330~481895.html",
+   "https://www.wayfair.com/keyword.php?keyword=miele+vacuum+c2",
+   "https://www.wayfair.com/appliances/sb2/all-hard-floors-carpets-rugs-lightweight-canister-vacuums-c1867728-a131330~434675-a154213~514055.html",
+   "https://www.wayfair.com/appliances/sb0/canister-vacuums-c1867728.html",
+   "https://www.wayfair.com/appliances/pdp/miele-guard-l1-allfloor-bagged-canister-vacuum-cleaner-with-airclean-plus-filter-allteq-universal-floorhead-and-allfloor-floorbrush-led-display-panel-in-obsidian-blackrose-gold-meel1210.html",
+   "https://www.wayfair.com/appliances/pdp/miele-guard-l1-bagged-canister-vacuum-cleaner-with-airclean-filter-electro-plus-floorhead-allteq-universal-floorhead-led-display-panel-in-nordic-bluespace-grey-meel1209.html",
+   "https://www.wayfair.com/appliances/sb2/bagged-pet-canister-vacuums-c1867728-a131330~434676-a131330~481895.html",
+   "https://www.wayfair.com/appliances/pdp/miele-classic-c1-turbo-team-canister-vacuum-w002384939.html"
+  ],
+  "created": 1793751401,
+  "id": "resp_0765f797-d9ce-48eb-b15d-03de812c3895",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Miele Guard L1 Bagged Canister Vacuum Cleaner with AirClean Filter, Electro Plus Floorhead, AllTeQ Universal Floorhead, LED Display Panel, in Nordic Blue/Space Grey\n...\n## Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead,...",
+    "source": "web",
+    "title": "Miele Vacuums | Vacuum Cleaner & Cat And Dog Vacuum - Wayfair",
+    "url": "https://www.wayfair.com/appliances/sb1/miele-vacuums-c419317-a6701~40477.html"
+   },
+   {
+    "date": "2026-08-12",
+    "last_updated": "2026-09-25",
+    "place_metadata": null,
+    "snippet": "# Miele\n## Miele Guard M1 Cat & Dog Bagged Canister Vacuum Cleaner for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey\n...\n## Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Activ...",
+    "source": "web",
+    "title": "Miele | Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/miele-b40477-masterClID~863.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "## Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey\nBy Miele\n(32)\nRated 4.7 out of 5 stars.32 total votes\n$899.00\nMembers Save Extra $232.01\n...\nThe Miele Guard L...",
+    "source": "web",
+    "title": "Bagged Vacuums & Cleaners - Wayfair",
+    "url": "https://www.wayfair.com/appliances/sb1/bagged-vacuums-c419317-a131330~481895.html"
+   },
+   {
+    "date": "2026-10-01",
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "## Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey\nBy Miele\n(32)\nRated 4.8 out of 5 stars.32 total votes\n$899.00\nMembers Save Extra $238.01\nThe Miele Guard L1 Ca...",
+    "source": "web",
+    "title": "Miele Vacuum C2 - Wayfair",
+    "url": "https://www.wayfair.com/keyword.php?keyword=miele+vacuum+c2"
+   },
+   {
+    "date": "2026-10-01",
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "## Miele Guard M1 Cat & Dog Bagged Canister Vacuum Cleaner for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey\nBy Miele\n(30)\nRated 4.7 out of 5 stars.30 total votes\n$649.00\nMembers Save Extra $165.01\n- **Overall P...",
+    "source": "web",
+    "title": "Taotronics Bagless Canister...",
+    "url": "https://www.wayfair.com/appliances/sb2/all-hard-floors-carpets-rugs-lightweight-canister-vacuums-c1867728-a131330~434675-a154213~514055.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Miele Guard L1 Bagged Canister Vacuum Cleaner with AirClean Filter, Electro Plus Floorhead, AllTeQ Universal Floorhead, LED Display Panel, in Nordic Blue/Space Grey\nBy Miele\n...\nThe Miele Guard L1 bagged canister vacuum cleaner is expertly designed for both carpets and hard floors.\nIts powerful G...",
+    "source": "web",
+    "title": "Canister Vacuums You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/appliances/sb0/canister-vacuums-c1867728.html"
+   },
+   {
+    "date": "2026-07-25",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Miele Guard L1 AllFloor Bagged Canister Vacuum Cleaner with AirClean Plus Filter, AllTeQ Universal Floorhead, and AllFloor Floorbrush, LED Display Panel, in Obsidian Black/Rose Gold & Reviews | Wayfair\n...\n2. Vacuums & Deep Cleaners/\n3. All Vacuums/\n...\n# Miele Guard L1 AllFloor Bagged Canister Vacu...",
+    "source": "web",
+    "title": "Miele Guard L1 AllFloor Bagged Canister Vacuum Cleaner with AirClean Plus Filter, AllTeQ Universal Floorhead, and AllFloor Floorbrush, LED Display Panel, in Obsidian Black/Rose Gold & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-allfloor-bagged-canister-vacuum-cleaner-with-airclean-plus-filter-allteq-universal-floorhead-and-allfloor-floorbrush-led-display-panel-in-obsidian-blackrose-gold-meel1210.html"
+   },
+   {
+    "date": "2026-07-12",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Miele Guard L1 Bagged Canister Vacuum Cleaner with AirClean Filter, Electro Plus Floorhead, AllTeQ Universal Floorhead, LED Display Panel, in Nordic Blue/Space Grey & Reviews | Wayfair\n...\n2. Vacuums & Deep Cleaners/\n...\n# Miele Guard L1 Bagged Canister Vacuum Cleaner with AirClean Filter, Electro P...",
+    "source": "web",
+    "title": "Miele Guard L1 Bagged Canister Vacuum Cleaner with AirClean ...",
+    "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-bagged-canister-vacuum-cleaner-with-airclean-filter-electro-plus-floorhead-allteq-universal-floorhead-led-display-panel-in-nordic-bluespace-grey-meel1209.html"
+   },
+   {
+    "date": "2026-09-02",
+    "last_updated": "2026-09-08",
+    "place_metadata": null,
+    "snippet": "The Miele Guard L1 Cat & Dog is a bagged canister vacuum expertly designed for pet owners.\nIts German-engineered motor delivers powerful suction for effective multi-surface cleaning.\nThe AllTeQ universal floorhead lets you glide from hard floors to low-pile carpets using the convenient footswitch, w...",
+    "source": "web",
+    "title": "Bagged & Pet Canister Vacuums You'll Love",
+    "url": "https://www.wayfair.com/appliances/sb2/bagged-pet-canister-vacuums-c1867728-a131330~434676-a131330~481895.html"
+   },
+   {
+    "date": "2026-10-20",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Miele Classic C1 Turbo Team Canister Vacuum 11181010\nByMiele\n...\n195 Reviews\n...\n## Services\nAbout This Product\nThe Miele Classic C1 Turbo Team is a lightweight, bagged canister vacuum designed for powerful and versatile cleaning.\nWith a 1200 W Vortex Motor, it offers robust suction power and feat...",
+    "source": "web",
+    "title": "Miele Classic C1 Turbo Team Canister Vacuum & Reviews | Wayfair",
+    "url": "https://www.wayfair.com/appliances/pdp/miele-classic-c1-turbo-team-canister-vacuum-w002384939.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 70,
+   "cost": {
+    "input_tokens_cost": 0.00179,
+    "output_tokens_cost": 0.00045,
+    "request_cost": 0.0025,
+    "total_cost": 0.00474
+   },
+   "prompt_tokens": 169,
+   "search_context_size": "low",
+   "total_tokens": 239
+  }
+ }
+}

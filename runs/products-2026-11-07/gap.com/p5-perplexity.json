@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908887122",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://bananarepublic.gap.com/native-product-sitemap.xml",
+  "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+  "https://www.gap.com/browse/category.do?cid=3025298",
+  "https://www.gap.com/browse/product.do?pid=1190584002",
+  "https://www.gap.com/browse/product.do?pid=403540002&vid=1",
+  "https://www.gap.com/browse/product.do?pid=9114350022806",
+  "https://www.gap.com/browse/product.do?pid=203045002",
+  "https://www.gap.com/browse/product.do?pid=5974980023332"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Crew Sweater | PRICE: $79.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908887122",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://bananarepublic.gap.com/native-product-sitemap.xml",
+   "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+   "https://www.gap.com/browse/category.do?cid=3025298",
+   "https://www.gap.com/browse/product.do?pid=1190584002",
+   "https://www.gap.com/browse/product.do?pid=403540002&vid=1",
+   "https://www.gap.com/browse/product.do?pid=9114350022806",
+   "https://www.gap.com/browse/product.do?pid=203045002",
+   "https://www.gap.com/browse/product.do?pid=5974980023332"
+  ],
+  "created": 1794082535,
+  "id": "resp_536b80cd-7541-4de2-9069-6be9eda1c043",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "CashSoft Crew Sweater | Gap\n...\n# CashSoft Crew Sweater\n# CashSoft Crew Sweater\n$79.95\n...\n## Color:\nHappy Stripe\n...\nRegularTallPetite\n## Size\nXXS\n...\n## Product details\nOur bestselling fabric that feels cashmere-soft.Crafted in a midweight plush yarn.\nRefined with a special brushed technique.\nIt's...",
+    "source": "web",
+    "title": "CashSoft Crew Sweater - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=908887122"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "https://bananarepublic.gap.com/browse/product.do?pid=405006002",
+    "source": "web",
+    "title": "https://bananarepublic.gap.com/native-product-sitemap.xml",
+    "url": "https://bananarepublic.gap.com/native-product-sitemap.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women Just In Boys New Arrivals | Gap\n...\n# Just In\n20 items in the product grid\n- Filter & Sort\n...\n## Boys New Arrivals\nMatching set\n### Kids Corduroy Utility Shirt\n$44.95$22.00\n...\n### Kids Corduroy '90s Loose Pants",
+    "source": "web",
+    "title": "Women Just In Boys New Arrivals - Gap",
+    "url": "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3025298"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- [Los Tacos No.1 Collection](https://www.gap.com/browse/gapx/los-tacos-no-1-collection?cid=3055939)\n...\n…\n# Small Canvas Favorite Tote\n## Product details\n- Product #1190584",
+    "source": "web",
+    "title": "Small Canvas Favorite Tote - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=1190584002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Mid Rise UltraSoft Baggy Jeans | Gap\n...\n# Mid Rise UltraSoft Baggy Jeans\n$89.95\n$89.95\n$53.00",
+    "source": "web",
+    "title": "Mid Rise UltraSoft Baggy Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=403540002&vid=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# High Rise Stride Wide-Leg Jeans\n...\n$44.00",
+    "source": "web",
+    "title": "High Rise Stride Wide-Leg Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=9114350022806"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "- [Jeans](https://www.gap.com/browse/category.do?cid=5664#pageId=0&department=136)",
+    "source": "web",
+    "title": "www.gap.com · browse · productDenim shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=203045002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "- [Pajamas & Loungewear](https://www.gap.com/browse/category.do?cid=29504#pageId=0&department=136)",
+    "source": "web",
+    "title": "Baggy Jeans | Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=5974980023332"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00353
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=914524042",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://bananarepublic.gap.com/native-product-sitemap.xml",
+  "https://oldnavy.gap.com/",
+  "https://www.gap.com/browse/women/shop-site?cid=3032407",
+  "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://www.gap.com/browse/category.do?cid=3025298",
+  "https://www.gap.com/browse/product.do?pid=501490092&vid=1&epik=dj0yJnU9c1A5UEQtdUJCMDdVSU5VZldyT1UyTGsyaV83d2paTW0mcD0wJm49czdndW9wNkJtTFdzemtnR3U3YlhUUSZ0PUFBQUFBR2pWdERv&pr_rd_page=2",
+  "https://www.gap.com/browse/product.do?pid=11865490020304"
+ ],
+ "cited_store": true,
+ "answer": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $59.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: CashSoft Rib Quarter-Zip Sweater | PRICE: $59.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=914524042",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://bananarepublic.gap.com/native-product-sitemap.xml",
+   "https://oldnavy.gap.com/",
+   "https://www.gap.com/browse/women/shop-site?cid=3032407",
+   "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://www.gap.com/browse/category.do?cid=3025298",
+   "https://www.gap.com/browse/product.do?pid=501490092&vid=1&epik=dj0yJnU9c1A5UEQtdUJCMDdVSU5VZldyT1UyTGsyaV83d2paTW0mcD0wJm49czdndW9wNkJtTFdzemtnR3U3YlhUUSZ0PUFBQUFBR2pWdERv&pr_rd_page=2",
+   "https://www.gap.com/browse/product.do?pid=11865490020304"
+  ],
+  "created": 1794082532,
+  "id": "resp_91a81859-e6ac-4705-9924-66475cb13e36",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "CashSoft Rib Quarter-Zip Sweater | Gap\n1. Men\n...\n3. Sweaters\n# CashSoft Rib Quarter-Zip Sweater\n# CashSoft Rib Quarter-Zip Sweater\n$118.00\n$118\n$59.00\n50% off: price as marked\n## Color:\nGreen\n...\n## Product details\n- Supersoft, ribbed knit cotton-blend pullover sweater.\n- Mockneck with quarter-zip ...",
+    "source": "web",
+    "title": "CashSoft Rib Quarter-Zip Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=914524042"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "https://bananarepublic.gap.com/browse/product.do?pid=914161032",
+    "source": "web",
+    "title": "https://bananarepublic.gap.com/native-product-sitemap.xml",
+    "url": "https://bananarepublic.gap.com/native-product-sitemap.xml"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Old Navy | Affordable Clothing for Women, Men, Kids & Baby\n- - BABY (0-24M)\n- - Shop All Sizes\n...\nEnds 11/11.",
+    "source": "web",
+    "title": "Old Navy",
+    "url": "https://oldnavy.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Shop the Site\n309 items in the product grid\n- Filter & Sort\n...\n309 Results",
+    "source": "web",
+    "title": "Shop the Site",
+    "url": "https://www.gap.com/browse/women/shop-site?cid=3032407"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Women Just In Boys New Arrivals | Gap\n...\nWomen / Just In / Boys New Arrivals\n# Just In\n20 items in the product grid\n- Filter & Sort\n...\n## Boys New Arrivals\nMatching set\n### Kids Corduroy Utility Shirt\n$44.95$22.00\n...\n### Kids Corduroy '90s Loose Pants\n$54.95$27.00",
+    "source": "web",
+    "title": "Women Just In Boys New Arrivals - Gap",
+    "url": "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3025298"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Slim Cargo Pants | Gap\n...\n2. /\n3. Pants\n# Slim Cargo Pants\n# Slim Cargo Pants\n$79.95\n$31.00\n...\n## Color:\nKhaki\n## Waist\nSize Guide\n28W29W30W31W32W33W34W36W38W40W42W\n## Length\n28L30L32L34L",
+    "source": "web",
+    "title": "Cargo Pants - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=501490092&vid=1&epik=dj0yJnU9c1A5UEQtdUJCMDdVSU5VZldyT1UyTGsyaV83d2paTW0mcD0wJm49czdndW9wNkJtTFdzemtnR3U3YlhUUSZ0PUFBQUFBR2pWdERv&pr_rd_page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Denim Relaxed Shirt Jacket | Gap\n...\n# Denim Relaxed Shirt Jacket\n# Denim Relaxed Shirt Jacket\n$129.95\n$129.95\n$77.00\n...\nCompared to virgin materials, using recycled materials helps reduce resource use and waste.\n- Product #1186549",
+    "source": "web",
+    "title": "Denim Relaxed Shirt Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=11865490020304"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00086,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00357
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

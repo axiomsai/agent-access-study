@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $14.49 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0005,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Kroger® Original Medium Roast Ground Coffee | PRICE: $14.49 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TfwXAktG6plLs7iECB+fR9YQXUWFDEEtWqd6O5p5Wieym8KvB0B5bjsMh2TdVgrww0LK2eddM1wN3q5TjSgm5TlS07BJMYBJDs9S1QfZ8nwnPIl5uUI6ke3vFxaI81M/j35E1uVm2H29RhRqh"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 145,
+   "candidatesTokenCount": 77,
+   "totalTokenCount": 4794,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 145
+    }
+   ],
+   "toolUsePromptTokenCount": 4572,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4572
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "-Ibvao_jDZPrz7IPhZK0mQI"
+ }
+}

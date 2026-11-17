@@ -1,0 +1,86 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": "url_not_allowed",
+ "fetched_url": null,
+ "retrieved_at": null,
+ "age_days": null,
+ "doc_chars": 0,
+ "doc_markers": [],
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: not allowed (the fetch tool returned url_not_allowed)",
+ "cost_usd": 0.06928,
+ "raw": [
+  {
+   "id": "srvtoolu_01FBpNy5of5bw7SY1aADeM5U",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0].get('title'),len(c))\n import re\n for k in ['$','stock','Sold out','Out of']:\n  for m in re.finditer(re.escape(k),c):print(c[max(0,m.start()-80):m.start()+80].replace('\\n',' '));break"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01RpAuYuoSj3yG2B8VVp2wff",
+   "caller": {
+    "tool_id": "srvtoolu_01FBpNy5of5bw7SY1aADeM5U",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01FBpNy5of5bw7SY1aADeM5U",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "error_code": "url_not_allowed",
+    "type": "web_fetch_tool_result_error"
+   },
+   "tool_use_id": "srvtoolu_01RpAuYuoSj3yG2B8VVp2wff",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01FBpNy5of5bw7SY1aADeM5U/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0].get('title'),len(c))\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01FBpNy5of5bw7SY1aADeM5U",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01QkPKf5JYKfK3qjuPMKUyXs",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_tool_result_error\", \"error_code\": \"url_not_allowed\"}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01QkPKf5JYKfK3qjuPMKUyXs",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: not allowed (the fetch tool returned url_not_allowed)",
+   "type": "text"
+  }
+ ]
+}

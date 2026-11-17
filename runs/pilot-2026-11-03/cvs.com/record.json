@@ -1,0 +1,104 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/",
+ "started": "2026-11-03T17:44:00-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.cvs.com/",
+  "bytes": 363,
+  "error": null,
+  "title": "Access Denied",
+  "markers": [
+   "access denied"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "8949 chars, copy dated 2026-03-12 (236 days old)",
+   "answer": "I opened https://www.cvs.com/ and the page loaded. There was no error, block or captcha.\n\n- **Page title:** The tool didn't return one, so I can't tell you what it is.\n- **A category on the page:** \"Shop Valentine's Day\"",
+   "cost_usd": 0.09296
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\nProduct or Category: Flu shot",
+   "cost_usd": 0.00214
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "answer": "Could not open it: **error — timeout fetching**.",
+   "cost_usd": 0.01124
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Pregnancy & Fertility Tests[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

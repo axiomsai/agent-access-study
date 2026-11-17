@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html",
+  "https://www.aliexpress.com/item/1005006244678789.html",
+  "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+  "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html",
+  "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/item/1005005940354757.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html",
+   "https://www.aliexpress.com/item/1005006244678789.html",
+   "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+   "https://de.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html",
+   "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/item/1005005940354757.html"
+  ],
+  "created": 1793751421,
+  "id": "resp_cd7a2622-732e-4df8-bfff-b363feda6084",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Today's deals\n### Dollar Express\n3 from $0.99",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items-AliExpress\n...\n### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts\n$120.56$120.56\n...\n# Results for items\nThe search term items is commonly used on AliExpress to refer to products or goods available for purchase.",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-07-22",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### This product has been discontinued, and another model is available for sal：https://www.aliexpress.com/item/1005011741083601.htm",
+    "source": "web",
+    "title": "https www.aliexpress.us",
+    "url": "https://pl.aliexpress.com/w/wholesale-https-www.aliexpress.us.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n## More to love\n### Lenovo Micro SDXC TF Memory Card High Transfer Speed UHS-I C10 U3 64GB 128GB 256GB 512GB 1TB for PC Laptop Surveillance Camera",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html"
+   },
+   {
+    "date": "2024-04-03",
+    "last_updated": "2026-10-14",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Kaufen Sie https aliexpress mit kostenlosem Versand auf ...",
+    "url": "https://de.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2024-07-13",
+    "last_updated": "2025-12-01",
+    "place_metadata": null,
+    "snippet": "https://www.aliexpress.com/item/3256804952963292.html\n1\n06\n$17.83\n-94%\n4.9\n28 sold\n$2 off on $10\nNew shoppers save $16.77\nSee preview",
+    "source": "web",
+    "title": "Compre aliexpress cn com envio grátis no AliExpress version",
+    "url": "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "4K DisplayPort to HDMI Cable Adapter 3.3ft 1m DP ...",
+    "url": "https://www.aliexpress.com/item/1005005940354757.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0008500000000000001,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00354
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 134
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98",
+  "https://www.ebay.com/itm/145891254918?itmmeta=01J4P6FBEE9J0ANDG2Z9TM6RR7&hash=item21f7cbe286:g:tqQAAOSwU6VmlyT2&itmprp=enc:AQAJAAAA4JEusmq4LZhYSwoxfzu+nrVKm1ktiWw6lBplAMq6NC6CiuCFuLto50BeykoLVhSeYxiwPa+SRT49/SJMPvOXq9MFIsVYV2pPTNlnh+tnAvhgo+rjT3I1j9IHP/XhHQWNUD4/B9kfsNqSIUoo5ugJ0K2gela4NvLD9rYkkiRkMm8sQ9eV9EFUkM0nyQvkQYtRBG+KztjMNuxHd6PbrDBnSBnotox7U+z6BChlvLjac3WCjZ15DsToLIBgQzisXg0mYgwPfsO6f6v8Ez0adk6fRR/xP2RpA5ALeiC0Ok2lrJw3%7Ctkp:BFBMpLe9xqVk&amdata=enc:AQAJAAAAoHoV3kP08IDx+KZ9MfhVJKlUWfF2ydqdKf8JZ2YtB5aRxzfwYvGHyqIFtIQk/REAkm31X6iMBs+hWBL9mgO/qx8s8d76bm06k/8Z2gW19K1aqPUUaBw9ZHb7t8VvcA6XGN5oTAmeCfKcVJZt1YTgr2Uq5PT43Z8Dx/R7/P6Q4Ebb1YUcy9K+bKESdP+h2E+XS3+quPlOSxxGWlErh9SCnF8=&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5338967968&customid=&toolid=20012&mkevt=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_BOPIS=1&LH_All=1&_dmd=2&LH_FS=0&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&LH_PrefLoc=98&LH_All=1&_oac=1",
+  "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2",
+  "http://edp.g.ebay.com/Devzone/xml/docs/Reference/ebay/extra/gtitm.rspns.itm.st.html",
+  "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_Savings=1&LH_LPickup=0&LH_FS=1&LH_BOPIS=1&LH_PrefLoc=2&LH_AV=1&LH_RPA=0&LH_Auction=1&LH_AS=1",
+  "https://www.ebay.com/itm/202173594873?_trkparms=aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20191002092920&meid=f2118bfcd0674c7781fcf67ad2e3e523&pid=101096&rk=1&rkt=12&b=1&sd=181081435197&itm=202173594873&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101096.m3021&amdata=cksum:202173594873f2118bfcd0674c7781fcf67ad2e3e523%7Cenc:AQAGAAAB4AR5ESyi4Pqzs8%252B%252FFGPgaR1Os6an4xz4TxHbrlscccPT8IeRg%252F0CrYgZRsIBnIPsG2aRZ6X3vYBUJxvJlBxiuXsBUmLuAfinCSPFa2oRAPSOClK06f7u5B2n6qP%252FPJwQndWYuvSUCtmma9BRgko0dErc0kpUYOtYJfXfV7tkH5c3pm2iWo%252B%252Fhxg4%252FyH%252FgCPUic88tSz%252FqTesWbm2FpPSv8%252FXQY72pi26hwMNIKQ2CHwkPMK91XBisYCW9tdxPZlY%252FCWMO%252BARDi9vqXXDN4xXMeIIjvF5cBmkRNPhLnCV%252FGGbAVIqzJOSWFbTA3%252Fq3H1%252Fz%252FU7rKKdKDWe5IcQz6%252FS2ktL2jMVr9JaIek45xQj7noM30o%252Bnfr4njDkUoDJGVAZQvjXRJZyA6oSzPOH7vAAfFF9WBp9BSLuU3aLySh5dLZ8TFvNIrsPuTtIZovC7EJLDvnawlOQj8ZWDZ0F7pB5wRImfkrIy89%252BkDyvFdrOvVu8oBT62Ku31eqtYNqNKIXeJcbrRqXKXboo6gdWbuZNXsCLlbYbUWCSrDysRmZfTJ3Jaihn6Z6VInQY8xeQUfA%252FsNcyGKPyGT83RNq1fZFkn0NOzgIYmTE1r8I5aIOyw9SgwZi77XJOwSy%252BSSCa9Z75Lg%253D%253D%7Campid:PL_CLK%7Cclp:2332490&epid=3034420875",
+  "https://www.ebay.com/itm/225562052190?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=1&asc=20221018081743&meid=51b477f7c9e44a7da50b98510e328962&pid=101430&rk=5&rkt=12&sd=196394189332&itm=225562052190&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V2AndXaiHotClickWithCompV6&_trksid=p2332490.c101430.m2460&itmprp=cksum:22556205219051b477f7c9e44a7da50b98510e328962%7Cenc:AQAJAAABEHq5%252FnIFMUEf6B1DI668RyGdRfI6covxK3pfZkGKdoYS7E%252BGpwAAhWsHYONVmD6V%252F6RW9Itku37H9NbbwyvIOVWgrFJxpXuK0indzCNTcyDnxvDzRDcuac6klw0VAFy3J%252FFDrZtYrVi9Zy4etNuhoen3Oog0K9WplQ7EkOu%252Fo1pGnrpHXZpMrasT%252FvH%252BS4WBI8c3KTd8j74Lo1tym%252BrPro%252BB%252BIMLmCk%252BnCgFzTu1%252Be56ApWpd%252BYj5APr88rNYzJExToAo0o8d9UnXWH4nkwTQj5ULm4ySq6d4PgQcQYYLAdTJgSaS2KTfsDLrcMG%252FbRZx1iRrBIsmLND5mu5umzKVTBMK%252FWammmXtA%252FP9y1RRGe1%7Campid:PL_CLK%7Cclp:2332490&epid=19068899622&itmmeta=01J97H135E7B676W0RA5KGFW34"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98",
+   "https://www.ebay.com/itm/145891254918?itmmeta=01J4P6FBEE9J0ANDG2Z9TM6RR7&hash=item21f7cbe286:g:tqQAAOSwU6VmlyT2&itmprp=enc:AQAJAAAA4JEusmq4LZhYSwoxfzu+nrVKm1ktiWw6lBplAMq6NC6CiuCFuLto50BeykoLVhSeYxiwPa+SRT49/SJMPvOXq9MFIsVYV2pPTNlnh+tnAvhgo+rjT3I1j9IHP/XhHQWNUD4/B9kfsNqSIUoo5ugJ0K2gela4NvLD9rYkkiRkMm8sQ9eV9EFUkM0nyQvkQYtRBG+KztjMNuxHd6PbrDBnSBnotox7U+z6BChlvLjac3WCjZ15DsToLIBgQzisXg0mYgwPfsO6f6v8Ez0adk6fRR/xP2RpA5ALeiC0Ok2lrJw3%7Ctkp:BFBMpLe9xqVk&amdata=enc:AQAJAAAAoHoV3kP08IDx+KZ9MfhVJKlUWfF2ydqdKf8JZ2YtB5aRxzfwYvGHyqIFtIQk/REAkm31X6iMBs+hWBL9mgO/qx8s8d76bm06k/8Z2gW19K1aqPUUaBw9ZHb7t8VvcA6XGN5oTAmeCfKcVJZt1YTgr2Uq5PT43Z8Dx/R7/P6Q4Ebb1YUcy9K+bKESdP+h2E+XS3+quPlOSxxGWlErh9SCnF8=&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5338967968&customid=&toolid=20012&mkevt=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_BOPIS=1&LH_All=1&_dmd=2&LH_FS=0&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&LH_PrefLoc=98&LH_All=1&_oac=1",
+   "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2",
+   "http://edp.g.ebay.com/Devzone/xml/docs/Reference/ebay/extra/gtitm.rspns.itm.st.html",
+   "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_Savings=1&LH_LPickup=0&LH_FS=1&LH_BOPIS=1&LH_PrefLoc=2&LH_AV=1&LH_RPA=0&LH_Auction=1&LH_AS=1",
+   "https://www.ebay.com/itm/202173594873?_trkparms=aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20191002092920&meid=f2118bfcd0674c7781fcf67ad2e3e523&pid=101096&rk=1&rkt=12&b=1&sd=181081435197&itm=202173594873&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101096.m3021&amdata=cksum:202173594873f2118bfcd0674c7781fcf67ad2e3e523%7Cenc:AQAGAAAB4AR5ESyi4Pqzs8%252B%252FFGPgaR1Os6an4xz4TxHbrlscccPT8IeRg%252F0CrYgZRsIBnIPsG2aRZ6X3vYBUJxvJlBxiuXsBUmLuAfinCSPFa2oRAPSOClK06f7u5B2n6qP%252FPJwQndWYuvSUCtmma9BRgko0dErc0kpUYOtYJfXfV7tkH5c3pm2iWo%252B%252Fhxg4%252FyH%252FgCPUic88tSz%252FqTesWbm2FpPSv8%252FXQY72pi26hwMNIKQ2CHwkPMK91XBisYCW9tdxPZlY%252FCWMO%252BARDi9vqXXDN4xXMeIIjvF5cBmkRNPhLnCV%252FGGbAVIqzJOSWFbTA3%252Fq3H1%252Fz%252FU7rKKdKDWe5IcQz6%252FS2ktL2jMVr9JaIek45xQj7noM30o%252Bnfr4njDkUoDJGVAZQvjXRJZyA6oSzPOH7vAAfFF9WBp9BSLuU3aLySh5dLZ8TFvNIrsPuTtIZovC7EJLDvnawlOQj8ZWDZ0F7pB5wRImfkrIy89%252BkDyvFdrOvVu8oBT62Ku31eqtYNqNKIXeJcbrRqXKXboo6gdWbuZNXsCLlbYbUWCSrDysRmZfTJ3Jaihn6Z6VInQY8xeQUfA%252FsNcyGKPyGT83RNq1fZFkn0NOzgIYmTE1r8I5aIOyw9SgwZi77XJOwSy%252BSSCa9Z75Lg%253D%253D%7Campid:PL_CLK%7Cclp:2332490&epid=3034420875",
+   "https://www.ebay.com/itm/225562052190?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=1&asc=20221018081743&meid=51b477f7c9e44a7da50b98510e328962&pid=101430&rk=5&rkt=12&sd=196394189332&itm=225562052190&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V2AndXaiHotClickWithCompV6&_trksid=p2332490.c101430.m2460&itmprp=cksum:22556205219051b477f7c9e44a7da50b98510e328962%7Cenc:AQAJAAABEHq5%252FnIFMUEf6B1DI668RyGdRfI6covxK3pfZkGKdoYS7E%252BGpwAAhWsHYONVmD6V%252F6RW9Itku37H9NbbwyvIOVWgrFJxpXuK0indzCNTcyDnxvDzRDcuac6klw0VAFy3J%252FFDrZtYrVi9Zy4etNuhoen3Oog0K9WplQ7EkOu%252Fo1pGnrpHXZpMrasT%252FvH%252BS4WBI8c3KTd8j74Lo1tym%252BrPro%252BB%252BIMLmCk%252BnCgFzTu1%252Be56ApWpd%252BYj5APr88rNYzJExToAo0o8d9UnXWH4nkwTQj5ULm4ySq6d4PgQcQYYLAdTJgSaS2KTfsDLrcMG%252FbRZx1iRrBIsmLND5mu5umzKVTBMK%252FWammmXtA%252FP9y1RRGe1%7Campid:PL_CLK%7Cclp:2332490&epid=19068899622&itmmeta=01J97H135E7B676W0RA5KGFW34"
+  ],
+  "created": 1794248699,
+  "id": "resp_45a97c87-a746-4d86-b3ee-8b0abc90fe9c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(341) (341) Items",
+    "source": "web",
+    "title": "341 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_PrefLoc=98"
+   },
+   {
+    "date": "2024-08-24",
+    "last_updated": "2024-12-26",
+    "place_metadata": null,
+    "snippet": "This listing sold on Sun, Nov 17 at 8:33 AM.\n...\n# 2024 Victory 45 Cologne AND Perfume by President Donald Trump HIS&HERs 3.3ozH&H-Collectibles\n## New with box\n## Shop with confidenceeBay Money Back GuaranteeGet the item you ordered or your money back. Learn moreeBay Money Back Guarantee - opens new...",
+    "source": "web",
+    "title": "2024 Victory 45 Cologne AND Perfume by President Donald Trump HIS&HERs 3.3oz | eBay",
+    "url": "https://www.ebay.com/itm/145891254918?itmmeta=01J4P6FBEE9J0ANDG2Z9TM6RR7&hash=item21f7cbe286:g:tqQAAOSwU6VmlyT2&itmprp=enc:AQAJAAAA4JEusmq4LZhYSwoxfzu+nrVKm1ktiWw6lBplAMq6NC6CiuCFuLto50BeykoLVhSeYxiwPa+SRT49/SJMPvOXq9MFIsVYV2pPTNlnh+tnAvhgo+rjT3I1j9IHP/XhHQWNUD4/B9kfsNqSIUoo5ugJ0K2gela4NvLD9rYkkiRkMm8sQ9eV9EFUkM0nyQvkQYtRBG+KztjMNuxHd6PbrDBnSBnotox7U+z6BChlvLjac3WCjZ15DsToLIBgQzisXg0mYgwPfsO6f6v8Ez0adk6fRR/xP2RpA5ALeiC0Ok2lrJw3%7Ctkp:BFBMpLe9xqVk&amdata=enc:AQAJAAAAoHoV3kP08IDx+KZ9MfhVJKlUWfF2ydqdKf8JZ2YtB5aRxzfwYvGHyqIFtIQk/REAkm31X6iMBs+hWBL9mgO/qx8s8d76bm06k/8Z2gW19K1aqPUUaBw9ZHb7t8VvcA6XGN5oTAmeCfKcVJZt1YTgr2Uq5PT43Z8Dx/R7/P6Q4Ebb1YUcy9K+bKESdP+h2E+XS3+quPlOSxxGWlErh9SCnF8=&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5338967968&customid=&toolid=20012&mkevt=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(340) (340) Items",
+    "source": "web",
+    "title": "340 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_BOPIS=1&LH_All=1&_dmd=2&LH_FS=0&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(11) (11) Items\nBuy It Now(11) (11) Items\nAccepts Offers\n# 11 results\n...\n- Buy It Now\n...\n- Under $12.00Remove filter\n- O-RING 06225 EPDM ø 67 mm for ANGELO PO APACH COLGED COMENDA DIHR ELETTROBAR\nBrand New\n$9.00\nBuy It Now\nFree ship...",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&LH_PrefLoc=98&LH_All=1&_oac=1"
+   },
+   {
+    "date": "2023-05-31",
+    "last_updated": "2025-01-30",
+    "place_metadata": null,
+    "snippet": "# Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 HoursGBP 27.40Condition:",
+    "source": "web",
+    "title": "Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 Hours 5012483015285 | eBay",
+    "url": "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n# 0 results\n...\n- Buy It Now\n...\nCondition- Any Condition- Filter Applied",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Applicable values for GetItemResponse.Item.Site\n### Applicable values for GetItemResponse.Item.Site",
+    "source": "web",
+    "title": "Applicable values for GetItemResponse.Item.Site",
+    "url": "http://edp.g.ebay.com/Devzone/xml/docs/Reference/ebay/extra/gtitm.rspns.itm.st.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "| eBay\n# 0 results\n- All\n...\n- Buy It Now\n...\n- - Free shippingRemove filter",
+    "source": "web",
+    "title": "0 results",
+    "url": "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_Savings=1&LH_LPickup=0&LH_FS=1&LH_BOPIS=1&LH_PrefLoc=2&LH_AV=1&LH_RPA=0&LH_Auction=1&LH_AS=1"
+   },
+   {
+    "date": "2019-02-17",
+    "last_updated": "2025-04-07",
+    "place_metadata": null,
+    "snippet": "# Saniflo Sanivite+ Kitchen and Utility Macerator Waste Pump 6004 4 Inlets 400WGBP 486.20Condition:",
+    "source": "web",
+    "title": "Saniflo Sanivite+ Kitchen and Utility Macerator Waste Pump 6004 4 Inlets 400W | eBay",
+    "url": "https://www.ebay.com/itm/202173594873?_trkparms=aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20191002092920&meid=f2118bfcd0674c7781fcf67ad2e3e523&pid=101096&rk=1&rkt=12&b=1&sd=181081435197&itm=202173594873&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101096.m3021&amdata=cksum:202173594873f2118bfcd0674c7781fcf67ad2e3e523%7Cenc:AQAGAAAB4AR5ESyi4Pqzs8%252B%252FFGPgaR1Os6an4xz4TxHbrlscccPT8IeRg%252F0CrYgZRsIBnIPsG2aRZ6X3vYBUJxvJlBxiuXsBUmLuAfinCSPFa2oRAPSOClK06f7u5B2n6qP%252FPJwQndWYuvSUCtmma9BRgko0dErc0kpUYOtYJfXfV7tkH5c3pm2iWo%252B%252Fhxg4%252FyH%252FgCPUic88tSz%252FqTesWbm2FpPSv8%252FXQY72pi26hwMNIKQ2CHwkPMK91XBisYCW9tdxPZlY%252FCWMO%252BARDi9vqXXDN4xXMeIIjvF5cBmkRNPhLnCV%252FGGbAVIqzJOSWFbTA3%252Fq3H1%252Fz%252FU7rKKdKDWe5IcQz6%252FS2ktL2jMVr9JaIek45xQj7noM30o%252Bnfr4njDkUoDJGVAZQvjXRJZyA6oSzPOH7vAAfFF9WBp9BSLuU3aLySh5dLZ8TFvNIrsPuTtIZovC7EJLDvnawlOQj8ZWDZ0F7pB5wRImfkrIy89%252BkDyvFdrOvVu8oBT62Ku31eqtYNqNKIXeJcbrRqXKXboo6gdWbuZNXsCLlbYbUWCSrDysRmZfTJ3Jaihn6Z6VInQY8xeQUfA%252FsNcyGKPyGT83RNq1fZFkn0NOzgIYmTE1r8I5aIOyw9SgwZi77XJOwSy%252BSSCa9Z75Lg%253D%253D%7Campid:PL_CLK%7Cclp:2332490&epid=3034420875"
+   },
+   {
+    "date": "2024-11-15",
+    "last_updated": "2025-03-16",
+    "place_metadata": null,
+    "snippet": "# Ro Rox Solanine Small Heart Shoulder Bag Faux LeatherGBP 16.99Condition:\n## New with tags4 available8 sold\n## Shop with confidenceeBay Money Back GuaranteeGet the item you ordered or your money back. Learn moreeBay Money Back Guarantee - opens new window or tab\neBay item number:225562052190",
+    "source": "web",
+    "title": "Ro Rox Solanine Small Heart Shoulder Bag Faux Leather | eBay",
+    "url": "https://www.ebay.com/itm/225562052190?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=1&asc=20221018081743&meid=51b477f7c9e44a7da50b98510e328962&pid=101430&rk=5&rkt=12&sd=196394189332&itm=225562052190&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V2AndXaiHotClickWithCompV6&_trksid=p2332490.c101430.m2460&itmprp=cksum:22556205219051b477f7c9e44a7da50b98510e328962%7Cenc:AQAJAAABEHq5%252FnIFMUEf6B1DI668RyGdRfI6covxK3pfZkGKdoYS7E%252BGpwAAhWsHYONVmD6V%252F6RW9Itku37H9NbbwyvIOVWgrFJxpXuK0indzCNTcyDnxvDzRDcuac6klw0VAFy3J%252FFDrZtYrVi9Zy4etNuhoen3Oog0K9WplQ7EkOu%252Fo1pGnrpHXZpMrasT%252FvH%252BS4WBI8c3KTd8j74Lo1tym%252BrPro%252BB%252BIMLmCk%252BnCgFzTu1%252Be56ApWpd%252BYj5APr88rNYzJExToAo0o8d9UnXWH4nkwTQj5ULm4ySq6d4PgQcQYYLAdTJgSaS2KTfsDLrcMG%252FbRZx1iRrBIsmLND5mu5umzKVTBMK%252FWammmXtA%252FP9y1RRGe1%7Campid:PL_CLK%7Cclp:2332490&epid=19068899622&itmmeta=01J97H135E7B676W0RA5KGFW34"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00212,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00481
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

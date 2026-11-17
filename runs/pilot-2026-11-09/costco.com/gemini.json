@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Welcome to Costco Wholesale\nProduct/Category Name: Appliances",
+ "finish": "STOP",
+ "cost_usd": 0.00029,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Welcome to Costco Wholesale\nProduct/Category Name: Appliances",
+       "thoughtSignature": "EnMKcQFpFH0TGg+jrysju+QfBbw+qNQRZ9OZI22p0Eb5XAURbTXkVkjEKy4UiUHZ0XLuSO3xFXww4Yuj53AzAbZPbGDtXuGqZ8N4doLWW0YEZRzOGExXmZ1qM5zuhHKfCYr/lUfGKWwpNrN+kJIDhpiCQ2VE"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.costco.com/",
+        "title": "Welcome to Costco Wholesale"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 39,
+        "text": "Page Title: Welcome to Costco Wholesale"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 40,
+        "endIndex": 73,
+        "text": "Product/Category Name: Appliances"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 44,
+   "totalTokenCount": 2782,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 2676,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2676
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "mw7yaqm1D67BqtsP7sahuQ0"
+ }
+}

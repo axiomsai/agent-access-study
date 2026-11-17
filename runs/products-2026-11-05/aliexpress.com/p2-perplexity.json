@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://www.aliexpress.com/item/1005006244678789.html",
+  "https://www.aliexpress.com/item/1005013236296480.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=9bb1d7c9-717e-49c4-a4b6-b99219bddec1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:9bb1d7c9-717e-49c4-a4b6-b99219bddec1,tpp_buckets:668%232846%238113%231998&pdp_ext_f=%7B%22order%22:%22-1%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013236296480%22,%22orig_item_id%22:%221005013171292435%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!54.31!54.31!!!362.76!362.76!@2101e75417903847911981038e0d0c!12000060623684355!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013236296480%7C_p_origin_prod:1005013171292435",
+  "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161",
+  "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://www.aliexpress.com/item/1005006244678789.html",
+   "https://www.aliexpress.com/item/1005013236296480.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=9bb1d7c9-717e-49c4-a4b6-b99219bddec1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:9bb1d7c9-717e-49c4-a4b6-b99219bddec1,tpp_buckets:668%232846%238113%231998&pdp_ext_f=%7B%22order%22:%22-1%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013236296480%22,%22orig_item_id%22:%221005013171292435%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!54.31!54.31!!!362.76!362.76!@2101e75417903847911981038e0d0c!12000060623684355!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013236296480%7C_p_origin_prod:1005013171292435",
+   "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161",
+   "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html"
+  ],
+  "created": 1793907633,
+  "id": "resp_26c823ee-48e4-4cf5-b698-2169e71bf117",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Today's deals\n### Dollar Express\n...\n## More to love\n### Four Seasons Men's And Women's Universal Y2K Knit Hat Spider Web Riding Outdoor Sports Fashion Hat\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2025-05-05",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Koop https aliexpress met gratis verzending op ...",
+    "url": "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Results for aliexpress com item\n## What is an AliExpress .com Item and How Can I Identify It?\n**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should i...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, this item's currently unavailable in your location.",
+    "source": "web",
+    "title": "1.25 Inch Anti scald Wavy Curling Iron, 12M Negative Ions Hair ...",
+    "url": "https://www.aliexpress.com/item/1005013236296480.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=9bb1d7c9-717e-49c4-a4b6-b99219bddec1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:9bb1d7c9-717e-49c4-a4b6-b99219bddec1,tpp_buckets:668%232846%238113%231998&pdp_ext_f=%7B%22order%22:%22-1%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013236296480%22,%22orig_item_id%22:%221005013171292435%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!54.31!54.31!!!362.76!362.76!@2101e75417903847911981038e0d0c!12000060623684355!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013236296480%7C_p_origin_prod:1005013171292435"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount Aluminum Base Original House Mounting Kit - AliExpress 13\n# Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount Aluminum Base Original House Mounting Kit\n...\n$48.09",
+    "source": "web",
+    "title": "Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount ...",
+    "url": "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n## More to love\n### 9000Pa Wireless Car Vacuum Cleaner USB Charging 1200mAh Portable Cleaning Appliance Mini Wet and Dry Vacuum Cleaner Household",
+    "source": "web",
+    "title": "http://www.aliexpress.com/store/product/10PCS---CA...",
+    "url": "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00114,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00384
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

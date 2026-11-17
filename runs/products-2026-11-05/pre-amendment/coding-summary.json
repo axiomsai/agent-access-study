@@ -1,0 +1,70 @@
+{
+ "items": 400,
+ "spend_usd": 0.131,
+ "agreement": {
+  "access_agree": 373,
+  "said_split": 163,
+  "access_disagree": 27,
+  "said_n": 45
+ },
+ "access_by_fetcher": {
+  "claude": {
+   "refused_or_error": 27,
+   "blind_to_price": 31,
+   "shell_or_challenge": 8,
+   "opened": 32,
+   "DISPUTE:blind_to_price/shell_or_challenge": 2
+  },
+  "gemini": {
+   "refused_or_error": 15,
+   "opened": 64,
+   "DISPUTE:refused_or_error/shell_or_challenge": 2,
+   "shell_or_challenge": 6,
+   "blind_to_price": 13
+  },
+  "openai": {
+   "blind_to_price": 25,
+   "opened": 62,
+   "refused_or_error": 6,
+   "DISPUTE:refused_or_error/shell_or_challenge": 7
+  },
+  "perplexity": {
+   "refused_or_error": 20,
+   "DISPUTE:shell_or_challenge/refused_or_error": 9,
+   "opened": 48,
+   "DISPUTE:opened/refused_or_error": 1,
+   "shell_or_challenge": 10,
+   "DISPUTE:refused_or_error/shell_or_challenge": 6,
+   "blind_to_price": 6
+  }
+ },
+ "disputes": [
+  "amazon.com|2|perplexity",
+  "amazon.com|4|perplexity",
+  "walmart.com|5|perplexity",
+  "temu.com|1|gemini",
+  "temu.com|2|perplexity",
+  "temu.com|4|openai",
+  "temu.com|5|openai",
+  "etsy.com|2|perplexity",
+  "etsy.com|4|perplexity",
+  "cvs.com|1|perplexity",
+  "cvs.com|3|perplexity",
+  "cvs.com|4|perplexity",
+  "walgreens.com|2|perplexity",
+  "walgreens.com|4|perplexity",
+  "costco.com|4|perplexity",
+  "shein.com|2|perplexity",
+  "wayfair.com|3|claude",
+  "wayfair.com|5|claude",
+  "macys.com|5|perplexity",
+  "aliexpress.com|1|openai",
+  "aliexpress.com|2|gemini",
+  "aliexpress.com|2|openai",
+  "aliexpress.com|3|openai",
+  "aliexpress.com|3|perplexity",
+  "aliexpress.com|4|openai",
+  "aliexpress.com|5|openai",
+  "aliexpress.com|5|perplexity"
+ ]
+}

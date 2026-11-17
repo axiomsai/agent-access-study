@@ -1,0 +1,102 @@
+{
+ "domain": "depop.com",
+ "url": "https://www.depop.com/",
+ "started": "2026-11-09T12:19:18-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.depop.com/",
+  "bytes": 24852,
+  "error": null,
+  "title": "Forbidden - Depop",
+  "markers": [],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "326 chars, copy dated 2025-09-21 (414 days old)",
+   "answer": "I opened the page without any error, block or captcha.\n\n- **Page title:** The tool didn't return a title for this page, so I can't tell you what it is.\n- **Product or category name:** None. The text I got back was only a short welcome message (\"Build an empire from your bedroom!\", \"Find something th",
+   "cost_usd": 0.06811
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "answer": "Blocked",
+   "cost_usd": 3e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Depop - buy, sell, discover unique fashion  \nProduct/category name: Womenswear",
+   "cost_usd": 0.01173
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Depop - buy, sell, discover unique fashion — '80s[1]",
+   "cost_usd": 0.00507
+  }
+ }
+}

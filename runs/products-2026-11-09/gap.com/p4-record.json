@@ -1,0 +1,60 @@
+{
+ "domain": "gap.com",
+ "url": "https://www.gap.com/browse/product.do?pid=1184966022",
+ "idx": 4,
+ "at": "2026-11-09T12:43:33-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "7649 chars, copy dated 2026-11-04 (5 days old)",
+   "parsed": true,
+   "name": "Kids CashSoft Rib Beanie",
+   "price": 17.0,
+   "price_raw": "$17.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:17:05+00:00",
+   "age_days": 5,
+   "cost_usd": 0.11567
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Kids CashSoft Rib Beanie",
+   "price": 17.0,
+   "price_raw": "$17.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00026
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Kids CashSoft Rib Beanie",
+   "price": 17.0,
+   "price_raw": "$17.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023559999999999998
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error finding the exact product page",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

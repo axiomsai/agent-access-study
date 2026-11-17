@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.ebay.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay\nCategory: Electronics",
+ "finish": "STOP",
+ "cost_usd": 0.00051,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay\nCategory: Electronics",
+       "thoughtSignature": "EnMKcQFpFH0TJivbp2MRW/WJGP4kSGZWGRC+TvCcTJR598Gxloj076rVD44wj2LzA0MCsoZIaBYX+70fBz2eKPY5C3sCu2hl5UkQ+QRMzg/PTkeEhVi3XVCSBD/5ARDvYyF2rCFyOZXkolO6VxKbNf3m22eZ"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.ebay.com/",
+        "title": "eBay: Electronics, Cars, Fashion, Collectibles & More"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 61,
+        "text": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 62,
+        "endIndex": 83,
+        "text": "Category: Electronics"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.ebay.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 47,
+   "totalTokenCount": 4917,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 4809,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4809
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "gA7yapj5Gdqgz7IP2pOa6Qk"
+ }
+}

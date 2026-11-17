@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/",
+  "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/",
+  "https://www.depop.com/login/?pla_feed=US",
+  "https://www.depop.com/products/beautywqueens-lei-light-wash-distressed-flare-31b6/",
+  "https://www.depop.com/products/av2b6741-light-wash-high-waisted-straight-leg-73da/",
+  "https://www.depop.com/explore/",
+  "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/",
+  "https://www.depop.com/products/mid0ightballet-garage-low-rise-light-washed-denim-b137/",
+  "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/",
+  "https://www.depop.com/thrifting4treasure/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/",
+   "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/",
+   "https://www.depop.com/login/?pla_feed=US",
+   "https://www.depop.com/products/beautywqueens-lei-light-wash-distressed-flare-31b6/",
+   "https://www.depop.com/products/av2b6741-light-wash-high-waisted-straight-leg-73da/",
+   "https://www.depop.com/explore/",
+   "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/",
+   "https://www.depop.com/products/mid0ightballet-garage-low-rise-light-washed-denim-b137/",
+   "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/",
+   "https://www.depop.com/thrifting4treasure/"
+  ],
+  "created": 1794082539,
+  "id": "resp_9d54e0ec-d7e7-44fc-bd53-8dc0d5bd3bd3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-04",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash high-waisted ripped jeans #denim...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash high-waisted ripped jeans #denim... | Depop",
+    "url": "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash high-waisted straight-leg jeans #denim...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash high-waisted straight-leg jeans #denim... | Depop",
+    "url": "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Preloved.\nVintage.\nStreetwear.\nSneakers.",
+    "source": "web",
+    "title": "?pla_feed=US",
+    "url": "https://www.depop.com/login/?pla_feed=US"
+   },
+   {
+    "date": "2026-10-26",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Lei Light wash distressed flare jeans with ripped...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# L.e.i. Women's Blue Jeans\n$8.05\nincl. marketplace fee\nSize 1\nFair condition\nL.e.i.",
+    "source": "web",
+    "title": "Lei Light wash distressed flare jeans with ripped... | Depop",
+    "url": "https://www.depop.com/products/beautywqueens-lei-light-wash-distressed-flare-31b6/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash high-waisted straight leg jeans size 01...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash high-waisted straight leg jeans size 01... | Depop",
+    "url": "https://www.depop.com/products/av2b6741-light-wash-high-waisted-straight-leg-73da/"
+   },
+   {
+    "date": "2026-07-30",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Explore\nSneakers.\nWhatever your style.\nFind it on Depop",
+    "source": "web",
+    "title": "Explore - Depop",
+    "url": "https://www.depop.com/explore/"
+   },
+   {
+    "date": "2020-05-21",
+    "last_updated": "2025-06-29",
+    "place_metadata": null,
+    "snippet": "Loading…barbaraaa_rLoading…Loading…Loading…Loading…Loading…Loading…Loading…\n...\nThese are sold idk how to delete a listingLoading…",
+    "source": "web",
+    "title": "These are sold idk how to delete a listing | Depop",
+    "url": "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Garage low-rise light washed denim cargo pants....\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Garage Women's Black and Blue Jeans",
+    "source": "web",
+    "title": "Garage low-rise light washed denim cargo pants.... | Depop",
+    "url": "https://www.depop.com/products/mid0ightballet-garage-low-rise-light-washed-denim-b137/"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash denim capri jeans with a relaxed fit,...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash denim capri jeans with a relaxed fit,... | Depop",
+    "url": "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "thrifting4treasure's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# thrifting4treasure",
+    "source": "web",
+    "title": "thrifting4treasure's Shop | Depop",
+    "url": "https://www.depop.com/thrifting4treasure/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0008,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00352
+   },
+   "prompt_tokens": 129,
+   "search_context_size": "low",
+   "total_tokens": 147
+  }
+ }
+}

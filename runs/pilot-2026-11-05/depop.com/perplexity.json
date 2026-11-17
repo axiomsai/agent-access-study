@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/products/buuchesoflovely-abercrombie-fitch-duster-kimono-b3e7/",
+  "https://www.depop.com/category/womens/",
+  "https://www.depop.com/products/boghairbella-floral-babydoll-style-cami-tank-1ad0/",
+  "https://www.depop.com/products/dust2dolltrs-black-high-waisted-wide-leg-pants-with-6fb3/",
+  "https://www.depop.com/products/katpoppeu-banana-republic-black-silk-button-up-47b7/",
+  "https://www.depop.com/products/lildolscloset-whimsy-summer-milkmaid-dresstop-open-2879/",
+  "https://www.depop.com/products/steelescrikpss-outdoor-voices-blue-workout-dress-95ce/",
+  "https://www.depop.com/explore/us-kw-girl/",
+  "https://www.depop.com/category/beauty/"
+ ],
+ "cited_store": true,
+ "answer": "Depop - buy, sell, discover unique fashion\n\n'80s",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Depop - buy, sell, discover unique fashion\n\n'80s",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/products/buuchesoflovely-abercrombie-fitch-duster-kimono-b3e7/",
+   "https://www.depop.com/category/womens/",
+   "https://www.depop.com/products/boghairbella-floral-babydoll-style-cami-tank-1ad0/",
+   "https://www.depop.com/products/dust2dolltrs-black-high-waisted-wide-leg-pants-with-6fb3/",
+   "https://www.depop.com/products/katpoppeu-banana-republic-black-silk-button-up-47b7/",
+   "https://www.depop.com/products/lildolscloset-whimsy-summer-milkmaid-dresstop-open-2879/",
+   "https://www.depop.com/products/steelescrikpss-outdoor-voices-blue-workout-dress-95ce/",
+   "https://www.depop.com/explore/us-kw-girl/",
+   "https://www.depop.com/category/beauty/"
+  ],
+  "created": 1793905862,
+  "id": "resp_bf1e86c3-8242-4ee1-bf53-397458b2245b",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Abercrombie & Fitch Duster Kimono One Size Rust...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\nAbercrombie & Fitch Duster Kimono One Size Rust Sheer Tie Front BoHo Festival\nThis gal has all the bohemian vibes - maxi length, sheer, open, and elongated side slits!\nIn great, gently worn condition.\nNo visible...",
+    "source": "web",
+    "title": "Abercrombie & Fitch Duster Kimono One Size Rust... | Depop",
+    "url": "https://www.depop.com/products/buuchesoflovely-abercrombie-fitch-duster-kimono-b3e7/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Secondhand, Vintage & Preloved Women's Clothing | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Women's Clothing\n(58.2M results)\nGet your next wardrobe update right here.\nFrom staples like dresses, shirts and jeans to the trending designer and vintage items.\nDenim for all seasons from 70s, 90s and 00s.\nShoe...",
+    "source": "web",
+    "title": "See All Womenswear",
+    "url": "https://www.depop.com/category/womens/"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Floral babydoll style cami tank top with small lace...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Floral babydoll style cami tank top with small lace... | Depop",
+    "url": "https://www.depop.com/products/boghairbella-floral-babydoll-style-cami-tank-1ad0/"
+   },
+   {
+    "date": "2026-10-20",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Paris Blues Women's Black Trousers\n$7.00\nincl. marketplace fee\nSize 3\nLike new condition\nParis Blues\nThis seller often ships in 2 days",
+    "source": "web",
+    "title": "Black high-waisted wide-leg pants with a tailored... | Depop",
+    "url": "https://www.depop.com/products/dust2dolltrs-black-high-waisted-wide-leg-pants-with-6fb3/"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Banana Republic Black silk button-up blouse with...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Banana Republic Women's Black Blouse",
+    "source": "web",
+    "title": "Banana Republic Black silk button-up blouse with... | Depop",
+    "url": "https://www.depop.com/products/katpoppeu-banana-republic-black-silk-button-up-47b7/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Whimsy summer milkmaid dress/top\nOPEN TO OFFERS!\n-...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Whimsy summer milkmaid dress/top OPEN TO OFFERS! -... | Depop",
+    "url": "https://www.depop.com/products/lildolscloset-whimsy-summer-milkmaid-dresstop-open-2879/"
+   },
+   {
+    "date": "2026-10-25",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Outdoor voices blue workout dress.\nSize small....\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Outdoor Voices Women's Navy and Blue Dress\n$8.05\nincl. marketplace fee\nSize S\nFair condition\nOutdoor Voices\n...\n## More from this seller\n- Guess",
+    "source": "web",
+    "title": "Outdoor voices blue workout dress. Size small.... | Depop",
+    "url": "https://www.depop.com/products/steelescrikpss-outdoor-voices-blue-workout-dress-95ce/"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Girls’ clothes and shoes | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Girls’ clothes and shoes\nDepop offers girls’ fashion in every size and fit.\nLet your little ones show off their unique style in pre-loved girl clothes and shoes that are kind on your wallet and kind to the planet.\nShop our extensive co...",
+    "source": "web",
+    "title": "Girls’ clothes and shoes | Depop",
+    "url": "https://www.depop.com/explore/us-kw-girl/"
+   },
+   {
+    "date": "2025-05-28",
+    "last_updated": "2025-06-19",
+    "place_metadata": null,
+    "snippet": "# Beauty\n...\nExplore this collection of must-have beauty products.\nMakeup, skincare, accessories and designer fragrance.",
+    "source": "web",
+    "title": "Beauty | Depop",
+    "url": "https://www.depop.com/category/beauty/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 14,
+   "cost": {
+    "input_tokens_cost": 0.0007199999999999999,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00326
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 71
+  }
+ }
+}

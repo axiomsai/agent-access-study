@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/join",
+  "https://help.etsy.com/hc/en-us/articles/360001920447-What-is-Etsy",
+  "https://www.etsy.com/",
+  "https://www.etsy.com/about",
+  "https://www.etsy.com/market/ety",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/sell",
+  "https://help.etsy.com/hc/en-gb/articles/360001920447-What-is-Etsy",
+  "https://www.etsy.com/market/online_shop",
+  "https://www.etsy.com/c/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/join",
+   "https://help.etsy.com/hc/en-us/articles/360001920447-What-is-Etsy",
+   "https://www.etsy.com/",
+   "https://www.etsy.com/about",
+   "https://www.etsy.com/market/ety",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/sell",
+   "https://help.etsy.com/hc/en-gb/articles/360001920447-What-is-Etsy",
+   "https://www.etsy.com/market/online_shop",
+   "https://www.etsy.com/c/"
+  ],
+  "created": 1793906245,
+  "id": "resp_561fbfd2-83d0-4774-9f4c-b7be2e169c7f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": null,
+    "place_metadata": null,
+    "snippet": "Join | Etsy\n# Welcome, let's get your account set up\nCreate account\nBy clicking Create account or Continue with Google, Facebook, or Apple, you agree to Etsy's Terms of Use and Privacy Policy.",
+    "source": "web",
+    "title": "Create your account - Etsy",
+    "url": "https://www.etsy.com/join"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What is Etsy?\nSpecial starts on Etsy.\nEtsy connects people looking for unique goods with independent sellers around the world.\nWhen you shop on Etsy, you can choose from millions of handmade treasures, personalized pieces, vintage finds, and more—created and curated by millions of small business o...",
+    "source": "web",
+    "title": "What is Etsy?",
+    "url": "https://help.etsy.com/hc/en-us/articles/360001920447-What-is-Etsy"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n...\n# Find a gift that feels like them\n## What is Etsy?\n### A community doing good\nEtsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items.\nWe’re also a community pushing for...",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Keep Commerce Human\nEtsy is the global marketplace for unique and creative goods.\nIt's home to a universe of special, extraordinary items, from unique handcrafted pieces to vintage treasures.\nIn a time of increasing automation, it's our mission to keep human connection at the heart of commerce.\nTh...",
+    "source": "web",
+    "title": "About Etsy",
+    "url": "https://www.etsy.com/about"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n...\n# Find a gift that feels like them\n## What is Etsy?\n### A community doing good\nEtsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items.\nWe’re also a community pushing for...",
+    "source": "web",
+    "title": "Ety",
+    "url": "https://www.etsy.com/market/ety"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n989+ items\nSort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "How to sell on Etsy United States\n# Join the creative marketplace where millions of shoppers spend billions each year purchasing directly from creative entrepreneurs like you.\n...\nList your first item for just $0.20—you only pay transaction, payment processing, and offsite advertising fees when you ...",
+    "source": "web",
+    "title": "How to sell on Etsy United States",
+    "url": "https://www.etsy.com/sell"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# What is Etsy?\nSpecial starts on Etsy.\nEtsy connects people looking for unique goods with independent sellers around the world.\nWhen you shop on Etsy, you can choose from millions of handmade treasures, personalised pieces, vintage finds, and more – created and curated by millions of small business...",
+    "source": "web",
+    "title": "What is Etsy? – Etsy",
+    "url": "https://help.etsy.com/hc/en-gb/articles/360001920447-What-is-Etsy"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n...\n# Find a gift that feels like them\n## What is Etsy?\n### A community doing good\nEtsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items.\nWe’re also a community pushing for...",
+    "source": "web",
+    "title": "Online Shop",
+    "url": "https://www.etsy.com/market/online_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "All Categories - Etsy\n# All Categories\nArt & Collectibles\nHome & Living\nJewelry\nCraft Supplies & Tools\nElectronics & Accessories\n(1,000+ items)\n- ### LANTERN Power Ring Replica - Realistic GL ring [Read DESCRIPTION]\n...\n- ### NEW Book Sweet Drop of Fairy Honey UNIQUE 8.\n...\n## We’re on a mission to ...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00136,
+    "output_tokens_cost": 0.00018,
+    "request_cost": 0.0025,
+    "total_cost": 0.00404
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n**Category/Product Name:** Pharmacy",
+ "finish": "STOP",
+ "cost_usd": 0.00215,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n**Category/Product Name:** Pharmacy",
+       "thoughtSignature": "EnMKcQFpFH0TMbwN5qkT5WZ4GwGkcPT3oXvq1GXekSN63R007pLtmK1OKVPNzi8bmz3PSUtHd8M65ENr09MMQGTGgjii4Rsbe0+U+2Nk8PfVabD/+t/koC9AXlCUskVLKaiSHsGXQuU/NNHEp96t24MlQC7m"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 44,
+   "totalTokenCount": 21321,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 21215,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21215
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "qtTsavyxKM6kmtkP_OvYgQ0"
+ }
+}

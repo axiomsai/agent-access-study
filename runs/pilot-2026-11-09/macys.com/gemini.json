@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.macys.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nProduct/Category Name: Women",
+ "finish": "STOP",
+ "cost_usd": 0.00051,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nProduct/Category Name: Women",
+       "thoughtSignature": "EnMKcQFpFH0Td9wT0xq6a84FPYecP/GjF4bIeCwPnZ6+BaLz9x7L9yoyt89jDqyA6kqCDJbykPrHykdVhBtsdp1MKbSrLl04NK2mNMD1g7enY/uzmIe1XiHRe/0qd26HkrGsDmxAEPSyVEUWpaHsIafCIf6r"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.macys.com/",
+        "title": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys ..."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 84,
+        "text": "Page Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 86,
+        "endIndex": 114,
+        "text": "Product/Category Name: Women"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.macys.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 4895,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4776,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4776
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "qQ7yaoz6BNzVz7IPm4S50A0"
+ }
+}

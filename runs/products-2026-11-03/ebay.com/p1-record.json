@@ -1,0 +1,60 @@
+{
+ "domain": "ebay.com",
+ "url": "https://www.ebay.com/itm/276582090868",
+ "idx": 1,
+ "at": "2026-11-03T18:13:33-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "15404 chars, copy dated 2026-09-04 (60 days old)",
+   "parsed": true,
+   "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+   "price": 439.99,
+   "price_raw": "$439.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-09-04T12:01:03+00:00",
+   "age_days": 60,
+   "cost_usd": 0.13793
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+   "price": 399.99,
+   "price_raw": "$399.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00056
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Dyson V15 Detect Total Clean Extra | Yellow/Nickel | Refurbished",
+   "price": 349.99,
+   "price_raw": "$349.99",
+   "stock": "OUT OF STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01232
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Dyson V15 Detect Total Clean Extra",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

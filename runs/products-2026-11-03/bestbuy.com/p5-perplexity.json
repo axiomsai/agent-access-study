@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/openbox",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/12745285/reviews",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/reviews?pageSize=20",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-128gb-storage-wi-fi-6e-silver/JJ8V8HG45X",
+  "https://www.bestbuy.com/site/questions/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/13229807",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-lpddr4x-64gb-emmc-64gb-sd-card-silver/J3GWQRFR7R",
+  "https://www.bestbuy.com/product/acer-chromebook-315--15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540--4gb-memory--64gb-storage--wi-fi-6e-silver/JJ8V8HLKPT/sku/13229807/reviews",
+  "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-memory-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver | PRICE: $349.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00522,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver | PRICE: $349.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/openbox",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/12745285/reviews",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/reviews?pageSize=20",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-128gb-storage-wi-fi-6e-silver/JJ8V8HG45X",
+   "https://www.bestbuy.com/site/questions/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/13229807",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-lpddr4x-64gb-emmc-64gb-sd-card-silver/J3GWQRFR7R",
+   "https://www.bestbuy.com/product/acer-chromebook-315--15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540--4gb-memory--64gb-storage--wi-fi-6e-silver/JJ8V8HLKPT/sku/13229807/reviews",
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-memory-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S"
+  ],
+  "created": 1793751338,
+  "id": "resp_89d7422a-3c44-4fc2-9429-d9fe7dc458d6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver - Open Box - Best Buy\n...\n# Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver - Open Box - Fair\nMode...",
+    "source": "web",
+    "title": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI ...",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/openbox"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver - Best Buy\n...\n# Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver\nModel: CB315-8H-81DD\nSKU: 6667575...",
+    "source": "web",
+    "title": "Protect your laptop",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Acer Refurbished Excellent Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver - Best Buy\n...\n## Acer - Refurbished Excellent - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-F...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/12745285/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver - Best Buy\n...\n## Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver\n- **Model:**\nCB315-8H-81DD\n|\n- *...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT/sku/6667575/reviews?pageSize=20"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 128GB Storage – Wi Fi 6E Silver - Best Buy\n...\n# Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 128GB Storage – Wi-Fi 6E - Silver\nModel: CB315-8H-85UW\nSKU: 66675...",
+    "source": "web",
+    "title": "Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI ...",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-128gb-storage-wi-fi-6e-silver/JJ8V8HG45X"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Questions and Answers: Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E Silver CB315-8H-81DD - Best Buy\n...\n## Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Si...",
+    "source": "web",
+    "title": "Questions and Answers: Acer Chromebook 315 – 15.6\" FHD Laptop ...",
+    "url": "https://www.bestbuy.com/site/questions/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/13229807"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "# Acer - Upgraded - Chromebook 315 - 15.6\" FHD Laptop with Google AI - Intel Celeron N4500 - 4GB Memory - 64GB eMMC + 64GB SD Card - IST HUB - Silver\nModel: CB315\n...\nAcer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver",
+    "source": "web",
+    "title": "Chromebook 315 15.6\" FHD Laptop - Intel Celeron N4500",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI Intel Celeron N4500 4GB LPDDR4X 64GB eMMC+64GB SD Card Silver - Best Buy\n...\n# Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - Intel Celeron N4500 - 4GB LPDDR4X - 64GB eMMC+64GB SD Card - Silver\nModel: CB315-4H-C0BR\nSKU: 12512778\n...\nTh...",
+    "source": "web",
+    "title": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI Intel ...",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-lpddr4x-64gb-emmc-64gb-sd-card-silver/J3GWQRFR7R"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi Fi 6E Silver - Best Buy\n...\n## Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver\n- **Model:**\nCB315-8H-81DD\n|\n- *...",
+    "source": "web",
+    "title": "Acer Chromebook 315 – 15.6\" FHD Laptop with Google AI ...",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315--15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540--4gb-memory--64gb-storage--wi-fi-6e-silver/JJ8V8HLKPT/sku/13229807/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Acer Upgraded Chromebook 315 15.6\" FHD Laptop with Google AI Intel Celeron N4500 4GB Memory 64GB eMMC + 64GB SD Card IST HUB Silver - Best Buy\n...\n# Acer - Upgraded - Chromebook 315 - 15.6\" FHD Laptop with Google AI - Intel Celeron N4500 - 4GB Memory - 64GB eMMC + 64GB SD Card - IST HUB - Silver\nMod...",
+    "source": "web",
+    "title": "Acer Upgraded Chromebook 315 15.6\" FHD Laptop with Google AI ...",
+    "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-intel-celeron-n4500-4gb-memory-64gb-emmc-64gb-sd-card-ist-hub-silver/J3GWQRF92S"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 62,
+   "cost": {
+    "input_tokens_cost": 0.00189,
+    "output_tokens_cost": 0.0004,
+    "request_cost": 0.0025,
+    "total_cost": 0.00479
+   },
+   "prompt_tokens": 160,
+   "search_context_size": "low",
+   "total_tokens": 222
+  }
+ }
+}

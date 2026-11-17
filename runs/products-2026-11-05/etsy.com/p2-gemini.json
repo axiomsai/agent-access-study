@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.etsy.com/listing/1145741800/personalized-wood-name-puzzle-acrylic",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift | PRICE: $39.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00199,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Personalized Wood Name Puzzle, Acrylic Letters, Baby Shower Gift | PRICE: $39.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0Tk+89RrCu2abcMozp2BzxJAecGichKUqjFluNDmgJmiDyzuTzMIr/nps4Yr5wsL8uHJrXvSDRJ/OAHvsWzmuipiijYS8is4QgYy0gpLzzomqcl02zeGBRZNoKwequd7WaMQOI4wlAA0Gz3zsW"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.etsy.com/listing/1145741800/personalized-wood-name-puzzle-acrylic",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 128,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 19695,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 128
+    }
+   ],
+   "toolUsePromptTokenCount": 19503,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 19503
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "IdbsarvJGPSaqtsPtd-KyAo"
+ }
+}

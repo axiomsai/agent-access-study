@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The requested page requires interaction or has blocked automated access, as indicated by the presence of a CAPTCHA-like environment/bot-detection scripts.",
+ "finish": "STOP",
+ "cost_usd": 0.00219,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The requested page requires interaction or has blocked automated access, as indicated by the presence of a CAPTCHA-like environment/bot-detection scripts.",
+       "thoughtSignature": "EnMKcQFpFH0TUnXeEC6L5+iKDOJOBD8Ivs+SfKcy303Ul4Ob33azAwI4XapWvkjdFJ2Mme9diOZ0ffzcvYA7zdWUIJK4E4xHFuvwBiW4ZH5ikQGEuSnY0lmmwp4/55jPDA5OXT9JCrW0y1gvGZBXfXzeVFj1"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 204,
+   "candidatesTokenCount": 156,
+   "totalTokenCount": 21449,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 204
+    }
+   ],
+   "toolUsePromptTokenCount": 21089,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21089
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "sHjqapGNF-nT_PUPp-ay0Q4"
+ }
+}

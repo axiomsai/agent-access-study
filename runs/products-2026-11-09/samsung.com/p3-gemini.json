@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00059,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TIfsn/nTOFF7PG3KFC+s+72/Qyo17v7fpCVK3dg0+6KeBe0GYXD7EBToEW1RdRbx1CJUpaRAJxE2AuguI3EoPX9KdAQTezT3ikpyCBHssMinycBfigvrzNyVTTWoUXPBoIzshCGXG0iopwd3g"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 132,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 5660,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 132
+    }
+   ],
+   "toolUsePromptTokenCount": 5463,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5463
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "QBLyaqyBCtqgz7IP2pOa6Qk"
+ }
+}

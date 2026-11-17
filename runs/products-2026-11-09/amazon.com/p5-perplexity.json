@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+  "https://us.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8/ref=zg_bs_g_hpc_d_sccl_6/143-6971842-8148704?psc=1",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/b?node=21439846011",
+  "https://www.amazon.com/shop/loverboy",
+  "https://www.amazon.com/hz/wishlist/ls/1C7523263SV2Y/ref=nav_wishlist_lists_1",
+  "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: $12.77 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: $12.77 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+   "https://us.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8/ref=zg_bs_g_hpc_d_sccl_6/143-6971842-8148704?psc=1",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/b?node=21439846011",
+   "https://www.amazon.com/shop/loverboy",
+   "https://www.amazon.com/hz/wishlist/ls/1C7523263SV2Y/ref=nav_wishlist_lists_1",
+   "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart"
+  ],
+  "created": 1794248470,
+  "id": "resp_89ffd2bc-744b-42c4-885a-2f6ef3c8e2ce",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | Toilet Tissue\n- Health & Household\n...\n- Household Supplies\n...\n# Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong\nToilet Tissue\n...\nPackage Size Name: Mega\n- Mega\nSize: 18 Mega Rolls (...",
+    "source": "web",
+    "title": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular ...",
+    "url": "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | Toilet Tissue\n- Health & Household\n...\n- Household Supplies\n...\n# Not Added\n##### One-time purchase $12.77 $ 12 . 77 $0.22 per Sheets ( $0.22 $0.22 /100 Sheets) FREE delivery Saturday, November 14 on orders ship...",
+    "source": "web",
+    "title": "Amazon.com: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | Toilet Tissue",
+    "url": "https://us.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8/ref=zg_bs_g_hpc_d_sccl_6/143-6971842-8148704?psc=1"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Silkland 80Gbps DisplayPort Cable 2.1 [VESA Certified] 6.6FT/2M, DP80 HDR\n16K@60Hz, 8K@240Hz, 4K@540Hz 480Hz 360Hz 240Hz, DP 2.1 Cable for DisplayPort 1.4 Cable, HDR, DSC HDCP 2.3 Gaming Monitor 5090\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "contact us\n...\nSkip to main search results\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 1,000 results for \"products\"\nLira Clinical BIO Caviar Crème - Ultra-Hydrating Facial Moisturizer - 1 oz | BV-OSC Vitamin C, Colloidal Gold And Silver, Madonna Lily Plant Stem Cells, Macadamia Oil, Kukui Nut Oil, Aging Complexion",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Amazon.com: : All Departments\n# Department\n- ## International Shopping Top Categories",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=21439846011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "USE the search bar for items not listed, Thank you!!'s Amazon Page",
+    "source": "web",
+    "title": "USE the search bar for items not listed, Thank you!!",
+    "url": "https://www.amazon.com/shop/loverboy"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n#### Added to List\n...\n#### There was a problem\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/1C7523263SV2Y/ref=nav_wishlist_lists_1"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com Shopping Cart\n# All Carts\n## Shopping Cart\n### No items saved for later\nThe price and availability of items at Amazon.com are subject to change.",
+    "source": "web",
+    "title": "Amazon.com Shopping Cart",
+    "url": "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 37,
+   "cost": {
+    "input_tokens_cost": 0.00092,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00366
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 153
+  }
+ }
+}

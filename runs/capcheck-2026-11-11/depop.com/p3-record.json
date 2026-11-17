@@ -1,0 +1,25 @@
+{
+ "domain": "depop.com",
+ "idx": 3,
+ "url": "https://www.depop.com/products/ptyjennu-message-before-buying-so-i-0180/",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15370,
+   "cost_usd": 0.06666
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15376,
+   "cost_usd": 0.06662
+  }
+ }
+}

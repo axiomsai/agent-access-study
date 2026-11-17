@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+  "https://partnernetwork.ebay.com/page/excluded-sites",
+  "https://www.ebay.com/help/policies/prohibited-restricted-items/prohibited-restricted-items?id=4207",
+  "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm",
+  "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+  "https://www.ebay.com/sts",
+  "https://pages.ebay.com/robots.txt",
+  "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248",
+  "https://www.ebay.com/help/policies/resolving-technical-issues/technical-issues?id=4220"
+ ],
+ "cited_store": true,
+ "answer": "blocked",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+   "https://partnernetwork.ebay.com/page/excluded-sites",
+   "https://www.ebay.com/help/policies/prohibited-restricted-items/prohibited-restricted-items?id=4207",
+   "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm",
+   "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+   "https://www.ebay.com/sts",
+   "https://pages.ebay.com/robots.txt",
+   "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248",
+   "https://www.ebay.com/help/policies/resolving-technical-issues/technical-issues?id=4220"
+  ],
+  "created": 1793749440,
+  "id": "resp_963e5991-575b-4ace-b4e4-f4d27435d4c1",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### Using eBay RESTful APIs\n#### Request components\n##### HTTP request headers\n###### Marketplace ID values\n|Marketplace IDs|Country/Region|Marketplace Site|Locale Support|\n|--|--|--|--|\n|`EBAY_US`|United States|https://www.ebay.com (For items in the US motor vehicles or the P&A categories, use EBAY...",
+    "source": "web",
+    "title": "Using eBay RESTful APIs | eBay Developers Program",
+    "url": "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# Excluded Sites\n### Excluded Sites\nIn accordance with Section (I) (J)(1) of Exhibit A of the Network Agreement Policies, you must ensure that the list of domains below are excluded from your paid search campaigns.\nWe may update this list from time to time.\nPlease make sure you check this list regul...",
+    "source": "web",
+    "title": "Excluded sites",
+    "url": "https://partnernetwork.ebay.com/page/excluded-sites"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-03-18",
+    "place_metadata": null,
+    "snippet": "If you see a listing that doesn't follow one of our policies, report it from the\n**Report item** link in the listing.\n...\nIf you see a listing that doesn't follow one of our policies, report it via the\n**Report item** link in the listing.",
+    "source": "web",
+    "title": "Prohibited and restricted items",
+    "url": "https://www.ebay.com/help/policies/prohibited-restricted-items/prohibited-restricted-items?id=4207"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Errors by Number\n## Trading Errors in Numeric Order\n|17727|Serious Error|Short error: A URL for the page was not entered.\nPlease enter a URL.\nLong error: A URL for the page was not entered.\nPlease enter a URL.|\n|17728|Serious Error|Short error: You entered a URL that is already being used by anoth...",
+    "source": "web",
+    "title": "Errors by Number",
+    "url": "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm"
+   },
+   {
+    "date": "2024-06-11",
+    "last_updated": "2025-04-13",
+    "place_metadata": null,
+    "snippet": "It looks like you're trying to access it via http:// instead of https:// which may be the cause.\nYou might try editing the protocol in the address bar to https and see if it works.\n...\neBays web address is https://www.ebay.com/\nIf you couldn't access eBay at all you wouldn't have been able to post h...",
+    "source": "web",
+    "title": "ACCESS DENIED - I can't access ebay at all, please help!",
+    "url": "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089"
+   },
+   {
+    "date": "2023-07-02",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "\"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\" | Report eBay Technical Issues | eBay Community\n...\n##### \"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\"\nI can get about 3 clicks on the ebay website using chrome unti...",
+    "source": "web",
+    "title": "\"Access Denied You don't have permission to access \"http ...",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/"
+   },
+   {
+    "date": null,
+    "last_updated": "2024-11-06",
+    "place_metadata": null,
+    "snippet": "This page offers information on certain aspects of the eBay site and services.\nFor help with a specific problem, please contact Customer Service.",
+    "source": "web",
+    "title": "System Status",
+    "url": "https://www.ebay.com/sts"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "# allow-all\n...\n# The use of robots or other automated means to access the eBay site\n# without the express permission of eBay is strictly prohibited.\n# Notwithstanding the foregoing, eBay may permit automated access to\n# access certain eBay pages but solely for the limited purpose of\n# including con...",
+    "source": "web",
+    "title": "eBay",
+    "url": "https://pages.ebay.com/robots.txt"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-03-18",
+    "place_metadata": null,
+    "snippet": "To protect our members, listings or products can't contain links that direct customers to a site other than eBay, even if the link is not clickable.\nWhile there are some exceptions, listings or item descriptions can't contain links that direct customers to any other site.",
+    "source": "web",
+    "title": "Links policy",
+    "url": "https://www.ebay.com/help/policies/listing-policies/links-policy?id=4248"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-03-18",
+    "place_metadata": null,
+    "snippet": "If site features are loading slowly or unavailable, check our system status board to see if there are any known technical issues that are being worked on.\nWe might also be carrying out scheduled maintenance.\nOur system status board will also contain notices of when scheduled work is planned.\nIf this...",
+    "source": "web",
+    "title": "Technical issues",
+    "url": "https://www.ebay.com/help/policies/resolving-technical-issues/technical-issues?id=4220"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 1,
+   "cost": {
+    "input_tokens_cost": 0.00105,
+    "output_tokens_cost": 1e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00356
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 58
+  }
+ }
+}

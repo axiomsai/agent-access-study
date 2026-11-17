@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Maxwell House Original Roast Ground Coffee, Canister | PRICE: $15.49 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00052,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Maxwell House Original Roast Ground Coffee, Canister | PRICE: $15.49 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TlWjTNPQDY5FZQJcyTyAzWIc6w6ZsHjVKjrNYjUHCyjIZQDMNCLtE1AnlwfYeyfBKuG5euhIK/+JBn7ma+WewtIwqVkAVnI3zkVuxCOBP7J/JYXNCtQ6reGHzUTJC/ctcXSEEQ1QrCsN/PzSl"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 148,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 4947,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 148
+    }
+   ],
+   "toolUsePromptTokenCount": 4717,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4717
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "fXjqaq39FsKt6dkPv52-oQI"
+ }
+}

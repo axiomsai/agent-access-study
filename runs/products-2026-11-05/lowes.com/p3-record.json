@@ -1,0 +1,60 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+ "idx": 3,
+ "at": "2026-11-05T13:25:43-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "9404 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:25:49+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10276
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "OUT OF STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00109
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01243
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights",
+   "price": 349.0,
+   "price_raw": "$349.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00519
+  }
+ }
+}

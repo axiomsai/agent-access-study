@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00021,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0ThuipzuCAdcc/M0kSQxSYQtDEejwc1tH1Ow5G1US2OnbrbNu2j2/vNioe8vCl4pBH+Rl2S5J82noxc126f9HcMY+uiIqafsmNWzwBLc0Wn9q3ITVHVexIrxK8jt767jOus2LQVUbgWvY4v662"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 152,
+   "candidatesTokenCount": 89,
+   "totalTokenCount": 1874,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 152
+    }
+   ],
+   "toolUsePromptTokenCount": 1633,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1633
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "BXnqatH7DKq6qtsPn-6H2A4"
+ }
+}

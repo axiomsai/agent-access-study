@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Iago Outdoor Umbrella | PRICE: $185.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00058,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Iago Outdoor Umbrella | PRICE: $185.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TZK6/nEYNJ3IB40FXkUydq+0OIwcMkAQN0trzHKxq9Uv0cjjuSf41nUCVI9/QotLmHm3fOY79BD1eBvuKwDRGsJOyZGIfee5gHIWxdKJMtYvOF9hSSJ4bSi1twaRt5iYIJ43PWPBLqgcHPQSp"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 145,
+   "candidatesTokenCount": 75,
+   "totalTokenCount": 5570,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 145
+    }
+   ],
+   "toolUsePromptTokenCount": 5350,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5350
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "q9rsasS7IbejqtsP6q7noQo"
+ }
+}

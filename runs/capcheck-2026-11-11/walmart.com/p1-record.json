@@ -1,0 +1,25 @@
+{
+ "domain": "walmart.com",
+ "idx": 1,
+ "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "16972 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 16972,
+   "input_tokens": 31237,
+   "cost_usd": 0.13793
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "77165 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 199.0,
+   "opened": "YES",
+   "doc_chars": 77165,
+   "input_tokens": 28517,
+   "cost_usd": 0.12349
+  }
+ }
+}

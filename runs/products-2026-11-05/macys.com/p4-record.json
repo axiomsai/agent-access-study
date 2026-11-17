@@ -1,0 +1,60 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+ "idx": 4,
+ "at": "2026-11-05T13:40:16-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15426 chars, copy dated 2026-11-04 (1 days old)",
+   "parsed": true,
+   "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:16:42+00:00",
+   "age_days": 1,
+   "cost_usd": 0.14215
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+   "price": 157.25,
+   "price_raw": "$157.25",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0007
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set",
+   "price": 185.0,
+   "price_raw": "$185.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02361
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "4-Piece Flowerbomb Eau de Parfum Gift Set",
+   "price": 157.25,
+   "price_raw": "$157.25",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "domain": "amazon.com",
+ "url": "https://www.amazon.com/",
+ "started": "2026-11-05T13:09:53-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "ClaudeBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Google-Extended": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 202,
+  "final_url": "https://www.amazon.com/",
+  "bytes": 2007,
+  "error": null,
+  "title": "",
+  "markers": [
+   "javascript is disabled"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "836 chars, copy dated 2025-09-21 (410 days old)",
+   "answer": "I opened https://www.amazon.com/ and the fetch worked. The page returned text content.\n\n- **Page title:** The tool didn't return one (the title field came back as `null`), so I can't tell you what it is.\n- **One category name on the page:** \"Grade school office tech\"",
+   "cost_usd": 0.0674
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "URL_RETRIEVAL_STATUS_ERROR",
+   "answer": "Blocked",
+   "cost_usd": 3e-05
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Amazon.com. Spend less. Smile more.  \nProduct/category: Books",
+   "cost_usd": 0.023280000000000002
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Title: Amazon.com  \nCategory: Home & Kitchen[1]",
+   "cost_usd": 0.00507
+  }
+ }
+}

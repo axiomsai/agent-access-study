@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+  "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Slim-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065629",
+  "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Family-Collection/GR_32661",
+  "https://www.lowes.com/pl/christmas-decorations/christmas-trees/kensington-pine/4294417432-1211132938917",
+  "https://www.lowes.com/ple/kensington",
+  "https://www.lowes.com/pl/holiday-decorations/holiday-living/pre-lit/4294586715-4294965360-4294701146",
+  "https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430",
+  "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Flocked-7-5-ft/GR_32813",
+  "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Pre-Lit-Englewood-Pine-Artificial-Christmas-Tree-with-600-Multi-Function-Color-Changing-LED-Lights/1000111087",
+  "https://www.lowes.com/collections/Holiday-Living-New-Kensington-7-5-ft/GR_32812"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: $349.00 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.0052,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: $349.00 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+   "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Slim-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065629",
+   "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Family-Collection/GR_32661",
+   "https://www.lowes.com/pl/christmas-decorations/christmas-trees/kensington-pine/4294417432-1211132938917",
+   "https://www.lowes.com/ple/kensington",
+   "https://www.lowes.com/pl/holiday-decorations/holiday-living/pre-lit/4294586715-4294965360-4294701146",
+   "https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430",
+   "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Flocked-7-5-ft/GR_32813",
+   "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Pre-Lit-Englewood-Pine-Artificial-Christmas-Tree-with-600-Multi-Function-Color-Changing-LED-Lights/1000111087",
+   "https://www.lowes.com/collections/Holiday-Living-New-Kensington-7-5-ft/GR_32812"
+  ],
+  "created": 1793751293,
+  "id": "resp_121e06fa-c14e-4d2f-bfc7-69ce838e6bbe",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-20",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights in the Artificial Christmas Trees department at Lowes.com\n...\n# Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nIt...",
+    "source": "web",
+    "title": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial ...",
+    "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Holiday Living 7.5-ft Slim New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights in the Artificial Christmas Trees department at Lowes.com\n...\n# Holiday Living 7.5-ft Slim New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED...",
+    "source": "web",
+    "title": "Holiday Living 7.5-ft Slim New Kensington Pine Pre-lit ...",
+    "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Slim-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065629"
+   },
+   {
+    "date": "2026-10-20",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "1K+bought last week\n**Holiday Living** 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nView Details\nHoliday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nSelect\n377\n$349.00\n^$^349^.00...",
+    "source": "web",
+    "title": "Holiday Living New Kensington Family Collection at Lowes.com",
+    "url": "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Family-Collection/GR_32661"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "#### 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nfor pricing and availability\n##### 4.7\n377\nCeiling Height Clearance:9 (ft)\nTree Species:Kensington pine\nLight Pattern:Twinkling\nMultiple Options Available\n...\n#### 7.5-ft Slim New Kensington Pi...",
+    "source": "web",
+    "title": "Kensington Pine Christmas Trees with Lights | Lowe's",
+    "url": "https://www.lowes.com/pl/christmas-decorations/christmas-trees/kensington-pine/4294417432-1211132938917"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Holiday Living\n#### 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nFind My Store\nfor pricing and availability\n##### 4.7\n378\nCeiling Height Clearance:9 (ft)\nTree Species:Kensington pine\nLight Pattern:Twinkling",
+    "source": "web",
+    "title": "Kensington at Lowes.com",
+    "url": "https://www.lowes.com/ple/kensington"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "### Holiday Living\n#### 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nfor pricing and availability\n##### 4.7\n378\nCeiling Height Clearance:9 (ft)\nTree Species:Kensington pine\nLight Pattern:Twinkling\nMultiple Options Available\n### Holiday Living\n...",
+    "source": "web",
+    "title": "Holiday Living Pre-lit Holiday Decorations at Lowes.com",
+    "url": "https://www.lowes.com/pl/holiday-decorations/holiday-living/pre-lit/4294586715-4294965360-4294701146"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "#### 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nfor pricing and availability\n##### 4.7\n378\nCeiling Height Clearance:9 (ft)\nTree Species:Kensington pine\nLight Pattern:Twinkling\nMultiple Options Available\n...\n#### 7.5-ft Slim New Kensington Pi...",
+    "source": "web",
+    "title": "Artificial Christmas Trees in Pre-Lit & Flocked Styles | Lowe's",
+    "url": "https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430"
+   },
+   {
+    "date": "2026-10-20",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Holiday Living New Kensington Flocked 7.5-ft\n...\n**Holiday Living** 7.5-ft New Kensington pine Pre-lit Flocked White Artificial Christmas Tree with Twinkling Color Changing LED Lights\nView Details\nHoliday Living 7.5-ft New Kensington pine Pre-lit Flocked White Artificial Christmas Tree with Twinkl...",
+    "source": "web",
+    "title": "Holiday Living New Kensington Flocked 7.5-ft at Lowes.com",
+    "url": "https://www.lowes.com/collections/Holiday-Living-New-Kensington-Flocked-7-5-ft/GR_32813"
+   },
+   {
+    "date": "2015-12-12",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Holiday Living 7.5-ft Pre-lit Artificial Christmas Tree LED Lights\n...\nModel #W14L0487\n...\nThis item is no longer sold on Lowes.com\n### Here are some similar items...\nHoliday Living7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\n363\n...\n## Over...",
+    "source": "web",
+    "title": "Holiday Living 7.5-ft Pre-lit Artificial Christmas Tree with ...",
+    "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-Pre-Lit-Englewood-Pine-Artificial-Christmas-Tree-with-600-Multi-Function-Color-Changing-LED-Lights/1000111087"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "# Holiday Living New Kensington 7.5-ft\n...\n**Holiday Living** 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\nView Details\nHoliday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\n361\n$3...",
+    "source": "web",
+    "title": "Holiday Living New Kensington 7.5-ft at Lowes.com",
+    "url": "https://www.lowes.com/collections/Holiday-Living-New-Kensington-7-5-ft/GR_32812"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 44,
+   "cost": {
+    "input_tokens_cost": 0.00174,
+    "output_tokens_cost": 0.00033,
+    "request_cost": 0.0025,
+    "total_cost": 0.00457
+   },
+   "prompt_tokens": 153,
+   "search_context_size": "low",
+   "total_tokens": 197
+  }
+ }
+}

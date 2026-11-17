@@ -1,0 +1,25 @@
+{
+ "domain": "bestbuy.com",
+ "idx": 1,
+ "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "10141 chars, copy dated 2026-11-06 (5 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 10141,
+   "input_tokens": 40814,
+   "cost_usd": 0.1836
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "11488 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 11488,
+   "input_tokens": 31712,
+   "cost_usd": 0.14505
+  }
+ }
+}

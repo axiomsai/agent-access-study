@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page title: Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\nProduct/Category name: Galaxy Smartphones",
+ "finish": "STOP",
+ "cost_usd": 0.00044,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page title: Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\nProduct/Category name: Galaxy Smartphones",
+       "thoughtSignature": "EnMKcQFpFH0TYG5eMziWE4DYP2doY4v7/Joekp5uI7bNXjKeZzOES4fOjX6sjxMU752ysZMNjMB98L8Z3+xGiXiaCdNotrN8Um1oxuERWkB4iq3tZxjpDb5IQU9/z8DMasf5jzo3TUTxPU2/7yIi+d2FCseb"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 46,
+   "totalTokenCount": 4299,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4191,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4191
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "0nHqauCoJLWRmtkPnaHJyAM"
+ }
+}

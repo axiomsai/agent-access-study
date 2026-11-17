@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+  "https://www.cvs.com/shop/brand-shop/g/gruns",
+  "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507-reviews",
+  "https://www.cvs.com/shop/virtual-feeling-sick",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support/q/Gummies/fm",
+  "https://es.cvs.com/shop/virtual-flu-immune-support",
+  "https://www.cvs.com/shop/content/gummy-vitamins",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Gummies/fm"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings | PRICE: $23.99 | STOCK: OUT OF STOCK | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings | PRICE: $23.99 | STOCK: OUT OF STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+   "https://www.cvs.com/shop/brand-shop/g/gruns",
+   "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507-reviews",
+   "https://www.cvs.com/shop/virtual-feeling-sick",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support/q/Gummies/fm",
+   "https://es.cvs.com/shop/virtual-flu-immune-support",
+   "https://www.cvs.com/shop/content/gummy-vitamins",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Gummies/fm"
+  ],
+  "created": 1794249064,
+  "id": "resp_7a8208bb-5af7-4774-b732-b59b762e3625",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings - CVS Pharmacy\n- Health & Medicine\n- Cough, Cold & Flu\n...\n# Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7\n(10 reviews)\n...\nGrüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n## Details\n12 Ct, 0.64 lbs.\nItem # 833...",
+    "source": "web",
+    "title": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "## Grüns Immün, Daily Immunity Gummies, Sugar- Free, 12 Servings\nGruns\n10\n$23.99\n$2.00/ea.\nUnavailable for Pickup\nPickup -\nCheck more stores\nSame-Day Delivery\nShipping\n...\n## Grüns Immün, Daily Immunity Gummies, 12 Servings\nGruns\n33\n$23.99\n$2.00/ea.\nUnavailable for Pickup\nPickup -\nCheck more stores\n...",
+    "source": "web",
+    "title": "Gruns - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/g/gruns"
+   },
+   {
+    "date": "2025-12-16",
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "Customer Reviews: Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings - CVS Pharmacy\nEasy Reorder\n...\n- Health & Medicine\n- Cough, Cold & Flu\n- Immune Support\n- Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n# Customer reviews for Grüns Immün Daily Immunity Gummies, Sugar-Free, ...",
+    "source": "web",
+    "title": "Customer reviews for Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+    "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507-reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "20 products\n$23.99\n$2.00/ea.\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$12.99\n43.3¢/ea.",
+    "source": "web",
+    "title": "Feeling Sick",
+    "url": "https://www.cvs.com/shop/virtual-feeling-sick"
+   },
+   {
+    "date": "2021-12-14",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Immune Support Gummies\n...\nPrice\nReviews\nOn Sale\n30 products\n$23.99\n$2.00/ea.\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$17.39\n29.0¢/ea.",
+    "source": "web",
+    "title": "Immune Support Gummies at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support/q/Gummies/fm"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Flu & Immune Support\n...\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\nGruns\n10\n$23.99\n$2.00/ea.\nNo disponible para Recoger\nRecoger\nEntrega el mismo día\nEnvío\nCargando...El precio puede variar entre compras en línea y en tienda.",
+    "source": "web",
+    "title": "Flu & Immune Support",
+    "url": "https://es.cvs.com/shop/virtual-flu-immune-support"
+   },
+   {
+    "date": "2021-11-23",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Shop & Learn More : Gummy Vitamins - CVS Pharmacy\n...\n# Gummy Vitamins\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$24.99\n31.2¢/ea.\n...\n## Mary Ruth's, Skin Restore & Renew Gummies, Mixed Berry, 30 CT\nPrices may vary from online to in store.",
+    "source": "web",
+    "title": "Shop & Learn More : Gummy Vitamins",
+    "url": "https://www.cvs.com/shop/content/gummy-vitamins"
+   },
+   {
+    "date": "2023-01-18",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Immune Support\nOn Sale\n70 products\n$23.99\n$2.00/ea.\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$5.59\n5.6¢/ea.",
+    "source": "web",
+    "title": "Immune Support",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/immune-support"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$12.99\n43.3¢/ea.",
+    "source": "web",
+    "title": "Cold Medicine at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu"
+   },
+   {
+    "date": "2022-09-20",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Gummy Cold Medicine\n...\nDelivery\nPrice\nOn Sale\nReviews\n86 products\n$23.99\n$2.00/ea.\n## Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings\n4.7 (10)\n$9.99\n16.7¢/ea.",
+    "source": "web",
+    "title": "Gummy Cold Medicine",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/q/Gummies/fm"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 37,
+   "cost": {
+    "input_tokens_cost": 0.00115,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00392
+   },
+   "prompt_tokens": 132,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

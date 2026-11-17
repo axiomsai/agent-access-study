@@ -1,0 +1,60 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+ "idx": 1,
+ "at": "2026-11-09T12:43:53-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "17763 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "Maxwell House Original Roast Ground Coffee, Canister, 27.5 OZ",
+   "price": 12.99,
+   "price_raw": "$12.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-09T18:43:58+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10188
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Maxwell House Original Roast Ground Coffee, Canister",
+   "price": 12.99,
+   "price_raw": "$12.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00058
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Maxwell House Original Roast Ground Coffee, Canister",
+   "price": 12.99,
+   "price_raw": "$12.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01191
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Maxwell House Original Roast Ground Coffee, Canister",
+   "price": 15.49,
+   "price_raw": "$15.49",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

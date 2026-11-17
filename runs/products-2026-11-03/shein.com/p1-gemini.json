@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: 1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy | PRICE: $2.76 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00027,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: 1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy | PRICE: $2.76 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TfHSC+xmWGzj1+lJCw1Hz/YnD5JSwbIfrYde8yBUP/f6XG/7GTKNG2S+BQz4tlpvB1cHFFETHuTu3hly5W5y5ufD0TtMBf/xsPJU0ucfc0Q79ALVdWPanNPIKS78SCqfm11kW8qnjo9kLRrjJ"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 231,
+   "candidatesTokenCount": 180,
+   "totalTokenCount": 2207,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 231
+    }
+   ],
+   "toolUsePromptTokenCount": 1796,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1796
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "SHnqasO7FpToz7IP3IP28Ac"
+ }
+}

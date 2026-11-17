@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.bestbuy.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Best Buy | Official Online Store | Shop Now & Save\n\nProduct Category: TV & Home Theater",
+ "finish": "STOP",
+ "cost_usd": 0.00082,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Best Buy | Official Online Store | Shop Now & Save\n\nProduct Category: TV & Home Theater",
+       "thoughtSignature": "EnMKcQFpFH0TcTQn/GW0l3vWcCYVV6METSSb8fJ2ir7oB7YgYu1owH/UWFsHlTVVtyjG7zDyuK7f/VQBcz0uJxbdMx2kT0dFh35uYPxSfV4wO1miTg97KXB0zvrq+O4wsdHSIMBOSH/NyhWZ4IiXXgSidvqo"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.bestbuy.com/",
+        "title": "Best Buy | Official Online Store | Shop Now & Save"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 62,
+        "text": "Page Title: Best Buy | Official Online Store | Shop Now & Save"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 64,
+        "endIndex": 99,
+        "text": "Product Category: TV & Home Theater"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.bestbuy.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 8007,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 7893,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7893
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "53Hqar7FI8up6dkP3dOUqAI"
+ }
+}

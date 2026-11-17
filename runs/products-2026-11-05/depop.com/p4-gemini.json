@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is inaccessible due to access restrictions.",
+ "finish": "STOP",
+ "cost_usd": 8e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page is inaccessible due to access restrictions.",
+       "thoughtSignature": "EnMKcQFpFH0TAs1Q6MKJPPGM5ZdpCGkoBgkH6cJ0aAD/zIHdEpxXI+GwY9bCQQvUHjLGx8zCm6ez5b7+JnzDJL4F1neA2qmInL4m+ciDloQgwbeuDgvgp6ndPBHXOYYiHBsubn/pW3tP14TzLxuUiEN1D4+j"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 140,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 568,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 140
+    }
+   ],
+   "toolUsePromptTokenCount": 357,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 357
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "0tvsapmTGcmsqtsPoMHQiAk"
+ }
+}

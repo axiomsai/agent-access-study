@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.samsung.com/",
+  "https://www.samsung.com/galaxy-s26-ultra",
+  "https://www.samsung.com/us/smartphones/galaxy-s26/",
+  "https://www.samsung.com/us/audio-sound/galaxy-buds-on/",
+  "https://www.samsung.com/hk_en/one-ui/",
+  "https://news.samsung.com/us/category/product/",
+  "https://www.samsung.com/us/support/answer/ANS10002646/",
+  "http://samsung.com/us/apps/samsung-internet/",
+  "https://developer.samsung.com/browser/policy/url-allowlist.html",
+  "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html"
+ ],
+ "cited_store": true,
+ "answer": "Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US\n\nGalaxy S26",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US\n\nGalaxy S26",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.samsung.com/",
+   "https://www.samsung.com/galaxy-s26-ultra",
+   "https://www.samsung.com/us/smartphones/galaxy-s26/",
+   "https://www.samsung.com/us/audio-sound/galaxy-buds-on/",
+   "https://www.samsung.com/hk_en/one-ui/",
+   "https://news.samsung.com/us/category/product/",
+   "https://www.samsung.com/us/support/answer/ANS10002646/",
+   "http://samsung.com/us/apps/samsung-internet/",
+   "https://developer.samsung.com/browser/policy/url-allowlist.html",
+   "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html"
+  ],
+  "created": 1794248346,
+  "id": "resp_a68c1c3c-371a-4824-9fde-3e5255649e07",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-06",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Samsung\n## Experience a whole new Galaxy\nBook your personal demo at a Samsung Experience Store",
+    "source": "web",
+    "title": "Mobile | TV | Home Electronics | Home Appliances | Samsung US | Samsung US",
+    "url": "https://www.samsung.com/"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Samsung Galaxy S26 Ultra | Galaxy AI | Samsung US\n...\nVisit samsung.com for details.",
+    "source": "web",
+    "title": "Samsung Galaxy S26 Ultra | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/galaxy-s26-ultra"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Galaxy S26 | S26+\nAn immersive display built for everyday brilliance.",
+    "source": "web",
+    "title": "Samsung Galaxy S26 & S26+ | Galaxy AI | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Discover Galaxy Buds On, Open-Ear Headphones | Samsung US\n## Galaxy Buds On\n- From $229.99\n## Stay open. Stay on.\nMeet our first open-ear Galaxy Buds.",
+    "source": "web",
+    "title": "Discover Galaxy Buds On, Open-Ear Headphones | Samsung US",
+    "url": "https://www.samsung.com/us/audio-sound/galaxy-buds-on/"
+   },
+   {
+    "date": "2026-07-24",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Privacy & Security\n### Be safe from cyber threats\nWhen you access a malicious website through the Samsung Browser, a machine learning-based model will alert you with a warning that the page you're about to open might be dangerous.\n...\n# Requires One UI 7.0 or above to support\n## Frequently Asked ...",
+    "source": "web",
+    "title": "One UI | Samsung Hong Kong",
+    "url": "https://www.samsung.com/hk_en/one-ui/"
+   },
+   {
+    "date": "2026-11-06",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Product - Samsung US Newsroom\n# Product\n## Featured News\n...\n#### Samsung Galaxy S26 FE: Delivering the Latest Flagship Features, Focused on What Matters Most",
+    "source": "web",
+    "title": "Product - Samsung US Newsroom",
+    "url": "https://news.samsung.com/us/category/product/"
+   },
+   {
+    "date": "2026-06-10",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Frequently asked questions about Samsung Browser\n## What is an error report?\nThe Browser app's team of developers strive to anticipate and fix any possible defects, but sometimes unpredictable errors occur.\nThrough the error report menu, you can send an email with a screenshot and device log to th...",
+    "source": "web",
+    "title": "Frequently asked questions about Samsung Browser",
+    "url": "https://www.samsung.com/us/support/answer/ANS10002646/"
+   },
+   {
+    "date": "2026-04-04",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Samsung Browser | Apps & Services | Samsung US\n...\n## Frequently Asked Questions\nSamsung Browser allows you to resume browsing across devices.",
+    "source": "web",
+    "title": "Samsung Browser | Apps & Services | Samsung US",
+    "url": "http://samsung.com/us/apps/samsung-internet/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "## URLAllowlist\n*Allow access to a list of URLs*\n...\nSetting the policy provides access to the listed URLs, as exceptions to URLBlocklist.\n...\nUse it to open exceptions to certain schemes, subdomains of other domains, ports, or specific paths, using the supported URL-pattern format.\nThe most specifi...",
+    "source": "web",
+    "title": "URLAllowlist - Samsung Developer",
+    "url": "https://developer.samsung.com/browser/policy/url-allowlist.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "## DeveloperToolsAvailabilityAllowlist\n*List of URL patterns for which Samsung Browser DevTools are allowed to be opened*\n**Supported on:**\n- Chrome (Windows) since version 147\n...\nThis policy can be used to allow Samsung Browser DevTools on specific URLs.\nURL patterns are matched against the URL of...",
+    "source": "web",
+    "title": "DeveloperToolsAvailabilityAllowl...",
+    "url": "https://developer.samsung.com/browser/policy/developer-tools-availability-allowlist.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 20,
+   "cost": {
+    "input_tokens_cost": 0.00071,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00327
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 77
+  }
+ }
+}

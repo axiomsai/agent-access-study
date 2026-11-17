@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Walmart | Save Money. Live better.\nProduct/Category Name: Grocery",
+ "finish": "STOP",
+ "cost_usd": 0.00072,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Walmart | Save Money. Live better.\nProduct/Category Name: Grocery",
+       "thoughtSignature": "EnMKcQFpFH0Ta2aRSxgaNhqr2fNTyk2nRIp1AItfPx9UfeCEsH7K17whrDkSKy16MP/apCLHKuQRZ+WlUvzs3BMjDSUxHVkp2QNbnL3rPyPl6zlQXZHWpzLxoHLq4oy7Vm2vKkVfq5kETVhN1cYN05qxjvij"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 38,
+   "totalTokenCount": 7130,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 7030,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7030
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "jQ7yapC1F4uP6dkPqO3fKA"
+ }
+}

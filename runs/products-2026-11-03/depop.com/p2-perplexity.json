@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/",
+  "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/",
+  "https://www.depop.com/",
+  "https://www.depop.com/brands/a-z/",
+  "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/",
+  "https://www.depop.com/products/lisapppp-hm-light-wash-denim-shorts/",
+  "https://www.depop.com/products/theclozetedit4u-maurices-distressed-medium-wash-denim-9fae/",
+  "https://www.depop.com/products/lizzyakp-shape-light-blue-wash-extreme/",
+  "https://www.depop.com/products/haileyji_07-high-rise-straight-leg-light-eedd/",
+  "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/",
+   "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/",
+   "https://www.depop.com/",
+   "https://www.depop.com/brands/a-z/",
+   "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/",
+   "https://www.depop.com/products/lisapppp-hm-light-wash-denim-shorts/",
+   "https://www.depop.com/products/theclozetedit4u-maurices-distressed-medium-wash-denim-9fae/",
+   "https://www.depop.com/products/lizzyakp-shape-light-blue-wash-extreme/",
+   "https://www.depop.com/products/haileyji_07-high-rise-straight-leg-light-eedd/",
+   "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/"
+  ],
+  "created": 1793751439,
+  "id": "resp_24c17373-cf68-4329-9c00-5ecdeccaa5a3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-04",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash high-waisted ripped jeans #denim...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash high-waisted ripped jeans #denim... | Depop",
+    "url": "https://www.depop.com/products/iivrenaa-light-wash-high-waisted-ripped-jeans-fe65/"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash high-waisted straight-leg jeans #denim...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash high-waisted straight-leg jeans #denim... | Depop",
+    "url": "https://www.depop.com/products/jady2_foster-light-wash-high-waisted-straight-leg-jeans-aa78/"
+   },
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2010-01-01",
+    "last_updated": "2025-06-14",
+    "place_metadata": null,
+    "snippet": "e\n...\n0-9\nAbercrombie & Fitch\nAdidas",
+    "source": "web",
+    "title": "Brands A-Z | Shop all brands - Depop",
+    "url": "https://www.depop.com/brands/a-z/"
+   },
+   {
+    "date": "2026-10-23",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Light wash denim capri jeans with a relaxed fit,...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Light wash denim capri jeans with a relaxed fit,... | Depop",
+    "url": "https://www.depop.com/products/weeziepu6a-light-wash-denim-capri-jeans-9ac9/"
+   },
+   {
+    "date": "2025-02-28",
+    "last_updated": "2025-06-01",
+    "place_metadata": null,
+    "snippet": "H&M LIGHT WASH DENIM SHORTSLoading…\nlisappppLoading…Loading…",
+    "source": "web",
+    "title": "H&M LIGHT WASH DENIM SHORTS | Depop",
+    "url": "https://www.depop.com/products/lisapppp-hm-light-wash-denim-shorts/"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Maurices Distressed Medium Wash Denim Capri Jeans...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Maurices Distressed Medium Wash Denim Capri Jeans... | Depop",
+    "url": "https://www.depop.com/products/theclozetedit4u-maurices-distressed-medium-wash-denim-9fae/"
+   },
+   {
+    "date": "2024-03-06",
+    "last_updated": "2025-04-04",
+    "place_metadata": null,
+    "snippet": "Loading…Loading…Loading…Loading…Loading…\nShape Light Blue Wash Extreme Ripped Split Hem Jeans With Flared Bottoms 💙🦋✨ These jeans are perfect for your 'jeans and a nice top' type of collection.\nFeaturing a light-blue wash denim material with extreme distressed detailing, split hems and a straight le...",
+    "source": "web",
+    "title": "Shape Light Blue Wash Extreme Ripped Split Hem Jeans... | Depop",
+    "url": "https://www.depop.com/products/lizzyakp-shape-light-blue-wash-extreme/"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "High rise straight leg light wash jeans Size 23 | Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "High rise straight leg light wash jeans Size 23 | Depop",
+    "url": "https://www.depop.com/products/haileyji_07-high-rise-straight-leg-light-eedd/"
+   },
+   {
+    "date": "2020-05-21",
+    "last_updated": "2025-06-29",
+    "place_metadata": null,
+    "snippet": "Loading…barbaraaa_rLoading…Loading…Loading…Loading…Loading…Loading…Loading…\n...\nThese are sold idk how to delete a listingLoading…",
+    "source": "web",
+    "title": "These are sold idk how to delete a listing | Depop",
+    "url": "https://www.depop.com/products/barbaraaa_r-gorgeous-high-waisted-light-wash/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00086,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00358
+   },
+   "prompt_tokens": 129,
+   "search_context_size": "low",
+   "total_tokens": 147
+  }
+ }
+}

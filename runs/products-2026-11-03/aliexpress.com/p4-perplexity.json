@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+  "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://www.aliexpress.com/item/1005012765892008.html",
+  "https://www.aliexpress.com/item/1005005940354757.html",
+  "https://www.aliexpress.com/item/1005006244678789.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+   "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://www.aliexpress.com/item/1005012765892008.html",
+   "https://www.aliexpress.com/item/1005005940354757.html",
+   "https://www.aliexpress.com/item/1005006244678789.html"
+  ],
+  "created": 1793751420,
+  "id": "resp_943f8b13-5437-4056-9d99-e629ae83fa40",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping\n0",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2025-05-05",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Koop https aliexpress met gratis verzending op ...",
+    "url": "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2024-07-13",
+    "last_updated": "2025-12-01",
+    "place_metadata": null,
+    "snippet": "https://www.aliexpress.com/item/3256804952963292.html\n1\n06\n$17.83\n-94%\n4.9\n28 sold\n$2 off on $10\nNew shoppers save $16.77",
+    "source": "web",
+    "title": "Compre aliexpress cn com envio grátis no AliExpress version",
+    "url": "https://pt.aliexpress.com/w/wholesale-aliexpress-cn.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005012765892008.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "4K DisplayPort to HDMI Cable Adapter 3.3ft 1m DP ...",
+    "url": "https://www.aliexpress.com/item/1005005940354757.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0008,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.0035
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

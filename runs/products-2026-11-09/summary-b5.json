@@ -1,0 +1,902 @@
+[
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+  "idx": 1,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06971
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00054
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01239
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Shark Stratos Cordless Vacuum with Clean Sense IQ DuoClean PowerFins HairPro",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+  "idx": 2,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the fetch tool said the URL was not accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06991
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00053
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01236
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/hp-omnibook-5-16-touchscreen-laptop---amd-ryzen-ai-9-465---copilot-pc---2k-oled-1920-x-1200---32gb-memory---1tb-ssd---windows-11-home/4201003802",
+  "idx": 3,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07147
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00048
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "OUT OF STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01252
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "HP OmniBook 5 16\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen AI 9 465 - 32GB RAM - 1TB SSD - Windows 11 Home",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: price and stock were not shown in the page results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00524
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+  "idx": 4,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "6524 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:39:09+00:00",
+    "age_days": 0,
+    "cost_usd": 0.13057
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00069
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01237
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+  "idx": 5,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_not_accessible)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.06989
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00049
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0124
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+  "idx": 1,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (the web tool refused the link because the URL is too long)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07539
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy",
+    "price": 2.76,
+    "price_raw": "$2.76",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00027
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+    "price": 2.76,
+    "price_raw": "$2.76",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01232
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "1pc Mint Coconut Oil Slow Rebound Squeeze Ball, 6cm Round Burlap Stress Relief Squeeze Toy, Perfect For Holiday Gifts, Fun And Cute Gifts, Birthday Gifts, Easter Gifts, Halloween Gifts, Christmas Gift",
+    "price": 2.76,
+    "price_raw": "$2.76",
+    "stock": "UNKNOWN",
+    "opened": "NO: error",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0053
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html",
+  "idx": 2,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "parsed": true,
+    "name": "UNKNOWN",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (url_too_long, the web tool refused the URL because it is too long)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.07277
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (blocked, captcha, not allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00139
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+    "price": 3.9,
+    "price_raw": "$3.90",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01215
+   },
+   "perplexity": {
+    "verdict": "blocked",
+    "why": "cited, answer reports a block",
+    "parsed": true,
+    "name": "Watermelon Slush Ball Squeeze Toy, Soft Crunchy Texture Stress Relief Fidget Toy For ASMR & ADHD, Sensory Toy For Kids, Teens & Adult Women, Office Desk Accessory, Birthday Party Gift, Halloween Toy, ",
+    "price": 3.9,
+    "price_raw": "$3.90",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00527
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Autumn-Thanksgiving-Thankful-Printing-Drop-Shoulder-Casual-White-Graphic-Sweatshirt-Chenille-Yarn-Sportwear-Customized-Christian-SchoolGift-Winter-p-570542332.html",
+  "idx": 3,
+  "at": "2026-11-09T12:39:03-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the fetch returned only an empty page shell with no product name, price or stock)",
+    "retrieved_at": "2026-11-09T18:39:08+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07146
+   },
+   "gemini": {
+    "verdict": "unknown",
+    "why": "no URL context metadata",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: The page is not accessible.",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0001
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+    "price": 8.89,
+    "price_raw": "$8.89",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01199
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter",
+    "price": 7.99,
+    "price_raw": "$7.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.0052
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Satin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html",
+  "idx": 4,
+  "at": "2026-11-09T12:39:17-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page returned only an empty shell with no product content)",
+    "retrieved_at": "2026-11-09T18:39:22+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07032
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the page is blocked by a security challenge/captcha",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00122
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Satin Halter Neck High Low Dress For Women, Feather Trim Sleeveless Flowy Dress, Backless Split Hem Elegant Night Out Party Dress",
+    "price": 48.0,
+    "price_raw": "$48.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01177
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: page not found in results",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00518
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "url": "https://us.shein.com/Women-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html",
+  "idx": 5,
+  "at": "2026-11-09T12:39:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: blocked (the page loaded but showed no product content, only meta tags)",
+    "retrieved_at": "2026-11-09T18:39:22+00:00",
+    "age_days": 0,
+    "cost_usd": 0.07097
+   },
+   "gemini": {
+    "verdict": "blocked",
+    "why": "success status but answer reports a block",
+    "parsed": true,
+    "name": "NONE",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "NO: the reason (error, blocked, captcha, not allowed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00122
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01177
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Women's Fall Boho Wide Leg Pants With Drawstring, Cute Pumpkin And Turkey Print Polyester Trousers For Autumn Comfort",
+    "price": 11.99,
+    "price_raw": "$11.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: exact product page was not accessible",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00521
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+  "idx": 1,
+  "at": "2026-11-09T12:39:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15716 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:39:23+00:00",
+    "age_days": 0,
+    "cost_usd": 0.2287
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": 619.99,
+    "price_raw": "$619.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00165
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Wade Logan® Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01204
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Crandell Top Grain 100% Genuine Italian Leather Swivel Barrel Chair",
+    "price": 619.99,
+    "price_raw": "$619.99",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+  "idx": 2,
+  "at": "2026-11-09T12:39:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15557 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:39:23+00:00",
+    "age_days": 0,
+    "cost_usd": 0.17864
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00133
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 629.3,
+    "price_raw": "$629.30",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02342
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Miele Guard L1 Cat & Dog Bagged Canister Vacuum for Pet Owners with Odor-Reducing Active AirClean Filter, TurboTeQ Floorhead, and AllTeQ Universal Floorhead, in Obsidian Black/Space Grey",
+    "price": 899.0,
+    "price_raw": "$899.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00524
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+  "idx": 3,
+  "at": "2026-11-09T12:39:18-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15631 chars, copy dated 2026-10-19 (20 days old)",
+    "parsed": true,
+    "name": "Birch Lane™ Iago Outdoor Umbrella",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-10-19T19:43:32+00:00",
+    "age_days": 20,
+    "cost_usd": 0.18011
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": 179.0,
+    "price_raw": "$179.00",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00053
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.022760000000000002
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Iago Outdoor Umbrella",
+    "price": 185.0,
+    "price_raw": "$185.00",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00515
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+  "idx": 4,
+  "at": "2026-11-09T12:39:19-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served",
+    "why": "15650 chars, copy dated 2026-11-09 (0 days old)",
+    "parsed": true,
+    "name": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-11-09T18:39:23+00:00",
+    "age_days": 0,
+    "cost_usd": 0.22896
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Johnavan 32\" Handmade Wreath",
+    "price": 254.3,
+    "price_raw": "$254.30",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00169
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.01203
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Johnavan Faux Evergreen 32'' Holiday Wreath",
+    "price": 273.1,
+    "price_raw": "$273.10",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00517
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+  "idx": 5,
+  "at": "2026-11-09T12:39:22-06:00",
+  "fetch": {
+   "claude": {
+    "verdict": "served_stale",
+    "why": "15738 chars, copy dated 2026-08-29 (72 days old)",
+    "parsed": true,
+    "name": "Mahler 42'' Console Table",
+    "price": null,
+    "price_raw": "NONE",
+    "stock": "UNKNOWN",
+    "opened": "YES",
+    "retrieved_at": "2026-08-29T12:45:08+00:00",
+    "age_days": 72,
+    "cost_usd": 0.14217
+   },
+   "gemini": {
+    "verdict": "served",
+    "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+    "parsed": true,
+    "name": "Mahler 42\" W Console Table",
+    "price": 99.99,
+    "price_raw": "$99.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00182
+   },
+   "openai": {
+    "verdict": "served",
+    "why": "open_page on store",
+    "parsed": true,
+    "name": "Mahler 42 \" W Console Table",
+    "price": 107.99,
+    "price_raw": "$107.99",
+    "stock": "IN STOCK",
+    "opened": "YES",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.02271
+   },
+   "perplexity": {
+    "verdict": "indexed",
+    "why": "store page cited from Perplexity's search index (not a live fetch)",
+    "parsed": true,
+    "name": "Mahler 42 \" W Console Table",
+    "price": 107.99,
+    "price_raw": "$107.99",
+    "stock": "UNKNOWN",
+    "opened": "NO: error (exact product page not accessed)",
+    "retrieved_at": null,
+    "age_days": null,
+    "cost_usd": 0.00516
+   }
+  }
+ }
+]

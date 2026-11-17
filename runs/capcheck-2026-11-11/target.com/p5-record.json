@@ -1,0 +1,25 @@
+{
+ "domain": "target.com",
+ "idx": 5,
+ "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15573,
+   "cost_usd": 0.06909
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15567,
+   "cost_usd": 0.06917
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The website blocked access to the page content.",
+ "finish": "STOP",
+ "cost_usd": 8e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The website blocked access to the page content.",
+       "thoughtSignature": "EnMKcQFpFH0TUrqgdvbQL+wzwcUlRErNC97aUFkEUnB0p56KowRTV57y+JEWNI26nh/gUgRKnzUI1W+FC10nmpHpwM2o/tXj9AhQYLc2frqpxQh1VY2TxBaHo6ZU0vywwKZk/NQU6c4ElWLzRWutPy6Pqb/G"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 144,
+   "candidatesTokenCount": 75,
+   "totalTokenCount": 588,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 144
+    }
+   ],
+   "toolUsePromptTokenCount": 369,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 369
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "5YbvaqruJp6yqtsPnu7tqQY"
+ }
+}

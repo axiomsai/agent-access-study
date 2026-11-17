@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "finish": "STOP",
+ "cost_usd": 6e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+       "thoughtSignature": "EnMKcQFpFH0TEA+DwpktL67NThOihKnhlODdjT5lZewhGYlKVOdLTyPqYNlJG9rBbPmbeD6U55aH2Y0N6dOL3Rxp1y80fd4v3Yrj0uhZI4oh0WTdv6KdHChjwTgqHVIAUXOA5CT326dcJekwm5ysFIFNTkp6"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 125,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 443,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 125
+    }
+   ],
+   "toolUsePromptTokenCount": 270,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 270
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "KNXsaobXBqiR6dkP0eD_qAs"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://pages.ebay.com/securitycenter/stay_safe.html",
+  "https://partnernetwork.ebay.com/page/excluded-sites",
+  "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm",
+  "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+  "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+  "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+  "https://pages.ebay.com/file_exchange/SMP_errorcodes.html",
+  "https://www.ebay.com/sts",
+  "https://pages.ebay.com/robots.txt",
+  "https://developer.ebay.com/api-docs/master/buy/browse/openapi/3/buy_browse_v1_oas3.json"
+ ],
+ "cited_store": true,
+ "answer": "blocked",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://pages.ebay.com/securitycenter/stay_safe.html",
+   "https://partnernetwork.ebay.com/page/excluded-sites",
+   "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm",
+   "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089",
+   "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis",
+   "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/",
+   "https://pages.ebay.com/file_exchange/SMP_errorcodes.html",
+   "https://www.ebay.com/sts",
+   "https://pages.ebay.com/robots.txt",
+   "https://developer.ebay.com/api-docs/master/buy/browse/openapi/3/buy_browse_v1_oas3.json"
+  ],
+  "created": 1793905811,
+  "id": "resp_f6e224e5-aa50-476b-a471-d872f354cea4",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-21",
+    "place_metadata": null,
+    "snippet": "# Stay Safe from Scammers\n## Recognize Fake Web Pages\nHere are tips to help you determine if a web address goes to a real eBay web page.\n1. Even if the web address contains the word \"eBay\", it might not be an eBay website.\nReal eBay web addresses have \".ebay.com/\" in them.\nThere won't be anything be...",
+    "source": "web",
+    "title": "Stay Safe from Scammers - Security Center | eBay.com",
+    "url": "https://pages.ebay.com/securitycenter/stay_safe.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# Excluded Sites\n### Excluded Sites\nIn accordance with Section (I) (J)(1) of Exhibit A of the Network Agreement Policies, you must ensure that the list of domains below are excluded from your paid search campaigns.\nWe may update this list from time to time.\nPlease make sure you check this list regul...",
+    "source": "web",
+    "title": "Excluded sites",
+    "url": "https://partnernetwork.ebay.com/page/excluded-sites"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Errors by Number\n## Trading Errors in Numeric Order\n|17727|Serious Error|Short error: A URL for the page was not entered.\nPlease enter a URL.\nLong error: A URL for the page was not entered.\nPlease enter a URL.|\n|17728|Serious Error|Short error: You entered a URL that is already being used by anoth...",
+    "source": "web",
+    "title": "Errors by Number",
+    "url": "https://edp.ebay.com/devzone/XML/docs/Reference/ebay/Errors/ErrorMessages.htm"
+   },
+   {
+    "date": "2024-06-11",
+    "last_updated": "2025-04-13",
+    "place_metadata": null,
+    "snippet": "It looks like you're trying to access it via http:// instead of https:// which may be the cause.\nYou might try editing the protocol in the address bar to https and see if it works.\n...\neBays web address is https://www.ebay.com/\nIf you couldn't access eBay at all you wouldn't have been able to post h...",
+    "source": "web",
+    "title": "ACCESS DENIED - I can't access ebay at all, please help!",
+    "url": "https://community.ebay.com/t5/Report-eBay-Technical-Issues/ACCESS-DENIED-I-can-t-access-ebay-at-all-please-help/td-p/34510089"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "### Using eBay RESTful APIs\n#### Request components\n##### HTTP request headers\n###### Marketplace ID values\n|Marketplace IDs|Country/Region|Marketplace Site|Locale Support|\n|--|--|--|--|\n|`EBAY_US`|United States|https://www.ebay.com (For items in the US motor vehicles or the P&A categories, use EBAY...",
+    "source": "web",
+    "title": "Using eBay RESTful APIs | eBay Developers Program",
+    "url": "https://developer.ebay.com/develop/guides/sell/using-ebay-restful-apis"
+   },
+   {
+    "date": "2023-07-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "\"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\" | Report eBay Technical Issues | eBay Community\n...\n##### \"Access Denied You don't have permission to access \"http://www.ebay.com/\" on this server\"\nI can get about 3 clicks on the ebay website using chrome unti...",
+    "source": "web",
+    "title": "\"Access Denied You don't have permission to access \"http ...",
+    "url": "https://community.ebay.com/forum/report-ebay-technical-issues-57911/topic/access-denied-you-dont-have-permission-to-access-httpwwwebaycom-on-this-server-105185/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# File Exchange\nSelect a valid listing type or category and submit the listing again.</td></tr><tr><td>85</td><td>The URL you provided contains \"eBay\".\nTo work around the error, link directly to the IP address.",
+    "source": "web",
+    "title": "File Error Codes Reference - eBay",
+    "url": "https://pages.ebay.com/file_exchange/SMP_errorcodes.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2024-11-06",
+    "place_metadata": null,
+    "snippet": "This page offers information on certain aspects of the eBay site and services.\nFor help with a specific problem, please contact Customer Service.",
+    "source": "web",
+    "title": "System Status",
+    "url": "https://www.ebay.com/sts"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "# allow-all\n...\n# The use of robots or other automated means to access the eBay site\n# without the express permission of eBay is strictly prohibited.\n# Notwithstanding the foregoing, eBay may permit automated access to\n# access certain eBay pages but solely for the limited purpose of\n# including con...",
+    "source": "web",
+    "title": "eBay",
+    "url": "https://pages.ebay.com/robots.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-28",
+    "place_metadata": null,
+    "snippet": "\"description\": \"There was a problem with an eBay internal system or process.",
+    "source": "web",
+    "title": "eBay Developers Program",
+    "url": "https://developer.ebay.com/api-docs/master/buy/browse/openapi/3/buy_browse_v1_oas3.json"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 1,
+   "cost": {
+    "input_tokens_cost": 0.00106,
+    "output_tokens_cost": 1e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00357
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 58
+  }
+ }
+}

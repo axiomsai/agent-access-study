@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek",
+  "https://www.etsy.com/ca/listing/1736171915/personalized-ceramic-hand-painted-cup",
+  "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1",
+  "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy_shop_search",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/market/handmade",
+  "https://www.etsy.com/market/listings",
+  "https://www.etsy.com/c"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Personalized ceramic hand painted cup | PRICE: $45.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Personalized ceramic hand painted cup | PRICE: $45.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek",
+   "https://www.etsy.com/ca/listing/1736171915/personalized-ceramic-hand-painted-cup",
+   "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1",
+   "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy_shop_search",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/market/handmade",
+   "https://www.etsy.com/market/listings",
+   "https://www.etsy.com/c"
+  ],
+  "created": 1794080123,
+  "id": "resp_de488847-701b-4ae7-afbb-9118fd44c435",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-03-04",
+    "last_updated": "2025-09-20",
+    "place_metadata": null,
+    "snippet": "Cena:160,16 zł\n# Personalizowany ceramiczny kubek malowany ręcznie\nSprzedawca na medal\n### Co wyróżnia produkt\nPersonalizowane kubki.\n...\nWysokość około 11,5 cm.\nOdlew z gliny i ręcznie malowana ceramika.\n...\nCena dotyczy jednej filiżanki.",
+    "source": "web",
+    "title": "Personalizowany ceramiczny kubek malowany ręcznie",
+    "url": "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek"
+   },
+   {
+    "date": "2025-03-04",
+    "last_updated": "2025-09-18",
+    "place_metadata": null,
+    "snippet": "Price:CA$50.28\n# Personalized ceramic hand painted cup\nStar Seller\n### Highlights\n*THESE ARE MADE TO ORDER- PLEASE CHECK MAKING/DELIVERY TIMES!!!*\nPersonalized cups.\nThey make perfect father's days gifts, bridesmaids's gifts, anniversary gifts.\nI can write a little message but I would say 5 word max...",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy Canada",
+    "url": "https://www.etsy.com/ca/listing/1736171915/personalized-ceramic-hand-painted-cup"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Personalized Ceramic Hand Painted Cup - Etsy\n- Fine Art Ceramics\n...\n- Try to refresh the page or come back later.\n# Personalized ceramic hand painted cup\n20+ views in the last 24 hours\nPrice:$45.00\nLoading\nALICJACERAMICS\nStar Seller\nStar Sellers have an outstanding track record for providing a grea...",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy",
+    "url": "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Personalized ceramic hand painted cup\n20+ views in the last 24 hours\nPrice:€51.65\nLoading\nVAT included (where applicable), plus postage\nALICJACERAMICS\nStar Seller\n...\n## Item details\n### Highlights\nPersonalized cups.\nThey make perfect father's days gifts, bridesmaids's gifts, anniversary gifts.\nAb...",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy Ireland",
+    "url": "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4493552282/the-noble-couple-vintage-style",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy Shop Search - Etsy\n# Etsy Shop Search\n310+ items",
+    "source": "web",
+    "title": "Etsy Shop Search",
+    "url": "https://www.etsy.com/market/etsy_shop_search"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Etsy Com Shop\n222+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Handmade - Etsy\n# Handmade\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Handmade - Etsy",
+    "url": "https://www.etsy.com/market/handmade"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Listings\n5,000+ items\n...\n- ## Rush Production - add on with other listing from shop",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# All Categories\n(1,000+ items)\n- ### Used Car History Report | Fast Delivery\n...\n- ### Same Hour What Are They Thinking Psychic Reading, Love & Relationship Insight, PDF Delivery, Personalized Reading",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00096,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00366
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 138
+  }
+ }
+}

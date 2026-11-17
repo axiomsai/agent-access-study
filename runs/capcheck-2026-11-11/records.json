@@ -1,0 +1,2502 @@
+[
+ {
+  "domain": "amazon.com",
+  "idx": 1,
+  "url": "https://www.amazon.com/dp/B07BGLT25K",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15473,
+    "cost_usd": 0.06811
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15491,
+    "cost_usd": 0.06848
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 2,
+  "url": "https://www.amazon.com/dp/B079VP6DH5",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15487,
+    "cost_usd": 0.06841
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15463,
+    "cost_usd": 0.06813
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 3,
+  "url": "https://www.amazon.com/dp/B00MNV8E0C",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15478,
+    "cost_usd": 0.06835
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15510,
+    "cost_usd": 0.0688
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 4,
+  "url": "https://www.amazon.com/dp/B0DQYR6X8R",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (web tool returned error \"url_not_allowed\")",
+    "doc_chars": 0,
+    "input_tokens": 15503,
+    "cost_usd": 0.06885
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the web tool returned the error url_not_allowed)",
+    "doc_chars": 0,
+    "input_tokens": 15507,
+    "cost_usd": 0.06889
+   }
+  }
+ },
+ {
+  "domain": "amazon.com",
+  "idx": 5,
+  "url": "https://www.amazon.com/dp/B0FN4NH4K8",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the fetch tool returned \"url_not_allowed\" for this URL)",
+    "doc_chars": 0,
+    "input_tokens": 15345,
+    "cost_usd": 0.06672
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15541,
+    "cost_usd": 0.06906
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 1,
+  "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-A11-Widescreen-Tablet-128GB-Android-16-Silver/18089905174",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "16972 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 16972,
+    "input_tokens": 31237,
+    "cost_usd": 0.13793
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "77165 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 199.0,
+    "opened": "YES",
+    "doc_chars": 77165,
+    "input_tokens": 28517,
+    "cost_usd": 0.12349
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 2,
+  "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15596 chars, copy dated 2026-10-27 (15 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15596,
+    "input_tokens": 38489,
+    "cost_usd": 0.1693
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "83926 chars, copy dated 2026-10-27 (15 days old)",
+    "price": 99.0,
+    "opened": "YES",
+    "doc_chars": 83926,
+    "input_tokens": 30646,
+    "cost_usd": 0.13376
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 3,
+  "url": "https://www.walmart.com/ip/Ninja-SLUSHi-72-Oz-Frozen-Drink-Machine-with-RapidChill-Technology-3-Presets-Dishwasher-Safe-FS300-Gray/5321127922",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15410 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15410,
+    "input_tokens": 44317,
+    "cost_usd": 0.19365
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "84281 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 199.0,
+    "opened": "YES",
+    "doc_chars": 84281,
+    "input_tokens": 40289,
+    "cost_usd": 0.17642
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 4,
+  "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "16059 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 16059,
+    "input_tokens": 41450,
+    "cost_usd": 0.1824
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "92591 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 23.0,
+    "opened": "YES",
+    "doc_chars": 92591,
+    "input_tokens": 32650,
+    "cost_usd": 0.14538
+   }
+  }
+ },
+ {
+  "domain": "walmart.com",
+  "idx": 5,
+  "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15274 chars, copy dated 2026-09-05 (67 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15274,
+    "input_tokens": 32483,
+    "cost_usd": 0.14555
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "85387 chars, copy dated 2026-09-05 (67 days old)",
+    "price": 199.0,
+    "opened": "YES",
+    "doc_chars": 85387,
+    "input_tokens": 32605,
+    "cost_usd": 0.14562
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "idx": 1,
+  "url": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded only a blank \"Temu\" shell with no product content)",
+    "doc_chars": 459,
+    "input_tokens": 23176,
+    "cost_usd": 0.10328
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded with only the title \"Temu\" and no product content)",
+    "doc_chars": 459,
+    "input_tokens": 23160,
+    "cost_usd": 0.10314
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "idx": 2,
+  "url": "https://www.temu.com/680-450-380-220-30-lbs-heavy-duty-foldable-utility-cart-4-all-terrain-wheels-durable-alloy--and-600d-oxford-cloth-no--height-adjustable-wagon-cart-suitable-for-camping-gardening-and--blue-red-g-601102220166532.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded but showed only an empty shell titled \"Temu\" with no product details)",
+    "doc_chars": 459,
+    "input_tokens": 23259,
+    "cost_usd": 0.10398
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the fetch only returned an empty \"Temu\" page shell with no product details)",
+    "doc_chars": 459,
+    "input_tokens": 23264,
+    "cost_usd": 0.1023
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "idx": 3,
+  "url": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "463 chars, copy dated 2026-10-09 (33 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product name, price or stock shown)",
+    "doc_chars": 463,
+    "input_tokens": 23233,
+    "cost_usd": 0.10459
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "463 chars, copy dated 2026-10-09 (33 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded only an empty \"Temu\" shell with no product details)",
+    "doc_chars": 463,
+    "input_tokens": 23111,
+    "cost_usd": 0.10244
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "idx": 4,
+  "url": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (the fetch tool rejected the address as too long, \"url_too_long\")",
+    "doc_chars": 0,
+    "input_tokens": 15809,
+    "cost_usd": 0.07046
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (the fetch tool rejected the URL as too long)",
+    "doc_chars": 0,
+    "input_tokens": 15811,
+    "cost_usd": 0.07034
+   }
+  }
+ },
+ {
+  "domain": "temu.com",
+  "idx": 5,
+  "url": "https://www.temu.com/3pcs-men-s-sweatpants-casual-athletic-lounge-pants-for-everyday--workout-relaxed-wear-g-606751487309340.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the request worked, but the page came back as an empty shell with no product details)",
+    "doc_chars": 459,
+    "input_tokens": 22944,
+    "cost_usd": 0.10128
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded but only showed the title \"Temu\" with no product name, price or stock, which looks like bot blocking or a page that needs JavaScrip",
+    "doc_chars": 459,
+    "input_tokens": 22947,
+    "cost_usd": 0.10035
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 1,
+  "url": "https://www.ebay.com/itm/276582090868",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15404 chars, copy dated 2026-09-04 (68 days old)",
+    "price": 439.99,
+    "opened": "YES",
+    "doc_chars": 15404,
+    "input_tokens": 23862,
+    "cost_usd": 0.10611
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "29779 chars, copy dated 2026-09-04 (68 days old)",
+    "price": 439.99,
+    "opened": "YES",
+    "doc_chars": 29779,
+    "input_tokens": 43305,
+    "cost_usd": 0.18476
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 2,
+  "url": "https://www.ebay.com/itm/157751149633",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15141 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15141,
+    "input_tokens": 59298,
+    "cost_usd": 0.25287
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "37708 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 22.0,
+    "opened": "YES",
+    "doc_chars": 37708,
+    "input_tokens": 26590,
+    "cost_usd": 0.11476
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 3,
+  "url": "https://www.ebay.com/itm/167031735841",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "16277 chars, copy dated 2026-08-15 (88 days old)",
+    "price": 129.0,
+    "opened": "YES",
+    "doc_chars": 16277,
+    "input_tokens": 25384,
+    "cost_usd": 0.111
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "33580 chars, copy dated 2026-08-15 (88 days old)",
+    "price": 129.0,
+    "opened": "YES",
+    "doc_chars": 33580,
+    "input_tokens": 23935,
+    "cost_usd": 0.10418
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 4,
+  "url": "https://www.ebay.com/itm/168227853120",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "16426 chars, copy dated 2026-10-29 (13 days old)",
+    "price": 1007.1,
+    "opened": "YES",
+    "doc_chars": 16426,
+    "input_tokens": 23739,
+    "cost_usd": 0.10384
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "24475 chars, copy dated 2026-10-29 (13 days old)",
+    "price": 1007.1,
+    "opened": "YES",
+    "doc_chars": 24475,
+    "input_tokens": 30652,
+    "cost_usd": 0.13433
+   }
+  }
+ },
+ {
+  "domain": "ebay.com",
+  "idx": 5,
+  "url": "https://www.ebay.com/itm/144387248424",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "17289 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 1559.0,
+    "opened": "YES",
+    "doc_chars": 17289,
+    "input_tokens": 41716,
+    "cost_usd": 0.17946
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "46847 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 1559.0,
+    "opened": "YES",
+    "doc_chars": 46847,
+    "input_tokens": 23603,
+    "cost_usd": 0.10451
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 1,
+  "url": "https://www.etsy.com/listing/1016338618",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "18499 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 106.2,
+    "opened": "YES",
+    "doc_chars": 18499,
+    "input_tokens": 22631,
+    "cost_usd": 0.09974
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "39320 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 106.2,
+    "opened": "YES",
+    "doc_chars": 39320,
+    "input_tokens": 22819,
+    "cost_usd": 0.10054
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 2,
+  "url": "https://www.etsy.com/listing/1145741800",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "18670 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 39.99,
+    "opened": "YES",
+    "doc_chars": 18670,
+    "input_tokens": 23260,
+    "cost_usd": 0.10188
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "36794 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 39.99,
+    "opened": "YES",
+    "doc_chars": 36794,
+    "input_tokens": 23119,
+    "cost_usd": 0.10074
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 3,
+  "url": "https://www.etsy.com/listing/4553600871",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "17922 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 125.0,
+    "opened": "YES",
+    "doc_chars": 17922,
+    "input_tokens": 22839,
+    "cost_usd": 0.10054
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "24619 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 125.0,
+    "opened": "YES",
+    "doc_chars": 24619,
+    "input_tokens": 22594,
+    "cost_usd": 0.09944
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 4,
+  "url": "https://www.etsy.com/listing/4435842809",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "18046 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 118.48,
+    "opened": "YES",
+    "doc_chars": 18046,
+    "input_tokens": 38729,
+    "cost_usd": 0.16922
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "47376 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 94.78,
+    "opened": "YES",
+    "doc_chars": 47376,
+    "input_tokens": 29574,
+    "cost_usd": 0.12878
+   }
+  }
+ },
+ {
+  "domain": "etsy.com",
+  "idx": 5,
+  "url": "https://www.etsy.com/listing/1736171915",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "18381 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 48.0,
+    "opened": "YES",
+    "doc_chars": 18381,
+    "input_tokens": 38713,
+    "cost_usd": 0.17259
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "52995 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 48.0,
+    "opened": "YES",
+    "doc_chars": 52995,
+    "input_tokens": 22734,
+    "cost_usd": 0.0992
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 1,
+  "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15190 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 519.0,
+    "opened": "YES",
+    "doc_chars": 15190,
+    "input_tokens": 38927,
+    "cost_usd": 0.17105
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "17925 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 519.0,
+    "opened": "YES",
+    "doc_chars": 17925,
+    "input_tokens": 31675,
+    "cost_usd": 0.14166
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 2,
+  "url": "https://www.homedepot.com/p/HOROW-1-Piece-1-1-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "14961 chars, copy dated 2026-11-07 (4 days old)",
+    "price": 269.0,
+    "opened": "YES",
+    "doc_chars": 14961,
+    "input_tokens": 31183,
+    "cost_usd": 0.13775
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "17382 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 249.0,
+    "opened": "YES",
+    "doc_chars": 17382,
+    "input_tokens": 31021,
+    "cost_usd": 0.13676
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 3,
+  "url": "https://www.homedepot.com/p/HOROW-17-in-ADA-Chair-Height-2-piece-1-28-GPF-Single-Flush-Round-Toilet-Map-Flush-1000g-Soft-Close-Seat-Included-HR-TRS01/325343119",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15060 chars, copy dated 2026-11-05 (6 days old)",
+    "price": 159.0,
+    "opened": "YES",
+    "doc_chars": 15060,
+    "input_tokens": 31684,
+    "cost_usd": 0.1407
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "17729 chars, copy dated 2026-11-05 (6 days old)",
+    "price": 159.0,
+    "opened": "YES",
+    "doc_chars": 17729,
+    "input_tokens": 32697,
+    "cost_usd": 0.14505
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 4,
+  "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "18168 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 819.0,
+    "opened": "YES",
+    "doc_chars": 18168,
+    "input_tokens": 39625,
+    "cost_usd": 0.17548
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "52761 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 819.0,
+    "opened": "YES",
+    "doc_chars": 52761,
+    "input_tokens": 32891,
+    "cost_usd": 0.1478
+   }
+  }
+ },
+ {
+  "domain": "homedepot.com",
+  "idx": 5,
+  "url": "https://www.homedepot.com/p/HOROW-Non-Electric-Elongated-Bidet-Toilet-1-0-GPF-in-White-with-ADA-Chair-Height-Foot-Kick-to-Flush-HR-T30/331279293",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15108 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 369.0,
+    "opened": "YES",
+    "doc_chars": 15108,
+    "input_tokens": 32363,
+    "cost_usd": 0.14589
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "17823 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 369.0,
+    "opened": "YES",
+    "doc_chars": 17823,
+    "input_tokens": 34382,
+    "cost_usd": 0.15121
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "idx": 1,
+  "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this page)",
+    "doc_chars": 0,
+    "input_tokens": 15569,
+    "cost_usd": 0.06954
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the fetch tool returned url_not_allowed)",
+    "doc_chars": 0,
+    "input_tokens": 15556,
+    "cost_usd": 0.06926
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "idx": 2,
+  "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (my web tool gave a \"url_not_allowed\" error for this page)",
+    "doc_chars": 0,
+    "input_tokens": 15737,
+    "cost_usd": 0.07131
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this page)",
+    "doc_chars": 0,
+    "input_tokens": 15675,
+    "cost_usd": 0.07034
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "idx": 3,
+  "url": "https://www.target.com/p/athena-club-hair-38-body-mist-bare-gold-6-fl-oz/-/A-1009560051",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15643,
+    "cost_usd": 0.06969
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15601,
+    "cost_usd": 0.06926
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "idx": 4,
+  "url": "https://www.target.com/p/athena-club-skin-perfecting-body-lotion-bare-gold-16-fl-oz/-/A-95254643",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 21362,
+    "cost_usd": 0.09817
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15620,
+    "cost_usd": 0.0696
+   }
+  }
+ },
+ {
+  "domain": "target.com",
+  "idx": 5,
+  "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15573,
+    "cost_usd": 0.06909
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15567,
+    "cost_usd": 0.06917
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 1,
+  "url": "https://www.lowes.com/pd/Samsung-Counter-Depth-Sphere-Ice-25-5-cu-ft-3-Door-36-in-Wide-Smart-Compatible-French-Door-Refrigerator-with-Dual-Ice-Maker-with-Water-and-Ice-Dispenser-Fingerprint-Resistant-Stainless-Steel/5016703559",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "11408 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 11408,
+    "input_tokens": 48873,
+    "cost_usd": 0.21375
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "11760 chars, copy dated 2026-10-16 (26 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 11760,
+    "input_tokens": 31863,
+    "cost_usd": 0.14135
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 2,
+  "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "9974 chars, copy dated 2026-10-08 (34 days old)",
+    "price": 465.0,
+    "opened": "YES",
+    "doc_chars": 9974,
+    "input_tokens": 32668,
+    "cost_usd": 0.14287
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "9974 chars, copy dated 2026-10-08 (34 days old)",
+    "price": 465.0,
+    "opened": "YES",
+    "doc_chars": 9974,
+    "input_tokens": 32501,
+    "cost_usd": 0.14282
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 3,
+  "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "9436 chars, copy dated 2026-10-18 (24 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9436,
+    "input_tokens": 34610,
+    "cost_usd": 0.15162
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "9436 chars, copy dated 2026-10-18 (24 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9436,
+    "input_tokens": 31995,
+    "cost_usd": 0.14164
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 4,
+  "url": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "11190 chars, copy dated 2026-10-23 (19 days old)",
+    "price": 199.0,
+    "opened": "YES",
+    "doc_chars": 11190,
+    "input_tokens": 32905,
+    "cost_usd": 0.14498
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "11625 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 179.0,
+    "opened": "YES",
+    "doc_chars": 11625,
+    "input_tokens": 33668,
+    "cost_usd": 0.14817
+   }
+  }
+ },
+ {
+  "domain": "lowes.com",
+  "idx": 5,
+  "url": "https://www.lowes.com/pd/DEWALT-20V-MAX-XR-8Ah-Starter-Kit-2-Pack/5016367079",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "6953 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6953,
+    "input_tokens": 24162,
+    "cost_usd": 0.10587
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "6820 chars, copy dated 2026-10-21 (21 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6820,
+    "input_tokens": 31435,
+    "cost_usd": 0.13854
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 1,
+  "url": "https://www.cvs.com/shop/cvs-severe-sinus-moisturizing-extra-fine-mist-1-fl-oz-prodid-799333",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15621,
+    "cost_usd": 0.06956
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "5075 chars, copy dated 2026-11-07 (4 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 5075,
+    "input_tokens": 22634,
+    "cost_usd": 0.1011
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 2,
+  "url": "https://www.cvs.com/shop/dayquil-intense-flu-rapid-release-liquicaps-24-ct-prodid-812181",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "6303 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6303,
+    "input_tokens": 37877,
+    "cost_usd": 0.16485
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "6303 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6303,
+    "input_tokens": 22611,
+    "cost_usd": 0.10108
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 3,
+  "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "5684 chars, copy dated 2026-11-09 (2 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 5684,
+    "input_tokens": 22597,
+    "cost_usd": 0.10053
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "5684 chars, copy dated 2026-11-09 (2 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 5684,
+    "input_tokens": 22714,
+    "cost_usd": 0.1005
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 4,
+  "url": "https://www.cvs.com/shop/natrol-melatonin-5mg-ultra-sleep-blend-fast-dissolve-tablets-raspberry-30-ct-prodid-671864",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "5611 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 5611,
+    "input_tokens": 22681,
+    "cost_usd": 0.10122
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "5611 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 5611,
+    "input_tokens": 22919,
+    "cost_usd": 0.10246
+   }
+  }
+ },
+ {
+  "domain": "cvs.com",
+  "idx": 5,
+  "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "7076 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 7076,
+    "input_tokens": 22483,
+    "cost_usd": 0.10145
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "10086 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 10086,
+    "input_tokens": 22595,
+    "cost_usd": 0.10054
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 1,
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "10141 chars, copy dated 2026-11-06 (5 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 10141,
+    "input_tokens": 40814,
+    "cost_usd": 0.1836
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "11488 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 11488,
+    "input_tokens": 31712,
+    "cost_usd": 0.14505
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 2,
+  "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/JJGH3Q8PXV",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "9434 chars, copy dated 2026-11-11 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9434,
+    "input_tokens": 34031,
+    "cost_usd": 0.15608
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "9434 chars, copy dated 2026-11-11 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9434,
+    "input_tokens": 38776,
+    "cost_usd": 0.17426
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 3,
+  "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "8353 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 8353,
+    "input_tokens": 31209,
+    "cost_usd": 0.14048
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "8353 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 8353,
+    "input_tokens": 31537,
+    "cost_usd": 0.14085
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 4,
+  "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "7821 chars, copy dated 2026-11-03 (8 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 7821,
+    "input_tokens": 32269,
+    "cost_usd": 0.1443
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "7821 chars, copy dated 2026-11-03 (8 days old)",
+    "price": 499.0,
+    "opened": "YES",
+    "doc_chars": 7821,
+    "input_tokens": 39386,
+    "cost_usd": 0.17544
+   }
+  }
+ },
+ {
+  "domain": "bestbuy.com",
+  "idx": 5,
+  "url": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "9380 chars, copy dated 2026-11-05 (6 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9380,
+    "input_tokens": 32452,
+    "cost_usd": 0.14551
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "9380 chars, copy dated 2026-11-05 (6 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 9380,
+    "input_tokens": 32372,
+    "cost_usd": 0.14541
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 1,
+  "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "16261 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 16261,
+    "input_tokens": 38023,
+    "cost_usd": 0.16823
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "17926 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 17926,
+    "input_tokens": 31793,
+    "cost_usd": 0.14331
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 2,
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "14543 chars, copy dated 2026-11-10 (1 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 14543,
+    "input_tokens": 23722,
+    "cost_usd": 0.10879
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "14543 chars, copy dated 2026-11-10 (1 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 14543,
+    "input_tokens": 23874,
+    "cost_usd": 0.10924
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 3,
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "16058 chars, copy dated 2026-11-11 (0 days old)",
+    "price": 2299.99,
+    "opened": "YES",
+    "doc_chars": 16058,
+    "input_tokens": 40182,
+    "cost_usd": 0.17809
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "16058 chars, copy dated 2026-11-11 (0 days old)",
+    "price": 2299.99,
+    "opened": "YES",
+    "doc_chars": 16058,
+    "input_tokens": 23519,
+    "cost_usd": 0.10802
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 4,
+  "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "13597 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 1199.99,
+    "opened": "YES",
+    "doc_chars": 13597,
+    "input_tokens": 30950,
+    "cost_usd": 0.1383
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "13597 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 1199.99,
+    "opened": "YES",
+    "doc_chars": 13597,
+    "input_tokens": 31213,
+    "cost_usd": 0.14043
+   }
+  }
+ },
+ {
+  "domain": "samsung.com",
+  "idx": 5,
+  "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "13389 chars, copy dated 2026-11-10 (1 days old)",
+    "price": 1399.99,
+    "opened": "YES",
+    "doc_chars": 13389,
+    "input_tokens": 33620,
+    "cost_usd": 0.14796
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "13262 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 13262,
+    "input_tokens": 30962,
+    "cost_usd": 0.13503
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 1,
+  "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "12762 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: error (the page loaded, but only the title and site menu came through, with no price or stock shown)",
+    "doc_chars": 12762,
+    "input_tokens": 42130,
+    "cost_usd": 0.18074
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "12762 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12762,
+    "input_tokens": 22799,
+    "cost_usd": 0.10018
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 2,
+  "url": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "12929 chars, copy dated 2026-11-07 (4 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12929,
+    "input_tokens": 39386,
+    "cost_usd": 0.17194
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "12786 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12786,
+    "input_tokens": 44269,
+    "cost_usd": 0.19074
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 3,
+  "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "12962 chars, copy dated 2026-11-08 (3 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12962,
+    "input_tokens": 42961,
+    "cost_usd": 0.1855
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "12962 chars, copy dated 2026-11-08 (3 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12962,
+    "input_tokens": 41936,
+    "cost_usd": 0.18132
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 4,
+  "url": "https://www.walgreens.com/store/c/claritin-24-hour-allergy-liqui-gels-10-mg/ID=300474750-product",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "12732 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12732,
+    "input_tokens": 23264,
+    "cost_usd": 0.10394
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "12732 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12732,
+    "input_tokens": 40522,
+    "cost_usd": 0.17575
+   }
+  }
+ },
+ {
+  "domain": "walgreens.com",
+  "idx": 5,
+  "url": "https://www.walgreens.com/store/c/flonase-non-drowsy-allergy-nasal-spray/ID=300429177-product",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "12764 chars, copy dated 2026-11-08 (3 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12764,
+    "input_tokens": 34335,
+    "cost_usd": 0.149
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "12764 chars, copy dated 2026-11-08 (3 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 12764,
+    "input_tokens": 39230,
+    "cost_usd": 0.17064
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "idx": 1,
+  "url": "https://www.costco.com/p/-/shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro/4000359361",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15647,
+    "cost_usd": 0.06977
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "6868 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6868,
+    "input_tokens": 29948,
+    "cost_usd": 0.13279
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "idx": 2,
+  "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15594,
+    "cost_usd": 0.0694
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15642,
+    "cost_usd": 0.07005
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "idx": 3,
+  "url": "https://www.costco.com/p/-/hp-omnibook-5-16-touchscreen-laptop---amd-ryzen-ai-9-465---copilot-pc---2k-oled-1920-x-1200---32gb-memory---1tb-ssd---windows-11-home/4201003802",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15867,
+    "cost_usd": 0.07163
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (the fetch tool returned \"url_not_accessible\")",
+    "doc_chars": 0,
+    "input_tokens": 15863,
+    "cost_usd": 0.07179
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "idx": 4,
+  "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (the page couldn't be reached: url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15637,
+    "cost_usd": 0.07001
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "6525 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 6525,
+    "input_tokens": 29432,
+    "cost_usd": 0.13083
+   }
+  }
+ },
+ {
+  "domain": "costco.com",
+  "idx": 5,
+  "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15639,
+    "cost_usd": 0.06964
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15677,
+    "cost_usd": 0.07015
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "idx": 1,
+  "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (the fetch tool returned \"url_too_long\" and would not open this URL)",
+    "doc_chars": 0,
+    "input_tokens": 16386,
+    "cost_usd": 0.07622
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (the web tool rejected the URL as too long)",
+    "doc_chars": 0,
+    "input_tokens": 16418,
+    "cost_usd": 0.07647
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "idx": 2,
+  "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (url_too_long, the fetch tool rejected the URL as too long)",
+    "doc_chars": 0,
+    "input_tokens": 16085,
+    "cost_usd": 0.07264
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_too_long",
+    "price": null,
+    "opened": "NO: error (the web tool rejected the URL as too long)",
+    "doc_chars": 0,
+    "input_tokens": 16081,
+    "cost_usd": 0.07236
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "idx": 3,
+  "url": "https://us.shein.com/Autumn-Thanksgiving-Thankful-Printing-Drop-Shoulder-Casual-White-Graphic-Sweatshirt-Chenille-Yarn-Sportwear-Customized-Christian-SchoolGift-Winter-p-570542332.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded but showed no product content, only an empty page)",
+    "doc_chars": 135,
+    "input_tokens": 15964,
+    "cost_usd": 0.0707
+   },
+   "B_uncapped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded but showed no product content)",
+    "doc_chars": 135,
+    "input_tokens": 15950,
+    "cost_usd": 0.07234
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "idx": 4,
+  "url": "https://us.shein.com/Satin-Halter-Neck-High-Low-Dress-For-Women-Feather-Trim-Sleeveless-Flowy-Dress-Backless-Split-Hem-Elegant-Night-Out-Party-Dress-p-574360064.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page loaded but showed no product content, only an empty shell)",
+    "doc_chars": 135,
+    "input_tokens": 15922,
+    "cost_usd": 0.07159
+   },
+   "B_uncapped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the page returned an empty shell with no product content)",
+    "doc_chars": 135,
+    "input_tokens": 15920,
+    "cost_usd": 0.07164
+   }
+  }
+ },
+ {
+  "domain": "shein.com",
+  "idx": 5,
+  "url": "https://us.shein.com/Women-s-Fall-Boho-Wide-Leg-Pants-With-Drawstring-Cute-Pumpkin-And-Turkey-Print-Polyester-Trousers-For-Autumn-Comfort-p-576190477.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: error (the page loaded but returned only meta tags, with no product content)",
+    "doc_chars": 135,
+    "input_tokens": 16074,
+    "cost_usd": 0.07526
+   },
+   "B_uncapped": {
+    "verdict": "served_thin",
+    "why": "135 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: blocked (the fetch returned only an empty page shell with no product name, price or stock shown)",
+    "doc_chars": 135,
+    "input_tokens": 16068,
+    "cost_usd": 0.07373
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 1,
+  "url": "https://www.wayfair.com/furniture/pdp/wade-logan-crandell-top-grain-100-genuine-italian-leather-swivel-barrel-chair-w100398878.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15727 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15727,
+    "input_tokens": 55815,
+    "cost_usd": 0.23918
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "79339 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 79339,
+    "input_tokens": 54447,
+    "cost_usd": 0.23887
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 2,
+  "url": "https://www.wayfair.com/appliances/pdp/miele-guard-l1-cat-dog-bagged-canister-vacuum-for-pet-owners-with-odor-reducing-active-airclean-filter-turboteq-floorhead-and-allteq-universal-floorhead-in-obsidian-blackspace-grey-meel1211.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15575 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15575,
+    "input_tokens": 44423,
+    "cost_usd": 0.19547
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "78709 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 78709,
+    "input_tokens": 42133,
+    "cost_usd": 0.18919
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 3,
+  "url": "https://www.wayfair.com/outdoor/pdp/birch-lane-iago-outdoor-umbrella-w000862408.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15631 chars, copy dated 2026-10-19 (23 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15631,
+    "input_tokens": 40367,
+    "cost_usd": 0.17679
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "77101 chars, copy dated 2026-10-19 (23 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 77101,
+    "input_tokens": 42415,
+    "cost_usd": 0.18518
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 4,
+  "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15648 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15648,
+    "input_tokens": 53088,
+    "cost_usd": 0.22819
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "73523 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 73523,
+    "input_tokens": 59953,
+    "cost_usd": 0.26131
+   }
+  }
+ },
+ {
+  "domain": "wayfair.com",
+  "idx": 5,
+  "url": "https://www.wayfair.com/furniture/pdp/longshore-tides-mahler-42-console-table-w004136348.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15738 chars, copy dated 2026-08-29 (74 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15738,
+    "input_tokens": 42247,
+    "cost_usd": 0.18253
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "73644 chars, copy dated 2026-08-29 (74 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 73644,
+    "input_tokens": 38580,
+    "cost_usd": 0.17126
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "idx": 1,
+  "url": "https://www.macys.com/shop/product/carolina-herrera-3-piece-la-bomba-eau-de-parfum-gift-set?ID=27683945",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15396 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15396,
+    "input_tokens": 39926,
+    "cost_usd": 0.17488
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "190402 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 175.0,
+    "opened": "YES",
+    "doc_chars": 190402,
+    "input_tokens": 23975,
+    "cost_usd": 0.10668
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "idx": 2,
+  "url": "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15494 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15494,
+    "input_tokens": 42471,
+    "cost_usd": 0.18502
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "104185 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 145.0,
+    "opened": "YES",
+    "doc_chars": 104185,
+    "input_tokens": 26580,
+    "cost_usd": 0.11742
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "idx": 3,
+  "url": "https://www.macys.com/shop/product/maison-francis-kurkdjian-3-piece-gentle-fluidity-gold-perfume-ritual-gift-set?ID=28809657",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15381 chars, copy dated 2026-11-09 (2 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15381,
+    "input_tokens": 31450,
+    "cost_usd": 0.13932
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "188499 chars, copy dated 2026-11-09 (2 days old)",
+    "price": 310.0,
+    "opened": "YES",
+    "doc_chars": 188499,
+    "input_tokens": 32677,
+    "cost_usd": 0.14327
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "idx": 4,
+  "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28778954",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15426 chars, copy dated 2026-11-04 (7 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15426,
+    "input_tokens": 33155,
+    "cost_usd": 0.14472
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "177866 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 157.25,
+    "opened": "YES",
+    "doc_chars": 177866,
+    "input_tokens": 44818,
+    "cost_usd": 0.19611
+   }
+  }
+ },
+ {
+  "domain": "macys.com",
+  "idx": 5,
+  "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15326 chars, copy dated 2026-11-07 (4 days old)",
+    "price": null,
+    "opened": "YES",
+    "doc_chars": 15326,
+    "input_tokens": 40907,
+    "cost_usd": 0.17877
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "189058 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 34.0,
+    "opened": "YES",
+    "doc_chars": 189058,
+    "input_tokens": 31548,
+    "cost_usd": 0.14027
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 1,
+  "url": "https://www.aliexpress.us/item/3256813345982189.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the web tool returned url_not_allowed)",
+    "doc_chars": 0,
+    "input_tokens": 15338,
+    "cost_usd": 0.06657
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the web tool returned \"url_not_allowed\" for this page)",
+    "doc_chars": 0,
+    "input_tokens": 15332,
+    "cost_usd": 0.06665
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 2,
+  "url": "https://www.aliexpress.us/item/3256810554257219.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (fetch tool returned url_not_allowed)",
+    "doc_chars": 0,
+    "input_tokens": 15332,
+    "cost_usd": 0.06661
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15374,
+    "cost_usd": 0.06662
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 3,
+  "url": "https://www.aliexpress.us/item/3256812897461561.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15536,
+    "cost_usd": 0.06896
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15536,
+    "cost_usd": 0.06886
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 4,
+  "url": "https://www.aliexpress.us/item/3256812987473153.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+    "doc_chars": 0,
+    "input_tokens": 15326,
+    "cost_usd": 0.06654
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the web tool returned \"url_not_allowed\")",
+    "doc_chars": 0,
+    "input_tokens": 15334,
+    "cost_usd": 0.06658
+   }
+  }
+ },
+ {
+  "domain": "aliexpress.com",
+  "idx": 5,
+  "url": "https://www.aliexpress.us/item/3256812095603119.html",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed (the fetch tool returned the error \"url_not_allowed\")",
+    "doc_chars": 0,
+    "input_tokens": 15340,
+    "cost_usd": 0.06662
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_allowed",
+    "price": null,
+    "opened": "NO: not allowed",
+    "doc_chars": 0,
+    "input_tokens": 15490,
+    "cost_usd": 0.06836
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "idx": 1,
+  "url": "https://www.gap.com/browse/product.do?pid=1188295092",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "7434 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 53.0,
+    "opened": "YES",
+    "doc_chars": 7434,
+    "input_tokens": 23629,
+    "cost_usd": 0.10484
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "7434 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 53.0,
+    "opened": "YES",
+    "doc_chars": 7434,
+    "input_tokens": 24010,
+    "cost_usd": 0.10504
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "idx": 2,
+  "url": "https://www.gap.com/browse/product.do?pid=908929032",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "8126 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 69.95,
+    "opened": "YES",
+    "doc_chars": 8126,
+    "input_tokens": 23490,
+    "cost_usd": 0.1042
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "8027 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 69.95,
+    "opened": "YES",
+    "doc_chars": 8027,
+    "input_tokens": 22786,
+    "cost_usd": 0.09994
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "idx": 3,
+  "url": "https://www.gap.com/browse/product.do?pid=914524042",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "7748 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 94.0,
+    "opened": "YES",
+    "doc_chars": 7748,
+    "input_tokens": 23559,
+    "cost_usd": 0.10554
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "7748 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 94.0,
+    "opened": "YES",
+    "doc_chars": 7748,
+    "input_tokens": 22659,
+    "cost_usd": 0.09912
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "idx": 4,
+  "url": "https://www.gap.com/browse/product.do?pid=1184966022",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "7649 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 17.0,
+    "opened": "YES",
+    "doc_chars": 7649,
+    "input_tokens": 23464,
+    "cost_usd": 0.10442
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "7649 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 17.0,
+    "opened": "YES",
+    "doc_chars": 7649,
+    "input_tokens": 23584,
+    "cost_usd": 0.10524
+   }
+  }
+ },
+ {
+  "domain": "gap.com",
+  "idx": 5,
+  "url": "https://www.gap.com/browse/product.do?pid=908887122",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "7530 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 79.95,
+    "opened": "YES",
+    "doc_chars": 7530,
+    "input_tokens": 23710,
+    "cost_usd": 0.10496
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "7530 chars, copy dated 2026-11-04 (7 days old)",
+    "price": 79.95,
+    "opened": "YES",
+    "doc_chars": 7530,
+    "input_tokens": 23544,
+    "cost_usd": 0.10406
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "idx": 1,
+  "url": "https://www.depop.com/products/zoeyaliviaw12-gray-cropped-hoodie-with-star-eafc/",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (the fetch tool returned url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15556,
+    "cost_usd": 0.06912
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15429,
+    "cost_usd": 0.06708
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "idx": 2,
+  "url": "https://www.depop.com/products/lainey_ho3ard-high-waisted-distressed-light-wash-denim-e4fc/",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15584,
+    "cost_usd": 0.06934
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (the fetch tool returned url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15558,
+    "cost_usd": 0.06921
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "idx": 3,
+  "url": "https://www.depop.com/products/ptyjennu-message-before-buying-so-i-0180/",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15370,
+    "cost_usd": 0.06666
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15376,
+    "cost_usd": 0.06662
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "idx": 4,
+  "url": "https://www.depop.com/products/grillednf0ied-bebe-olive-green-rhinestone-graphic-aabf/",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15564,
+    "cost_usd": 0.06922
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (the fetch failed with \"url_not_accessible\", so the page didn't load)",
+    "doc_chars": 0,
+    "input_tokens": 15552,
+    "cost_usd": 0.06927
+   }
+  }
+ },
+ {
+  "domain": "depop.com",
+  "idx": 5,
+  "url": "https://www.depop.com/products/jcwiley0h-never-been-worn-adidas-yoga-c487/",
+  "arms": {
+   "A_capped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15391,
+    "cost_usd": 0.06676
+   },
+   "B_uncapped": {
+    "verdict": "blocked",
+    "why": "tool_error=url_not_accessible",
+    "price": null,
+    "opened": "NO: error (url_not_accessible)",
+    "doc_chars": 0,
+    "input_tokens": 15529,
+    "cost_usd": 0.06884
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 1,
+  "url": "https://www.kroger.com/p/maxwell-house-original-roast-ground-coffee-canister/0004300009422",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "1051 chars, copy dated 2026-11-12 (0 days old)",
+    "price": null,
+    "opened": "NO: error (no product details loaded)",
+    "doc_chars": 1051,
+    "input_tokens": 16095,
+    "cost_usd": 0.07034
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "15236 chars, copy dated 2026-09-10 (62 days old)",
+    "price": 15.49,
+    "opened": "YES",
+    "doc_chars": 15236,
+    "input_tokens": 23390,
+    "cost_usd": 0.10438
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 2,
+  "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "14593 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 13.99,
+    "opened": "YES",
+    "doc_chars": 14593,
+    "input_tokens": 29325,
+    "cost_usd": 0.12952
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "14593 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 13.99,
+    "opened": "YES",
+    "doc_chars": 14593,
+    "input_tokens": 23215,
+    "cost_usd": 0.10516
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 3,
+  "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "15209 chars, copy dated 2026-09-10 (62 days old)",
+    "price": 10.99,
+    "opened": "YES",
+    "doc_chars": 15209,
+    "input_tokens": 23179,
+    "cost_usd": 0.10284
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "15209 chars, copy dated 2026-09-10 (62 days old)",
+    "price": 10.99,
+    "opened": "YES",
+    "doc_chars": 15209,
+    "input_tokens": 23856,
+    "cost_usd": 0.10418
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 4,
+  "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+  "arms": {
+   "A_capped": {
+    "verdict": "served",
+    "why": "15079 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 14.99,
+    "opened": "YES",
+    "doc_chars": 15079,
+    "input_tokens": 23381,
+    "cost_usd": 0.1038
+   },
+   "B_uncapped": {
+    "verdict": "served",
+    "why": "15079 chars, copy dated 2026-11-12 (0 days old)",
+    "price": 14.99,
+    "opened": "YES",
+    "doc_chars": 15079,
+    "input_tokens": 23296,
+    "cost_usd": 0.10328
+   }
+  }
+ },
+ {
+  "domain": "kroger.com",
+  "idx": 5,
+  "url": "https://www.kroger.com/p/kroger-original-medium-roast-ground-coffee/0001111015000",
+  "arms": {
+   "A_capped": {
+    "verdict": "served_stale",
+    "why": "14210 chars, copy dated 2026-09-30 (42 days old)",
+    "price": 14.49,
+    "opened": "YES",
+    "doc_chars": 14210,
+    "input_tokens": 22959,
+    "cost_usd": 0.10226
+   },
+   "B_uncapped": {
+    "verdict": "served_stale",
+    "why": "14210 chars, copy dated 2026-09-30 (42 days old)",
+    "price": 14.49,
+    "opened": "YES",
+    "doc_chars": 14210,
+    "input_tokens": 22796,
+    "cost_usd": 0.09992
+   }
+  }
+ }
+]

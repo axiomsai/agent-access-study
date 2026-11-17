@@ -1,0 +1,25 @@
+{
+ "domain": "lowes.com",
+ "idx": 3,
+ "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "9436 chars, copy dated 2026-10-18 (24 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9436,
+   "input_tokens": 34610,
+   "cost_usd": 0.15162
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "9436 chars, copy dated 2026-10-18 (24 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 9436,
+   "input_tokens": 31995,
+   "cost_usd": 0.14164
+  }
+ }
+}

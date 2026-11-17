@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/search/shops",
+  "https://www.etsy.com/market/listings",
+  "https://www.etsy.com/listing/1868615965/custom-order",
+  "https://www.etsy.com/market/etsy_com_shop",
+  "https://www.etsy.com/market/search_by_seller",
+  "https://www.etsy.com/c"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not accessible via search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not accessible via search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/search/shops",
+   "https://www.etsy.com/market/listings",
+   "https://www.etsy.com/listing/1868615965/custom-order",
+   "https://www.etsy.com/market/etsy_com_shop",
+   "https://www.etsy.com/market/search_by_seller",
+   "https://www.etsy.com/c"
+  ],
+  "created": 1793906206,
+  "id": "resp_50e8fa1c-736c-435f-aa78-ef89fd69737f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "FREE shipping\n## Dangle Earring https://www.etsy.com/shop/RemembranceFashion\n- ## https://www.etsy.com/listing/4493969257/funny-cartoon-mouse-pad-with-wrist-rest\n(20)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Etsy&\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\n5,000+ items",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Accessories - Etsy\n# Accessories\n- ### Custom Cufflinks for Groomsmen Gifts and Wedding Gift for Him, Best Man Gift, Anniversary Gift for Husband in a Groom Gift Box, Gold Plated",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Local Etsy Shops - Etsy\n# Shop local in\n## Etsy's picks from local sellers\n### TOP SELLER - From the Library of Book Embosser Custom Personalized From the Library of Book Belongs to Ex Libris Book Lover Gift 1 5/8\"",
+    "source": "web",
+    "title": "Local Etsy Shops - Etsy",
+    "url": "https://www.etsy.com/search/shops"
+   },
+   {
+    "date": "2025-12-24",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Listings\n5,000+ items\n...\n- ## Wedding Guest List Tracker | Google Sheets Template (Digital Download)",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "This item is unavailable - Etsy\nSorry, this item is unavailable.\nSorry, this item is unavailable.\nCreationsByCadeee 5 out of 5 stars (83) 83 reviews\n# CUSTOM ORDER\n$21.00",
+    "source": "web",
+    "title": "CUSTOM ORDER",
+    "url": "https://www.etsy.com/listing/1868615965/custom-order"
+   },
+   {
+    "date": "2025-07-25",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Etsy Com Shop - Etsy\n# Etsy Com Shop\n- ## https://www.etsy.com/your/shops/me/listing-editor/copy/4566434047#media",
+    "source": "web",
+    "title": "Etsy Com Shop",
+    "url": "https://www.etsy.com/market/etsy_com_shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Search by Seller - Etsy\n# Search by Seller\n1,000+ items",
+    "source": "web",
+    "title": "Search by Seller - Etsy",
+    "url": "https://www.etsy.com/market/search_by_seller"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "All Categories - Etsy\n# All Categories\nHome & Living\n(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n(9,972)\nStar Seller\nSale Price $6.30 $6.30\n$18.00 Original Price $18.00 (65% off)\n...\n...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00076,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00345
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

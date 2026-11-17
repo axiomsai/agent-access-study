@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.instacart.com/",
+  "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments",
+  "https://www.instacart.com/products/24446081-u-by-kotex-ultra-thin-pads-with-wings-heavy-absorbency-32-ea",
+  "https://www.instacart.com/store/products/19189024-cholula-original-hot-sauce-64-fl-oz",
+  "https://www.instacart.com/categories/halal/food",
+  "https://www.instacart.com/categories/organic/food/pantry/condiments/sauces/chili-sauces",
+  "https://www.instacart.com/landing",
+  "https://www.instacart.com/categories/316-food?page=11562",
+  "https://www.instacart.com/categories/1772-electronics/2505-photography-videography?brand=arlo",
+  "https://www.instacart.com/products/106039216-womens-croft-barrow-open-front-threequarter-sleeve-cardigan-size-medium-graceful-beige-m"
+ ],
+ "cited_store": true,
+ "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You — Frozen",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Instacart | Grocery Delivery or Pickup from Local Stores Near You — Frozen",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.instacart.com/",
+   "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments",
+   "https://www.instacart.com/products/24446081-u-by-kotex-ultra-thin-pads-with-wings-heavy-absorbency-32-ea",
+   "https://www.instacart.com/store/products/19189024-cholula-original-hot-sauce-64-fl-oz",
+   "https://www.instacart.com/categories/halal/food",
+   "https://www.instacart.com/categories/organic/food/pantry/condiments/sauces/chili-sauces",
+   "https://www.instacart.com/landing",
+   "https://www.instacart.com/categories/316-food?page=11562",
+   "https://www.instacart.com/categories/1772-electronics/2505-photography-videography?brand=arlo",
+   "https://www.instacart.com/products/106039216-womens-croft-barrow-open-front-threequarter-sleeve-cardigan-size-medium-graceful-beige-m"
+  ],
+  "created": 1793905866,
+  "id": "resp_61f72e6e-1876-4967-b787-56c0747a74ed",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n# Order groceries for delivery or pickup today\n## All stores in San Francisco Bay Area\n### Choose what you want\nSelect items from your favorite grocery stores at Instacart.com or in the app.",
+    "source": "web",
+    "title": "Hershey's Kisses Milk Chocolate Candy (7.2 oz) Delivery or Pickup ...",
+    "url": "https://www.instacart.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Condiments Products Near Me - Delivery or Pickup | Instacart\n...\n# Condiments Delivery or Pickup",
+    "source": "web",
+    "title": "Condiments Products Near Me - Delivery or Pickup | Instacart",
+    "url": "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Kotex Clean & Secure Ultra Thin Pads with Wings, Heavy Absorbency (32 ct) Delivery or Pickup Near Me - Instacart\n...\n94105\n...\n1. Feminine Care\n2. Menstrual Products\n3. Feminine Pads\n...\n# Kotex Clean & Secure Ultra Thin Pads with Wings, Heavy Absorbency\n32 ct\n• $0.50 each\nStarting at $6.97\n...\n## R...",
+    "source": "web",
+    "title": "Kotex Clean & Secure Ultra Thin Pads with Wings, Heavy ... - Instacart",
+    "url": "https://www.instacart.com/products/24446081-u-by-kotex-ultra-thin-pads-with-wings-heavy-absorbency-32-ea"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "CHOLULA Original Hot Sauce (64 fl oz) Delivery or Pickup Near Me - Instacart\n...\n94105\n...\n1. Pantry\n2. Condiments\n3. Sauces\n4. Hot Sauces\nCHOLULA Original Hot Sauce\n$16.4964 fl oz",
+    "source": "web",
+    "title": "CHOLULA Original Hot Sauce (64 fl oz) Delivery or Pickup Near Me",
+    "url": "https://www.instacart.com/store/products/19189024-cholula-original-hot-sauce-64-fl-oz"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Halal Food Products Delivery or Pickup Near Me — Instacart\n...\n# Halal Food Products Delivery or Pickup Near Me",
+    "source": "web",
+    "title": "Halal Food Products Delivery or Pickup Near Me — Instacart",
+    "url": "https://www.instacart.com/categories/halal/food"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Organic Chili Sauces Products Delivery or Pickup Near Me — Instacart\n...\n# Organic Chili Sauces Products Delivery or Pickup Near Me",
+    "source": "web",
+    "title": "Organic Chili Sauces Products Delivery or Pickup Near Me - Instacart",
+    "url": "https://www.instacart.com/categories/organic/food/pantry/condiments/sauces/chili-sauces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Instacart\n...\nItem isn't available in 94105\n...\n## Departments\n### Frozen",
+    "source": "web",
+    "title": "Instacart",
+    "url": "https://www.instacart.com/landing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Food Products Near Me - Delivery or Pickup | Page 11562 | Instacart\n# Food Delivery or Pickup",
+    "source": "web",
+    "title": "Food Products Near Me - Delivery or Pickup | Page 11562",
+    "url": "https://www.instacart.com/categories/316-food?page=11562"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Arlo Photography & Videography Products Near Me - Delivery or Pickup | Instacart\n# Arlo Photography & Videography Delivery or Pickup\nBrands (1)\n- Unclassifiable\nArlo Floodlight Camera, Wired\n1 each\nArlo Security Camera, Wire-Free, Floodlight, Pro 3\n...\n## Arlo Photography & Videography Near Me\nBuy y...",
+    "source": "web",
+    "title": "Arlo Photography & Videography Delivery or Pickup - Instacart",
+    "url": "https://www.instacart.com/categories/1772-electronics/2505-photography-videography?brand=arlo"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Delivery or Pickup Near Me - Instacart\n...\n1. Adult Clothing\n2. Tops",
+    "source": "web",
+    "title": "Delivery or Pickup Near Me - Instacart",
+    "url": "https://www.instacart.com/products/106039216-womens-croft-barrow-open-front-threequarter-sleeve-cardigan-size-medium-graceful-beige-m"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 15,
+   "cost": {
+    "input_tokens_cost": 0.0006699999999999999,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00322
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 73
+  }
+ }
+}

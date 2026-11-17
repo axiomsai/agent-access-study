@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Title:** Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n\n**Product/Category:** Grocery & Beverages",
+ "finish": "STOP",
+ "cost_usd": 0.00058,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Title:** Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n\n**Product/Category:** Grocery & Beverages",
+       "thoughtSignature": "EnMKcQFpFH0TmuOWPcVzaj6PFu4k1KLPgMdfHW3R21G3V36geTbbXgdQoP2sRG4i6+7OSsVkT2NNSUfH5JDg4vWvPkp8JMR0VDi7RI8dwOpriuPNGijDdvO30E/ln0fUDRZ/XvyGyUQjobksDoeJ+3+rbV9J"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.walgreens.com/",
+        "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 71,
+        "text": "**Title:** Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 73,
+        "endIndex": 114,
+        "text": "**Product/Category:** Grocery & Beverages"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 64,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 5626,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 64
+    }
+   ],
+   "toolUsePromptTokenCount": 5505,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5505
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "odTsatuaCM6kmtkP_OvYgQ0"
+ }
+}

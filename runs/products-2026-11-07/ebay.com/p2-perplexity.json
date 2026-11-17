@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&LH_BOPIS=1&LH_All=1&_oac=1&_dmd=1&_ipg=100",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_PrefLoc=2&LH_BOPIS=1&_oac=1&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&LH_RPA=0&_sop=15&LH_All=1&LH_ItemCondition=3&_oac=1",
+  "https://www.sandbox.ebay.com/sch/11700/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_oac=1&LH_FS=0&_dmd=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_dmd=2&LH_BIN=1&LH_BOPIS=1&LH_PrefLoc=2&_sop=7&_oac=1",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&LH_BOPIS=1&LH_All=1&_oac=1&_dmd=1&_ipg=100",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_PrefLoc=2&LH_BOPIS=1&_oac=1&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&LH_RPA=0&_sop=15&LH_All=1&LH_ItemCondition=3&_oac=1",
+   "https://www.sandbox.ebay.com/sch/11700/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_oac=1&LH_FS=0&_dmd=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_dmd=2&LH_BIN=1&LH_BOPIS=1&LH_PrefLoc=2&_sop=7&_oac=1",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3"
+  ],
+  "created": 1794080111,
+  "id": "resp_0252b23f-6752-4b5d-8232-3f4fdf31e5bf",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(111) (111) Items\nBuy It Now(111) (111) Items\nAccepts Offers\n# 111 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- START KIT RELAY FOR COMPRESSOR EMBRACO 1/5HP 220V 50/60HZ\nBrand New\n$21.02\nBuy It Now\nFree shipping\n- D...",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- New(2,654) (2,654) Items\n...\n- All Listings(2,654) (2,654) Items\n...\nAccepts Offers\n...\n# 2,600+ results\n- FILTER DRIER 084S 1/2\" ODS for CASTEL DF308/4S\nBrand New\n$32.27",
+    "source": "web",
+    "title": "2,600+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&LH_PrefLoc=98&LH_BOPIS=1&LH_All=1&_oac=1&_dmd=1&_ipg=100"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(112) (112) Items\n...\n# 112 results\n...\n- Buy It Now\n...\n- WorldwideRemove filter",
+    "source": "web",
+    "title": "112 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&LH_BOPIS=1&_dmd=1&LH_All=1&LH_PrefLoc=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(62) (62) Items\nAccepts Offers\n# 62 results\n...\n- Buy It Now\n...\n- Under $20.00Remove filter\n- OVAL RUN CAPACITOR 15 MFD 370 V\nBrand New\n$16.14\nBuy It Now\nFree shipping\n- OVAL RUN CAPACITOR 30 MFD 370 V\nBrand New\n$16.86\nBuy It Now\nFree ...",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- to\n- Buy It Now(13) (13) Items\nAccepts Offers\n# 13 results\n- All\n...\n- Buy It Now\n...\n- Under $14.00Remove filter\n...\n- DRAIN HOSE ø 24x1000 mm\nBrand New\n$13.76\nBuy It Now\nFree shipping\n- ADJUSTER FOR O...",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_PrefLoc=2&LH_BOPIS=1&_oac=1&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-26",
+    "place_metadata": null,
+    "snippet": "# 236 results\n...\n- Buy It Now\n- NewRemove filter\n- 100X Door Panel Clips For BMW 3/5/7 E34 E36 E38 E39 E46 X5 M3 M5 Z3 51411973500\nBrand New\n$2.99",
+    "source": "web",
+    "title": "236 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&LH_BOPIS=1&LH_RPA=0&_sop=15&LH_All=1&LH_ItemCondition=3&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(235) (235) Items\n...\n# 235 results\n...\n- Buy It Now\n...\n- Under $14.00Remove filter",
+    "source": "web",
+    "title": "235 results",
+    "url": "https://www.sandbox.ebay.com/sch/11700/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_oac=1&LH_FS=0&_dmd=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(11) (11) Items\nBuy It Now(11) (11) Items\nAccepts Offers\n# 11 results\n...\n- Buy It Now\n...\n- WorldwideRemove filter\n...\nFree shipping\n- CAB - SPM GEAR MOTOR KENTA K9357502\nBrand New\n...\n- EMELCO M0005139-001 GEAR MOTOR for KENTA Stoel...",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/181730/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_All=1&_oac=1&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\n- - **All** - Cell Phones, Smart Watches & Accessories\n- New(350) (350) Items",
+    "source": "web",
+    "title": "358 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_dmd=2&LH_BIN=1&LH_BOPIS=1&LH_PrefLoc=2&_sop=7&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(111) (111) Items\nBuy It Now(111) (111) Items\nAccepts Offers\n# 111 results\n...\n- Buy It Now\n...\n- Under $350.00Remove filter\n...\n- SPM 02.MP0050.001 FLANGED BUSHING, FRONT for CRATHCO\nBrand New\n$52.06\nBuy It Now\nFree shipping\n- DYNAMI...",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00157,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00426
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

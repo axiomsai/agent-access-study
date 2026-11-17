@@ -1,0 +1,102 @@
+{
+ "domain": "ebay.com",
+ "url": "https://www.ebay.com/",
+ "started": "2026-11-09T12:18:28-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": false,
+    "named_in_file": true
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.ebay.com/",
+  "bytes": 1738,
+  "error": null,
+  "title": "Error Page | eBay",
+  "markers": [],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "14478 chars, copy dated 2026-11-08 (1 days old)",
+   "answer": "The page opened with no errors, block or captcha.\n\n- **Page title:** Electronics, Cars, Fashion, Collectibles & More | eBay\n- **Category on the page:** Brand Outlet (a link in the top navigation)",
+   "cost_usd": 0.0972
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay\nCategory: Electronics",
+   "cost_usd": 0.00051
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Electronics, Cars, Fashion, Collectibles & More | eBay  \nCategory name: Electronics ([ebay.com](https://www.ebay.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "answer": "Blocked — the page could not be opened.",
+   "cost_usd": 0.00507
+  }
+ }
+}

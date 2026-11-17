@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea | PRICE: $4.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00035,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea | PRICE: $4.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TjQnZRcBDFGPsRCW0LlZa77rkH5otKT2yVPVEbGO2jqDADBC5g8WPF5JiPwBtiAuj22U8ul7QlCePxcA2pv7ubBoZjmn/S28e+JfqK1c2zPOzAK/xRwapiHXK+Y9kqfwq9E/2vL2L5csK83WB"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 155,
+   "candidatesTokenCount": 95,
+   "totalTokenCount": 3230,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 155
+    }
+   ],
+   "toolUsePromptTokenCount": 2980,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2980
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "UhLyavLFMaHQz7IP27K-6Ak"
+ }
+}

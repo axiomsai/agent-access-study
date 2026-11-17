@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Walmart | Save Money. Live better.\nProduct/Category: Toys",
+ "finish": "STOP",
+ "cost_usd": 0.00012,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Walmart | Save Money. Live better.\nProduct/Category: Toys",
+       "thoughtSignature": "EnMKcQFpFH0TYYz2vtN9IAL1U5pdtxeTVIUFvRtLfzbhsBuof0EF1nVS9gVnvYYhxZUhggE77JMZD7Rxq0HNCrJeC6LvBn9aSkjsnP1aiDbkiG8wpRg2dtWiVsCsd3V/8OEcOhEpGO2jKxHRfQgyWPaU/XTQ"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 36,
+   "totalTokenCount": 1124,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1026,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1026
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "RXvvatquHP-s6dkP6OPAgAg"
+ }
+}

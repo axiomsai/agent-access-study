@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/browse/product.do?pid=908929032",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0004,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TjaMsNFNkiC1OFPg+7SiOOdRvgsI5/GPxrS0bT3Qv5uIjilxSfxmsUuX9vXmI5nwE+nQfbhA4KPAdA5DCwhZ46DsdaJC9/znaOhuI24zlYFu0cKDqCOfoHeXi6Q9l/ox1O+TbPTANL6su9OPp"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/browse/product.do?pid=908929032",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 132,
+   "candidatesTokenCount": 63,
+   "totalTokenCount": 3805,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 132
+    }
+   ],
+   "toolUsePromptTokenCount": 3610,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3610
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "3obvarH-JfXQz7IPifrVoAk"
+ }
+}

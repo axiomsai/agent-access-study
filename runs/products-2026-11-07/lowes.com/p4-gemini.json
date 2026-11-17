@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate) | PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00118,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Delta Kylo Stainless Steel Single Handle Deck-mount Pull down with Sprayer (Includes Deck Plate) | PRICE: $179.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TbWqx34mvhEeJJbmxjPIDCJYdC6+p4RdGJ47rXgsCkc6WjdfRpY2vDTAiQQtPnDr+ZeFMkwyY3xhN4PlU+WEOuNLJ/YTfGya0FIPPKrt2/S9yJJNy5p7VlE2rDJGLFLFAJM8gBVbnHXgGtWcu"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.lowes.com/pd/Delta-Kylo-Stainless-Single-Handle-Pull-down-Kitchen-Faucet-with-Deck-Plate/5014640053",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 153,
+   "candidatesTokenCount": 99,
+   "totalTokenCount": 11476,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 153
+    }
+   ],
+   "toolUsePromptTokenCount": 11224,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 11224
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "in7varisAf-s6dkP6OPAgAg"
+ }
+}

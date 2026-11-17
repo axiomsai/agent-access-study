@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page appears to be a general landing page or error page rather than a specific product details page.",
+ "finish": "STOP",
+ "cost_usd": 0.00218,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page appears to be a general landing page or error page rather than a specific product details page.",
+       "thoughtSignature": "EnMKcQFpFH0T7kl5UazcjNHGpuKnQ+PFCIIoD9Y1XfjjEQmyYUyxFdpUwKOMr2hPl+MRuSNFfw3nOzO6/Al/v4UAyBSPCzG+6+K+qofREd5PH1wM95kqAxypQNhSO6myv/fuLTbGkMVczwPGahwQ/XuI9aX5"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 196,
+   "candidatesTokenCount": 138,
+   "totalTokenCount": 21395,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 196
+    }
+   ],
+   "toolUsePromptTokenCount": 21061,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21061
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "IQ_yavn5J4Llz7IPsYbc2A0"
+ }
+}

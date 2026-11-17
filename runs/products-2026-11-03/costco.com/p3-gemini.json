@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.costco.com/p/-/hp-omnibook-5-16-touchscreen-laptop-amd-ryzen-ai-9-465-copilot-pc-2k-oled-1920-x-1200-32gb-memory-1tb-ssd-windows-11-home/4201003802",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home. | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00048,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HP OmniBook 5 16\" Touchscreen Laptop - AMD Ryzen AI 9 465 - Copilot+ PC - 2K OLED (1920 x 1200) - 32GB Memory - 1TB SSD - Windows 11 Home. | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0Tw89kobB12ZECPZoAnU2p7kKLSPhTzJPxCE6OV3lkzSDjQAxEn45Qq+nEGfk7zIdLdziPiJ08ZUcSO7oBnk16fWPbHGVOccakfEDenMezO5iVkfv8RLBDDlE5sFpZNcJi5piHLMmbLt3Rkw5I"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.costco.com/p/-/hp-omnibook-5-16-touchscreen-laptop-amd-ryzen-ai-9-465-copilot-pc-2k-oled-1920-x-1200-32gb-memory-1tb-ssd-windows-11-home/4201003802",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 197,
+   "candidatesTokenCount": 179,
+   "totalTokenCount": 4222,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 197
+    }
+   ],
+   "toolUsePromptTokenCount": 3846,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3846
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "SHnqavvVKbKv6dkP3suuoQI"
+ }
+}

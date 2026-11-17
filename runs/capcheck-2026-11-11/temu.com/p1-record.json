@@ -1,0 +1,25 @@
+{
+ "domain": "temu.com",
+ "idx": 1,
+ "url": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded only a blank \"Temu\" shell with no product content)",
+   "doc_chars": 459,
+   "input_tokens": 23176,
+   "cost_usd": 0.10328
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "NO: blocked (the page loaded with only the title \"Temu\" and no product content)",
+   "doc_chars": 459,
+   "input_tokens": 23160,
+   "cost_usd": 0.10314
+  }
+ }
+}

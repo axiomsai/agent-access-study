@@ -1,0 +1,45 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/",
+ "started": "2026-11-05T13:10:54-06:00",
+ "robots": {
+  "status": null,
+  "error": "TimeoutError: The read operation timed out",
+  "rules": {}
+ },
+ "control": {
+  "status": null,
+  "final_url": null,
+  "bytes": null,
+  "error": "TimeoutError: [Errno 60] Operation timed out",
+  "title": null,
+  "markers": [],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "16728 chars, copy dated 2026-10-26 (9 days old)",
+   "answer": "I opened the page successfully.\n\n- **Page title:** Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\n- **One category on the page:** Halloween",
+   "cost_usd": 0.09819
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nProduct/Category: Fresh Grocery",
+   "cost_usd": 0.00221
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store  \nOne category name: Fruits & Vegetables",
+   "cost_usd": 0.01228
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Groceries & Pharmacy | Order Online or Shop In-Store  \nFrozen Food & Groceries",
+   "cost_usd": 0.00508
+  }
+ }
+}

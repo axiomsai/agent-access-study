@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+  "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-petal-bloom-6-fl-oz/-/A-94739574",
+  "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y",
+  "https://www.target.com/s/body+mist+fragrance",
+  "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569",
+  "https://www.target.com/s/hair+fragrance+mist?Nao=24",
+  "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-love-letter-6-fl-oz/-/A-94739578",
+  "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-golden-vanilla-6-fl-oz/-/A-94739571",
+  "https://www.target.com/s/hypoallergenic+perfume",
+  "https://www.target.com/c/-/N-5xu0oZ54uos"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Athena Club Hair & Body Mist - Bare Gold - 6 fl oz | PRICE: $15.99 | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/b/athena-club/-/N-q643le15d7y",
+   "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-petal-bloom-6-fl-oz/-/A-94739574",
+   "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y",
+   "https://www.target.com/s/body+mist+fragrance",
+   "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569",
+   "https://www.target.com/s/hair+fragrance+mist?Nao=24",
+   "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-love-letter-6-fl-oz/-/A-94739578",
+   "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-golden-vanilla-6-fl-oz/-/A-94739571",
+   "https://www.target.com/s/hypoallergenic+perfume",
+   "https://www.target.com/c/-/N-5xu0oZ54uos"
+  ],
+  "created": 1793751284,
+  "id": "resp_f8781250-420b-47ed-b7d3-597c7884b7f0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club products at Target\n...\n## 64 results\nHighly rated\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Super Pink - 6 fl oz\nAthena Club\n...\n4.5(356)\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬",
+    "source": "web",
+    "title": "Athena Club products at Target",
+    "url": "https://www.target.com/b/athena-club/-/N-q643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Petal Bloom - 6 fl oz : Target\n...\n3. Body Mists & Sprays\n...\n# Athena Club Full Size Women's Hair & Body Mist - Petal Bloom - 6 fl oz\n4.5 out of 5 stars\n102\n$15.99\nIn Stock\n...\n**Scent:** Vanilla, Lychee, Rose, Cedar, Floral\n**Product Warning:** Eye ...",
+    "source": "web",
+    "title": "Athena Club Full Size Women's Hair & Body Mist - Petal Bloom ...",
+    "url": "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-petal-bloom-6-fl-oz/-/A-94739574"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Highly rated\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\nAthena Club\n...\n# The best beauty gifts\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.7(16)",
+    "source": "web",
+    "title": "Athena Club : Body Mists & Sprays - Fragrances - Target",
+    "url": "https://www.target.com/c/body-mists-sprays-fragrances-beauty/athena-club/-/N-5xu1jZq643le15d7y"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.5(21)\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\nAthena Club\n4.4(418)\nLoved for: warm vanilla scent\n...\n$15.99\nAthena Club Full Size Women's Hair & Body Mist - Golden Vanilla -...",
+    "source": "web",
+    "title": "Body Mist Fragrance: Coco Blush, Jasmine, & More",
+    "url": "https://www.target.com/s/body+mist+fragrance"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Amber Hours - 6 fl oz : Target\n...\n3. Body Mists & Sprays\n...\n# Athena Club Full Size Women's Hair & Body Mist - Amber Hours - 6 fl oz\n4.43 out of 5 stars\n119\n$15.99\nIn Stock\n...\nHow to Use:\nSpritz generously over hair and body anytime, anywhere.\nReap...",
+    "source": "web",
+    "title": "Athena Club Full Size Women's Hair & Body Mist - Amber Hours",
+    "url": "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-amber-hours-6-fl-oz/-/A-94739569"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\nAthena Club\n4.4(418)\nLoved for: warm vanilla scent\n...\nAthena Club Full Size Women's Hair & Body Mist - Solar Muse - 6 fl oz\n...\nAthena Club Full Size Women's Hair & Body Mist - Salted Sunset - 6 fl oz\n...\nAthena Club Full Siz...",
+    "source": "web",
+    "title": "hair fragrance mist",
+    "url": "https://www.target.com/s/hair+fragrance+mist?Nao=24"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Love Letter - 6 fl oz : Target\n...\n3. Body Mists & Sprays\n...\n# Athena Club Full Size Women's Hair & Body Mist - Love Letter - 6 fl oz\n4.15 out of 5 stars\n414\n3 Questions\n$15.99\nIn Stock\n...\nHow to Use:\nSpritz generously over hair and body anytime, an...",
+    "source": "web",
+    "title": "Athena Club Full Size Women's Hair & Body Mist - Love ...",
+    "url": "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-love-letter-6-fl-oz/-/A-94739578"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Athena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz : Target\n...\n3. Body Mists & Sprays\n...\n# Athena Club Full Size Women's Hair & Body Mist - Golden Vanilla - 6 fl oz\n4.38 out of 5 stars\n418\n$15.99\nIn Stock\n...\n#### Highlights\n- ALL-OVER GLOW WITH EVERY SPRITZ: A dual-purpose ...",
+    "source": "web",
+    "title": "Athena Club Full Size Women's Hair & Body Mist - Golden ...",
+    "url": "https://www.target.com/p/athena-club-full-size-women-39-s-hair-38-body-mist-golden-vanilla-6-fl-oz/-/A-94739571"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "$15.99\nAthena Club Hair & Body Mist - Sweet Talk - 6 fl oz\nAthena ClubNew at target¬\n3.5(6)\n$15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena ClubNew at target¬\n3.7(19)\n...\n$15.99\n### Recommendations for you\nAthena Club Full Size Women's Hair & Body Mist - Salted Sunset - 6 fl oz\n4.6 ...",
+    "source": "web",
+    "title": "Hypoallergenic Perfume & Fragrance | Gentle, Scented Options",
+    "url": "https://www.target.com/s/hypoallergenic+perfume"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# L'Oreal Paris : Fragrances\n## Trending scents\n- $15.99\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\nAthena Club Hair & Body Mist - Bare Gold - 6 fl oz\n- Bestseller\n...\n- Highly rated",
+    "source": "web",
+    "title": "L'Oreal Paris : Fragrances: Perfume, Cologne, Body Mists ...",
+    "url": "https://www.target.com/c/-/N-5xu0oZ54uos"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 34,
+   "cost": {
+    "input_tokens_cost": 0.00143,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.0042
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 170
+  }
+ }
+}

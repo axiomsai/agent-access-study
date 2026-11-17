@@ -1,0 +1,25 @@
+{
+ "domain": "amazon.com",
+ "idx": 5,
+ "url": "https://www.amazon.com/dp/B0FN4NH4K8",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (the fetch tool returned \"url_not_allowed\" for this URL)",
+   "doc_chars": 0,
+   "input_tokens": 15345,
+   "cost_usd": 0.06672
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed",
+   "doc_chars": 0,
+   "input_tokens": 15541,
+   "cost_usd": 0.06906
+  }
+ }
+}

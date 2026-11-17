@@ -1,0 +1,60 @@
+{
+ "domain": "etsy.com",
+ "url": "https://www.etsy.com/listing/4435842809",
+ "idx": 4,
+ "at": "2026-11-05T13:16:45-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "17726 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+   "price": 118.48,
+   "price_raw": "$118.48",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:16:49+00:00",
+   "age_days": 0,
+   "cost_usd": 0.16065
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+   "price": 94.78,
+   "price_raw": "$94.78",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.002
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel",
+   "price": 94.78,
+   "price_raw": "$94.78+",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01233
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: page not found in search results",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

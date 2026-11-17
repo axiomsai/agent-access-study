@@ -1,0 +1,60 @@
+{
+ "domain": "costco.com",
+ "url": "https://www.costco.com/p/-/homedics-2-in-1-portable-steam-sauna-with-dual-red-light-therapy-wands/4201023343",
+ "idx": 4,
+ "at": "2026-11-03T18:15:55-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "6566 chars, copy dated 2026-11-04 (0 days old)",
+   "parsed": true,
+   "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:15:59+00:00",
+   "age_days": 0,
+   "cost_usd": 0.13092
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00068
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01238
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Homedics 2-in-1 Portable Steam Sauna with Dual Red Light Therapy Wands",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

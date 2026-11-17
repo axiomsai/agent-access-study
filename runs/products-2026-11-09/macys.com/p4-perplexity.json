@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/featured/flowerbomb-gift-set",
+  "https://www.macys.com/shop/featured/flowerbomb-perfume-sample",
+  "https://www.macys.com/shop/featured/viktor-&-rolf-flowerbomb",
+  "https://www.macys.com/shop/brands/viktor-rolf?id=48991",
+  "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-luxury-eau-de-parfum-gift-set?ID=22940666",
+  "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-eau-de-parfum-luxury-gift-set?ID=16538406",
+  "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28072561",
+  "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-nectar-eau-de-parfum-fragrance-collection?ID=6301788",
+  "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-eau-de-parfum-spray-1-oz.?ID=447084",
+  "https://www.macys.com/shop/beauty/travel-size-minis/Gender/Women?id=214310"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/featured/flowerbomb-gift-set",
+   "https://www.macys.com/shop/featured/flowerbomb-perfume-sample",
+   "https://www.macys.com/shop/featured/viktor-&-rolf-flowerbomb",
+   "https://www.macys.com/shop/brands/viktor-rolf?id=48991",
+   "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-luxury-eau-de-parfum-gift-set?ID=22940666",
+   "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-eau-de-parfum-luxury-gift-set?ID=16538406",
+   "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28072561",
+   "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-nectar-eau-de-parfum-fragrance-collection?ID=6301788",
+   "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-eau-de-parfum-spray-1-oz.?ID=447084",
+   "https://www.macys.com/shop/beauty/travel-size-minis/Gender/Women?id=214310"
+  ],
+  "created": 1794249810,
+  "id": "resp_1a08a879-c2fe-4e9f-be84-eca51ff13093",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# \"flowerbomb gift set\"\n(41 items)\n- Viktor & Rolf\n### 4-Piece Flowerbomb Eau de Parfum Gift Set\nCurrent price $185.00; ;$185.00\n$275.00 value\n$10 Star Money for $100\n(2,519)\n- Viktor & Rolf\n### NEW!\n4-Piece Flowerbomb Eau de Parfum Gift Set\nCurrent price $185.00; ;$185.00\n$10 Star Money for $100\n(3...",
+    "source": "web",
+    "title": "Flowerbomb Gift Set",
+    "url": "https://www.macys.com/shop/featured/flowerbomb-gift-set"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# \"flowerbomb perfume sample\"\n(32 items)\n- Viktor & Rolf\n### 4-Piece Flowerbomb Eau de Parfum Gift Set\n$157.25; 15% off; with code FRIEND;$157.25 (15% off)\nFRIEND applied\nPrevious price $185.00;$185.00$275.00 value\n(2,496)\n- Viktor & Rolf\n...\n- Viktor & Rolf\n### NEW!\n4-Piece Flowerbomb Eau de Parfum...",
+    "source": "web",
+    "title": "Flowerbomb Perfume Sample",
+    "url": "https://www.macys.com/shop/featured/flowerbomb-perfume-sample"
+   },
+   {
+    "date": "2026-01-01",
+    "last_updated": "2026-01-18",
+    "place_metadata": null,
+    "snippet": "# \"viktor\"(27 items)\n- Viktor & Rolf\n### Current price $155.00; ;\n...\n- Viktor & Rolf\n### Flowerbomb 4 pc. Eau de Parfum Fragrance and Body Lotion Holiday Gift SetCurrent price $185.00; ;\n- Viktor & Rolf\n...\n- Viktor & Rolf",
+    "source": "web",
+    "title": "Viktor - Macy's",
+    "url": "https://www.macys.com/shop/featured/viktor-&-rolf-flowerbomb"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "Viktor & Rolf Perfume | Macy's\n...\n# Viktor & Rolf Perfume\n...\nSales & Offers\n- Viktor & Rolf\n### 4-Piece Flowerbomb Eau de Parfum Gift Set\n$157.25; 15% off; with code EARLY;$157.25 (15% off)\nEARLY applied\nPrevious price $185.00;$185.00$275.00 value\n(2,492)\n- Viktor & Rolf\n...\n- Viktor & Rolf\n### NE...",
+    "source": "web",
+    "title": "Viktor & Rolf Perfume | Macy's",
+    "url": "https://www.macys.com/shop/brands/viktor-rolf?id=48991"
+   },
+   {
+    "date": "2026-08-12",
+    "last_updated": "2026-08-17",
+    "place_metadata": null,
+    "snippet": "# Viktor & Rolf Flowerbomb 4 pc. Eau de Parfum Fragrance and Body Lotion Holiday Gift Set\n$185.00 ($275.00 value)\n...\nExperience the ultimate spectacular gift for the holiday season with this Viktor & Rolf Flowerbomb Luxury 4-piece set.\nA breathtaking octagonal coffret, adorned with overflowing ribb...",
+    "source": "web",
+    "title": "Flowerbomb 4 pc. Eau de Parfum Fragrance and Body Lotion ...",
+    "url": "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-luxury-eau-de-parfum-gift-set?ID=22940666"
+   },
+   {
+    "date": "2025-05-24",
+    "last_updated": "2026-04-26",
+    "place_metadata": null,
+    "snippet": "# Viktor & Rolf 4-Pc. Flowerbomb Eau de Parfum Luxury Gift Set\nSorry, this item is currently unavailable.\n...\nGive the gift of this Viktor & Rolf Flowerbomb Eau de Parfum Luxury Gift Set this holiday season.\nThe iconic, floral and vanilla perfume blends beautiful notes of delicate jasmine and sweet ...",
+    "source": "web",
+    "title": "Viktor & Rolf 4-Pc. Flowerbomb Eau de Parfum Luxury Gift Set - Macy's",
+    "url": "https://www.macys.com/shop/product/viktor-rolf-4-pc.-flowerbomb-eau-de-parfum-luxury-gift-set?ID=16538406"
+   },
+   {
+    "date": "2026-09-29",
+    "last_updated": "2026-10-02",
+    "place_metadata": null,
+    "snippet": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set - Macy's\n...\n# Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set\n4.7 (2,446)\n$185.00 ($275.00 value) Details\n...\n## Product details\nWeb ID: 28072561\nA gift set featuring a full size spray, travel-size spray, body lotion and body cream of ...",
+    "source": "web",
+    "title": "Viktor & Rolf 4-Piece Flowerbomb Eau de Parfum Gift Set - Macy's",
+    "url": "https://www.macys.com/shop/product/viktor-rolf-4-piece-flowerbomb-eau-de-parfum-gift-set?ID=28072561"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Viktor & Rolf Flowerbomb Nectar Eau de Parfum Fragrance Collection - Macy's\n...\n# Viktor & Rolf Flowerbomb Nectar Eau de Parfum Spray, 3.4-oz.\n4.8 (1,700)\n$158.95 (15% off)EARLYapplied$187.00Details\nSize:3.04 oz\n2 gift offers:\n...\n## Product Details\n- Viktor & Rolf Flowerbomb Nectar Eau de Parfum Sp...",
+    "source": "web",
+    "title": "Viktor & Rolf Flowerbomb Nectar Eau de Parfum Spray, 3.4 ...",
+    "url": "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-nectar-eau-de-parfum-fragrance-collection?ID=6301788"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Viktor & Rolf Flowerbomb Eau de Parfum Fragrance Collection - Macy's\n…\n# Viktor & Rolf Flowerbomb Eau de Parfum Spray, 1 oz.\n4.8 (18,165)\nLimited-Time Special\n$78.75 (25% off)$105.00Details\nSize:Travel\nTiles\n5.00 oz\n3.40 oz\n1.70 oz\nTravel\n3 gift offers:\n...\n## Product Details\n- Viktor & Rolf Flowerb...",
+    "source": "web",
+    "title": "Viktor & Rolf Flowerbomb Eau de Parfum Spray, 1 oz. - Macy's",
+    "url": "https://www.macys.com/shop/product/viktor-rolf-flowerbomb-eau-de-parfum-spray-1-oz.?ID=447084"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "### 2-Piece Flora Eau de Parfum Spray Intense Gift Set\nMacy's Exclusive\nCurrent price $39.00; ;$39.00\n$39.00 value\n(16)\n- Viktor & Rolf\n### Flowerbomb 2 pc.\nMini Perfume Holiday Discovery Set\nCurrent price $35.00; ;$35.00\n$60.00 value\nfree gift with purchase\n(3,059)\n- Jimmy Choo\n...\n- Yves Saint Lau...",
+    "source": "web",
+    "title": "Women Travel Size & Mini Beauty Products",
+    "url": "https://www.macys.com/shop/beauty/travel-size-minis/Gender/Women?id=214310"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.0016,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00437
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 171
+  }
+ }
+}

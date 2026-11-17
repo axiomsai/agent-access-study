@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.ebay.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Electronics, Cars, Fashion, Collectibles & More | eBay\nProduct/Category Name: Sneakers",
+ "finish": "STOP",
+ "cost_usd": 0.00047,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Electronics, Cars, Fashion, Collectibles & More | eBay\nProduct/Category Name: Sneakers",
+       "thoughtSignature": "EnMKcQFpFH0TnFLVbqcJQfG8Zvv8Q8iiuz80ce6MZ5Y9QCEiqDatzVenRdsKsOgZIQylkmVnnDMQRWHHBam41vSRMOvoNzt0qtT0Tny8BfhIhkLrChyREXrvCDbDicJa57oAyLDN/8729Tr4jTupla+zBrK4"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.ebay.com/",
+        "title": "eBay: Electronics, Cars, Fashion, Collectibles & More"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 66,
+        "text": "Page Title: Electronics, Cars, Fashion, Collectibles & More | eBay"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 67,
+        "endIndex": 98,
+        "text": "Product/Category Name: Sneakers"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.ebay.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 51,
+   "totalTokenCount": 4557,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 4445,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4445
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "vHHqap3aHKnQz7IPrbapiQM"
+ }
+}

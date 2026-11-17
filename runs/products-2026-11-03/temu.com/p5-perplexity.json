@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.temu.com/mens-clothing-o3-67.html",
+  "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601100800032679&adg_ctx=a-ce4b6b12&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+  "https://www.temu.com/mens-underwear-sleepwear-o3-114.html",
+  "https://www.temu.com/de-en/mens-cargo-pants-sport-pants-jogger-sweatpants-drawstring-outdoor-trousers-with-pockets-g-601099513566908.html",
+  "https://www.temu.com/nl-en/mens-light-grey-tapered-joggers---pants-with-elastic-waist--ankle-casual-gym-running-workout-pants-breathable-durable-fabric-for-casual-attire-light-exercise-minimalist-style-hand--clean-g-601099528964986.html",
+  "https://www.temu.com/de/o1-0.html",
+  "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=605509671326571&adg_ctx=a-26b81571&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+  "https://www.temu.com/sweatshirt-and-sweatpants-s.html",
+  "https://www.temu.com/fr/subject/n2/--a-psurl.html?_key=bureaus-",
+  "https://www.temu.com/kuiper/uk1.html?subj=selkill-un&_p_mat2_type=m2001&_p_jump_id=858&_x_vst_scene=adg&_p_rfs=1&_x_ads_channel=kol_tiktok&_x_campaign=110024201&_x_cid=4001016819kol_tiktok&_x_ns_creative=4001016819&is_retain=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.temu.com/mens-clothing-o3-67.html",
+   "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601100800032679&adg_ctx=a-ce4b6b12&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+   "https://www.temu.com/mens-underwear-sleepwear-o3-114.html",
+   "https://www.temu.com/de-en/mens-cargo-pants-sport-pants-jogger-sweatpants-drawstring-outdoor-trousers-with-pockets-g-601099513566908.html",
+   "https://www.temu.com/nl-en/mens-light-grey-tapered-joggers---pants-with-elastic-waist--ankle-casual-gym-running-workout-pants-breathable-durable-fabric-for-casual-attire-light-exercise-minimalist-style-hand--clean-g-601099528964986.html",
+   "https://www.temu.com/de/o1-0.html",
+   "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=605509671326571&adg_ctx=a-26b81571&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+   "https://www.temu.com/sweatshirt-and-sweatpants-s.html",
+   "https://www.temu.com/fr/subject/n2/--a-psurl.html?_key=bureaus-",
+   "https://www.temu.com/kuiper/uk1.html?subj=selkill-un&_p_mat2_type=m2001&_p_jump_id=858&_x_vst_scene=adg&_p_rfs=1&_x_ads_channel=kol_tiktok&_x_campaign=110024201&_x_cid=4001016819kol_tiktok&_x_ns_creative=4001016819&is_retain=1"
+  ],
+  "created": 1793751224,
+  "id": "resp_fc11b845-c76a-4dc1-8b71-39ab300ad053",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-04-25",
+    "place_metadata": null,
+    "snippet": "## Men'S 3pcs Fitness Sportswear Set Including Long Pants, Short-Sleeve Shirt, Shorts, And a Running Jacket. Open in new tab.\n$17.65\n(109) reviews",
+    "source": "web",
+    "title": "Men's Clothing - Temu",
+    "url": "https://www.temu.com/mens-clothing-o3-67.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### 3pcs Men'S Compression Pants, High-Stretch Quick-Dry Sports Knit, Black, Dark Burgundy And Deep Navy, White Wheel-Star Print Below Left Knee, Black Elastic Sport-Lettered Jacquard Waistband Open in new tab.\nCA$50.70\nCA$50.70\nOriginal price CA$50.70CA$50.70\n5 out of five stars(5) reviews(5)",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More - Temu",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601100800032679&adg_ctx=a-ce4b6b12&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google"
+   },
+   {
+    "date": "2024-10-15",
+    "last_updated": "2025-10-10",
+    "place_metadata": null,
+    "snippet": "## Compression Pants Men Basketball Cool Quick Dry Athletic Workout Running Tights, Men's Sports Leggings For Gym CyclingOpen in new tab.\n...\n## 3pcs Men Underwear * Jockstrap Quick Dry Breathable Man G-String Underpants T-Back Men'S Hollow * Transparent Sexy Low *Open in new tab.\n$10.76\n$10.76\nOrig...",
+    "source": "web",
+    "title": "Men's Underwear & Sleepwear - Free Shipping On Items ...",
+    "url": "https://www.temu.com/mens-underwear-sleepwear-o3-114.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-11",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "mens cargo work trousers casual thin style relaxed fit",
+    "url": "https://www.temu.com/de-en/mens-cargo-pants-sport-pants-jogger-sweatpants-drawstring-outdoor-trousers-with-pockets-g-601099513566908.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-29",
+    "place_metadata": null,
+    "snippet": "# Sign in / Register\nFree shipping\nIncredible\nPrice adjustment\nWithin 30 days\nOr continue with other ways",
+    "source": "web",
+    "title": "mens light grey tapered joggers pants",
+    "url": "https://www.temu.com/nl-en/mens-light-grey-tapered-joggers---pants-with-elastic-waist--ankle-casual-gym-running-workout-pants-breathable-durable-fabric-for-casual-attire-light-exercise-minimalist-style-hand--clean-g-601099528964986.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-17",
+    "place_metadata": null,
+    "snippet": "# Anmelden / Registrieren\nUnglaublich\nKostenlose Rücksendungen\nBis zu 90 Tage",
+    "source": "web",
+    "title": "Kategorien durchsuchen",
+    "url": "https://www.temu.com/de/o1-0.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "This item was discontinued\nItem details are unavailable.\nCheck out similar items.\n### 1pc Men'S Loose Curved-Leg Pants, Elastic Drawstring Waist, Raised Side Seam Details, Drapey Casual Athletic Trousers, American Streetwear Style Open in new tab.\n...\n### Men's Winter -Lined Casual Pants with Slant ...",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More - Temu",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=605509671326571&adg_ctx=a-26b81571&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google"
+   },
+   {
+    "date": "2023-08-21",
+    "last_updated": "2026-03-10",
+    "place_metadata": null,
+    "snippet": "# sweatshirt and sweatpants\n## 2pcs Men'S Color Block * Set: Hooded Long-sleeved Sweatshirt And Sweatpants; Casual Sportswear, Outdoor Clothing, *, Parties, Street Wear, Gifts, Festivals, Fashion Trends, Hooded Sweatshirt Set Open in new tab.",
+    "source": "web",
+    "title": "sweatshirt and sweatpants sold on Temu United States",
+    "url": "https://www.temu.com/sweatshirt-and-sweatpants-s.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Lot de 5 sous-vêtements pour hommes en fibre de bambou, fabrication soignée, durables et non déformables, coupe idéale (pas trop serrés ni trop amples) pour une longue durée, séchent rapidement et respirent, disant adieu à la sensation de linge mouillé et collant, parfaits pour un usage quotidie...",
+    "source": "web",
+    "title": "www.temu.com · fr · subjectTemu | Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/fr/subject/n2/--a-psurl.html?_key=bureaus-"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### 4pcs, Men's Cargo Long Pants, Multi Pocket, Loose Straight Leg, Elastic Drawstring Waist, Workwear, Outdoor, Holiday Gift, Thanksgiving, Christmas, Black Friday Open in new tab.\n...\n### 3pcs Men'S Cargo Pants, Drawstring Waist Multi-Pocket Casual Trousers, Black Friday Deal, for Daily Street Hik...",
+    "source": "web",
+    "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/kuiper/uk1.html?subj=selkill-un&_p_mat2_type=m2001&_p_jump_id=858&_x_vst_scene=adg&_p_rfs=1&_x_ads_channel=kol_tiktok&_x_campaign=110024201&_x_cid=4001016819kol_tiktok&_x_ns_creative=4001016819&is_retain=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00129,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00405
+   },
+   "prompt_tokens": 145,
+   "search_context_size": "low",
+   "total_tokens": 163
+  }
+ }
+}

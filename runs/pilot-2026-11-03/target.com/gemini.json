@@ -1,0 +1,90 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Target : Expect More. Pay Less.\n\n**Product/Category Name:** Toys & Games",
+ "finish": "STOP",
+ "cost_usd": 0.00058,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Target : Expect More. Pay Less.\n\n**Product/Category Name:** Toys & Games",
+       "thoughtSignature": "EnMKcQFpFH0Tt/Q/NtNCtpJfHUyav1LUquFcB+eQQlFAMBSlyYyy8SQLB0ml24dPor38a/qt5BDpScfJ24yp4xsh4azh4u+DYmllbouCCyN2BiTrsh6AtKiwOmlJa4bwRgF1rcgpzMvyGkZq85DC78eWtH4p"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.target.com/",
+        "title": "Target : Expect More. Pay Less."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 38,
+        "endIndex": 47,
+        "text": "Pay Less."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 49,
+        "endIndex": 88,
+        "text": "**Product/Category Name:** Toys & Games"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 51,
+   "totalTokenCount": 5663,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 5551,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5551
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "x3HqaoegFvWUmtkPi-CE6Qw"
+ }
+}

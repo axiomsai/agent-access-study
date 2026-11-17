@@ -1,0 +1,102 @@
+{
+ "domain": "walgreens.com",
+ "url": "https://www.walgreens.com/",
+ "started": "2026-11-09T12:18:58-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.walgreens.com/",
+  "bytes": 365487,
+  "error": null,
+  "title": "Walgreens: Pharmacy, Health &amp; Wellness, Photo &amp; More for You",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "16334 chars, copy dated 2026-11-09 (0 days old)",
+   "answer": "I opened the page successfully.\n\n- **Page title:** Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n- **A category on the page:** \"Prescription Refills & Status\" (a link in the account menu)",
+   "cost_usd": 0.06821
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\nProduct/Category Name: Beauty",
+   "cost_usd": 0.00048
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You  \nCategory: Beauty",
+   "cost_usd": 0.01227
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You  \nPharmacy",
+   "cost_usd": 0.00508
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00061,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy Z Flip8 | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T0NrkaF83xp7WAnp45VL6KqXC4Q9FXcOnNiHM4XS/h/ic14HTElNe4o+44ghMICsX1dqUKxZB/PwRASkvmHiSjTgMpdAIlEenpaHv2lnXIQSMpivNkI9w29hhQSeDNi5/iW7rdXs8F2mtwYnL"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/galaxy-z-flip8-256gb-unlocked-sku-sm-f776ulgaxaa/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 130,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 5868,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 130
+    }
+   ],
+   "toolUsePromptTokenCount": 5676,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5676
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "l9nsapyfKNesqtsPr8KcmA0"
+ }
+}

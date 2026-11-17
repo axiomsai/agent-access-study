@@ -1,0 +1,149 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+ "retrieved_at": "2026-11-07T14:15:46+00:00",
+ "age_days": 0,
+ "doc_chars": 16544,
+ "doc_markers": [],
+ "answer": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.14184,
+ "raw": [
+  {
+   "id": "srvtoolu_017ptoJNFNAmH3Zccf1xc4QY",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0].get('title'),len(c));print(c[:1500])\n import re;print(re.findall(r'.{60}\\$\\d[\\d,]*\\.?\\d*.{40}',c)[:10]);print([m for m in ['In Stock','Out of Stock','Sold Out','Add to cart','Notify'] if m.lower() in c.lower()])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01XCLk416d8oczyTxJ26wsKW",
+   "caller": {
+    "tool_id": "srvtoolu_017ptoJNFNAmH3Zccf1xc4QY",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_017ptoJNFNAmH3Zccf1xc4QY",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/\nmeta-al:android:app_name: Shop Samsung\nmeta-al:android:package: com.samsung.ecomm\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-F976UDGEXAA&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\nmeta-al:ios:app_name: Shop Samsung\nmeta-al:ios:app_store_id: 1274679179\nmeta-description: Discover the Galaxy Z Fold8 Ultra 512GB in Green for powerful multitasking with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\nmeta-og:description: Discover the Galaxy Z Fold8 Ultra 512GB in Green for powerful multitasking with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\nmeta-og:site_name: Samsung US\nmeta-og:title: Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\nmeta-og:type: website\nmeta-og:url: https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/\nmeta-title: Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\nmeta-twitter:card: summary_large_image\nmeta-twitter:creator: @SamsungUS\nmeta-twitter:description: Discover the Galaxy Z Fold8 Ultra 512GB in Green for powerful multitasking with flexible carrier compatibility. Find your foldable at Samsung US.\nmeta-twitter:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$\nmeta-twitter:site: @SamsungUS\nmeta-twitter:title: Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\nmeta-viewport: width=device-width\ntitle: Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\n---\n\nGalaxy Z Fold8 UltraGalaxy Z Fold8Galaxy Z Flip8\n\n4.9(2,622)\n\n# Galaxy Z Fold8 Ultra\n\nStorage\n\nStorage\n\n256GB\n\n$2,099.99\n\n512GB\n\n$2,299.99\n\n1TB\n\n$2,699.99\n\nColor\n\nColor\n\nOnline Exclusive\n\nOnly available at Samsung.com and Samsung Experience Stores\n\nGreen Shadow\n\nViolet Shadow\n\nCream\n\nGraphite\n\nConnectivity\n\nConnectivity\n\nDue to high demand, we are experiencing a delay in delivery on popular combinations\n\nGet it by Nov. 11\n\n![](https://image-us.samsung.com/SamsungUS/home/explore/samsung-s8/S8_Unlocked_configurator_v4.png)\n\nReviews\n\n### Galaxy Z Fold8 Ultra\n\n4.9 (2,622 Reviews)\n\nRecommended by **78%** of customers.\n\nWrite a review\n\n5.0\n\n90% (2,365)\n\n4.0\n\n8% (216)\n\n3.0\n\n1% (29)\n\n2.0\n\n0% (7)\n\n1.0\n\n0% (5)\n\nView detail\n\nFeatures4.7\n\nPerformance4.5\n\nDesign4.5\n\nValue4.9\n\nAI Functionality4.5\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Z Fold8 Ultra\n\n- Customers praise the nearly invisible crease and lightweight design as major improvements over previous models.\n- Reviewers highlight the large inner screen enabling seamless multitasking with multiple apps running simultaneously.\n- Performance is consistently described as smooth and responsive, with no lag during heavy daily use.\n- Battery life reliably lasts a full day of heavy use, including streaming, browsing, and multitasking.\n- A few note the absence of stylus support, though this is the only recurring minor criticism.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fbf906d0-6e57-5d6e-ad01-0e3f9d96facb) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/372ea851-0ac9-5bbc-85ff-9c57e9685240) ![Dead spot; hairline cracks.](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3ce20667-deff-5a33-9703-e85b91faf2fa) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/6e00cde9-dedd-5f40-8003-ef9aec3715a8) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/08b547b8-5202-541c-a682-de53cc2b4448) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/c73ffe3d-7875-5cdf-9b81-fa70c8e15f07) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/cc5b3281-7d4e-5cdd-ae64-0c2704189ae9) ![Video from review](https://video.api.bazaarvoice.com/51a6c622-4bde-47bf-85da-260560c4425e/thumbnail/image-00001.png) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3574ccda-9af8-5e39-9242-ad19459c04d9) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/38ea4b9b-45b1-587f-bbc7-b653cdcee634) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/eacf2b1d-97e4-5ca1-ba4a-c85f49b43be3) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/11565182-400a-5537-a138-66042032d0a4) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/04134fdf-e05b-54a5-beba-4a4cab201d81) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/b3a82a70-45b0-530a-a4d4-f49ea82b47f2)\n\nFilters(0)\n\nSort byMost relevant\n\n2,622 Reviews\n\nFilters (0)2,622 Reviews\n\nSort byMost relevant\n\nOverall rating\n\nReviewer type\n\nKeywords\n\n1. Qwt428\n   \n   1\n   \n   2026-09-22Reviewed in the SC\n   \n   Color: Green Shadow|Storage: 256GB\n   \n   Color: Green Shadow|Storage: 256GB\n   \n   1\n   \n   Buy something else. I had the Galaxy Z Fold 3 for five years; it was durable and held up to my expectations right until the very end. Upgraded to the Z Fold 8 Ultra, and it's junk. The technology/features are better, but what good does that do anyone if it's more delicate than a cracker? The inner screen has no real protection from drops or bumps...even while in a protective case. It dropped while closed...in a protective case. The case kept the outer parts of the phone safe, but once I opened it, there were hairline cracks...\n   \n   View more\n   \n   ![Review media](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fbf906d0-6e57-5d6e-ad01-0e3f9d96facb)+3\n   \n   Helpful? (73)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UDGAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   1\n   \n   Performance\n   \n   5\n   \n   Design\n   \n   1\n   \n   Features\n   \n   5\n   \n   Response from Samsung:\n   \n   2026-09-23\n   \n   * * *\n   \n   **R&R**\n   \n   Hello Qwt428, Thank you for sharing your experience with your Galaxy Z Fold8 Ultra. The Galaxy Z Fold8 Ultra features an immersive foldable display, powerful multitasking capabilities, and a versatile design tailored for both productivity and entertainment. We understand your concerns regarding the hairline cracks and the expanding black area on the inner display after a drop, especially when the phone was closed and protected by a case. It’s important to have a fully functional phone, and we recognize the urgency of your situation. As you may know, Samsung products come with a limited 12-month warranty covering manufacturing defects in materials and workmanship. Additionally, eligible devices can be protected further by adding Samsung Care+, which offers extended coverage and additional support. We encourage you to contact our Samsung Support Team to explore your warranty options and to find out if you can take your device to a local uBreakiFix location in your area. More information is provided below. Your detailed feedback is invaluable to us and helps Samsung improve the overall user experience. Thank you for being part of the Samsung community. uBreakiFix https://www.ubreakifix.com/repairs/smartphones/samsung-galaxy Samsung Care+ https://www.samsung.com/us/support/samsung-care-plus/ Samsung Warranty https://www.samsung.com/us/support/samsung-care/ -Ty Samsung Support smsng.us/Samsung-Support Samsung Community smsng.us/Samsung-Community Facebook smsng.us/Facebook-Messenger X https://smsng.us/X-Messages\n2. Litty Nailz\n   \n   5\n   \n   2026-11-04Reviewed in the California\n   \n   Color: Green Shadow|Storage: 256GB\n   \n   Color: Green Shadow|Storage: 256GB\n   \n   5\n   \n   I can definitely say I love this phone got a pink case to protect it. I've showed my stream how I can stream, watch YouTube and send text messages all at the same time. I love that the adjustable 3 split screens and how you can rotate your boxes while they're in split mode. There's so much to this phone. I enjoy let's talk about how bright the screen is and that's before you turn it all the way up, I love that. And the clarity of pictures i can't wait to pick up some tricks and tips Using my new samsung z fold 8 ultra i...\n   \n   View more\n   \n   ![Review media](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/6e00cde9-dedd-5f40-8003-ef9aec3715a8)+5\n   \n   I recommended this product.\n   \n   Helpful? (2)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UDGAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   AI Functionality\n   \n   5\n   \n   Value\n   \n   5\n   \n   Performance\n   \n   5\n   \n   Design\n   \n   5\n   \n   Features\n   \n   5\n   \n   Response from Samsung:\n   \n   2026-11-06\n   \n   * * *\n   \n   **R&R Team**\n   \n   Hello there, thank you for sharing your experience of your Samsung Galaxy Z Fold8 Ultra with us. We love hearing how amazed you have been with the usage of your device, the immersive streaming with the larger display, and amazing photos and videos you can capture with the camera. We have shared a link to the Samsung Support Team to assist you if you have questions during your usage. Thank you for being a Samsung customer. -Elizabeth Samsung Support smsng.us/Samsung-Support Samsung Community smsng.us/Samsung-Community Facebook smsng.us/Facebook-Messenger X https://smsng.us/X-Messages\n3. joe4samsung\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-18\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   I upgraded from the Galaxy Z Fold 5 to the Galaxy Z Fold 8 Ultra, and I can really feel the difference. I chose the Fold 8 Ultra because I wanted the latest features without giving up the foldable design I already loved. The improved display makes watching videos and reading much better. The new AI features are also very useful for everyday tasks and help me get things done faster. The phone feels faster and smoother than my old Fold 5, and the camera improvements are another nice upgrade. Overall, I am very happy with t...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3574ccda-9af8-5e39-9242-ad19459c04d9)\n   \n   Helpful? (55)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n4. KFLavji\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-28\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   I chose this device because I wanted something powerful, reliable, and versatile for everyday use. After using it, I am very impressed with the overall experience. The display is bright and sharp, performance is smooth, and multitasking feels effortless. The build quality feels premium, and the battery comfortably handles my daily routine. I especially enjoy how well the software and features work together, making both work and entertainment more convenient. There are still features I am discovering, but so far it has been ...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/38ea4b9b-45b1-587f-bbc7-b653cdcee634)\n   \n   Helpful? (30)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n5. Anonymous\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-05\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   I chose the Galaxy Z Fold because I wanted one device that could do it all, and it has delivered. I've been using the Fold series since the Galaxy Z Fold3 and have owned every generation since. Not because I feel the need to upgrade every year, but because Samsung has consistently improved the experience. The large inner display makes multitasking effortless, performance is always smooth, and it feels like carrying both a phone and tablet in one pocket. Even after all these years, opening the Fold still feels special. Going...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/eacf2b1d-97e4-5ca1-ba4a-c85f49b43be3)\n   \n   Helpful? (27)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n6. Techgeek49\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-09\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   The Fold 8 Ultra is the best in Fold series so far. They have lessened the crease, put better cameras in and it comes with the latest android software. I have been a Fold user since the Fold 3 and I don't see myself going back. I use the multitasking split screen feature almost everyday. The phone is buttery smooth and feels like a normal candy bar phone when Folded. I am really enjoying my experience with this phone and I'm still learning how to take and edit pictures in a more creative way. The new edit feature that allow...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/11565182-400a-5537-a138-66042032d0a4)\n   \n   Helpful? (29)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n7. Jadams01\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-07\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   I chose this phone because I'm so in love with this foldable form factor, that I can't go back to a regular phone. Going from the fold 6 to the fold 8 ultra is a huge game changer, bigger cover screen, super slim design, and even better cameras has been such a gamechanger for me. The 200 megapixel main shooter takes amazing photos, and the software enhancement to the pictures is also super impressive. The cover screen of the device is no longer skinny, but a normal sized screen that is way easier to use. I can't recommend t...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/04134fdf-e05b-54a5-beba-4a4cab201d81)\n   \n   Helpful? (19)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n8. SamsungSuperFan\n   \n   - Incentivized review\n   \n   5\n   \n   2026-08-07\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   Color: Violet Shadow|Storage: 256GB\n   \n   5\n   \n   I have had Z Fold series ever since they first came out. My last Fold was the 6 series, great product, great size but heavy with a case. I chose the Fold Ultra 8 for my newer version, and it is a wonderful product. It has the same basic features as the 6, but with great improvements. The phone is thinner, lighter, has a bigger screen, and new features. I have enjoyed working more with Gemini to accomplish a few tasks quicker and can't wait to spend a little more time exploring. There are some new features with photos...\n   \n   View more\n   \n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/b3a82a70-45b0-530a-a4d4-f49ea82b47f2)\n   \n   Helpful? (12)\n   \n   Originally posted on[Galaxy Z Fold8 Ultra 256GB (Unlocked)(SM-F976UZVAXAA)](https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/)\n   \n   Value\n   \n   5\n\nLoading…\n\n![Bazaarvoice Authentic Reviews](https://apps.bazaarvoice.com/common/images/intelligent_trustmark_icons/trustmark_en.png)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-07T14:15:46+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/"
+   },
+   "tool_use_id": "srvtoolu_01XCLk416d8oczyTxJ26wsKW",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_017ptoJNFNAmH3Zccf1xc4QY/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0].get('title'),len(c));print(c[:1500])\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_017ptoJNFNAmH3Zccf1xc4QY",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_019BajDfPdxzsYGYFYki1Heq",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/\", \"retrieved_at\": \"2026-11-07T14:15:46+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/\\nmeta-al:android:app_name: Shop Samsung\\nmeta-al:android:package: com.samsung.ecomm\\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-F976UDGEXAA&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\\nmeta-al:ios:app_name: Shop Samsung\\nmeta-al:ios:app_store_id: 1274679179\\nmeta-description: Discover the Galaxy Z Fold8 Ultra 512GB in Green for powerful multitasking with flexible carrier compatibility. Find your foldable at Samsung US.\\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\\nmeta-og:description: Discover the Galaxy Z Fold8 Ultra 512GB in Green for powerful multitasking with flexible carrier compatibility. Find your foldable at Samsung US.\\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\\nmeta-og:site_name: Samsung US\\nmeta-og:title: Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green | Samsung US\\nmeta-og:type: website\\nmeta-og:url: https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/galaxy-z-fold8-ultra-512gb-unlocked-sku-sm-f976udgexaa/\\nmeta-title: Buy the Unlocked \n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019BajDfPdxzsYGYFYki1Heq",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01ViU9MkC3Utc8PCCtxo5L8k",
+   "caller": null,
+   "input": {
+    "code": "import json,re;c=json.loads(r)['content']['source']['data'];print(len(c))\nfor m in re.finditer(r'\\$\\d[\\d,]*(\\.\\d\\d)?',c):print(c[max(0,m.start()-100):m.end()+40].replace('\\n',' '));\nfor k in ['stock','sold out','add to cart','continue','notify','unavailable']:\n  for m in re.finditer(k,c,re.I):print(k,'>>',c[max(0,m.start()-80):m.end()+60].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "16544\nld8 UltraGalaxy Z Fold8Galaxy Z Flip8  4.9(2,622)  # Galaxy Z Fold8 Ultra  Storage  Storage  256GB  $2,099.99  512GB  $2,299.99  1TB  $2,699.99  Colo\nFold8Galaxy Z Flip8  4.9(2,622)  # Galaxy Z Fold8 Ultra  Storage  Storage  256GB  $2,099.99  512GB  $2,299.99  1TB  $2,699.99  Color  Color  Online E\nip8  4.9(2,622)  # Galaxy Z Fold8 Ultra  Storage  Storage  256GB  $2,099.99  512GB  $2,299.99  1TB  $2,699.99  Color  Color  Online Exclusive  Only a\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01ViU9MkC3Utc8PCCtxo5L8k",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSyAUKEAgTGAI4AUIIdGhpbmtpbmcSDNwOOL7aZnd+zsxbYhoMVoQUIULu+TtQvNuTIjBiz2WwO4Sx4A1fug7f71E9qvFWY12gPB+Jtdp1Klo8T7yS8f7iwP3YkYPAUbovQkYq5QTk5+q/1QvHD+Dk8iyquyk3okS9eNUGXbNpa1J66PxyX7MRfYIrC051P0Ekcy/wGKoce3CrcoKKEed3nrh152/x2YcuayTzxQkL0W0VHLzSbI0WYsjgDA4Dztz8Kmb74DFlI8b9AFIoQCz6BHEfmiU/PzbvEkJsPdDEOUwnEjBHxwK3MvEyX9v0T0CGTEYZlSu8Cjx6BVx5Y9Ma43ALTQm6HLzG8UuAlVVpsHG20Qd5BhqeqYQwIgXZwLLOWSZUofmgu+nwFIU4W+mbfu2cVfyYgZGL50ZOyv2JQEN7Qqn/qZO8Vg211UOOy2J9I/y9REcjE/Cpqr3KaEzcfSgw2mLx4MNAhpP8Puay99PfvZq/23lRqDOf/ITorfMardvTJXPZx67H8Vup6ttLwKfuytuiWHC1H4+nJ9t6LnxBzhCLi223dCoXFuBea2BMa/DIP04BREJfDEutY1fj6dHm9gP9Y2hbuX/Vs/xA9h3iBGznY8S2eVtR9rn7FW3S+M2g0Z9vSE6DyMmEtPlcFSmEuy84cqRErKruWamR6c12cO+6TLZlI1pBtL9o9qmRepSktpkRtMDy5ifJ7ZecGcc6/YHgauS90VQlrEKLMXKDO9c6teN1EoEA8piMBpGCM8/R/LC2ANRdQGDE2JihaW9R9I3qpVIMr3aSU+CVS3hPbHjW2heu9RXuM5yKlCA1u/1bbulHFEJqQhH7TkgApMU60PmbSx7hs3ImbYhXzaCmiqccTUeI0glxoIGTju80+q82LtLxvABsD+Fke7Tmxgic2MgiAA/4PzhJTNfhXWIkTq5MlN6HaHGXGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_01C3UMTnvYgRwRjtXbixY9My",
+   "caller": null,
+   "input": {
+    "code": "i=c.find('# Galaxy Z Fold8 Ultra');print(c[i:i+2500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "# Galaxy Z Fold8 Ultra\n\nStorage\n\nStorage\n\n256GB\n\n$2,099.99\n\n512GB\n\n$2,299.99\n\n1TB\n\n$2,699.99\n\nColor\n\nColor\n\nOnline Exclusive\n\nOnly available at Samsung.com and Samsung Experience Stores\n\nGreen Shadow\n\nViolet Shadow\n\nCream\n\nGraphite\n\nConnectivity\n\nConnectivity\n\nDue to high demand, we are experiencing a delay in delivery on popular combinations\n\nGet it by Nov. 11\n\n![](https://image-us.samsung.com/SamsungUS/home/explore/samsung-s8/S8_Unlocked_configurator_v4.png)\n\nReviews\n\n### Galaxy Z Fold8 Ultra\n\n4.9 (2,622 Reviews)\n\nRecommended by **78%** of customers.\n\nWrite a review\n\n5.0\n\n90% (2,365)\n\n4.0\n\n8% (216)\n\n3.0\n\n1% (29)\n\n2.0\n\n0% (7)\n\n1.0\n\n0% (5)\n\nView detail\n\nFeatures4.7\n\nPerformance4.5\n\nDesign4.5\n\nValue4.9\n\nAI Functionality4.5\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Z Fold8 Ultra\n\n- Customers praise the nearly invisible crease and lightweight design as major improvements over previous models.\n- Reviewers highlight the large inner screen enabling seamless multitasking with multiple apps running simultaneously.\n- Performance is consistently described as smooth and responsive, with no lag during heavy daily use.\n- Battery life reliably lasts a full day of heavy use, including streaming, browsing, and multitasking.\n- A few note the absence of stylus support, though this is the only recurring minor criticism.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/fbf906d0-6e57-5d6e-ad01-0e3f9d96facb) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/372ea851-0ac9-5bbc-85ff-9c57e9685240) ![Dead spot; hairline cracks.](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3ce20667-deff-5a33-9703-e85b91faf2fa) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/6e00cde9-dedd-5f40-8003-ef9aec3715a8) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/08b547b8-5202-541c-a682-de53cc2b4448) ![Photo from review](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/c73ffe3d-7875-5cdf\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01C3UMTnvYgRwRjtXbixY9My",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSzAcKEAgTGAI4AUIIdGhpbmtpbmcSDBsujmclxnzN8bN09xoMITZVj/6v8LzDlaMtIjD6UTEAPZh9Yt+ArsGNnBXPtHHKPs58SFX5HlO+SiW+ZNpa7mQKQxowftVO4e/Ply0q6QZCyoxJazWDwzvlITLDFctLPdcbCFMp6g3i+/luQ9iSHZENAti0YDBZSHcwSAdBX3lYSByc8z/z6/18LAE42UPrTxxGwgPsHyCjOuAE/b/cjtyVNfugp6rvj+NlOCbyGBBkCvRDSLH37+UsNtWiGh2umZIIq7pxp6hlAJpOkPoI31mDwc0l3Iz6fqJrVL5lhyz31tVamTAvWPlOgvCKQbLz/VKUCs0TdWQoCsJ4ghTx0HhIo2jCM3FInsGIxbWxFSTBeVatS+yQ+OA0OTZc0py5t8igpsg0LQvRoN1CHBP03ExISBXYmUMFr2YTiikhSOy4pk7GNNy8uGjeyFwPu+ULzLZwh6S41fUmVtlC2Z71bCmm2xO+TYpoxDn550qyQOx1WM0fqlKB1WEkydI5KLJ7tgjJqWwhbjux+imsKLvanVVMFT+bCdb6W8eXu5E7It1ke5fBJNQGS3ygCRZLW4q3aWbCAgW53JX9rN8XrmTfyAMQHEyfIbhg1kRN+GccGTHd8Bds7zV+IipFYXDUtNnZlROGPlSJTmT5qN/s6iJk1AIW55N6YeRD9OvlXu4HRKnWKCadlGBJf1E/louWzoA0c5VvSm3XHnDxBcNxDrWlWst00XydlZgYW4u2voEZbWkW3t42Ih1BP/0TjyhagYJxpZLyleOA9r/Lt7Y777DqE1h5pPiOF5bpwPreVUO2+KxkUzbLTxko7Gmp/krAHjenasF71f2HMzAXRCMGydg7fCCBZ8sHzFhgssvQJ74gSiCMviVJqACJw32XrLZ/CVN0AGuhqXEysrHjJmKdw4j+3DKzYAlCUtcy5lWrqYQDf1GVwQaWu+RDL+z1ovZTe6XakV/qotzAIJgCgqa6X/Ws0FOJI/LhRaLmcrdl6XpejjZJqygsowZgJLbX/0uHCmCFBvHJc/I127xPsxB1scJAJ/xMa1X/28Yys14+tuMRrq4707zNImOnV61+hghlXE/Ej4Y/6F5TXFLN54z8gS3j9inAleLL1u6Icgh3sCxyJPHY4IYWRNPOtjlmuGPMtOnxDMpgklH0zW+uNDC3vzC6Iv0uY7+RA4AMlWGsAz0z4f2ZipWjeHtDt3QU1RY9YhTn8/Ve2Rbr3EXMzm1i1Yg1g7jphl7M4qm6aOoKOqkBVT4kjlDxD321k4sYAQ==",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Galaxy Z Fold8 Ultra | PRICE: $2,299.99 | STOCK: IN STOCK | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

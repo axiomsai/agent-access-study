@@ -1,0 +1,90 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walmart.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Walmart | Save Money. Live better.\nProduct/Category Name: Grocery",
+ "finish": "STOP",
+ "cost_usd": 0.00041,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Walmart | Save Money. Live better.\nProduct/Category Name: Grocery",
+       "thoughtSignature": "EnMKcQFpFH0TnvyocVwuh6pyQQfcByEAm8vZ1Sor5Ei93H5rVyQFf6CpwOljTSM5p2Nx1mrVqL5kXcvbeEYyTJOXJqaszunPg0HQWZ+PaXvw/OwOeLOM/4lBU4YDf/q0CzHr2nbMJaKlJEDcaKPwcymkTxqc"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.walmart.com/",
+        "title": "Walmart | Save Money. Live better."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 34,
+        "endIndex": 46,
+        "text": "Live better."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 47,
+        "endIndex": 77,
+        "text": "Product/Category Name: Grocery"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walmart.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 3954,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 3844,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3844
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "xnHqav2wDqfoz7IPjtaZqQ8"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+ "finish": "STOP",
+ "cost_usd": 0.00018,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+       "thoughtSignature": "EnMKcQFpFH0TObVZQoqJP3df1w4UMo2dUADs0WMXtMTnYSj3J3z9Y9NVuGFHISL3lwyBNtzH4UmIep0KNdvFWNndLcC+MP7TTu4i7hcVyAF8BEe7IFwC/FUyZAZIxBGWmcfRRetofAtcm0NAKxFkXzQgmA5K"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.temu.com/",
+        "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 76,
+        "text": "Page Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 77,
+        "endIndex": 92,
+        "text": "Category: Women"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 1646,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1532,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1532
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "SXvvat-bOcup6dkPgemZgAY"
+ }
+}

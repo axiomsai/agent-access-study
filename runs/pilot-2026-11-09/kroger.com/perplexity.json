@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.kroger.com/",
+  "https://www.kroger.com/q/kro",
+  "https://www.kroger.com/q/product",
+  "https://www.kroger.com/fresh/",
+  "https://www.kroger.com/q/kroger+spaghetti+sauce",
+  "https://www.kroger.com/q/crema",
+  "https://www.kroger.com/q/com",
+  "https://www.kroger.com/q/kroger+pantry",
+  "https://www.kroger.com/q/tonys",
+  "https://www.kroger.com/q/collagen+peptide"
+ ],
+ "cited_store": true,
+ "answer": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store — Groceries",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.kroger.com/",
+   "https://www.kroger.com/q/kro",
+   "https://www.kroger.com/q/product",
+   "https://www.kroger.com/fresh/",
+   "https://www.kroger.com/q/kroger+spaghetti+sauce",
+   "https://www.kroger.com/q/crema",
+   "https://www.kroger.com/q/com",
+   "https://www.kroger.com/q/kroger+pantry",
+   "https://www.kroger.com/q/tonys",
+   "https://www.kroger.com/q/collagen+peptide"
+  ],
+  "created": 1794248441,
+  "id": "resp_8384cd15-7750-44b5-8a00-59e72e4a5e2e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nat Harrisonburg\n| 1790 E Market St\n...\nPlus, see your savings add up with all our Boost benefits.",
+    "source": "web",
+    "title": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store",
+    "url": "https://www.kroger.com/"
+   },
+   {
+    "date": "2026-09-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Kroger",
+    "url": "https://www.kroger.com/q/kro"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# product",
+    "source": "web",
+    "title": "Kroger",
+    "url": "https://www.kroger.com/q/product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "## You're Picking Up At:\nKroger - Rolla605 W 4Th St, Rolla, MO 65401",
+    "source": "web",
+    "title": "Kroger",
+    "url": "https://www.kroger.com/fresh/"
+   },
+   {
+    "date": "2026-09-29",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "kroger spaghetti sauce",
+    "url": "https://www.kroger.com/q/kroger+spaghetti+sauce"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "crema - Kroger",
+    "url": "https://www.kroger.com/q/crema"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St\n...\n# com",
+    "source": "web",
+    "title": "Shop More - Kroger",
+    "url": "https://www.kroger.com/q/com"
+   },
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "| 1790 E Market St\n## Filters\n- Filtering search results for kroger pantry",
+    "source": "web",
+    "title": "Kroger Pantry - Kroger",
+    "url": "https://www.kroger.com/q/kroger+pantry"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Tony's - Kroger",
+    "url": "https://www.kroger.com/q/tonys"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Kroger\nat Harrisonburg\n| 1790 E Market St",
+    "source": "web",
+    "title": "Collagen Peptide - Kroger",
+    "url": "https://www.kroger.com/q/collagen+peptide"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00043000000000000004,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00298
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 77
+  }
+ }
+}

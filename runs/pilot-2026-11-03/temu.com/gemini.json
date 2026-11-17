@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+ "finish": "STOP",
+ "cost_usd": 0.00017,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nCategory: Women",
+       "thoughtSignature": "EnMKcQFpFH0TiSXY7bMJy/413D2OIQWGcnqeUzBjGEOJH2iuRCfFt4E/nz8DqzdO7E9dtHYCpn4i/xtkXCMLql3jPhApM0PACkTMDOUw3rGxGKMYxEjh57bKT0OuNAxklDIwP6R+ztmI0Avq9pvsLcTs7E5i"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.temu.com/",
+        "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 71,
+        "text": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 72,
+        "endIndex": 87,
+        "text": "Category: Women"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 51,
+   "totalTokenCount": 1530,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1417,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1417
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "v3HqaoSzL5qs6dkP76D5oAI"
+ }
+}

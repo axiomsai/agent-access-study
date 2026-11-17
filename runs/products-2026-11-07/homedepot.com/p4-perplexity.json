@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+  "https://www.homedepot.com/p/questions/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931/2",
+  "https://www.homedepot.com/b/HOROW/N-5yc1vZv6d",
+  "https://www.homedepot.com/b/Smart-Home-Smart-Bathroom-Smart-Toilets/N-5yc1vZ1z18ghy",
+  "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d",
+  "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Touchless/N-5yc1vZbzacZv6dZ1z0r9xo",
+  "https://www.homedepot.com/b/Bath-Toilets/HOROW/Over-the-rim/N-5yc1vZbzbdZv6dZ1z0ppbc",
+  "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Elongated/N-5yc1vZbzacZv6dZ1z0zbtk",
+  "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/N-5yc1vZbzac",
+  "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/Best-Rated/Heated/N-5yc1vZbzacZbwo5qZ1z1pk53"
+ ],
+ "cited_store": true,
+ "answer": "NAME: HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote | PRICE: $949.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00521,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote | PRICE: $949.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+   "https://www.homedepot.com/p/questions/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931/2",
+   "https://www.homedepot.com/b/HOROW/N-5yc1vZv6d",
+   "https://www.homedepot.com/b/Smart-Home-Smart-Bathroom-Smart-Toilets/N-5yc1vZ1z18ghy",
+   "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d",
+   "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Touchless/N-5yc1vZbzacZv6dZ1z0r9xo",
+   "https://www.homedepot.com/b/Bath-Toilets/HOROW/Over-the-rim/N-5yc1vZbzbdZv6dZ1z0ppbc",
+   "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Elongated/N-5yc1vZbzacZv6dZ1z0zbtk",
+   "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/N-5yc1vZbzac",
+   "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/Best-Rated/Heated/N-5yc1vZbzacZbwo5qZ1z1pk53"
+  ],
+  "created": 1794080125,
+  "id": "resp_800878e6-bced-408d-8a88-bd98a3a36e62",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-07-21",
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote HR-0005 - The Home Depot\n...\n## Internet # 321158931\n## Model # HR-0005\n...\n# Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Rem...",
+    "source": "web",
+    "title": "HOROW - Elongated Smart Bidet Toilet 1.28 GPF in White with Auto ...",
+    "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931"
+   },
+   {
+    "date": "2022-09-30",
+    "last_updated": "2026-04-28",
+    "place_metadata": null,
+    "snippet": "## Internet # 321158931\n## Model # HR-0005\n## Store SKU # 1008038205\n# Questions and Answers for HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\nby\n## HOROW\nQuestions & Answers (111)\n- Features a heated seat, warm bidet water and ai...",
+    "source": "web",
+    "title": "HOROW Elongated Smart Bidet Toilet 1.28 GPF in White with Auto ...",
+    "url": "https://www.homedepot.com/p/questions/HOROW-Elongated-Smart-Bidet-Toilet-1-28-GPF-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931/2"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\n(4.8 / 224)\nModel# HR-0005\nLimit 10 per order\n$949.00\n$1,199.99\nSave $250.99 (21%)\n+1 more",
+    "source": "web",
+    "title": "HOROW - The Home Depot",
+    "url": "https://www.homedepot.com/b/HOROW/N-5yc1vZv6d"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash\n(4.6 / 616)\nModel# T03\nLimit 10 per order\n$539.00\n...\n### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\n(...",
+    "source": "web",
+    "title": "SMART TOILETS - The Home Depot",
+    "url": "https://www.homedepot.com/b/Smart-Home-Smart-Bathroom-Smart-Toilets/N-5yc1vZ1z18ghy"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\n(4.8 / 224)\nModel# HR-0005\nLimit 10 per order\n$1,199.99\n+1 more",
+    "source": "web",
+    "title": "HOROW - Bidet Toilets",
+    "url": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-08-22",
+    "place_metadata": null,
+    "snippet": "# HOROW BIDET TOILETS\n...\n### HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash\nModel# T03\n### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\nModel# HR-0005\n......",
+    "source": "web",
+    "title": "HOROW - Touchless - Bidet Toilets - The Home Depot",
+    "url": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Touchless/N-5yc1vZbzacZv6dZ1z0r9xo"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\n(4.8 / 224)\nModel# HR-0005\nLimit 10 per order\n$899.00\n$1,199.99\nSave $300.99 (25%)\n…",
+    "source": "web",
+    "title": "HOROW - Over the rim - Toilets - The Home Depot",
+    "url": "https://www.homedepot.com/b/Bath-Toilets/HOROW/Over-the-rim/N-5yc1vZbzbdZv6dZ1z0ppbc"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-07-24",
+    "place_metadata": null,
+    "snippet": "# ELONGATED HOROW BIDET TOILETS\n30 results\n...\n### HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash\nModel# T03\n### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remo...",
+    "source": "web",
+    "title": "Elongated HOROW Bidet Toilets",
+    "url": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/HOROW/Elongated/N-5yc1vZbzacZv6dZ1z0zbtk"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash\n(4.6 / 617)\nModel# T03\nLimit 10 per order\n$539.00\n$729.00\n...\n### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and ...",
+    "source": "web",
+    "title": "Bidet Toilets - The Home Depot",
+    "url": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/N-5yc1vZbzac"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "### HOROW Elongated Smart Bidet Toilet 1.​28 GPF in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote\n(4.8 / 224)\nModel# HR-0005\nLimit 10 per order\n$949.00\n$1,199.99\nSave $250.99 (21%)",
+    "source": "web",
+    "title": "Heated - Best Rated - Bidet Toilets - The Home Depot",
+    "url": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilets/Best-Rated/Heated/N-5yc1vZbzacZbwo5qZ1z1pk53"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 50,
+   "cost": {
+    "input_tokens_cost": 0.00157,
+    "output_tokens_cost": 0.00037,
+    "request_cost": 0.0025,
+    "total_cost": 0.00444
+   },
+   "prompt_tokens": 162,
+   "search_context_size": "low",
+   "total_tokens": 212
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "walmart.com",
+ "idx": 4,
+ "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "16059 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 16059,
+   "input_tokens": 41450,
+   "cost_usd": 0.1824
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "92591 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 23.0,
+   "opened": "YES",
+   "doc_chars": 92591,
+   "input_tokens": 32650,
+   "cost_usd": 0.14538
+  }
+ }
+}

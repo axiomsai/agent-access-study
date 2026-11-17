@@ -1,0 +1,25 @@
+{
+ "domain": "kroger.com",
+ "idx": 4,
+ "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15079 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 14.99,
+   "opened": "YES",
+   "doc_chars": 15079,
+   "input_tokens": 23381,
+   "cost_usd": 0.1038
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "15079 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 14.99,
+   "opened": "YES",
+   "doc_chars": 15079,
+   "input_tokens": 23296,
+   "cost_usd": 0.10328
+  }
+ }
+}

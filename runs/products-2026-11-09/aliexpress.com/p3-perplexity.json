@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/item/1005006868619130.html",
+  "https://www.aliexpress.com/item/1005010087166192.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://www.aliexpress.com/item/1005008315963275.html",
+  "https://www.aliexpress.com/w/wholesale-usa-warehouse.html",
+  "https://he.aliexpress.com/w/wholesale-https-aliexpress.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable for the exact URL",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content unavailable for the exact URL",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/item/1005006868619130.html",
+   "https://www.aliexpress.com/item/1005010087166192.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://www.aliexpress.com/item/1005008315963275.html",
+   "https://www.aliexpress.com/w/wholesale-usa-warehouse.html",
+   "https://he.aliexpress.com/w/wholesale-https-aliexpress.html"
+  ],
+  "created": 1794249812,
+  "id": "resp_5cbf9ba5-80da-4d6e-a06a-9583b2f07fb7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### 6MM Stainless Steel Smooth Rings For Women Men Titanium Steel Ring Couple Wedding Fashion Waterproof Jewelry Gift\n...\n### Men and women Balaclava Y2K Gothic Harajuku winter new item double hooded sweatshirt men's hooded mask zipper sportswear\naliexpress.com item 1005006771429820",
+    "source": "web",
+    "title": "Aliexpress items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Dollar Express\n...\n### 15 Colors Resin Jelly Rhinestones for Bedazzling, 3mm Flatback Gems Bedazzler Kit with 3Pcs 10ml B7000 Jewelry Glue for Nail Art\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005006868619130.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, this item's currently unavailable in your location.",
+    "source": "web",
+    "title": "10 Channel ESP32-S3 Energy Monitor Board - AliExpress",
+    "url": "https://www.aliexpress.com/item/1005010087166192.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items-AliExpress\n...\n### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts\n$120.56$120.56\n...\n# Results for items\nThe search term items is commonly used on AliExpress to refer to products or goods available for purchase.",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2024-09-10",
+    "last_updated": "2025-07-10",
+    "place_metadata": null,
+    "snippet": "Sorry, the page you requested can not be found:(\n...\nNew Aquarium Filter for Aquarium Fish Tank Air Pump Skimmer Biochemical Sponge Filter Aquarium Bio Filters Filtro Aquario",
+    "source": "web",
+    "title": "Navee scooter S60/ S40 US version controller more fast speed remove version - AliExpress 18",
+    "url": "https://www.aliexpress.com/item/1005008315963275.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-09-23",
+    "place_metadata": null,
+    "snippet": "Luminous Flux\nAll249-2000 Lumen249LM - 2000LM2000-82000 Lumen2000LM - 82000LM500Lumens - 999Lumens500 - 999 Lumen1000 Lumens - 1999 Lumens1000 - 1999 Lumen> 2000 Lumens2000 Lumen & Above",
+    "source": "web",
+    "title": "Usa warehouse-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-usa-warehouse.html"
+   },
+   {
+    "date": "2025-07-10",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Https Aliexpress",
+    "url": "https://he.aliexpress.com/w/wholesale-https-aliexpress.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00088,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00359
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 140
+  }
+ }
+}

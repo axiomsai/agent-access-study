@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://samsung.com/us/tablets/galaxy-tab-s12/buy/",
+  "https://www.samsung.com/us/tablets/galaxy-tab-s12/",
+  "https://www.samsung.com/ca/tablets/galaxy-tab-s12/buy/?SM-X940NZAEXAC",
+  "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-plus-256gb-gray-wi-fi-sku-sm-x840nzaaxar",
+  "https://news.samsung.com/us/galaxy-tab/feed/",
+  "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/",
+  "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-silver-wi-fi-sku-sm-x940nzsaxar/",
+  "https://news.samsung.com/us/productivity-powered-galaxy-tab-s12-series-now-available/",
+  "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-512gb-gray-wi-fi-sku-sm-x940nzaexar/",
+  "https://www.samsung.com/us/tablets/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Galaxy Tab S12 Ultra (14.6\") | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Galaxy Tab S12 Ultra (14.6\") | PRICE: $1,399.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://samsung.com/us/tablets/galaxy-tab-s12/buy/",
+   "https://www.samsung.com/us/tablets/galaxy-tab-s12/",
+   "https://www.samsung.com/ca/tablets/galaxy-tab-s12/buy/?SM-X940NZAEXAC",
+   "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-plus-256gb-gray-wi-fi-sku-sm-x840nzaaxar",
+   "https://news.samsung.com/us/galaxy-tab/feed/",
+   "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/",
+   "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-silver-wi-fi-sku-sm-x940nzsaxar/",
+   "https://news.samsung.com/us/productivity-powered-galaxy-tab-s12-series-now-available/",
+   "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-512gb-gray-wi-fi-sku-sm-x940nzaexar/",
+   "https://www.samsung.com/us/tablets/"
+  ],
+  "created": 1793907104,
+  "id": "resp_24602b2d-d48b-4f95-9e67-2de6b1850396",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\n...\n# Galaxy Tab S12 Ultra (14.6\")\nNew\n256 GB | 14.6\" | Gray | Wi-Fi\n**$1,399.99 or 58.34/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\nGalaxy Tab S12 Ultra\n$1,399.99\nGalaxy Tab S12+\n$1,199.99\n...\n256 GB\n$1,399.99\n512 GB\n$1,599.99\n...\n$1,399.99\n...\nGet ...",
+    "source": "web",
+    "title": "Galaxy Tab S12 Ultra (14.6\")",
+    "url": "https://samsung.com/us/tablets/galaxy-tab-s12/buy/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Galaxy Tab S12 Ultra | S12+\n- From $1,199.99 or $50.00/mo for 24 mos before trade-inᶿ\n...\n### Coming Soon: Galaxy Tab S12 Ultra and Tab S12+\n#### Fill out the form below to be the first to know about when Galaxy Tab S12 Series is available to order.\n...\n## Buy now, pay later\nShop Samsung.com with...",
+    "source": "web",
+    "title": "Explore Galaxy Tab S12 Series Ai Tablets",
+    "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/"
+   },
+   {
+    "date": "2026-10-01",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Galaxy Tab S12+ | Tab S12 Ultra\n- Galaxy Tab S12+ | Tab S12 Ultra\nGalaxy Tab S12 Ultra\nFrom *$52.78*/mo. with 0% APR‡ or *$1,899.99*\nFree Shipping Pick up from store\n...\npromotion banner-buy-index-indication promotion banner-buy-index-indication promotion banner-buy-index-indication\n...\n- Galaxy T...",
+    "source": "web",
+    "title": "Galaxy Tab S12 Series | Samsung Canada",
+    "url": "https://www.samsung.com/ca/tablets/galaxy-tab-s12/buy/?SM-X940NZAEXAC"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Gray Galaxy Tab S12+ 256GB with 12GB | Samsung Business\n- Buy Tab S12 Ultra and get 30% off Pro Keyboard + power adapter¤\n...\n# Galaxy Tab S12+\nNew\n256 GB | 12.6\" | Gray | Wi-Fi | SM-X840NZAAXAR\nTotal**$1,199.99** before trade-in\n...\nGalaxy Tab S12+\n$1,199.99\n256 GB\n$1,199.99\n512 GB\n$1,399.9...",
+    "source": "web",
+    "title": "Buy the Gray Galaxy Tab S12+ 256GB with 12GB",
+    "url": "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-plus-256gb-gray-wi-fi-sku-sm-x840nzaaxar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "<p>Starting today, Galaxy Tab S12 series, including <a href=\"https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\" target=\"_blank\" rel=\"\nnoopener\">Galaxy Tab S12 Ultra</a> and <a href=\"https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/ga...",
+    "source": "web",
+    "title": "Galaxy Tab – Samsung US Newsroom",
+    "url": "https://news.samsung.com/us/galaxy-tab/feed/"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB | Samsung Business\n- Buy Tab S12 Ultra and get 30% off Pro Keyboard + power adapter¤\n- Need Business Product Support?\n...\n# Galaxy Tab S12 Ultra\nNew\n256 GB | 14.6\" | Gray | Wi-Fi | SM-X940NZAAXAR\nTotal**$1,399.99** before trade-in\n...\nGalaxy Tab S12 ...",
+    "source": "web",
+    "title": "Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB",
+    "url": "https://www.samsung.com/us/business/tablets/galaxy-tab-s12/buy/"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Silver Galaxy Tab S12 Ultra 256GB with 12GB\n...\n# Galaxy Tab S12 Ultra (14.6\")\nNew\n256 GB | 14.6\" | Silver | Wi-Fi\n**$1,399.99 or 58.34/mo** for **24** mos **at 0% APR** ^⊕σ^\n...\nGalaxy Tab S12 Ultra\n$1,399.99\nGalaxy Tab S12+\n$1,199.99\n256 GB\n$1,399.99\n512 GB\n$1,599.99\n...\n$1,399.99\n...\nChoo...",
+    "source": "web",
+    "title": "Buy the Silver Galaxy Tab S12 Ultra 256GB with 12GB",
+    "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-silver-wi-fi-sku-sm-x940nzsaxar/"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-10-07",
+    "place_metadata": null,
+    "snippet": "Starting today, Galaxy Tab S12 series, including Galaxy Tab S12 Ultra and Tab S12+, is available at Samsung.com, Samsung Experience Stores, and retailers nationwide.\n...\nGalaxy Tab S12 series hardware is complemented by Android 17 with One UI 9 and the latest Galaxy AI.^8^ Galaxy Tab S12 series also...",
+    "source": "web",
+    "title": "Productivity-Powered Galaxy Tab S12 Series is Now Available",
+    "url": "https://news.samsung.com/us/productivity-powered-galaxy-tab-s12-series-now-available/"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy the Gray Galaxy Tab S12 Ultra 512GB with 12GB\n...\n# Galaxy Tab S12 Ultra (14.6\")\nNew\n512 GB | 14.6\" | Gray | Wi-Fi\n**$1,599.99 or 66.67/mo** for **24** mos **at 0% APR** ^⊕σ^\nUnwrap ultra-powerful performance.\nGet up to $995 in total savings with eligible trade-in.^θ^\nGalaxy Tab S12 Ultra\n$1,599...",
+    "source": "web",
+    "title": "Buy the Gray Galaxy Tab S12 Ultra 512GB with 12GB",
+    "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-512gb-gray-wi-fi-sku-sm-x940nzaexar/"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Your exclusive $20 off awaits\n## Galaxy Tab S12 Ultra\nUnwrap powerful performance in an ultra-thin design.\nGet up to\n$1,095 in total savings with eligible trade-in and more.^θ₽^\n...\nnew\nGalaxy Tab S12 Ultra Galaxy Tab S12 Ultra\nnew\nGalaxy Tab S12+ Galaxy Tab S12+\nBuy now\n...\n|table item cta|Buy n...",
+    "source": "web",
+    "title": "Samsung Galaxy Tablets: Mobile & Computer Tablets",
+    "url": "https://www.samsung.com/us/tablets/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 31,
+   "cost": {
+    "input_tokens_cost": 0.00164,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00438
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 148
+  }
+ }
+}

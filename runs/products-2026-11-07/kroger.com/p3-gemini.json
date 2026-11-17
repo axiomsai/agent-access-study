@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Dunkin' Original Blend Medium Roast Ground Coffee | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Dunkin' Original Blend Medium Roast Ground Coffee | PRICE: $11.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TIxjoMma0b/jrVAJi3y1I/QQnhtD/i9nX+z0gnNDp/+lABEu5/UooLVIrcVj3Mx5MTPhUr9cvFhFrrogocdzuDZMRJAtk/rpz1YiNkQoy22IgkUcMFxUVkrPXt5LZupuIJLhBuVBx0dn/Porj"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 148,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 5458,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 148
+    }
+   ],
+   "toolUsePromptTokenCount": 5228,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5228
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "84bvaqu5GZONqtsPw8mAoAY"
+ }
+}

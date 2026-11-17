@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue | PRICE: $336.52 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.0015,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue | PRICE: $336.52 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T7DPOOxod0Fbf/WjRZmPYt61nqoyZxFBJM9j5cfAaFzREZX159NzL5gu9sm+HWJtiw3U0lWWeLX3hVgwg8yuKTZTcQFTCHk1bSMpMmaw1xNIrybg8XOqN8w1yspKCHERNMwPRVz7w4dxydHvw"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 177,
+   "candidatesTokenCount": 146,
+   "totalTokenCount": 14553,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 177
+    }
+   ],
+   "toolUsePromptTokenCount": 14230,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 14230
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "hn_vasmZAZOt6dkP4O2xgAY"
+ }
+}

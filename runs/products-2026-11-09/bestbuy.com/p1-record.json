@@ -1,0 +1,60 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+ "idx": 1,
+ "at": "2026-11-09T12:34:20-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "10141 chars, copy dated 2026-11-06 (3 days old)",
+   "parsed": true,
+   "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-06T18:20:48+00:00",
+   "age_days": 3,
+   "cost_usd": 0.14652
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+   "price": 325.0,
+   "price_raw": "$325",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0015
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue",
+   "price": 579.0,
+   "price_raw": "$579.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0237
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue",
+   "price": 259.99,
+   "price_raw": "$259.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00521
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00031,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TXEq5kkK29EqBR8xvdxo6wI+EZJNCjfJedW86NrLnzCFLkbxXbxe1Qz2Tgsgyj9VgHIJ5DLMUhjfsR1A9rF0RQDxm+382J4JIbmqRmp8XtIhBnRGr7HBmWSsWawMy5Y719NdwS5enb+YCBp5i"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 149,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 2816,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 149
+    }
+   ],
+   "toolUsePromptTokenCount": 2580,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2580
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "OBHyasenBOv8qtsPvbHQmQ0"
+ }
+}

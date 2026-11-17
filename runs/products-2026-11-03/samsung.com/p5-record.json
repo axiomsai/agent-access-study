@@ -1,0 +1,60 @@
+{
+ "domain": "samsung.com",
+ "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
+ "idx": 5,
+ "at": "2026-11-03T18:15:24-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "2462 chars, copy dated 2026-11-03 (0 days old)",
+   "parsed": true,
+   "name": "Galaxy Tab S12 Ultra (14.6\")",
+   "price": 1399.99,
+   "price_raw": "$1,399.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-03T14:34:58+00:00",
+   "age_days": 0,
+   "cost_usd": 0.13486
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Galaxy Tab S12 Ultra",
+   "price": 1399.99,
+   "price_raw": "$1,399.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00058
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Galaxy Tab S12 Ultra",
+   "price": 1399.99,
+   "price_raw": "$1,399.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01143
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Galaxy Tab S12 Ultra (14.6\")",
+   "price": 1399.99,
+   "price_raw": "$1,399.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

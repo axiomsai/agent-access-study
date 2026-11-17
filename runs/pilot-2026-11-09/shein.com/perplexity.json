@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+  "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+  "https://us.shein.com/style/Women-Clothing-sc-001121425.html",
+  "https://m.shein.com/us/",
+  "https://m.shein.com/de/ein.com/Women-c-2030.html",
+  "https://m.shein.com/us/Brands/shein-sc-01436294.html?language=pt&cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+  "https://m.shein.com/it/Terms-and-Conditions-a-399.html?language=en",
+  "https://ph.shein.com/",
+  "https://us.shein.com/About-Us-a-117.html",
+  "https://us.shein.com/About-US-a-117.html"
+ ],
+ "cited_store": true,
+ "answer": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n\nWomen Shoes",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n\nWomen Shoes",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.shein.com/ncr/Women-Shoes-c-1745.html",
+   "https://us.shein.com/asia/Brands/shein-sc-01436294.html",
+   "https://us.shein.com/style/Women-Clothing-sc-001121425.html",
+   "https://m.shein.com/us/",
+   "https://m.shein.com/de/ein.com/Women-c-2030.html",
+   "https://m.shein.com/us/Brands/shein-sc-01436294.html?language=pt&cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+   "https://m.shein.com/it/Terms-and-Conditions-a-399.html?language=en",
+   "https://ph.shein.com/",
+   "https://us.shein.com/About-Us-a-117.html",
+   "https://us.shein.com/About-US-a-117.html"
+  ],
+  "created": 1794248358,
+  "id": "resp_3415210b-98a5-48d7-ac8d-070c8393a1cb",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Shoes\nHome/Shoes/Women Shoes/\n## Filter\n### Category\nWomen Wedges & PlatformWomen PumpsWomen FlatsWomen Fashion BootsWomen Ankle Boots & BootiesWomen Mid-Calf BootsWomen Knee-High BootsWomen Over-the-Knee BootsWomen Pant BootsWomen...",
+    "source": "web",
+    "title": "Women's Shoes| Shop Flats, Sandals & Heels Online | SHEIN",
+    "url": "https://www.shein.com/ncr/Women-Shoes-c-1745.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > shein\nHome/shein/\n...\n## Product list",
+    "source": "web",
+    "title": "Fashion shein | SHEIN USA",
+    "url": "https://us.shein.com/asia/Brands/shein-sc-01436294.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Home > Women Clothing\nHome/Women Clothing/\n## Filter\n### Trends Store\n...\n## Product list\n-24%",
+    "source": "web",
+    "title": "Women Clothing",
+    "url": "https://us.shein.com/style/Women-Clothing-sc-001121425.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Women's Clothing, Women Fashion Sale | SHEIN USA\nFree Shipping\n...\nFree Returns",
+    "source": "web",
+    "title": "Shein",
+    "url": "https://m.shein.com/us/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n# Women Clothing\nWomen Tops, Blouses & Tee\nWomen Dresses\nWomen Knitwear\nWomen Sweatshirts & Hoodies\nWomen Bottoms\nWomen Outerwear",
+    "source": "web",
+    "title": "Damenmode | aktuelle Trends, günstig kaufen",
+    "url": "https://m.shein.com/de/ein.com/Women-c-2030.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "shein | Fashion shein | SHEIN USA\nUnited States\n# shein\nWomen Apparel\nUnderwear & Sleepwear\nSports & Outdoor",
+    "source": "web",
+    "title": "Fashion shein",
+    "url": "https://m.shein.com/us/Brands/shein-sc-01436294.html?language=pt&cdn_rsite=cf&ref=www&rep=dir&ret=mus"
+   },
+   {
+    "date": "2026-08-28",
+    "last_updated": "2026-09-17",
+    "place_metadata": null,
+    "snippet": "Welcome to the Shein Italy Marketplace.\nInfinite Styles Services Co., Ltd operates the website https://it.shein.com/ and/or its related mobile application (hereinafter, the ** \"Site\" ** ) which provide an online marketplace (hereinafter, the ** \"Marketplace\" ** ) where customers can purchase product...",
+    "source": "web",
+    "title": "Women's & Men's Clothing, Shop Online Fashion",
+    "url": "https://m.shein.com/it/Terms-and-Conditions-a-399.html?language=en"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Shop The Latest Styles | Fashion Clothes for Women, Men & Kids Online | SHEIN Philippines",
+    "source": "web",
+    "title": "Shop The Latest Styles | Fashion Clothes for Women, Men & Kids...",
+    "url": "https://ph.shein.com/"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-09-05",
+    "place_metadata": null,
+    "snippet": "{{wishNum}}\n0\n...\nNew In\n...\nCurve\nMen Clothing",
+    "source": "web",
+    "title": "About Us",
+    "url": "https://us.shein.com/About-Us-a-117.html"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-08-23",
+    "place_metadata": null,
+    "snippet": "{{wishNum}}\n0\nCategories\nNew In\nSale\n...\nCurve",
+    "source": "web",
+    "title": "About Us | SHEIN USA",
+    "url": "https://us.shein.com/About-US-a-117.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 16,
+   "cost": {
+    "input_tokens_cost": 0.00061,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00315
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver | PRICE: $189 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00088,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Acer - Chromebook 315 – 15.6\" FHD Laptop with Google AI - MediaTek Kompanio 540 – 4GB Memory – 64GB Storage – Wi-Fi 6E - Silver | PRICE: $189 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TVwAhbi0jaE/KXUzYu5bffTf/yZtSKqVCuuE0QyXVH6ECklDIECmcDSbo4Zi9B51hlNlD0JqjbNVzlGBM4LJ5WcPdRAxT4150sLZKfe0MB21JNUdbSniVtjWf2eTELF/Zt5010Q39pTT9ubX6"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-fhd-laptop-with-google-ai-mediatek-kompanio-540-4gb-memory-64gb-storage-wi-fi-6e-silver/JJ8V8HLKPT",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 181,
+   "candidatesTokenCount": 153,
+   "totalTokenCount": 8310,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 181
+    }
+   ],
+   "toolUsePromptTokenCount": 7976,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7976
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "I3nqaovKD7Gtz7IP2v7PkA8"
+ }
+}

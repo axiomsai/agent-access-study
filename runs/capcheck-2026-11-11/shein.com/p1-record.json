@@ -1,0 +1,25 @@
+{
+ "domain": "shein.com",
+ "idx": 1,
+ "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (the fetch tool returned \"url_too_long\" and would not open this URL)",
+   "doc_chars": 0,
+   "input_tokens": 16386,
+   "cost_usd": 0.07622
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (the web tool rejected the URL as too long)",
+   "doc_chars": 0,
+   "input_tokens": 16418,
+   "cost_usd": 0.07647
+  }
+ }
+}

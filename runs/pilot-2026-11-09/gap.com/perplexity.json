@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=881999012",
+  "https://www.gap.com/browse/product.do?pid=890432002",
+  "https://www.gap.com/browse/product.do?pid=7801850421107",
+  "https://www.gap.com/browse/product.do?pid=737078012",
+  "https://www.gap.com/browse/product.do?pid=5262430020056",
+  "https://www.gap.com/browse/product.do?pid=8980080120404",
+  "https://www.gap.com/browse/product.do?pid=819213002",
+  "https://www.gap.com/browse/product.do?pid=8663680120204",
+  "https://www.gap.com/browse/product.do?pid=11846200220004",
+  "https://www.gap.com/browse/category.do"
+ ],
+ "cited_store": true,
+ "answer": "Blocked: the tool did not open the exact URL.",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Blocked: the tool did not open the exact URL.",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=881999012",
+   "https://www.gap.com/browse/product.do?pid=890432002",
+   "https://www.gap.com/browse/product.do?pid=7801850421107",
+   "https://www.gap.com/browse/product.do?pid=737078012",
+   "https://www.gap.com/browse/product.do?pid=5262430020056",
+   "https://www.gap.com/browse/product.do?pid=8980080120404",
+   "https://www.gap.com/browse/product.do?pid=819213002",
+   "https://www.gap.com/browse/product.do?pid=8663680120204",
+   "https://www.gap.com/browse/product.do?pid=11846200220004",
+   "https://www.gap.com/browse/category.do"
+  ],
+  "created": 1794248366,
+  "id": "resp_5f045cf1-5f83-449e-8ba4-dbe4a96745a7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-08-26",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\nFriends & Family 40% off everything — includes new arrivals",
+    "source": "web",
+    "title": "Baby & Toddler Mixed Media Dress",
+    "url": "https://www.gap.com/browse/product.do?pid=881999012"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "- [Women](https://www.gap.com/browse/division.do?cid=5643)\n...\n- [New Arrivals](https://www.gap.com/browse/category.do?cid=8792#pageId=0&department=136)\n- [Fall Denim ShopNew](https://www.gap.com/browse/women/fall-denim-shop?cid=3056441)\n...\n- [Dream](https://www.gap.com/browse/product.do?pid=118023...",
+    "source": "web",
+    "title": "Denim Tote Bag - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=890432002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-10",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n- [Harmony](https://www.gap.com/browse/product.do?pid=1180239002)\n- [Categories](https://www....",
+    "source": "web",
+    "title": "Kids Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=7801850421107"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "- [Shop All Styles](https://www.gap.com/browse/category.do?cid=1127944#pageId=0&department=75)",
+    "source": "web",
+    "title": "Kids Jelly Sandals | Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=737078012"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-01",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\nFriends & Family 40% off everything — includes new arrivals\n...\n- [Women](https://www.gap.com/bro...",
+    "source": "web",
+    "title": "Baby & Toddler Glitter Rain Boots",
+    "url": "https://www.gap.com/browse/product.do?pid=5262430020056"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-14",
+    "place_metadata": null,
+    "snippet": "- - ![Shop GapBags](https://content.gapinc.com/d/on24361xyls3f2b60anu50d4j8k6ie33.auto?TP=GAP2)[Shop GapBags](https://www.gap.com/browse/women/bags?cid=3046544)[Explore the GapBag Collection](https://www.gap.com/browse/info.do?cid=3057018)",
+    "source": "web",
+    "title": "Lace-Trim Button-Front Maxi Dress | Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8980080120404"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-16",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n- [Women](https://www.gap.com/browse/division.do?cid=5643)\n...\n- [New Arrivals](https://www.g...",
+    "source": "web",
+    "title": "Kids Denim Shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=819213002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\nFriends & Family 40% off everything — includes new arrivals",
+    "source": "web",
+    "title": "Corduroy Big Shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8663680120204"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "5\" Modal Boxer Briefs | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#product-details-main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n[![Gap logo](http...",
+    "source": "web",
+    "title": "www.gap.com · browse · product5\" Modal Boxer Briefs - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=11846200220004"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "This was so wanted, it sold out.\nBut we have more best selling styles for you.",
+    "source": "web",
+    "title": "Women",
+    "url": "https://www.gap.com/browse/category.do"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 11,
+   "cost": {
+    "input_tokens_cost": 0.0009699999999999999,
+    "output_tokens_cost": 4e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00351
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 68
+  }
+ }
+}

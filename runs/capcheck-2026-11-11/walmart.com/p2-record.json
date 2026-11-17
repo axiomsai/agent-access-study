@@ -1,0 +1,25 @@
+{
+ "domain": "walmart.com",
+ "idx": 2,
+ "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15596 chars, copy dated 2026-10-27 (15 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15596,
+   "input_tokens": 38489,
+   "cost_usd": 0.1693
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "83926 chars, copy dated 2026-10-27 (15 days old)",
+   "price": 99.0,
+   "opened": "YES",
+   "doc_chars": 83926,
+   "input_tokens": 30646,
+   "cost_usd": 0.13376
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+  "https://oldnavy.gap.com/",
+  "https://www.gap.com/browse/product.do?pid=5982130222930",
+  "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+  "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+  "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true",
+  "https://bananarepublic.gap.com/browse/women/tops-and-blouses/sale-tops-and-blouses?cid=5037&style=1179773",
+  "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-jackets?cid=3042189&style=3044480",
+  "https://www.gap.com/browse/product.do?pid=8970000520003",
+  "https://www.gap.com/browse/product.do?pid=9145780023028"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi",
+   "https://oldnavy.gap.com/",
+   "https://www.gap.com/browse/product.do?pid=5982130222930",
+   "https://bananarepublic.gap.com/browse/product.do?pid=903088012",
+   "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988",
+   "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true",
+   "https://bananarepublic.gap.com/browse/women/tops-and-blouses/sale-tops-and-blouses?cid=5037&style=1179773",
+   "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-jackets?cid=3042189&style=3044480",
+   "https://www.gap.com/browse/product.do?pid=8970000520003",
+   "https://www.gap.com/browse/product.do?pid=9145780023028"
+  ],
+  "created": 1793907660,
+  "id": "resp_30fb2e46-d159-4d56-837a-89e526609021",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Limited time only | Early Black Friday Deals from $8 + Extra 20% Off in App only.",
+    "source": "web",
+    "title": "Girls' Multi Back To School Looks | Old Navy - Gap",
+    "url": "https://oldnavy.gap.com/browse/girls/back-to-school-looks?cid=3056745&color=multi"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Old Navy | Affordable Clothing for Women, Men, Kids & Baby\nLimited time only | Extra 20% Off Everything - including Clearance!",
+    "source": "web",
+    "title": "Check Out Our Newest Arrivals!",
+    "url": "https://oldnavy.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- - ![Shop Matching PJs](https://content.gapinc.com/d/22y5tsc6578bxx8fe0s64f0815of4rki.auto?TP=GAP2)[Shop Matching PJs](https://www.gap.com/browse/new/family-matching-pjs?cid=1072174)[Explore the Guide](https://www.gap.com/browse/info.do?cid=3057418)",
+    "source": "web",
+    "title": "Modern '90s Loose Khakis",
+    "url": "https://www.gap.com/browse/product.do?pid=5982130222930"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "3.5\" Linen Pull-On Sailor Short | Banana Republic\n# 3.5\" Linen Pull-On Sailor Short\n# 3.5\" Linen Pull-On Sailor Short\n$90.00\n$34.97\n...\n## Product details\n- Our nautically-inspired sailor short is designed with an easy pull-on style—no buttons required, but we added them anyway.\nHere, we used 100% c...",
+    "source": "web",
+    "title": "3.5\" Linen Pull-On Sailor Short",
+    "url": "https://bananarepublic.gap.com/browse/product.do?pid=903088012"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-03",
+    "place_metadata": null,
+    "snippet": "# Just In\n## Boys New Arrivals\n$49.95$39.00](https://www.gap.com/browse/product.do?pid=912134002)",
+    "source": "web",
+    "title": "Women Just In Boys New Arrivals - Gap",
+    "url": "https://www.gap.com/browse/women/just-in/boys-new-arrivals?cid=3042036&style=3054988"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "## Seasoft\n[![Seasoft Mid Rise 4\" Short](https://content.gapinc.com/b/0063/800/208/cn63800208.png?width=585)![](https://content.gapinc.com/b/0063/800/246/cn63800246.png?width=585)![](\nhttps://content.gapinc.com/b/0063/800/254/cn63800254.png?width=585)![](https://content.gapinc.com/b/0063/863/902/cn6...",
+    "source": "web",
+    "title": "New Shop All Collections Seasoft",
+    "url": "https://athleta.gap.com/browse/new/shop-all-collections/seasoft?cid=3046903&style=3046904&bc=true"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## All Products\n$120.00$94.99](https://bananarepublic.gap.com/browse/product.do?pid=910755022)",
+    "source": "web",
+    "title": "Tops & Shirts",
+    "url": "https://bananarepublic.gap.com/browse/women/tops-and-blouses/sale-tops-and-blouses?cid=5037&style=1179773"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "=0&department=136)\n...\n- [Underwear](https://www.gap.com/browse/category.do?cid=1015387#pageId=0&department=136)\n- [Matching Sets](https://www.gap.com/browse/women/matching-sets?cid=3021346)\n...\n- [Matching PJs ShopNew](https://www.gap.com/browse/category.do?cid=1072174)",
+    "source": "web",
+    "title": "TESTING CID's All Div Sorts Feels like Gap Jackets",
+    "url": "https://www.gap.com/browse/testing-cids/all-div-sorts/feels-like-gap-jackets?cid=3042189&style=3044480"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "100% Cotton Cable-Knit Zip Cardigan | Gap\n...\n## Product details\n- Soft cotton cable-knit sweater cardigan.\nIn a slightly cropped fit.\n- Hooded neckline.\n...\nLearn more at [gapinc.com/equity](https://www.gapinc.com/en-us/impact/bridging-the-equity-gap).\n- Product #897000",
+    "source": "web",
+    "title": "100% Cotton Cable-Knit Zip Cardigan",
+    "url": "https://www.gap.com/browse/product.do?pid=8970000520003"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Straight Jeans\n# Straight Jeans\n$79.95\n$79.95\n$39.00\n...\n## Product details\n- Fit: Slim through the hip & thigh with a straight leg.\n- Fabric: 99% Cotton, 1% Stretch.\n...\nCompared with conventional wash methods, Washwell uses at least 20% less water.\n...\n- Product #914578\n## Size & fit\n- Our Mid R...",
+    "source": "web",
+    "title": "Straight Jeans",
+    "url": "https://www.gap.com/browse/product.do?pid=9145780023028"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0010199999999999999,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00371
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 134
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "model": "claude-opus-5-5",
+ "tool_called": true,
+ "tool_error": "url_too_long",
+ "retrieved_at": null,
+ "age_days": null,
+ "doc_chars": 0,
+ "doc_markers": [],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error (the fetch tool returned \"url_too_long\" and would not open this URL)",
+ "input_tokens": 16386,
+ "cost_usd": 0.07622,
+ "raw": [
+  {
+   "id": "srvtoolu_018q4pe6HW243icgsQJZFMA5",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),len(c['content']));print(c['content'][:1500])\n import re;print(re.findall(r'.{60}\\$\\d+\\.\\d\\d.{60}',c['content'])[:5]);print([m for m in ['Out of Stock','Sold Out','Add to Cart','captcha'] if m.lower() in c['content'].lower()])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01P1Fxj25FYSAQRk956DhE11",
+   "caller": {
+    "tool_id": "srvtoolu_018q4pe6HW243icgsQJZFMA5",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://us.shein.com/1pc-Mint-Coconut-Oil-Slow-Rebound-Squeeze-Ball-6cm-Round-Burlap-Stress-Relief-Squeeze-Toy-Perfect-For-Holiday-Gifts-Fun-And-Cute-Gifts-Birthday-Gifts-Easter-Gifts-Halloween-Gifts-Christmas-Gifts-Party-Gifts-Squishy-Squishy-Toys-Squishy-Stress-Toy-Dumpling-Squish-p-549153387.html"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_018q4pe6HW243icgsQJZFMA5",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "error_code": "url_too_long",
+    "type": "web_fetch_tool_result_error"
+   },
+   "tool_use_id": "srvtoolu_01P1Fxj25FYSAQRk956DhE11",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_018q4pe6HW243icgsQJZFMA5/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),len(c['content']));print(c['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_018q4pe6HW243icgsQJZFMA5",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_018XF6JPpJM5o9ttYzVzgAyo",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_tool_result_error\", \"error_code\": \"url_too_long\"}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_018XF6JPpJM5o9ttYzVzgAyo",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error (the fetch tool returned \"url_too_long\" and would not open this URL)",
+   "type": "text"
+  }
+ ]
+}

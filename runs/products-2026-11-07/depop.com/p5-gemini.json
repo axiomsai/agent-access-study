@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.depop.com/products/jcwiley0h-never-been-worn-adidas-yoga-c487/",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked)",
+ "finish": "STOP",
+ "cost_usd": 8e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked)",
+       "thoughtSignature": "EnMKcQFpFH0TcLcb81x55ZhKzXLE7T/lFYNBGSxi9JuWszvJ19IatbsF8eM61HJw5lXGUFUZoZr36KB8PHC+eyx6/X+tWfwkVz9sHcFEAsLkDVhMZhvm2jrIlIEuxEPCStW2TkAT3jIMA62EpoTQ/Vg749h+"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.depop.com/products/jcwiley0h-never-been-worn-adidas-yoga-c487/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 139,
+   "candidatesTokenCount": 66,
+   "totalTokenCount": 559,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 139
+    }
+   ],
+   "toolUsePromptTokenCount": 354,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 354
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "7YbvasG8M7ihz7IPpI_DqQI"
+ }
+}

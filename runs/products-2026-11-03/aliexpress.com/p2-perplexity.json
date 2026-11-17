@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/index.html",
+  "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+  "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://www.aliexpress.com/item/1005006244678789.html",
+  "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://www.aliexpress.com/item/1005013158550249.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52,tpp_buckets:668%232846%238112%231997&pdp_ext_f=%7B%22order%22:%2264%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013158550249%22,%22orig_item_id%22:%221005012576191813%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!170.70!170.70!!!148.72!148.72!@21030f4a17912817807114106e0dcc!12000060417048862!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013158550249%7C_p_origin_prod:1005012576191813",
+  "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html",
+  "http://www.aliexpress.com/store/product/FL040AIF/1078418_32297035845.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page could not be found",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page could not be found",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/index.html",
+   "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html",
+   "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://www.aliexpress.com/item/1005006244678789.html",
+   "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://www.aliexpress.com/item/1005013158550249.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52,tpp_buckets:668%232846%238112%231997&pdp_ext_f=%7B%22order%22:%2264%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013158550249%22,%22orig_item_id%22:%221005012576191813%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!170.70!170.70!!!148.72!148.72!@21030f4a17912817807114106e0dcc!12000060417048862!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013158550249%7C_p_origin_prod:1005012576191813",
+   "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html",
+   "http://www.aliexpress.com/store/product/FL040AIF/1078418_32297035845.html"
+  ],
+  "created": 1793751417,
+  "id": "resp_80abd225-cebb-4e12-969f-a26f5ad6db90",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256806761104147.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Today's deals\n### Dollar Express\n...\n## More to love\n### Four Seasons Men's And Women's Universal Y2K Knit Hat Spider Web Riding Outdoor Sports Fashion Hat\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "http://www.aliexpress.com/item/Double-color-Cool-LED-light-Universal-Odometer-Speedometer-Meter-for-Motorcycle-free-shipping/1316163455.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807327161636.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   },
+   {
+    "date": "2025-05-05",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Koop https aliexpress met gratis verzending op ...",
+    "url": "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, this item's currently unavailable in your location.",
+    "source": "web",
+    "title": "Podofo 7\" 9\" Carplay Android Radio for Vw Volkswagen Golf Passat ...",
+    "url": "https://www.aliexpress.com/item/1005013158550249.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.445195.0&scm_id=1007.10668.445195.0&scm-url=1007.10668.445195.0&pvid=c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.445195.0,pvid:c4ef5e6b-affc-4cf6-8a81-dfcb4ef23b52,tpp_buckets:668%232846%238112%231997&pdp_ext_f=%7B%22order%22:%2264%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013158550249%22,%22orig_item_id%22:%221005012576191813%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!170.70!170.70!!!148.72!148.72!@21030f4a17912817807114106e0dcc!12000060417048862!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013158550249%7C_p_origin_prod:1005012576191813"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n## More to love\n### 9000Pa Wireless Car Vacuum Cleaner USB Charging 1200mAh Portable Cleaning Appliance Mini Wet and Dry Vacuum Cleaner Household",
+    "source": "web",
+    "title": "http://www.aliexpress.com/store/product/10PCS---CA...",
+    "url": "http://www.aliexpress.com/store/product/10PCS---CAK%25252d2405F/130245_1396233948.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\n## More to love\n### HIFI Heavy Bass Wired Earphone 3.5mm AUX In Ear Gaming Headset Dynamic Music Headphones Stereo Noise Cancelling Earbuds With Mic",
+    "source": "web",
+    "title": "http://www.aliexpress.com/store/product/FL040AIF/1...",
+    "url": "http://www.aliexpress.com/store/product/FL040AIF/1078418_32297035845.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0010199999999999999,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00372
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

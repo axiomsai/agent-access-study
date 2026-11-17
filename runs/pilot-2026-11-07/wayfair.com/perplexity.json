@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/kitchen-tabletop/sb1/wood-wine-racks-c413237-a6767~19372.html",
+  "https://www.wayfair.com/furniture/sb1/mirror-armoires-wardrobes-c45981-a3154~7560.html",
+  "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html",
+  "https://www.wayfair.com/furniture/sb0/small-coffee-tables-c1867756.html",
+  "https://www.wayfair.com/decor-pillows/sb0/wall-mirrors-c416718.html",
+  "https://www.wayfair.com/decor-pillows/sb0/wall-clocks-c417053.html",
+  "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html",
+  "https://www.wayfair.com/",
+  "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html",
+  "https://www.wayfair.com/discover"
+ ],
+ "cited_store": true,
+ "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nFurniture",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nFurniture",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/kitchen-tabletop/sb1/wood-wine-racks-c413237-a6767~19372.html",
+   "https://www.wayfair.com/furniture/sb1/mirror-armoires-wardrobes-c45981-a3154~7560.html",
+   "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html",
+   "https://www.wayfair.com/furniture/sb0/small-coffee-tables-c1867756.html",
+   "https://www.wayfair.com/decor-pillows/sb0/wall-mirrors-c416718.html",
+   "https://www.wayfair.com/decor-pillows/sb0/wall-clocks-c417053.html",
+   "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html",
+   "https://www.wayfair.com/",
+   "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html",
+   "https://www.wayfair.com/discover"
+  ],
+  "created": 1794079600,
+  "id": "resp_3be3f62c-3a14-4321-9e84-1b41614e1c5e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Wooden Wine Racks & Cabinets | Wooden Wine Storage & Wooden Wine Shelf\n...\n# Wooden Wine Racks & Cabinets\n- Fast Delivery",
+    "source": "web",
+    "title": "Wooden Wine Racks & Cabinets | Wooden Wine Storage ... - Wayfair",
+    "url": "https://www.wayfair.com/kitchen-tabletop/sb1/wood-wine-racks-c413237-a6767~19372.html"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Mirrored Armoires | Wardrobe With Mirror & Wardrobe Closet With Mirror\n...\n# Armoires & Wardrobes With Mirror\n## Filter By Shop Sustainably\n1You are currently on page one234…12Page 12, the final page",
+    "source": "web",
+    "title": "Mirrored Armoires - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/mirror-armoires-wardrobes-c45981-a3154~7560.html"
+   },
+   {
+    "date": "2026-09-06",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Walk-In Closet Systems | Walk In Closet Organizer & Storage Closet\nFast & Free Shipping Over $35*",
+    "source": "web",
+    "title": "Walk-In Closet Systems - Wayfair",
+    "url": "https://www.wayfair.com/storage-organization/sb0/walk-in-closet-systems-c1877141.html"
+   },
+   {
+    "date": "2026-05-20",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Small Coffee Tables | Mini Coffee Table & Small Living Room Furniture\nFast & Free Shipping Over $35*\n- Small Space Living Rooms\n- Small Coffee Tables",
+    "source": "web",
+    "title": "Mini Coffee Table & Small Living Room Furniture - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/small-coffee-tables-c1867756.html"
+   },
+   {
+    "date": "2026-10-30",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Wall Mirrors | Decorative Mirrors & Wall Mirror Decor\n...\n# Wall Mirrors\n## Wall Mirrors",
+    "source": "web",
+    "title": "Wall Mirrors | Decorative Mirrors & Wall Mirror Decor - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/sb0/wall-mirrors-c416718.html"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Wall Clocks | Decorative Wall Clocks & Wall Clock Decor\n...\n# Wall Clocks\n## Solange Round Metal Farmhouse Wall Clock\nBy Steelside™\nMedium, Distressed Gray\n(7595)",
+    "source": "web",
+    "title": "Wall Clocks | Decorative Wall Clocks & Wall Clock Decor - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/sb0/wall-clocks-c417053.html"
+   },
+   {
+    "date": "2026-09-21",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Room Dividers | Room Divider Screen & Wall Divider\nFast & Free Shipping Over $35*\n- Small Space Living Rooms",
+    "source": "web",
+    "title": "Room Dividers | Room Divider Screen & Wall Divider - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb0/room-dividers-c416703.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\nFast & Free Shipping Over $35*\n- Open Bedding & Bath Menu Dropdown\n- Open Decor & Pillows Menu Dropdown",
+    "source": "web",
+    "title": "Online Home Store for Furniture, Decor, Outdoors & More - Wayfair",
+    "url": "https://www.wayfair.com/"
+   },
+   {
+    "date": "2026-09-11",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# WG Wood Products\nWith everything from magazine racks and DVD shelving to jewelry cabinets and spice racks, WG Wood Products is the perfect place for all your home accent needs!",
+    "source": "web",
+    "title": "WG Wood Products - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Discover Room Ideas\nFast & Free Shipping Over $35*\n- Open Decor & Pillows Menu Dropdown",
+    "source": "web",
+    "title": "Discover Room Ideas - Wayfair",
+    "url": "https://www.wayfair.com/discover"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00058,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00313
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

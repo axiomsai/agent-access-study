@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/25?id=30087",
+  "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380",
+  "https://www.macys.com/shop/gift-sets/Pageindex/2?id=77133",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439",
+  "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374",
+  "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087",
+  "https://www.macys.com/shop/gift-sets/Beauty_department,Gender,Pageindex/Fragrance,Men,3?id=120043",
+  "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set | PRICE: $170.00 | STOCK: UNKNOWN | OPENED: NO: exact product page content unavailable",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Maison Francis Kurkdjian 3-Piece Gentle Fluidity Gold Perfume Ritual Gift Set | PRICE: $170.00 | STOCK: UNKNOWN | OPENED: NO: exact product page content unavailable",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/25?id=30087",
+   "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380",
+   "https://www.macys.com/shop/gift-sets/Pageindex/2?id=77133",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439",
+   "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374",
+   "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087",
+   "https://www.macys.com/shop/gift-sets/Beauty_department,Gender,Pageindex/Fragrance,Men,3?id=120043",
+   "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756"
+  ],
+  "created": 1794249822,
+  "id": "resp_4dd755a1-2a9d-4327-a5b7-ac07346dff62",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Beauty Gift Sets | Macy's\n```\n...\nCurrent price $170.00; ;$170.00",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Beauty Gift Sets",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Brand/Maison%20Francis%20Kurkdjian?id=55537"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-26",
+    "place_metadata": null,
+    "snippet": "# Perfume\n### NEW! Replica Chasing Sunset Eau de Toilette, 1 oz.",
+    "source": "web",
+    "title": "Perfume & Eau de Parfum | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/25?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "Luxury Gift Sets | Maison Francis Kurkdjian | Macy's\n...\n# Gift Selection: Luxury Gift Sets\n(25)\n- Maison Francis Kurkdjian\n...\n- Maison Francis Kurkdjian",
+    "source": "web",
+    "title": "Luxury Gift Sets | Maison Francis Kurkdjian | Macy's",
+    "url": "https://www.macys.com/shop/brands/maison-francis-kurkdjian/gift-selection-luxury-gift-sets?id=364380"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Gift Sets\n### Love In White For Summer, 2.5 oz.\nCurrent price $460.00; ;$460.00",
+    "source": "web",
+    "title": "Perfume Gift Sets",
+    "url": "https://www.macys.com/shop/gift-sets/Pageindex/2?id=77133"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "### 20-Pc. Fragrance Kit Set\nMacy's Exclusive",
+    "source": "web",
+    "title": "Perfume Gift Sets | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets?id=69439"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Maison Francis Kurkdjian\n(121)\n- Baccarat Rouge 540 Collection\n- Home Fragrance",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian",
+    "url": "https://www.macys.com/shop/brands/maison-francis-kurkdjian?id=364374"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Travel Size & Mini Beauty Products | Macy's\n...\n# Maison Francis Kurkdjian Travel Size & Mini Beauty Products",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Travel Size & Mini Beauty Products",
+    "url": "https://www.macys.com/shop/beauty/travel-size-minis/Brand/Maison%20Francis%20Kurkdjian?id=214310"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Maison Francis Kurkdjian Perfume\n### NEW! 4-Pc. Baccarat Rouge 540 Extrait De Parfum\nCurrent price $170.00; ;$170.00",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Perfume & Eau de Parfum - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Maison%20Francis%20Kurkdjian?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Beauty Gift Sets & Value Sets | Macy's\n...\n# Gifts & Value Sets",
+    "source": "web",
+    "title": "Beauty Gift Sets & Value Sets | Macy's",
+    "url": "https://www.macys.com/shop/gift-sets/Beauty_department,Gender,Pageindex/Fragrance,Men,3?id=120043"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Maison Francis Kurkdjian Beauty | Macy's\n...\n# Maison Francis Kurkdjian Beauty",
+    "source": "web",
+    "title": "Maison Francis Kurkdjian Beauty",
+    "url": "https://www.macys.com/shop/beauty/Brand/Maison%20Francis%20Kurkdjian?id=290756"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 42,
+   "cost": {
+    "input_tokens_cost": 0.00079,
+    "output_tokens_cost": 0.00031,
+    "request_cost": 0.0025,
+    "total_cost": 0.0036
+   },
+   "prompt_tokens": 144,
+   "search_context_size": "low",
+   "total_tokens": 186
+  }
+ }
+}

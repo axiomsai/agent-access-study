@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.temu.com/de/o1-0.html",
+  "https://www.temu.com/c.html",
+  "https://www.temu.com/be/1-pack-folding-wagon-cart-heavy-duty-collapsible-outdoor-utility-wagon-with-4-wheels-large-capacity-portable-grocery-cart-for-camping--beach-and-outdoor-activities-g-606534759241877.html",
+  "https://www.temu.com/kuiper/dk3/kol-cps-main-lp-out-a-psurl.html?_x_ads_channel=kol_affiliate&_x_cid=2000464538kol_affiliate",
+  "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601103741697194&adg_ctx=a-004f9828&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+  "https://www.temu.com/cart-5010163275265-s.html",
+  "https://www.temu.com/subject/n2/--a-psurl.html?_key=-&adg_ctx=f-~f-e2a2ca78~f-f2bd4b8b~f-da763612~f-c5181e29~f-89d1f4d6~f-baa6e7b1~f-4db97947~f-f12e73~f-c87115df~f-017c702a~f-9562d822~f-b11c499a~f-4d159d5f~f-1574b8b3~f-fe548de4~f-51935d45~f-~f-59c398c1~f-1e4ac9ba~f-9a8d483f~f-9ce8063e~f-3f2ba50c~f-e76e50c1~f-777f~f-5a7ce79e~f-084ac1b4~f-cd43a51a~f-da9c19c6~f-99481a57~f-17f502f1~f-415f~f-9faedf1b~f-2eca621e~f-a02e9841~f-53c26d1a~f-02fc2499~f-8427d476~f-1af61ede~f-488da9e1~f-8b26195d~f-97be545f~f-1c7e305c~f-99662d56~f-19cf8e8a~f-ac12cee0~f-273b77c9~f-f5ebc9c5~f-935629ae~f-0960bfbf~f-2406c657~f-7de26d51~f-d8439964~f-0c8045b9~f-faf3f40a~f-b98a11a3~f-e3e730~f-fed7d2c2~f-ea56fbfb~f-119272e8~f-917eceb7~f-4bf4b1b4~f-38516d90~9fb9b8~f-327b230d~f-ef6f85c5~f-50447682~f-d5bab4b7~f-568303a2~f-21c906d3~f-869096be~f-82040679~f-da37df27~f-7a9848d1~f-67bfd99e~f-2133~f-22500060~f-6405543d~f-a8681d90~f-526b~f-21fa8eee~f-64c8eedd~f-dbdf460a~f-3108~f-c80f5bf1~f-bc91d145~f-869eb967~f-e7aefb7a~f-c0432230~f-5dd7710e~f-a8086176~f-894fb62b~f-fa017940~f-5f7a7053~f-6795aeaf~f-e2199f25~f-105312c7~f-8e0f7a63~f-307a0c72~f-ad6c883e~f-829007a7~f-e9bb3df1~f-a5417702~f-4da1be87~f-469a3576~f-9df4425f~f-4c543e4a~f-ae54f98d~f-48b8f89a~f-bd072108~f-1d9ae3b0~f-63035b~f-b128df8e~f-98e44552",
+  "https://www.temu.com/ul/kuiper/un1.html?subj",
+  "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-",
+  "https://www.temu.com/--g-601100002093707.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.temu.com/de/o1-0.html",
+   "https://www.temu.com/c.html",
+   "https://www.temu.com/be/1-pack-folding-wagon-cart-heavy-duty-collapsible-outdoor-utility-wagon-with-4-wheels-large-capacity-portable-grocery-cart-for-camping--beach-and-outdoor-activities-g-606534759241877.html",
+   "https://www.temu.com/kuiper/dk3/kol-cps-main-lp-out-a-psurl.html?_x_ads_channel=kol_affiliate&_x_cid=2000464538kol_affiliate",
+   "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601103741697194&adg_ctx=a-004f9828&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google",
+   "https://www.temu.com/cart-5010163275265-s.html",
+   "https://www.temu.com/subject/n2/--a-psurl.html?_key=-&adg_ctx=f-~f-e2a2ca78~f-f2bd4b8b~f-da763612~f-c5181e29~f-89d1f4d6~f-baa6e7b1~f-4db97947~f-f12e73~f-c87115df~f-017c702a~f-9562d822~f-b11c499a~f-4d159d5f~f-1574b8b3~f-fe548de4~f-51935d45~f-~f-59c398c1~f-1e4ac9ba~f-9a8d483f~f-9ce8063e~f-3f2ba50c~f-e76e50c1~f-777f~f-5a7ce79e~f-084ac1b4~f-cd43a51a~f-da9c19c6~f-99481a57~f-17f502f1~f-415f~f-9faedf1b~f-2eca621e~f-a02e9841~f-53c26d1a~f-02fc2499~f-8427d476~f-1af61ede~f-488da9e1~f-8b26195d~f-97be545f~f-1c7e305c~f-99662d56~f-19cf8e8a~f-ac12cee0~f-273b77c9~f-f5ebc9c5~f-935629ae~f-0960bfbf~f-2406c657~f-7de26d51~f-d8439964~f-0c8045b9~f-faf3f40a~f-b98a11a3~f-e3e730~f-fed7d2c2~f-ea56fbfb~f-119272e8~f-917eceb7~f-4bf4b1b4~f-38516d90~9fb9b8~f-327b230d~f-ef6f85c5~f-50447682~f-d5bab4b7~f-568303a2~f-21c906d3~f-869096be~f-82040679~f-da37df27~f-7a9848d1~f-67bfd99e~f-2133~f-22500060~f-6405543d~f-a8681d90~f-526b~f-21fa8eee~f-64c8eedd~f-dbdf460a~f-3108~f-c80f5bf1~f-bc91d145~f-869eb967~f-e7aefb7a~f-c0432230~f-5dd7710e~f-a8086176~f-894fb62b~f-fa017940~f-5f7a7053~f-6795aeaf~f-e2199f25~f-105312c7~f-8e0f7a63~f-307a0c72~f-ad6c883e~f-829007a7~f-e9bb3df1~f-a5417702~f-4da1be87~f-469a3576~f-9df4425f~f-4c543e4a~f-ae54f98d~f-48b8f89a~f-bd072108~f-1d9ae3b0~f-63035b~f-b128df8e~f-98e44552",
+   "https://www.temu.com/ul/kuiper/un1.html?subj",
+   "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-",
+   "https://www.temu.com/--g-601100002093707.html"
+  ],
+  "created": 1793751221,
+  "id": "resp_333013e2-4609-4b16-b91f-fcc7e2620229",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-17",
+    "place_metadata": null,
+    "snippet": "# Anmelden / Registrieren\nKostenlose Rücksendungen\nBis zu 90 Tage\nOder fahre fort mit anderen Methoden",
+    "source": "web",
+    "title": "Kategorien durchsuchen",
+    "url": "https://www.temu.com/de/o1-0.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Shop All Categories - Free Returns Within 90 Days - Temu Argentina",
+    "source": "web",
+    "title": "Shop All Categories",
+    "url": "https://www.temu.com/c.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-07-07",
+    "place_metadata": null,
+    "snippet": "Privacy & cookie setting\nWe use cookies and similar technologies to provide our Service, to give you the best experience, to improve and advertise the Service, to ensure it is safe and secure for users, and to measure the effectiveness of advertising campaigns.",
+    "source": "web",
+    "title": "1 pack folding wagon cart heavy duty collapsible outdoor - Temu",
+    "url": "https://www.temu.com/be/1-pack-folding-wagon-cart-heavy-duty-collapsible-outdoor-utility-wagon-with-4-wheels-large-capacity-portable-grocery-cart-for-camping--beach-and-outdoor-activities-g-606534759241877.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# new user gift\n### Heavy Duty Collapsible Wagon Cart, 220LBS/350LBS/460LBS/680LBS Options, Large Capacity Folding Utility Wagon with All Terrain Wheels & Adjustable Handle, Portable Outdoor Cart for Camping, Beach, Shopping, Gardening, Sports & Grocery Open in new tab.\n$12.41\n$15.08\nOriginal price ...",
+    "source": "web",
+    "title": "New User Gift on Temu: Grab Your $100 Coupon Bundle Now",
+    "url": "https://www.temu.com/kuiper/dk3/kol-cps-main-lp-out-a-psurl.html?_x_ads_channel=kol_affiliate&_x_cid=2000464538kol_affiliate"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "### New Heavy-Duty Foldable Multifunctional Hand Truck, Equipped with 4pcs Silent Swivel Wheels, Sturdy Handle And Sliding Mechanism, Portable Metal Cart, Smooth Rolling And Foldable Storage, Suitable for Shopping, Moving, Luggage Transportation Open in new tab.",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More - Temu",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&goods_id=601103741697194&adg_ctx=a-004f9828&_x_ads_sub_channel=other&_p_rfs=1&locale_override=37~en~CAD&_x_ads_channel=adx_google"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-03-16",
+    "place_metadata": null,
+    "snippet": "(1-40 of 230 results)\n...\n© 2025 WhaleCo Inc.",
+    "source": "web",
+    "title": "Temu",
+    "url": "https://www.temu.com/cart-5010163275265-s.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### 1pc Large-sized Esports Gaming Mouse Pad with a Natural Landscape Design Featuring Mountains, Rivers, and Lakes. Features a Non-slip, Washable Rubber Base. This Large-sized Desk Mat Is an Office Desk Accessory and Computer Decoration. Open in new tab.",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More - Temu",
+    "url": "https://www.temu.com/subject/n2/--a-psurl.html?_key=-&adg_ctx=f-~f-e2a2ca78~f-f2bd4b8b~f-da763612~f-c5181e29~f-89d1f4d6~f-baa6e7b1~f-4db97947~f-f12e73~f-c87115df~f-017c702a~f-9562d822~f-b11c499a~f-4d159d5f~f-1574b8b3~f-fe548de4~f-51935d45~f-~f-59c398c1~f-1e4ac9ba~f-9a8d483f~f-9ce8063e~f-3f2ba50c~f-e76e50c1~f-777f~f-5a7ce79e~f-084ac1b4~f-cd43a51a~f-da9c19c6~f-99481a57~f-17f502f1~f-415f~f-9faedf1b~f-2eca621e~f-a02e9841~f-53c26d1a~f-02fc2499~f-8427d476~f-1af61ede~f-488da9e1~f-8b26195d~f-97be545f~f-1c7e305c~f-99662d56~f-19cf8e8a~f-ac12cee0~f-273b77c9~f-f5ebc9c5~f-935629ae~f-0960bfbf~f-2406c657~f-7de26d51~f-d8439964~f-0c8045b9~f-faf3f40a~f-b98a11a3~f-e3e730~f-fed7d2c2~f-ea56fbfb~f-119272e8~f-917eceb7~f-4bf4b1b4~f-38516d90~9fb9b8~f-327b230d~f-ef6f85c5~f-50447682~f-d5bab4b7~f-568303a2~f-21c906d3~f-869096be~f-82040679~f-da37df27~f-7a9848d1~f-67bfd99e~f-2133~f-22500060~f-6405543d~f-a8681d90~f-526b~f-21fa8eee~f-64c8eedd~f-dbdf460a~f-3108~f-c80f5bf1~f-bc91d145~f-869eb967~f-e7aefb7a~f-c0432230~f-5dd7710e~f-a8086176~f-894fb62b~f-fa017940~f-5f7a7053~f-6795aeaf~f-e2199f25~f-105312c7~f-8e0f7a63~f-307a0c72~f-ad6c883e~f-829007a7~f-e9bb3df1~f-a5417702~f-4da1be87~f-469a3576~f-9df4425f~f-4c543e4a~f-ae54f98d~f-48b8f89a~f-bd072108~f-1d9ae3b0~f-63035b~f-b128df8e~f-98e44552"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### Folding Flat Cart with Silent Wheels And Swivel Wheels for Moving, Carrying Goods, And Home Renovation - Portable Hand Cart with Max Load Capacity Of 660 Lbs Open in new tab.",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?subj"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "### FNACCSS Memory Sleeping Pad, 7.87cm Memory Foam Sleeping Mats for Camping, 9.5 R-Value Insulated Camping Mattress Pad for Car Travel Tent Open in new tab.",
+    "source": "web",
+    "title": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/de-en/subject/n2/--a-psurl.html?_key=honk-"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-02",
+    "place_metadata": null,
+    "snippet": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​...",
+    "source": "web",
+    "title": "Ships from this seller - Temu",
+    "url": "https://www.temu.com/--g-601100002093707.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.0014,
+    "output_tokens_cost": 0.00033,
+    "request_cost": 0.0025,
+    "total_cost": 0.00423
+   },
+   "prompt_tokens": 175,
+   "search_context_size": "low",
+   "total_tokens": 193
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/276582090868",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&_dmd=2&LH_BOPIS=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4",
+  "https://www.sandbox.ebay.com/sch/25362/i.html?_ssn=testuser_nomar_seller&LH_All=1&_dmd=1&LH_PrefLoc=98&LH_BOPIS=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_udhi=35&LH_PrefLoc=2&_dmd=2&_oac=1&LH_FS=0&LH_All=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_udlo=15&_udhi=35&LH_PrefLoc=1&LH_BOPIS=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/82219/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/263321/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Dyson V15 Detect Total Clean Extra | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/276582090868",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&_dmd=2&LH_BOPIS=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4",
+   "https://www.sandbox.ebay.com/sch/25362/i.html?_ssn=testuser_nomar_seller&LH_All=1&_dmd=1&LH_PrefLoc=98&LH_BOPIS=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_udhi=35&LH_PrefLoc=2&_dmd=2&_oac=1&LH_FS=0&LH_All=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_udlo=15&_udhi=35&LH_PrefLoc=1&LH_BOPIS=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/82219/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/263321/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1"
+  ],
+  "created": 1794248698,
+  "id": "resp_2996d1f0-9f68-4f00-963b-c000baae0c8a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-06",
+    "last_updated": "2026-01-30",
+    "place_metadata": null,
+    "snippet": "This vacuum cleaner surpasses all previous models we've owned, including Dyson, which was bulky and weighty.\nThe contemporary design is remarkably stylish, and its vacuuming capabilities are outstanding.\nIts lightweight build, cordless operation, convenient wall-mounted charging, and exceptional per...",
+    "source": "web",
+    "title": "Dyson V15 Detect Total Clean Extra",
+    "url": "https://www.ebay.com/itm/276582090868"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(341) (341) Items",
+    "source": "web",
+    "title": "341 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&_dmd=2&LH_BOPIS=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(111) (111) Items\n...\n# 111 results\n- DIRECT DRIVER BLOWER MOTOR 115V 50/60HZ 1/4HP 1075RPM",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=350&_dmd=1&LH_PrefLoc=3&LH_FS=0&_pgn=4"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(11) (11) Items",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/25362/i.html?_ssn=testuser_nomar_seller&LH_All=1&_dmd=1&LH_PrefLoc=98&LH_BOPIS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All** - Computers, Tablets & Network Hardware - 3D Printer Filament & Consumables\n...\n- Buy It Now(55) (55) Items",
+    "source": "web",
+    "title": "55 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_udhi=35&LH_PrefLoc=2&_dmd=2&_oac=1&LH_FS=0&LH_All=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All** - Computers, Tablets & Network Hardware - 3D Printer Filament & Consumables\n- Buy It Now(47) (47) Items",
+    "source": "web",
+    "title": "47 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_udlo=15&_udhi=35&LH_PrefLoc=1&LH_BOPIS=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_ifpublisher | eBay\n- to\n- Buy It Now(11) (11) Items\n...\n# 11 results\n...\n- Buy It Now\n...\n- North AmericaRemove filter\n- CFMOTO OEM Cylinder Head Bolt 0JY0-022003-00001\nBrand New\n$20.98",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/82219/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All** - Computers, Tablets & Network Hardware",
+    "source": "web",
+    "title": "97 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&LH_BOPIS=1&_oac=1&LH_All=1&LH_FS=1&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_ifpublisher | eBay\n- All Listings(12) (12) Items\nBuy It Now(12) (12) Items\nAccepts Offers\n# 12 results\n...\n- Buy It Now\n...\n$20.00\n$20.00\nor Best Offer\n- CFMOTO OEM Front Right Turn Light 7030-160320-10000\nBrand New\n$230.98\nBuy It Now\n+$6.99 shipping\n- CFMOTO OEM Premium 1...",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/263321/i.html?_fsrp=1&_ssn=testuser_ifpublisher&_oaa=1&_oqu=1&_vs=1&_oac=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(297) (297) Items\n...\n# 297 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter",
+    "source": "web",
+    "title": "297 results",
+    "url": "https://www.sandbox.ebay.com/sch/43566/i.html?item=110591067073&_ssn=testuser_nomar_seller&_oac=1&LH_PrefLoc=1&LH_FS=1&_sop=15&LH_BOPIS=1&LH_All=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0011099999999999999,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00382
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "lowes.com",
+ "idx": 2,
+ "url": "https://www.lowes.com/pd/CRAFTSMAN-CFT-52-IN-8-Drwr-OT-Chest-BLK/5002904167",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "9974 chars, copy dated 2026-10-08 (34 days old)",
+   "price": 465.0,
+   "opened": "YES",
+   "doc_chars": 9974,
+   "input_tokens": 32668,
+   "cost_usd": 0.14287
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "9974 chars, copy dated 2026-10-08 (34 days old)",
+   "price": 465.0,
+   "opened": "YES",
+   "doc_chars": 9974,
+   "input_tokens": 32501,
+   "cost_usd": 0.14282
+  }
+ }
+}

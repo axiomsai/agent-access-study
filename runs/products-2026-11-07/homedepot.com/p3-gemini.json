@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.homedepot.com/p/HOROW-17-in-ADA-Chair-Height-2-piece-1-28-GPF-Single-Flush-Round-Toilet-Map-Flush-1000g-Soft-Close-Seat-Included-HR-TRS01/325343119",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: HOROW 17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included | PRICE: $159.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00189,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: HOROW 17 in. ADA Chair Height 2-piece 1.28 GPF Single Flush Round Toilet Map Flush 1000g, Soft-Close Seat Included | PRICE: $159.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TPrvuPKx8AZZsT3Go0ZZHaZ4iYuUZA1sW03wSjs1wcW/y9FyYiSZvVQ8TTmWRiUSW8L9XT21+v/KIVNMugESCAVzlnKaWvVH7CC1kqiiiYIU9QEzFBwFZTx2GyM0pn9sDVFWzaNbK5f2LuIJa"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.homedepot.com/p/HOROW-17-in-ADA-Chair-Height-2-piece-1-28-GPF-Single-Flush-Round-Toilet-Map-Flush-1000g-Soft-Close-Seat-Included-HR-TRS01/325343119",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 187,
+   "candidatesTokenCount": 152,
+   "totalTokenCount": 18460,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 187
+    }
+   ],
+   "toolUsePromptTokenCount": 18121,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 18121
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "b33vatGxONXQz7IPxt7z8QE"
+ }
+}

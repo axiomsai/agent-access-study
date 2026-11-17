@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1",
+  "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=0&LH_BOPIS=1&_oac=1&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&_oac=1&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&LH_FS=0&_oac=1&_udhi=350&LH_BO=1&LH_PrefLoc=98",
+  "https://www.ebay.com/itm/156105331038",
+  "https://www.ebay.com/splashui/captcha?ap=1&appName=orch&ru=https://www.ebay.com/str/llee272668&iid=21d23c25-da3e-4780-8353-cdbb049c795e&iim=aMTg1LjU&iia=pnE4MS4xIe&iiz=DYKMjAuMTMyXoX",
+  "https://www.ebay.com/itm/315453603347?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=5b057f92f49f4665b1fa8130ad7b4bb3&pid=101196&rk=7&rkt=12&b=1&sd=405080667992&itm=315453603347&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3154536033475b057f92f49f4665b1fa8130ad7b4bb3%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3rh8saUPFK6Ii2AWY83itUjN%252FrvaGfpTU5O5h3mPmxi33MwsKEHqrqOvs8whFgIB3HhQSY%252Bmj0%252BxQmuonLuFeoe7HKsrI8hkOAJl8Aqu%252BMExdshfUpfqGd3zd0fWlO7O0HnDEwv7vMpRJ9KA7jbb%252BQzo7seUyCVqt1U4a1bhhh7R2NGmVO%252BIUukVqD9uYYjLZrCjRj%252Bg8lL2QPctyP%252FBxPto1w%252FqWIlur3boF4kiBUWiDr5LvvaQ12BmY%252F6nFrxPvoUwkHyqVg8rF%252BmknUWft0%253D%7Campid:PL_CLK%7Cclp:2332490&epid=7063570231&itmmeta=01J2EWVNXZENCTBW5JJ162NQR8",
+  "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=1590280",
+  "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked (page not accessible)",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked (page not accessible)",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1",
+   "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=0&LH_BOPIS=1&_oac=1&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&_oac=1&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&LH_FS=0&_oac=1&_udhi=350&LH_BO=1&LH_PrefLoc=98",
+   "https://www.ebay.com/itm/156105331038",
+   "https://www.ebay.com/splashui/captcha?ap=1&appName=orch&ru=https://www.ebay.com/str/llee272668&iid=21d23c25-da3e-4780-8353-cdbb049c795e&iim=aMTg1LjU&iia=pnE4MS4xIe&iiz=DYKMjAuMTMyXoX",
+   "https://www.ebay.com/itm/315453603347?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=5b057f92f49f4665b1fa8130ad7b4bb3&pid=101196&rk=7&rkt=12&b=1&sd=405080667992&itm=315453603347&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3154536033475b057f92f49f4665b1fa8130ad7b4bb3%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3rh8saUPFK6Ii2AWY83itUjN%252FrvaGfpTU5O5h3mPmxi33MwsKEHqrqOvs8whFgIB3HhQSY%252Bmj0%252BxQmuonLuFeoe7HKsrI8hkOAJl8Aqu%252BMExdshfUpfqGd3zd0fWlO7O0HnDEwv7vMpRJ9KA7jbb%252BQzo7seUyCVqt1U4a1bhhh7R2NGmVO%252BIUukVqD9uYYjLZrCjRj%252Bg8lL2QPctyP%252FBxPto1w%252FqWIlur3boF4kiBUWiDr5LvvaQ12BmY%252F6nFrxPvoUwkHyqVg8rF%252BmknUWft0%253D%7Campid:PL_CLK%7Cclp:2332490&epid=7063570231&itmmeta=01J2EWVNXZENCTBW5JJ162NQR8",
+   "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=1590280",
+   "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2"
+  ],
+  "created": 1794248698,
+  "id": "resp_16169fbc-d3d6-4a53-85ea-a53ba5c497f6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(341) (341) Items",
+    "source": "web",
+    "title": "341 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Hydraulics, Pneumatics, Pumps & Plumbing**\n- to\n- Buy It Now(13) (13) Items\n...\n# 13 results\n...\n- Buy It Now\n...\n- Under $14.00Remove filter",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/183978/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&LH_FS=0&LH_BOPIS=1&_oac=1&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(11) (11) Items\n...\n# 11 results\n...\n- Buy It Now\n...\n- Under $12.00Remove filter\n...\nFree shipping\n- HOBART 00-067500-00120 O-RING OVERFLOW TUBE 67500-120\nBrand New\n$11.44\nBuy It Now\nFree shipping",
+    "source": "web",
+    "title": "11 results",
+    "url": "https://www.sandbox.ebay.com/sch/116026/i.html?item=110591067144&_ssn=testuser_nomar_seller&_udhi=12&LH_BOPIS=1&_oac=1&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_ecom_omni | eBay\n- - Computers/Tablets & Networking\n- **Enterprise Networking, Servers**\n# 8 results\n...\n- Buy It Now\n- Accepts Offers",
+    "source": "web",
+    "title": "8 results",
+    "url": "https://www.sandbox.ebay.com/sch/175698/i.html?item=110590186282&_ssn=testuser_ecom_omni&LH_FS=0&_oac=1&_udhi=350&LH_BO=1&LH_PrefLoc=98"
+   },
+   {
+    "date": "2025-04-01",
+    "last_updated": "2025-04-04",
+    "place_metadata": null,
+    "snippet": "# Nvidia CMP 100-210 16GB Mining GPU (V100 VBIOS) | 1yr Warranty, Fast Ship!US $319.97/eaNo Interest if paid in full in 6 mo on $149+ with PayPal Credit*Condition:“Professionally renewed with 1 yr warranty. Graphics card only. No accessories or retail packaging ”... Read moreabout condition\n...\n## e...",
+    "source": "web",
+    "title": "Nvidia CMP 100-210 16GB Mining GPU (V100 VBIOS) | 1yr Warranty, Fast Ship! | eBay",
+    "url": "https://www.ebay.com/itm/156105331038"
+   },
+   {
+    "date": "2025-01-01",
+    "last_updated": "2025-02-03",
+    "place_metadata": null,
+    "snippet": "To keep eBay a safe place to buy and sell, we will occasionally ask you to verify yourself.\nThis helps us to block unauthorized users from entering our site.",
+    "source": "web",
+    "title": "Please verify yourself to continue",
+    "url": "https://www.ebay.com/splashui/captcha?ap=1&appName=orch&ru=https://www.ebay.com/str/llee272668&iid=21d23c25-da3e-4780-8353-cdbb049c795e&iim=aMTg1LjU&iia=pnE4MS4xIe&iiz=DYKMjAuMTMyXoX"
+   },
+   {
+    "date": "2024-11-30",
+    "last_updated": "2024-12-06",
+    "place_metadata": null,
+    "snippet": "# APA Handbook of Research Methods in Psychology - 9781433841231BOOKS etc.\n## Brand New\n## Shop with confidenceeBay Money Back GuaranteeGet the item you ordered or your money back. Learn moreeBay Money Back Guarantee - opens new window or tab\neBay item number:315453603347",
+    "source": "web",
+    "title": "APA Handbook of Research Methods in Psychology - 9781433841231 | eBay",
+    "url": "https://www.ebay.com/itm/315453603347?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=5b057f92f49f4665b1fa8130ad7b4bb3&pid=101196&rk=7&rkt=12&b=1&sd=405080667992&itm=315453603347&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3154536033475b057f92f49f4665b1fa8130ad7b4bb3%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3rh8saUPFK6Ii2AWY83itUjN%252FrvaGfpTU5O5h3mPmxi33MwsKEHqrqOvs8whFgIB3HhQSY%252Bmj0%252BxQmuonLuFeoe7HKsrI8hkOAJl8Aqu%252BMExdshfUpfqGd3zd0fWlO7O0HnDEwv7vMpRJ9KA7jbb%252BQzo7seUyCVqt1U4a1bhhh7R2NGmVO%252BIUukVqD9uYYjLZrCjRj%252Bg8lL2QPctyP%252FBxPto1w%252FqWIlur3boF4kiBUWiDr5LvvaQ12BmY%252F6nFrxPvoUwkHyqVg8rF%252BmknUWft0%253D%7Campid:PL_CLK%7Cclp:2332490&epid=7063570231&itmmeta=01J2EWVNXZENCTBW5JJ162NQR8"
+   },
+   {
+    "date": "2025-07-22",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "##### Search works fine. I can find anything I want\nhttps://www.ebay.com/itm/177277499023?",
+    "source": "web",
+    "title": "Item specifics",
+    "url": "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=1590280"
+   },
+   {
+    "date": "2023-05-31",
+    "last_updated": "2025-01-30",
+    "place_metadata": null,
+    "snippet": "# Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 HoursGBP 27.40Condition:\n...\n## Shop with confidenceeBay Money Back GuaranteeGet the item you ordered or your money back. Learn moreeBay Money Back Guarantee - opens new window or tab\neBay item number:275356190620",
+    "source": "web",
+    "title": "Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 Hours 5012483015285 | eBay",
+    "url": "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n# 0 results\n- All\n- Auction\n- Buy It Now\n...\nCondition- Any Condition- Filter Applied",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00151,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00421
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

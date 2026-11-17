@@ -1,0 +1,25 @@
+{
+ "domain": "target.com",
+ "idx": 2,
+ "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (my web tool gave a \"url_not_allowed\" error for this page)",
+   "doc_chars": 0,
+   "input_tokens": 15737,
+   "cost_usd": 0.07131
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_allowed",
+   "price": null,
+   "opened": "NO: not allowed (my web tool returned \"url_not_allowed\" for this page)",
+   "doc_chars": 0,
+   "input_tokens": 15675,
+   "cost_usd": 0.07034
+  }
+ }
+}

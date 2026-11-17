@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-desert-gold/J7C5V6WCF9",
+  "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q",
+  "https://www.bestbuy.com/product/whirlpool-36-in-wide-22-cu-ft-4-door-french-door-counter-depth-refrigerator-black-stainless-steel/J3KHVG35TY",
+  "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP",
+  "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+  "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL",
+  "https://www.bestbuy.com/product/hp-omen-omen-16-16wuxga-144hz-gaming-laptop-32-threads-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5060-64gb-memory-4tb-ssd-black/J3GWQRFY9F",
+  "https://www.bestbuy.com/product/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-black/J7C5V6TLLS",
+  "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews"
+ ],
+ "cited_store": true,
+ "answer": "Best Buy | Official Online Store | Shop Now & Save — Deals for every list[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Best Buy | Official Online Store | Shop Now & Save — Deals for every list[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-desert-gold/J7C5V6WCF9",
+   "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q",
+   "https://www.bestbuy.com/product/whirlpool-36-in-wide-22-cu-ft-4-door-french-door-counter-depth-refrigerator-black-stainless-steel/J3KHVG35TY",
+   "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP",
+   "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews",
+   "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL",
+   "https://www.bestbuy.com/product/hp-omen-omen-16-16wuxga-144hz-gaming-laptop-32-threads-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5060-64gb-memory-4tb-ssd-black/J3GWQRFY9F",
+   "https://www.bestbuy.com/product/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-black/J7C5V6TLLS",
+   "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews"
+  ],
+  "created": 1793905858,
+  "id": "resp_3b313a68-d6e0-4125-b58f-c8d2e006e7e4",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Best Buy | Official Online Store | Shop Now & Save\n### Deals for every list",
+    "source": "web",
+    "title": "Pots - Best Buy",
+    "url": "https://www.bestbuy.com/"
+   },
+   {
+    "date": "2025-09-11",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Earbuds (2nd Gen) True Wireless Noise Cancelling In Ear Earbuds with Immersive Audio Desert Gold - Best Buy\n...\n# Bose - QuietComfort Ultra Earbuds (2nd Gen) True Wireless Noise Cancelling In-Ear Earbuds with Immersive Audio - Desert Gold\nModel: 896637-0040\nSKU: 6642444\nRatin...",
+    "source": "web",
+    "title": "Bose QuietComfort Ultra Earbuds (2nd Gen) True Wireless ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-earbuds-2nd-gen-true-wireless-noise-cancelling-in-ear-earbuds-with-immersive-audio-desert-gold/J7C5V6WCF9"
+   },
+   {
+    "date": "2026-09-01",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Ozlo Sleepbuds® 2, Noise Masking Sleep Earbuds with Bluetooth Streaming, Sleep Detection, In Ear Alarm, 14 Hr Battery Blue - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 8 pm\n1. Best Buy\n2. Headphones\n3. Earbud & In-Ear Headphones\n4. Sleep Earbuds\n# Ozlo - Sleepbuds® 2, Noise-Masking Sl...",
+    "source": "web",
+    "title": "Ozlo Sleepbuds® 2, Noise Masking Sleep Earbuds with Bluetooth ...",
+    "url": "https://www.bestbuy.com/product/ozlo-sleepbuds-2-noise-masking-sleep-earbuds-with-bluetooth-streaming-sleep-detection-in-ear-alarm-14-hr-battery-blue/J3R858H94Q"
+   },
+   {
+    "date": "2026-10-12",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Whirlpool 36 in.\nWide 22 cu. ft.\n4 Door French Door Counter Depth Refrigerator Black Stainless Steel - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n...\n4. French Door Refrigerators\n...\n# Whirlpool - 36 in. Wide 22 cu. ft. 4-Door French Door Counter-Depth Refrigerator - B...",
+    "source": "web",
+    "title": "36 in. Wide 22 cu. ft. 4-Door French Door Counter-Depth Refrigerator",
+    "url": "https://www.bestbuy.com/product/whirlpool-36-in-wide-22-cu-ft-4-door-french-door-counter-depth-refrigerator-black-stainless-steel/J3KHVG35TY"
+   },
+   {
+    "date": "2025-11-21",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over Ear Headphones with Immersive Audio Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n2. Headphones\n3. Over-Ear & On-Ear Headphones\n4. Over-Ear Headphones\n# Bose - QuietComfort Ultra Headphone...",
+    "source": "web",
+    "title": "Bose QuietComfort Ultra Headphones (2nd Gen) Wireless ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immersive-audio-black/J7C5V6W7LP"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "iRobot Roomba 205 DustCompactor Vacuum Compacts Dirt Inside, No Emptying for 60 Days, Bagless, Intense Suction Black - Best Buy\n...\n# Customer Ratings & Reviews\n## iRobot - Roomba 205 DustCompactor Vacuum - Compacts Dirt Inside, No Emptying for 60 Days, Bagless, Intense Suction - Black\n- **Model:**\n...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews - BestBuy.com",
+    "url": "https://www.bestbuy.com/product/irobot-roomba-205-dustcompactor-vacuum-compacts-dirt-inside-no-emptying-for-60-days-bagless-intense-suction-black/J3Z7R45VC4/sku/10765211/reviews"
+   },
+   {
+    "date": "2026-10-13",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Ray Ban Meta (Gen 3) Wayfarer, AI Glasses with Camera Clear Lenses Matte Black - Best Buy\n1643 County Road B2Roseville, MN 55113Opens at 10 am\n1. Best Buy\n2. Wearable Technology\n...\nIn Smart Glasses\n# Ray-Ban Meta - (Gen 3) Wayfarer, AI Glasses with Camera - Clear Lenses - Matte Black\nModel: SK-1002...",
+    "source": "web",
+    "title": "Ray-Ban Meta - (Gen 3) Wayfarer, AI Glasses with Camera",
+    "url": "https://www.bestbuy.com/product/ray-ban-meta-gen-3-wayfarer-ai-glasses-with-camera-clear-lenses-matte-black/BCKFSHS3QL"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "HP OMEN Upgraded OMEN 16 16\"WUXGA 144Hz Gaming Laptop 32 threads AMD Ryzen 9 8940HX NVIDIA GeForce RTX 5060 64GB Memory 4TB SSD Black - Best Buy\n45575 Dulles Eastern PlzSte 188Sterling, VA 20166Open until 9 pm\n1. Best Buy\n2. Computers & Tablets\n3. PC Gaming\n4. Gaming Laptops\nShop HP OMEN\n# HP OMEN -...",
+    "source": "web",
+    "title": "OMEN 16 16\"WUXGA 144Hz Gaming Laptop",
+    "url": "https://www.bestbuy.com/product/hp-omen-omen-16-16wuxga-144hz-gaming-laptop-32-threads-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5060-64gb-memory-4tb-ssd-black/J3GWQRFY9F"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Bose QuietComfort Wireless Noise Cancelling Over the Ear Bluetooth Headphones Black - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n...\n3. Over-Ear & On-Ear Headphones\n...\n# Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones - Black\nModel: 88...",
+    "source": "web",
+    "title": "Bose QuietComfort Wireless Noise Cancelling Over the Ear ...",
+    "url": "https://www.bestbuy.com/product/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-black/J7C5V6TLLS"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "MSI Cubi NUC 1MG Mini Desktop Intel Core 3 100U 2024 16GB Memory Intel Graphics 500GB Storage Black - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n1. Best Buy\n2. Computers & Tablets\n3. Desktop & All-in-One Computers\n4. All Desktops\n...\n# Customer Ratings & Reviews\n## MSI - Cubi NUC...",
+    "source": "web",
+    "title": "MSI Cubi NUC 1MG Mini Desktop Intel Core 3 100U 2024 16GB ...",
+    "url": "https://www.bestbuy.com/product/msi-cubi-nuc-1mg-mini-desktop-intel-core-3-100u-2024-16gb-memory-intel-graphics-500gb-storage-black/J3P7TXQ8KX/sku/6631094/reviews"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00117,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00373
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

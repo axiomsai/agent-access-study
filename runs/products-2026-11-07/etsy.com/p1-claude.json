@@ -1,0 +1,144 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.etsy.com/listing/1016338618",
+ "retrieved_at": "2026-11-07T19:34:45+00:00",
+ "age_days": 0,
+ "doc_chars": 18478,
+ "doc_markers": [],
+ "answer": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.12859,
+ "raw": [
+  {
+   "id": "srvtoolu_015f6XXSJ8ubv2P9Lax4Ln5t",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.etsy.com/listing/1016338618\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c['result_type']);print(c['content'][:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01Cu5VEhHqHwX3LN2ZNiL2Ee",
+   "caller": {
+    "tool_id": "srvtoolu_015f6XXSJ8ubv2P9Lax4Ln5t",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.etsy.com/listing/1016338618"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_015f6XXSJ8ubv2P9Lax4Ln5t",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized\nmeta-al:android:app_name: Etsy\nmeta-al:android:package: com.etsy.android\nmeta-al:android:url: etsy://listing/1016338618?ref=applinks_android\nmeta-al:ios:app_name: Etsy\nmeta-al:ios:app_store_id: 477128284\nmeta-al:ios:url: etsy://listing/1016338618?ref=applinks_ios\nmeta-apple-mobile-web-app-title: Etsy\nmeta-application-name: Etsy\nmeta-csrf_nonce: 3:1794080084:jR1e8lwXvk_wTQsk2bCwCq7oHRj2:02bc3b4c19db878d7229c7efa100c4b9214a05dceae6cdd01e33ea17646aa2d8\nmeta-css_dist_path: /ac/sasquatch/css/\nmeta-description: This Blankets & Throws item by cozyloftdesigns has 237 favorites from Etsy shoppers. Ships from Greenville, SC. Listed on Nov 6, 2026\nmeta-dist: 202611061794008688\nmeta-fb:app_id: 89186614300\nmeta-msapplication-TileColor: #F1641E\nmeta-og:description: This Blankets & Throws item by cozyloftdesigns has 237 favorites from Etsy shoppers. Ships from Greenville, SC. Listed on Nov 6, 2026\nmeta-og:image: https://i.etsystatic.com/27524456/r/il/a8c70f/4806746374/il_1080xN.4806746374_kjj5.jpg\nmeta-og:title: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy\nmeta-og:type: product\nmeta-og:url: https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share\nmeta-pinterest: nosearch\nmeta-product:price:amount: 118.00\nmeta-product:price:currency: USD\nmeta-robots: max-image-preview:large\nmeta-theme-color: rgb(255, 255, 255)\nmeta-twitter:app:id:googleplay: com.etsy.android\nmeta-twitter:app:id:ipad: 477128284\nmeta-twitter:app:id:iphone: 477128284\nmeta-twitter:app:name:googleplay: Etsy\nmeta-twitter:app:name:ipad: Etsy\nmeta-twitter:app:name:iphone: Etsy\nmeta-twitter:app:url:googleplay: etsy://listing/1016338618?ref=TwitterProductCard\nmeta-twitter:app:url:ipad: etsy://listing/1016338618?ref=TwitterProductCard\nmeta-twitter:app:url:iphone: etsy://listing/1016338618?ref=TwitterProductCard\nmeta-twitter:card: summary_large_image\nmeta-twitter:site: @Etsy\nmeta-uaid_nonce: 3:1794080084:YGpC5Qqm9QGN6ItAVanszaghar-q:a30e5faa9a63d5b62ff86be92b0bf4d57453d518465666ae96438e4c4795b6d5\nmeta-viewport: width=device-width, initial-scale=1.0\ntitle: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy\n---\n\n[Etsy](https://www.etsy.com/?ref=lgo)\n\nCategories\n\nBrowse\n\nSearch for items or shops\n\nClear search\n\n[Skip to Content](#content)\n\n- Sign in\n- [0](https://www.etsy.com/cart?ref=hdr-cart) Cart\n\n- [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav)\n- [Friendsgiving Finds](https://www.etsy.com/r/curated/top-100-friendsgiving-picks?sections=1502464589897&ref=Friendsgiving110226_cat_nav)\n- [Home Favorites](https://www.etsy.com/featured/hub/home-favorites?ref=contentful_promo_cat_nav-4)\n- [Fashion Finds](https://www.etsy.com/featured/hub/fashion-favorites?ref=contentful_promo_cat_nav-5)\n- [Vintage](https://www.etsy.com/r/curated/etsys-best-vintage-finds?sections=1461029776888&narrow=best-vintage-finds&ref=contentful_promo_cat_nav-6)\n- [Wedding Guide](https://www.etsy.com/featured/hub/weddings-hub?ref=contentful_promo_cat_nav-9)\n- [Gift Cards](https://www.etsy.com/giftcards?ref=contentful_promo_cat_nav-10)\n\nTake full advantage of our site features by enabling JavaScript.\n\n- [Homepage](https://www.etsy.com/?ref=catnav_breadcrumb-home)\n- [Home & Living](https://www.etsy.com/c/home-and-living?explicit=1&ref=catnav_breadcrumb-0)\n- [Bedding](https://www.etsy.com/c/home-and-living/bedding?explicit=1&ref=catnav_breadcrumb-1)\n- [Blankets & Throws](https://www.etsy.com/c/home-and-living/bedding/blankets-and-throws?explicit=1&ref=catnav_breadcrumb-2)\n\nEtsy’s Pick\n\nEtsy’s Picks are hand selected by our style experts to highlight items from shops that have shown quality, reliability and style.\n\n[Discover More](https://www.etsy.com/featured/hub/etsy-picks?ref=listing_etsys_pick_signal)\n\nAdd to Favorites\n\n- ![May include: A black and white woven throw blanket featuring a detailed map of a city, with a dark river running through it. The blanket has a fringed edge and is held up against a white background.](https://i.etsystatic.com/27524456/r/il/a8c70f/4806746374/il_794xN.4806746374_kjj5.jpg)\n- Loading\n  \n  [https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_0183_qqtyv5.mp4](https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_0183_qqtyv5.mp4)\n  \n  Hm, we’re having trouble loading this video.\n  \n  Try to refresh the page or come back later.\n- ![May include: A black and white woven throw blanket featuring a detailed map design. The blanket has a fringe border and a brown weave. The map shows a city with a river running through it. The text on the image says \"brown weave\" and \"see more pics for a closer look at the weaving!\"](https://i.etsystatic.com/27524456/r/il/7d1e3f/4806747050/il_794xN.4806747050_k6n7.jpg)\n- ![May include: A black and white woven throw blanket featuring a map of New York City. The blanket has a fringed edge and the words \"black weave\" and \"see more pics for a closer look at the weaving!\" are written on the image.](https://i.etsystatic.com/27524456/r/il/d568fd/4855013175/il_794xN.4855013175_tgnx.jpg)\n- ![May include: A woven throw blanket with a map design in brown and cream colors. The blanket is draped over a chair, showcasing the intricate details of the map pattern. The words \"brown weave\" are written on the blanket.](https://i.etsystatic.com/27524456/r/il/97839d/4806776226/il_794xN.4806776226_sfck.jpg)\n- ![May include: Black and white woven throw blanket featuring a detailed map design. The blanket has a textured appearance with the words \"black weave\" in a white box. The map design includes intricate lines and shapes.](https://i.etsystatic.com/27524456/r/il/778c84/4855053795/il_794xN.4855053795_34b6.jpg)\n- ![May include: Folded woven blanket with rainbow fringe and black and white fringe. The blanket is light gray with the text \"parallel rainbow fringe\" and \"parallel black & white fringe\" in cursive.](https://i.etsystatic.com/27524456/r/il/5e6d7b/2880680439/il_794xN.2880680439_s15s.jpg)\n- ![May include: White cotton blanket with text: \"All of our blankets are designed and made with love in the USA. They are 100% cotton made up of a variety of colored yarn. Designs are woven into the blanket and are not printed on with inks. Each blanket is unique and custom made to order.\"](https://i.etsystatic.com/27524456/r/il/1023c9/2832640540/il_794xN.2832640540_qvjq.jpg)\n- ![May include: Woven blankets with a stamp design featuring a heart and the word \"FOREVER.\" The blankets have a fringed edge and are stacked. The image also includes instructions on how to order.](https://i.etsystatic.com/27524456/r/il/76a4a0/2832640770/il_794xN.2832640770_p121.jpg)\n- ![May include: Size guide graphic showing blanket sizes on a queen-size bed. The image displays three blankets: 37x52 inches, 50x60 inches, and 60x80 inches. The text \"size guide\" and \"blanket size are shown on a 60x80\" queen size bed\" are also included.](https://i.etsystatic.com/27524456/r/il/628ec3/2880307559/il_794xN.2880307559_8am6.jpg)\n\n- May include: A black and white woven throw blanket featuring a detailed map of a city, with a dark river running through it. The blanket has a fringed edge and is held up against a white background.\n- Product video\n- May include: A black and white woven throw blanket featuring a detailed map design. The blanket has a fringe border and a brown weave. The map shows a city with a river running through it. The text on the image says \"brown weave\" and \"see more pics for a closer look at the weaving!\"\n- May include: A black and white woven throw blanket featuring a map of New York City. The blanket has a fringed edge and the words \"black weave\" and \"see more pics for a closer look at the weaving!\" are written on the image.\n- May include: A woven throw blanket with a map design in brown and cream colors. The blanket is draped over a chair, showcasing the intricate details of the map pattern. The words \"brown weave\" are written on the blanket.\n- May include: Black and white woven throw blanket featuring a detailed map design. The blanket has a textured appearance with the words \"black weave\" in a white box. The map design includes intricate lines and shapes.\n- May include: Folded woven blanket with rainbow fringe and black and white fringe. The blanket is light gray with the text \"parallel rainbow fringe\" and \"parallel black & white fringe\" in cursive.\n- May include: White cotton blanket with text: \"All of our blankets are designed and made with love in the USA. They are 100% cotton made up of a variety of colored yarn. Designs are woven into the blanket and are not printed on with inks. Each blanket is unique and custom made to order.\"\n- May include: Woven blankets with a stamp design featuring a heart and the word \"FOREVER.\" The blankets have a fringed edge and are stacked. The image also includes instructions on how to order.\n- May include: Size guide graphic showing blanket sizes on a queen-size bed. The image displays three blankets: 37x52 inches, 50x60 inches, and 60x80 inches. The text \"size guide\" and \"blanket size are shown on a 60x80\" queen size bed\" are also included.\n\n- May include: A black and white woven throw blanket featuring a detailed map of a city, with a dark river running through it. The blanket has a fringed edge and is held up against a white background.\n- Loading\n- May include: A black and white woven throw blanket featuring a detailed map design. The blanket has a fringe border and a brown weave. The map shows a city with a river running through it. The text on the image says \"brown weave\" and \"see more pics for a closer look at the weaving!\"\n- May include: A black and white woven throw blanket featuring a map of New York City. The blanket has a fringed edge and the words \"black weave\" and \"see more pics for a closer look at the weaving!\" are written on the image.\n- May include: A woven throw blanket with a map design in brown and cream colors. The blanket is draped over a chair, showcasing the intricate details of the map pattern. The words \"brown weave\" are written on the blanket.\n- May include: Black and white woven throw blanket featuring a detailed map design. The blanket has a textured appearance with the words \"black weave\" in a white box. The map design includes intricate lines and shapes.\n- May include: Folded woven blanket with rainbow fringe and black and white fringe. The blanket is light gray with the text \"parallel rainbow fringe\" and \"parallel black & white fringe\" in cursive.\n- May include: White cotton blanket with text: \"All of our blankets are designed and made with love in the USA. They are 100% cotton made up of a variety of colored yarn. Designs are woven into the blanket and are not printed on with inks. Each blanket is unique and custom made to order.\"\n- May include: Woven blankets with a stamp design featuring a heart and the word \"FOREVER.\" The blankets have a fringed edge and are stacked. The image also includes instructions on how to order.\n- May include: Size guide graphic showing blanket sizes on a queen-size bed. The image displays three blankets: 37x52 inches, 50x60 inches, and 60x80 inches. The text \"size guide\" and \"blanket size are shown on a 60x80\" queen size bed\" are also included.\n  \n  Click to zoom\n\n- ![May include: A black and white woven throw blanket featuring a detailed map of a city, with a dark river running through it. The blanket has a fringed edge and is held up against a white background.](https://i.etsystatic.com/27524456/c/2142/2142/448/0/il/a8c70f/4806746374/il_300x300.4806746374_kjj5.jpg)\n- ![listing-video-1](https://v.etsystatic.com/c/video/upload/ar_1:1,c_fill,h_105,q_auto,w_105/IMG_0183_qqtyv5.jpg)\n- ![May include: A black and white woven throw blanket featuring a detailed map design. The blanket has a fringe border and a brown weave. The map shows a city with a river running through it. The text on the image says \"brown weave\" and \"see more pics for a closer look at the weaving!\"](https://i.etsystatic.com/27524456/r/il/7d1e3f/4806747050/il_300x300.4806747050_k6n7.jpg)\n- ![May include: A black and white woven throw blanket featuring a map of New York City. The blanket has a fringed edge and the words \"black weave\" and \"see more pics for a closer look at the weaving!\" are written on the image.](https://i.etsystatic.com/27524456/r/il/d568fd/4855013175/il_300x300.4855013175_tgnx.jpg)\n- ![May include: A woven throw blanket with a map design in brown and cream colors. The blanket is draped over a chair, showcasing the intricate details of the map pattern. The words \"brown weave\" are written on the blanket.](https://i.etsystatic.com/27524456/r/il/97839d/4806776226/il_300x300.4806776226_sfck.jpg)\n- ![May include: Black and white woven throw blanket featuring a detailed map design. The blanket has a textured appearance with the words \"black weave\" in a white box. The map design includes intricate lines and shapes.](https://i.etsystatic.com/27524456/r/il/778c84/4855053795/il_300x300.4855053795_34b6.jpg)\n- ![May include: Folded woven blanket with rainbow fringe and black and white fringe. The blanket is light gray with the text \"parallel rainbow fringe\" and \"parallel black & white fringe\" in cursive.](https://i.etsystatic.com/27524456/r/il/5e6d7b/2880680439/il_300x300.2880680439_s15s.jpg)\n- ![May include: White cotton blanket with text: \"All of our blankets are designed and made with love in the USA. They are 100% cotton made up of a variety of colored yarn. Designs are woven into the blanket and are not printed on with inks. Each blanket is unique and custom made to order.\"](https://i.etsystatic.com/27524456/r/il/1023c9/2832640540/il_300x300.2832640540_qvjq.jpg)\n- ![May include: Woven blankets with a stamp design featuring a heart and the word \"FOREVER.\" The blankets have a fringed edge and are stacked. The image also includes instructions on how to order.](https://i.etsystatic.com/27524456/r/il/76a4a0/2832640770/il_300x300.2832640770_p121.jpg)\n- ![May include: Size guide graphic showing blanket sizes on a queen-size bed. The image displays three blankets: 37x52 inches, 50x60 inches, and 60x80 inches. The text \"size guide\" and \"blanket size are shown on a 60x80\" queen size bed\" are also included.](https://i.etsystatic.com/27524456/r/il/628ec3/2880307559/il_300x300.2880307559_8am6.jpg)\n\nReport this item to Etsy\n\n## What’s wrong with this listing?\n\n### Add more details\n\n### Share more specifics to help us review this item and protect our marketplace.\n\nChoose a reason…\nThere’s a problem with my order\nIt uses my intellectual property without permission\nI don’t think it meets Etsy’s policies\n\nChoose a reason…\n\nThe first thing you should do is contact the seller directly.\n\nIf you’ve already done that, your item hasn’t arrived, or it’s not as described, you can report that to Etsy by opening a case.\n\n[Report a problem with an order](https://www.etsy.com/help/article/5307)\n\nWe take intellectual property concerns very seriously, but many of these problems can be resolved directly by the parties involved. We suggest contacting the seller directly to respectfully share your concerns.\n\nIf you'd like to file an allegation of infringement, you'll need to follow the process described in our [Copyright and Intellectual Property Policy](https://www.etsy.com/legal/ip).\n\n[Review how we define handmade, vintage and supplies](https://www.etsy.com/legal/sellers#allowed)\n\n[See a list of prohibited items and materials](https://www.etsy.com/legal/prohibited)\n\n[Read our mature content policy](https://www.etsy.com/legal/policy/listing-mature-content-correctly/242665462117)\n\nTell us why you're reporting this item\n\nIt's not handmade, vintage, or craft supplies\n\nIt's pornographic\n\nIt's hate speech or harassment\n\nIt's a threat to minor safety\n\nIt promotes violence or self-harm\n\nIt's dangerous or hazardous\n\nIt's violating a specific law or regulation\n\nIt violates a policy that's not listed here\n\nPlease choose a reason\n\nInclude anything else we should know about this item\n\n Make sure to add more details.\n\n Add more details, including a law or regulation name (10 characters min).\n\nBy submitting this report, you confirm the information and claims in this form are accurate.\n\nGo back\n\nNext Submit report\n\nIn 11 carts\n\nNowPrice:$106.20+\n\nOriginal Price: $118.00+\n\nLoading\n\n10% off\n\n•\n\nSale ends on November 30\n\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map\n\n[cozyloftdesigns](https://www.etsy.com/shop/cozyloftdesigns?ref=shop-header-name&listing_id=1016338618&from_page=listing)  \n\nStar Seller\n\nStar Sellers have an outstanding track record for providing a great customer experience—they consistently earned 5-star reviews, shipped orders on time, and replied quickly to any messages they received.\n\n[5 out of 5 stars](#reviews)\n\nDimensions\n\n* Select an option\n37x52 inches ($106.20)\n50x60 inches ($133.20)\n60x80 inches ($160.20)\n\nPlease select an option\n\nAdd personalization\n\n- Personalization\n  \n  The city you would like to be featured as well as the color of the weave (brown or black).\n  \n  Please note that you will receive a proof via Etsy messages within 48 hours of your purchase for you to review!\n  \n  0/1024\n\nYou can only make an offer when buying a single item\n\nAdd to cart\n\nLoading\n\n**Star Seller.** This seller consistently earned 5-star reviews, shipped on time, and replied quickly to any messages they received.\n\n## Item details\n\n### Highlights\n\n- Designed by [cozyloftdesigns](https://www.etsy.com/shop/cozyloftdesigns)\n- Materials: Cotton\n\nWhether you are shopping for a home town hero or a fellow traveler our custom city map blanket makes the perfect personalized gift. This personalized map blanket makes an ideal housewarming gift, gift for him, gift for her, Best friend Gift, or Birthday gift. This custom woven throw can be personalized with any city map. Both Domestic or International can be done. NYC, LA, Dallas, Atlanta, Philly, Boston, Paris, Tokyo, Hong Kong, London, Amsterdam, Berlin, Rome, etc.. Just reach out and let me know.\n\nABOUT US:\n\nHi and welcome to our shop! Our hope is that our products will help you share the love of family and friendship while bring",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-07T19:34:45+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.etsy.com/listing/1016338618"
+   },
+   "tool_use_id": "srvtoolu_01Cu5VEhHqHwX3LN2ZNiL2Ee",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_015f6XXSJ8ubv2P9Lax4Ln5t/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c['result_type']);print(c['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_015f6XXSJ8ubv2P9Lax4Ln5t",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_012FDaWo653hWdjSsx88AYZy",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:800])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.etsy.com/listing/1016338618\", \"retrieved_at\": \"2026-11-07T19:34:45+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.etsy.com/listing/1016338618/custom-city-map-blanket-personalized\\nmeta-al:android:app_name: Etsy\\nmeta-al:android:package: com.etsy.android\\nmeta-al:android:url: etsy://listing/1016338618?ref=applinks_android\\nmeta-al:ios:app_name: Etsy\\nmeta-al:ios:app_store_id: 477128284\\nmeta-al:ios:url: etsy://listing/1016338618?ref=applinks_ios\\nmeta-apple-mobile-web-app-title: Etsy\\nmeta-application-name: Etsy\\nmeta-csrf_nonce: 3:1794080084:jR1e8lwXvk_wTQsk2bCwCq7oHRj2:02bc3b4c19db878d7229c7efa100c4b9214a05dceae6cdd01e33ea17646aa2d8\\nmeta-css_dist_path: /ac\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_012FDaWo653hWdjSsx88AYZy",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01QcdpfauuhtUK6zFhHm6VtL",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nd=json.loads(r)['content']['source']['data']\nfor k in ['title:','og:title','price','availability','stock','Sold out','Add to cart','sold out']:\n  for m in re.finditer(re.escape(k),d,re.I):\n    print(k,'>>',d[max(0,m.start()-80):m.start()+150].replace('\\n',' '));break"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "title: >> l:ios:url: etsy://listing/1016338618?ref=applinks_ios meta-apple-mobile-web-app-title: Etsy meta-application-name: Etsy meta-csrf_nonce: 3:1794080084:jR1e8lwXvk_wTQsk2bCwCq7oHRj2:02bc3b4c19db878d7229c7efa100c4b9214a05dceae6cdd01e3\nog:title >> systatic.com/27524456/r/il/a8c70f/4806746374/il_1080xN.4806746374_kjj5.jpg meta-og:title: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map \nprice >> h&utm_medium=PageTools&utm_campaign=Share meta-pinterest: nosearch meta-product:price:amount: 118.00 meta-product:price:currency: USD meta-robots: max-image-preview:large meta-theme-color: rgb(255, 255, 255) meta-twitter:app:id:go\nAdd to cart >> u to review!      0/1024  You can only make an offer when buying a single item  Add to cart  Loading  **Star Seller.** This seller consistently earned 5-star reviews, shipped on time, and replied quickly to any messages they recei\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01QcdpfauuhtUK6zFhHm6VtL",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSlgUKEAgTGAI4AUIIdGhpbmtpbmcSDEqLzPdjaJhgDs9wLRoMgyvCFOlGhw7nD8GnIjCKk7KhXKcwP2wkZ21khtKYmigCbU1943PcjVv1SrOXzL/fmwsk424TvBsjZHSZhQkqswT+z28+JWoOuhQGSLPG3cmtOQJm+hvHwj0mN+12ihrkB5dVE4yEqPSWBr9dyWDqwpJDxMBEuqlXIp02naBzNjB6z++rMaDC4DndEH9yIJ1mcRcuJhZljqdD7MaiphyTUP5+qfuAz5FpG6++Ic3ocC6pAom6Q3CzmxePEfJT5Lm3O6fnc8HTc7h5ptNDuZT1KePc5k1oY5hCArl6qJuNUuO1QtxznaacEq22y42qp6o4TC/j7iuRJWZ6o7UviseQKtuESlteiszrbvFTwsvC0pgY/Z4wXbFD6DG2NWwpabdA6TIBCUoqVp5PRn9PdDf3FSrxtcTa0ojwAD5RjEv9C+lWbgPPV/9Gnamk0aDNceuMCBNjWr/5QLDTu2p09eLFQvJDgx3lmK4Au+eVMfbM8HYVv0QFtUUyTFGW4kcPJUf0CtX1OKyWpZPRVDLp41BbObyGidotUydosQvUeHXT19lV5NBplzUxKfQBK3tCQr0VBc7mBIxijlUZ/7R/d7mbuuv+oDnUkhO3ZbiVe4lT8PTjJnKm3AMjIOXZo8AazDegZrGAp3ShwEtLfNsr+lYTQo18kOi0I6KeZSgifBM+GQD3xE9ovz21Q4ZwVDpm2uYEv5gQ8DRBJcH6OEhJ/yoHM0SJcYf4tn1qRtqyBK+OC2khwMFYyTcOgIeyCGFOv10mGjy2dwFufHeqa4oj326WS4F94x1nmBYu3ZsIkUwfXG2PP7TfwTaWKvb1i7gXyqx6jtjKMRgB",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_015FSUWzN9rznQorw9hvE7C8",
+   "caller": null,
+   "input": {
+    "code": "i=d.find('Price:');print(d[i-300:i+300] if i>0 else [m.group() for m in re.finditer(r'.{60}\\$\\d[\\d.,]*.{40}',d)][:6])\nprint(re.search(r'og:title: (.*)',d).group(1))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "clude anything else we should know about this item\n\n Make sure to add more details.\n\n Add more details, including a law or regulation name (10 characters min).\n\nBy submitting this report, you confirm the information and claims in this form are accurate.\n\nGo back\n\nNext Submit report\n\nIn 11 carts\n\nNowPrice:$106.20+\n\nOriginal Price: $118.00+\n\nLoading\n\n10% off\n\n•\n\nSale ends on November 30\n\n# Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map\n\n[cozyloftdesigns](https://www.etsy.com/shop/cozyloftdesigns?ref=shop\nCustom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift for Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map - Etsy\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_015FSUWzN9rznQorw9hvE7C8",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Custom City Map Blanket, Personalized Blanket, Map, Housewarming Gift, Gift For Him, Home Decor, Birthday Gift, Best Friend Gifts, City Map | PRICE: $106.20 | STOCK: IN STOCK | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

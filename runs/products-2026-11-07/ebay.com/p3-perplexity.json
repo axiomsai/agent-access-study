@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/167031735841",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_PrefLoc=1&LH_All=1&_dmd=1&_oac=1",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=35&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3",
+  "https://www.sandbox.ebay.com/sch/299/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_All=1&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_dmd=1&_oac=1&_pgn=2&LH_FS=0",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/167031735841",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_PrefLoc=1&LH_All=1&_dmd=1&_oac=1",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=35&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3",
+   "https://www.sandbox.ebay.com/sch/299/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_All=1&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_dmd=1&_oac=1&_pgn=2&LH_FS=0",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25"
+  ],
+  "created": 1794080095,
+  "id": "resp_ecb6380f-3952-456d-8643-e25e92359341",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-12-09",
+    "last_updated": "2024-12-22",
+    "place_metadata": null,
+    "snippet": "# Bose Solo Soundbar 2 Home Theater, Certified RefurbishedOriginal Retail Packaging - Buy Direct From BoseBose\n## List priceUS $199.00(35% off) -US $70.00Item priceUS $129.00ShippingFREEEstimated totalUS $129.00*You save: US $70.00Condition:“The item is in a pristine, like-new condition. It has been...",
+    "source": "web",
+    "title": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished | eBay",
+    "url": "https://www.ebay.com/itm/167031735841"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(111) (111) Items\nBuy It Now(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Free shippingRemove filter\n...\n- START KIT RELAY FOR COMPRESSOR EMBRACO 1/5HP 220V 50/60HZ\nBrand New\n$21.02\nBuy It Now\nFree shipping\n- DANFOSS BEND...",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_dmd=1&_udhi=35&LH_FS=1&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(111) (111) Items\n...\n# 111 results\n...\n- Buy It Now\n...\n- Under $350.00Remove filter\n...\n- SPM 02.MP0050.001 FLANGED BUSHING, FRONT for CRATHCO\nBrand New\n$52.06\nBuy It Now",
+    "source": "web",
+    "title": "111 results",
+    "url": "https://www.sandbox.ebay.com/sch/11874/i.html?_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&_udhi=350&LH_PrefLoc=1&LH_All=1&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n- New(2,653) (2,653) Items",
+    "source": "web",
+    "title": "2,600+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591054619&_ssn=testuser_nomar_seller&LH_BOPIS=1&LH_PrefLoc=1&LH_All=1&_dmd=1&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- Buy It Now(62) (62) Items\n...\n# 62 results\n...\n- Buy It Now\n...\n- Under $20.00Remove filter\n- OVAL RUN CAPACITOR 15 MFD 370 V\nBrand New\n$16.14\nBuy It Now\nFree shipping\n- OVAL RUN CAPACITOR 30 MFD 370 V\nBrand New\n$16.86",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_All=1&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- Buy It Now(13) (13) Items\nAccepts Offers\n# 13 results\n...\n- Buy It Now\n...\n- Under $35.00Remove filter",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?_ssn=testuser_nomar_seller&_udhi=35&_dmd=1&LH_BOPIS=1&LH_PrefLoc=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(12) (12) Items\n...\n# 12 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter",
+    "source": "web",
+    "title": "12 results",
+    "url": "https://www.sandbox.ebay.com/sch/299/i.html?item=110591067144&_ssn=testuser_nomar_seller&LH_All=1&_udhi=25&_oac=1&LH_BOPIS=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuserpa4demo4 | eBay\nSponsored\nSponsored\nSponsored\nInclude description\nFilter\nCategory\nAll\nComputers/Tablets & Networking\n3D Printers & Supplies\n3D Printer Consumables\nCell Phones & Accessories\neBay Motors\nClothing, Shoes & Accessories\nHome & Garden\nConsumer Electronics\nSports M...",
+    "source": "web",
+    "title": "36 results",
+    "url": "https://www.sandbox.ebay.com/sch/183062/i.html?_ssn=testuser_pa4_demo_4&store_name=testuserpa4demo4&_ipg=100&LH_AS=0&_dmd=2&_oac=1&LH_BOPIS=1&LH_BIN=1&LH_PrefLoc=3&_sop=15&LH_RPA=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n...\n- All Listings(231) (231) Items",
+    "source": "web",
+    "title": "231 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591069255&_ssn=testuser_nomar_seller&_udhi=14&_dmd=1&_oac=1&_pgn=2&LH_FS=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "# 1,000+ results\n- PORTAFILTER BACKFLUSH BASKET for ASCASO ASTORIA CMA BEZZERA BFC BRASILIA ECM LF\nBrand New\n$6.47",
+    "source": "web",
+    "title": "1,000+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110591069079&_ssn=testuser_nomar_seller&LH_FS=0&_udhi=15&_dmd=1&LH_RPA=0&_oac=1&_sop=12&LH_PrefLoc=1&_ipg=25"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 31,
+   "cost": {
+    "input_tokens_cost": 0.00133,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00405
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 145
+  }
+ }
+}

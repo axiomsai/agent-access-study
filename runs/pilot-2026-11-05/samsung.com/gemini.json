@@ -1,0 +1,80 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\n**Product/Category Name:** Galaxy Smartphones",
+ "finish": "STOP",
+ "cost_usd": 0.00044,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US\n**Product/Category Name:** Galaxy Smartphones",
+       "thoughtSignature": "EnMKcQFpFH0ThOsoAGQXVv/uhf+YjYPfcheqUZ/ZhIALh5wQ8uImWBZlaSCHDsW3oUUIbPEXpc2LuCiAAWZXGaEHQspWFvcS7aDq3sjgHrzgwF+LuHZq+w9Z5wDdO1JalqyWzUgXbcYaQALqBo2ZTq7Hvpe8"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.samsung.com/us/",
+        "title": "Samsung US | Mobile | TV | Home Electronics | Home Appliances ..."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 91,
+        "endIndex": 136,
+        "text": "**Product/Category Name:** Galaxy Smartphones"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 53,
+   "totalTokenCount": 4217,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 4102,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4102
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "pNTsatajC4bpz7IPo4ufqAU"
+ }
+}

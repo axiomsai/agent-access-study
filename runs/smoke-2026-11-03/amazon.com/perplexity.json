@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+  "https://www.amazon.com/dp/B0B3HPRRQY",
+  "https://advertising.amazon.com/help/GW3CES543L22Y9EA",
+  "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+  "https://www.amazon.com/KASHW%C3%89RE-Travel-Blanket-Zipper-Pillow/dp/B0C12WMYZ5",
+  "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery",
+  "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v1-2.html",
+  "https://www.amazon.com/dp/B0DQTTKQK1",
+  "https://www.amazon.com/Echo-Glow/dp/B07KRY43KN",
+  "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-1.html"
+ ],
+ "cited_store": true,
+ "answer": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Home & Kitchen [1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Home & Kitchen [1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS",
+   "https://www.amazon.com/dp/B0B3HPRRQY",
+   "https://advertising.amazon.com/help/GW3CES543L22Y9EA",
+   "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-open-url-command.html",
+   "https://www.amazon.com/KASHW%C3%89RE-Travel-Blanket-Zipper-Pillow/dp/B0C12WMYZ5",
+   "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery",
+   "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v1-2.html",
+   "https://www.amazon.com/dp/B0DQTTKQK1",
+   "https://www.amazon.com/Echo-Glow/dp/B07KRY43KN",
+   "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-1.html"
+  ],
+  "created": 1793749377,
+  "id": "resp_1e3cf406-08d4-4d3f-8995-aab928ebc31e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Adhesive Banana Hook Under Cabinet, Under Counter Banana Hanger, Black | Foldable Banana Hanger, Metal Banana Holder, Hold 20 Bananas, Space-Saving Design, Folding with Magnets When Not in Use : Home & Kitchen\n- Home & Kitchen\n...\n- Storage & Organization",
+    "source": "web",
+    "title": "Adhesive Banana Hook Under Cabinet, Under ... - Amazon.com",
+    "url": "https://www.amazon.com/bussdis-Under-Cabinet-Banana-Foldable/dp/B0D37T3FBS"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "We're here to help you move seamlessly through the dynamic mix of environments that make up your days.",
+    "source": "web",
+    "title": "3.5L large dopp kit made with water-resistant materials for your travel toiletries : Beauty & Personal Care",
+    "url": "https://www.amazon.com/dp/B0B3HPRRQY"
+   },
+   {
+    "date": "2026-01-05",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Short URL for Stores\nUsing the **Contact Us** link on this page, you can submit a request to the support team providing the current Store link and the short link you want to have.",
+    "source": "web",
+    "title": "Short URL for Stores | Amazon Ads Support Center",
+    "url": "https://advertising.amazon.com/help/GW3CES543L22Y9EA"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Opens a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on the current device.\n...\n|Property|Type|Default|Description|\n|--|--|--|--|\n|`source`|String|REQUIRED|The URL to open.|\n|`onFail...",
+    "source": "web",
+    "title": "OpenURL Command | Alexa Skills Kit",
+    "url": "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-open-url-command.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com: KASHWÉRE Solid Travel Blanket in Zipper Pouch, Use as Mini Throw or Pillow (Crème) : Home & Kitchen\n- Home & Kitchen\n...\n- Blankets & Throws\n...\nThis item cannot be shipped to your selected delivery location.\nPlease choose a different delivery location.\n...\n# KASHWÉRE Solid Travel Blanke...",
+    "source": "web",
+    "title": "Amazon.com: KASHWÉRE Solid Travel Blanket in Zipper Pouch, Use as Mini Throw or Pillow (Crème) : Home & Kitchen",
+    "url": "https://www.amazon.com/KASHW%C3%89RE-Travel-Blanket-Zipper-Pillow/dp/B0C12WMYZ5"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "The API allows you to refine the search results using various filters, such as title, ASIN, and eligibility.",
+    "source": "web",
+    "title": "Discovery - Product and Product Category",
+    "url": "https://advertising.amazon.com/API/docs/en-us/dsp-category-discovery"
+   },
+   {
+    "date": "2023-11-28",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "## OpenURL Command\n*`OpenURL` requires APL 1.1 or later.\nProvide an alternate experience for devices running older versions of APL.*\nOpen a URL.\nThe `OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that wor...",
+    "source": "web",
+    "title": "APL Standard Commands (APL 1.2) | Alexa Skills Kit",
+    "url": "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v1-2.html"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "TYMO is a beauty and fashion brand specializing in developing hair styling tools (Hair Straightening Brushes, Flat Irons, Hot Air Brush).",
+    "source": "web",
+    "title": "Rechargeable Beach Waves Curling Wand for Travel, 200M Ionic, Dual Voltage, Tangle-Free, Ceramic Coating, 1 Inch, Gold Blush : Beauty & Personal Care",
+    "url": "https://www.amazon.com/dp/B0DQTTKQK1"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon Official Site: Echo Glow - Smart lamp for kids\n$29.99$29.99\n...\n# Amazon Echo Glow (newest model), Nightlight for kids, Works with Alexa (2-pack)\nBrand: Amazon\n4.5 *4.5 out of 5 stars* (52,473)",
+    "source": "web",
+    "title": "Echo Glow, Multicolor smart lamp, Works with Alexa",
+    "url": "https://www.amazon.com/Echo-Glow/dp/B07KRY43KN"
+   },
+   {
+    "date": "2023-11-28",
+    "last_updated": "2025-03-22",
+    "place_metadata": null,
+    "snippet": "## OpenURL\n`OpenURL` requires APL 1.1 or later.\nProvide an alternate experience for devices running older versions of APL.\nOpen a URL.\nThe\n`OpenURL` command, if successful, opens the specified URL in a web browser or other application on the device.\nYou must provide a suitable URL that works on the ...",
+    "source": "web",
+    "title": "APL Standard Commands (APL 1.9 to 2022.1) | Alexa Skills Kit",
+    "url": "https://www.developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-standard-commands-v2022-1.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00123,
+    "output_tokens_cost": 7e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.0038
+   },
+   "prompt_tokens": 56,
+   "search_context_size": "low",
+   "total_tokens": 82
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+  "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+  "https://www.target.com/p/the-ultimate-skincare-advent-calendar-12pc/-/A-1010753893",
+  "https://www.target.com/s/skincare+advent+calendar",
+  "https://www.target.com/s/wellness+advent+calendar",
+  "https://www.target.com/s/advent+calendar+bath",
+  "https://www.target.com/s/ulta+beauty+advent+calendar",
+  "https://www.target.com/s/wellness+advent",
+  "https://www.target.com/s/self+care+advent",
+  "https://www.target.com/s/advent+calendar+gifts"
+ ],
+ "cited_store": true,
+ "answer": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: The Ultimate Spa Advent Calendar - 12pc | PRICE: $20.00 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892",
+   "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886",
+   "https://www.target.com/p/the-ultimate-skincare-advent-calendar-12pc/-/A-1010753893",
+   "https://www.target.com/s/skincare+advent+calendar",
+   "https://www.target.com/s/wellness+advent+calendar",
+   "https://www.target.com/s/advent+calendar+bath",
+   "https://www.target.com/s/ulta+beauty+advent+calendar",
+   "https://www.target.com/s/wellness+advent",
+   "https://www.target.com/s/self+care+advent",
+   "https://www.target.com/s/advent+calendar+gifts"
+  ],
+  "created": 1794249001,
+  "id": "resp_ad70624a-5c9b-496b-9f9e-8f0f027300a6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "The Ultimate Spa Advent Calendar - 12pc : Target\n1. Holiday Shop\n...\n3. Advent Calendars\n...\n# The Ultimate Spa Advent Calendar - 12pc\n4 out of 5 stars\n16\n1 Question\nNew at target\n$20.00\nIn Stock\nSave 5% every day\n...\nPay in 4 interest-free payments of $5.00\n...\n### Details\n#### Highlights\n- Palmer'...",
+    "source": "web",
+    "title": "The Ultimate Spa Advent Calendar - 12pc",
+    "url": "https://www.target.com/p/the-ultimate-spa-advent-calendar-12pc/-/A-1010753892"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "The Ultimate Beauty Advent Calendar - 12pc : Target\n1. Holiday Shop\n...\n3. Advent Calendars\n...\n# The Ultimate Beauty Advent Calendar - 12pc\n4.33 out of 5 stars\n103\n7 Questions\nNew at target\n$20.00\nIn Stock\nWARNING: choking hazard - small parts.\nNot for children under 3 yrs.\n...\n$20.00\nThe Ultimate ...",
+    "source": "web",
+    "title": "The Ultimate Beauty Advent Calendar - 12pc",
+    "url": "https://www.target.com/p/the-ultimate-beauty-advent-calendar-12pc/-/A-1010753886"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "The Ultimate Skincare Advent Calendar - 12pc : Target\n1. Target\n2. Holiday Shop\n...\n4. Advent Calendars\n...\n# The Ultimate Skincare Advent Calendar - 12pc\n4 out of 5 stars\n33\n1 Question\nNew at target\n$20.00\nIn Stock\nSave 5% every day\nWith Target Circle™ Card (restrictions apply)\nPay in 4 interest-fr...",
+    "source": "web",
+    "title": "The Ultimate Skincare Advent Calendar - 12pc - Target",
+    "url": "https://www.target.com/p/the-ultimate-skincare-advent-calendar-12pc/-/A-1010753893"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4(30)\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n...\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4(16)\n$40.00\n...\nThe Ultimate Skincare Advent Calendar - 12pc\n...\n- Bestseller\n$20.00\nThe Ultima...",
+    "source": "web",
+    "title": "Skincare Advent Calendar: 12 Days of Beauty Care - Target",
+    "url": "https://www.target.com/s/skincare+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "504 results for “wellness advent calendar”\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n5(5)\n$24.99",
+    "source": "web",
+    "title": "Wellness Advent Calendar - Target",
+    "url": "https://www.target.com/s/wellness+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "394 results for “advent calendar bath”\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4.5(8)\n$30.00\n...\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\n4.5 out of 5 stars with 8 ratings8 reviews",
+    "source": "web",
+    "title": "Advent Calendar Bath | Bath Bombs, Bubble Bath, & Gift Sets - Target",
+    "url": "https://www.target.com/s/advent+calendar+bath"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "229 results for “ulta beauty advent calendar”\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.5(25)\n...\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.7(7)\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n5(5)\n$30.00",
+    "source": "web",
+    "title": "Ulta Beauty Advent Calendar | Gift Sets & Beauty Essentials - Target",
+    "url": "https://www.target.com/s/ulta+beauty+advent+calendar"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "303 results for “wellness advent”\n$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4(29)\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4(16)\n...\n- Bestseller\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\n4 out of 5 stars with 16 ratings16 reviews",
+    "source": "web",
+    "title": "Wellness Advent: Skincare, Supplements & Gifts - Target",
+    "url": "https://www.target.com/s/wellness+advent"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "$20.00\nThe Ultimate Skincare Advent Calendar - 12pc\nNew at target¬\n4.8(5)\n$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n4.8(16)\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n5(5)\n$9.99\n...\n- $20.00\nThe Ultimate Spa Advent Calendar - 12pc\n5 out of 5 stars with 5 rat...",
+    "source": "web",
+    "title": "Self-Care Advent: Beauty & Relaxation Essentials - Target",
+    "url": "https://www.target.com/s/self+care+advent"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "$20.00\nThe Ultimate Beauty Advent Calendar - 12pc\nNew at target¬\n...\n$20.00\nThe Ultimate Spa Advent Calendar - 12pc\nNew at target¬\n4(16)\n$19.99\nreg $37.98\nSale",
+    "source": "web",
+    "title": "Advent Calendar Gifts",
+    "url": "https://www.target.com/s/advent+calendar+gifts"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 28,
+   "cost": {
+    "input_tokens_cost": 0.00141,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00415
+   },
+   "prompt_tokens": 126,
+   "search_context_size": "low",
+   "total_tokens": 154
+  }
+ }
+}

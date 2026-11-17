@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://www.gap.com/browse/product.do?pid=11852500023103",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://www.gap.com/browse/category.do?cid=3023389",
+  "https://www.gap.com/browse/product.do?pid=11804360020000",
+  "https://www.gap.com/browse/product.do?pid=11847390120801",
+  "https://www.gap.com/browse/product.do?pid=1182958002",
+  "https://www.gap.com/browse/product.do?pid=1182478002",
+  "https://www.gap.com/browse/product.do?pid=11813260321109",
+  "https://www.gap.com/browse/product.do?pid=912212012"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error finding the exact product page",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error finding the exact product page",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://www.gap.com/browse/product.do?pid=11852500023103",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://www.gap.com/browse/category.do?cid=3023389",
+   "https://www.gap.com/browse/product.do?pid=11804360020000",
+   "https://www.gap.com/browse/product.do?pid=11847390120801",
+   "https://www.gap.com/browse/product.do?pid=1182958002",
+   "https://www.gap.com/browse/product.do?pid=1182478002",
+   "https://www.gap.com/browse/product.do?pid=11813260321109",
+   "https://www.gap.com/browse/product.do?pid=912212012"
+  ],
+  "created": 1794249834,
+  "id": "resp_fb14605f-1e88-44fd-90bd-7de14aeda432",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "High Rise Velvet '90s Slim Straight Pants | Gap\n...\n# High Rise Velvet '90s Slim Straight Pants\n# High Rise Velvet '90s Slim Straight Pants\n$89.95\n$89.95\n$71.00\n...\nCompared to virgin materials, using recycled materials helps reduce resource use and waste.\n...\nLearn more at gapinc.com/equity .\n- Pro...",
+    "source": "web",
+    "title": "High Rise Velvet '90s Slim Straight Pants",
+    "url": "https://www.gap.com/browse/product.do?pid=11852500023103"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks. - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=3023389"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Denim Boxy Workwear Jacket | Gap\n...\n# Denim Boxy Workwear Jacket\n# Denim Boxy Workwear Jacket\n$108.00\n$54.00\n...\n## Color:\nInk Stain Black\n## Size\nSLXLXXXL\n...\n## Product details\n- Authentic, non-stretch denim boxy workwear jacket.\nIn a relaxed fit.\n- Spread collar.\n- Long sleeves with button cuffs...",
+    "source": "web",
+    "title": "Denim Boxy Workwear Jacket - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=11804360020000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Low Rise Corduroy '90s Loose Pants\n# Low Rise Corduroy '90s Loose Pants\n$89.95\n$71.00\n...\nLearn more at gapinc.com/equity .\n- Product #1184739",
+    "source": "web",
+    "title": "Low Rise Corduroy '90s Loose Pants",
+    "url": "https://www.gap.com/browse/product.do?pid=11847390120801"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Relaxed Stripe Crew Sweater\n# Relaxed Stripe Crew Sweater\n$89.95\n$89.95\n...\nLearn more at gapinc.com/equity .\n- Product #1182958",
+    "source": "web",
+    "title": "Relaxed Stripe Crew Sweater",
+    "url": "https://www.gap.com/browse/product.do?pid=1182958002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Denim Tie-Waist Mini Shirtdress | Gap\n...\n# Denim Tie-Waist Mini Shirtdress\n# Denim Tie-Waist Mini Shirtdress\n$89.95\n...\n## Product details\n- Soft lyocell indigo denim mini shirtdress.\n- Banded collar with shirring at neckline.\n- Long sleeves with pleated detail and elasticized cuffs.\n- Button front...",
+    "source": "web",
+    "title": "Denim Tie-Waist Mini Shirtdress",
+    "url": "https://www.gap.com/browse/product.do?pid=1182478002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Kids Oversized Boxy Polo Sweatshirt | Gap\n...\n# Kids Oversized Boxy Polo Sweatshirt\n# Kids Oversized Boxy Polo Sweatshirt\n$44.95\n$44.95\n$35.00\n...\n## Product details\n- Soft cotton-blend fleece polo sweatshirt.\nIn an oversized, boxy fit.\n- Spread collar with front button placket.\n- Long sleeves with ...",
+    "source": "web",
+    "title": "Kids Oversized Boxy Polo Sweatshirt",
+    "url": "https://www.gap.com/browse/product.do?pid=11813260321109"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Kids Recycled Lightweight Quilted Jacket | Gap\n...\n# Kids Recycled Lightweight Quilted Jacket\n# Kids Recycled Lightweight Quilted Jacket\n$79.95\n$79.95\n$31.00\n...\n## Product details\n- Smooth, water-repellent, lightweight nylon puffer jacket.\nIn a relaxed fit.\n...\n- Made with 100% recycled nylon.\nComp...",
+    "source": "web",
+    "title": "Kids Recycled Lightweight Quilted Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=912212012"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00093,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00364
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 140
+  }
+ }
+}

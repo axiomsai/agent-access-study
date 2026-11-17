@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/4000440693",
+  "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html",
+  "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/mattresses.html?keyword=new",
+  "https://www.costco.com/s?keyword=ceyr26",
+  "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+  "https://www.costco.com/kidkraft-simply-stylish-kitchen.product.4000177141.html",
+  "https://www.costco.com/lucky-dog-dwell-series-crate,-bronze-finish.product.4000238479.html",
+  "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688?DM_PersistentCookieCreated=true&langId=-1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: $2,499.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: $2,499.99 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/4000440693",
+   "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html",
+   "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/mattresses.html?keyword=new",
+   "https://www.costco.com/s?keyword=ceyr26",
+   "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+   "https://www.costco.com/kidkraft-simply-stylish-kitchen.product.4000177141.html",
+   "https://www.costco.com/lucky-dog-dwell-series-crate,-bronze-finish.product.4000238479.html",
+   "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688?DM_PersistentCookieCreated=true&langId=-1"
+  ],
+  "created": 1793907350,
+  "id": "resp_cbb8d701-a994-4492-9c5f-405488e11ed0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | Costco\n...\n5. Living Room Furniture\n...\n7. Sectional Sofas\n...\n# Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\n...\n## How To Get It\nMeasuring Guide\n- Top Grain Leather with Vinyl Matc...",
+    "source": "web",
+    "title": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests",
+    "url": "https://www.costco.com/p/-/4000440693"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\nSet My Warehouse\nDelivery Location\n20147\n...\n# Product Not Available\nSorry, this product may be unavailable for delivery to 20147 or unavailable at the warehouse.",
+    "source": "web",
+    "title": "Product Not Available",
+    "url": "https://www.costco.com/trinity-72%22-stainless-steel-rolling-workbench.product.100235688.html"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest\nItem 1414710\n...\n- Top Grain Leather with Polyurethane Match\n- Pocket Coil Seat Cushion\n- Sinuous Spring Suspension\n- Power Headrest\n- Le...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Glider Recliner with ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Online\nBarcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nOnline Only\nBarcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\nLimit 5.\n$2,499.99\nAfter $800 OFF\nValid 10/23/26 - 11/15/26\nValid 10/30/26 - 11/15/26",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "new | Costco\nBarcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\nSterling\nExecutive Member hours start at 9AM\n...\n# We're sorry. We were not able to find a match.\n## Try Another Search?\nCostco carries items in the warehouse that may not be available online.\nDownload the C...",
+    "source": "web",
+    "title": "We're sorry. We were not able to find a match.",
+    "url": "https://www.costco.com/mattresses.html?keyword=new"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Search | Costco\nBarcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\n...\n2. Search Results",
+    "source": "web",
+    "title": "Loading",
+    "url": "https://www.costco.com/s?keyword=ceyr26"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Reclining Sofa with Power Headrests | Costco\n...\n# Barcalounger Leather Power Reclining Sofa with Power Headrests\nItem 1441777\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushions\n- Sinuous Spring Suspension...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Reclining Sofa with Power Headrests",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\nSterling\n...\n# Product Not Available\nSorry, this product may be unavailable for delivery to 20147 or unavailable at the Sterling warehouse.",
+    "source": "web",
+    "title": "Product Not Available",
+    "url": "https://www.costco.com/kidkraft-simply-stylish-kitchen.product.4000177141.html"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF\n...\n# Product Not Available",
+    "source": "web",
+    "title": "Product Not Available",
+    "url": "https://www.costco.com/lucky-dog-dwell-series-crate,-bronze-finish.product.4000238479.html"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Reclining Loveseat with Power Headrests | Costco\n...\n# Barcalounger Leather Power Reclining Loveseat with Power Headrests\nItem 1441778\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushions\n- Sinuous Spring Su...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Reclining Loveseat with Power Headrests",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-reclining-loveseat-with-power-headrests/100740688?DM_PersistentCookieCreated=true&langId=-1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 38,
+   "cost": {
+    "input_tokens_cost": 0.00161,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00438
+   },
+   "prompt_tokens": 133,
+   "search_context_size": "low",
+   "total_tokens": 171
+  }
+ }
+}

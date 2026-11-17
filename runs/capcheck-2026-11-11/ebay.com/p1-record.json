@@ -1,0 +1,25 @@
+{
+ "domain": "ebay.com",
+ "idx": 1,
+ "url": "https://www.ebay.com/itm/276582090868",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "15404 chars, copy dated 2026-09-04 (68 days old)",
+   "price": 439.99,
+   "opened": "YES",
+   "doc_chars": 15404,
+   "input_tokens": 23862,
+   "cost_usd": 0.10611
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "29779 chars, copy dated 2026-09-04 (68 days old)",
+   "price": 439.99,
+   "opened": "YES",
+   "doc_chars": 29779,
+   "input_tokens": 43305,
+   "cost_usd": 0.18476
+  }
+ }
+}

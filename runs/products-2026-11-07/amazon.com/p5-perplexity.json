@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/b?node=202448500011",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/-/es/b?node=12766669011",
+  "https://www.amazon.com/-/zh_TW/gp/yourstore/home",
+  "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+  "https://www.amazon.com/hz/wishlist/ls/30SU1KMQ5YJ?ref_=wl_share"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/b?node=202448500011",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/-/es/b?node=12766669011",
+   "https://www.amazon.com/-/zh_TW/gp/yourstore/home",
+   "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+   "https://www.amazon.com/hz/wishlist/ls/30SU1KMQ5YJ?ref_=wl_share"
+  ],
+  "created": 1794079864,
+  "id": "resp_a89b9e87-305d-437b-8bae-58062eabfd3a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | Toilet Tissue\n- Health & Household\n...\n- Household Supplies\n...\n# Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong\nToilet Tissue\n...\nPackage Size Name: Mega\n- Mega\nSize: 18 Mega Rolls (...",
+    "source": "web",
+    "title": "Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular ...",
+    "url": "https://www.amazon.com/Angel-Soft-Toilet-Regular-Strong/dp/B0FN4NH4K8"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "contact us\n...\nSkip to main search results\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Handheld Rechargeable Milk Frother Wand | Rich Foam in Seconds, 2-IN-1 Dual Spring Whisk, Travel Cover included, Perfect Drink Mixer for Lattes & More\n4.4*4.4 out of 5 stars* (2.7K)",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=202448500011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 100,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Después de ver las páginas de detalles de productos, consulta esta sección para encontrar una manera sencilla de navegar a las páginas de tu interés.",
+    "source": "web",
+    "title": "Vender",
+    "url": "https://www.amazon.com/-/es/b?node=12766669011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "您的 Amazon.com\n## 為您首選\n已移除\n您說您對這個不感興趣\n移除此推薦\nMidland — ER310 緊急曲柄天氣 AM ／FM 收音機 — 多電源 SOS 緊急手電筒 超音波狗哨 NOAA 天氣掃描儀 ＋ 警報器（紅色 ／黑色） | Multiple Power Sources, SOS Emergency Flashlight, Ultrasonic Dog Whistle, & NOAA Weather Scan + Alert\n*4.6 顆星，最高 5 顆星* 6,045\nRemoved",
+    "source": "web",
+    "title": "為您首選",
+    "url": "https://www.amazon.com/-/zh_TW/gp/yourstore/home"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n#### There was a problem\nQuick View\n$468.98$468.98\n- 0 1 0\n...\n- 0 1 0",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/30SU1KMQ5YJ?ref_=wl_share"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 33,
+   "cost": {
+    "input_tokens_cost": 0.0008900000000000001,
+    "output_tokens_cost": 0.00023,
+    "request_cost": 0.0025,
+    "total_cost": 0.00362
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 149
+  }
+ }
+}

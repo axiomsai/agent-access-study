@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-t-mobile-sku-sm-s948uzkfxau/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-t-mobile-sku-sm-s948ulbexau/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzsaxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzkexaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-at-t-sku-sm-s948uzkeatt/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-t-mobile-sku-sm-s948uzvaxau/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-unlocked-sku-sm-s948uzkfxaa/",
+  "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzkaxaa/"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Galaxy S26 Ultra | PRICE: $1,349.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Galaxy S26 Ultra | PRICE: $1,349.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-t-mobile-sku-sm-s948uzkfxau/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-t-mobile-sku-sm-s948ulbexau/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzsaxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzkexaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-at-t-sku-sm-s948uzkeatt/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-t-mobile-sku-sm-s948uzvaxau/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-unlocked-sku-sm-s948uzkfxaa/",
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzkaxaa/"
+  ],
+  "created": 1793907080,
+  "id": "resp_b684a1a2-af01-4d79-99e1-14f11af2af21",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone | Samsung US\nGalaxy S26 UltraGalaxy S26/+/FE\n...\n# Galaxy S26 Ultra\n512GB | Cobalt Violet | Unlocked\n**$1,349.99 or $56.25/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,599.99 **Save $250.00**\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 ...",
+    "source": "web",
+    "title": "Galaxy S26 Ultra",
+    "url": "https://samsung.com/us/smartphones/galaxy-s26-ultra/buy/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Buy Galaxy S26 Ultra 1TB Smartphone in Black (T-Mobile) | Samsung US\n...\n# Galaxy S26 Ultra\n1TB | Black | T-Mobile\n**$72.92/mo** for **24** mos^⊕^\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,749.99\nColor\nOnline Exclusive\nOnly available at Samsung.com and Sams...",
+    "source": "web",
+    "title": "Buy Galaxy S26 Ultra 1TB Smartphone in Black (T-Mobile)",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-t-mobile-sku-sm-s948uzkfxau/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Galaxy S26 Ultra 512GB Smartphone in Blue (T-Mobile) | Samsung US\n...\n# Galaxy S26 Ultra\n512GB | Sky Blue | T-Mobile\n**$56.25/mo** for **24** mos^⊕^\nUnwrap sharper shots and brighter memories.\nSave up to $720 with instant trade-in credit.^θ^\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 ...",
+    "source": "web",
+    "title": "Buy Galaxy S26 Ultra 512GB Smartphone in Blue (T-Mobile)",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-t-mobile-sku-sm-s948ulbexau/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 256GB Silver Smartphone | Samsung US\n...\n# Galaxy S26 Ultra\n256GB | Silver Shadow | Unlocked\n**$1,149.99 or $47.92/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,399.99 **Save $250.00**\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,7...",
+    "source": "web",
+    "title": "Buy Unlocked Galaxy S26 Ultra 256GB Silver Smartphone",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzsaxaa/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 512GB Black Smartphone | Samsung US\n...\n# Galaxy S26 Ultra\n512GB | Black | Unlocked\n**$1,349.99 or $56.25/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,599.99 **Save $250.00**\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,749.99\n......",
+    "source": "web",
+    "title": "Buy Unlocked Galaxy S26 Ultra 512GB Black Smartphone | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzkexaa/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone | Samsung US\n...\n# Galaxy S26 Ultra\n512GB | Cobalt Violet | Unlocked\n**$1,349.99 or $56.25/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,599.99 **Save $250.00**\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,7...",
+    "source": "web",
+    "title": "Buy Unlocked Galaxy S26 Ultra 512GB Violet Smartphone",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Galaxy S26 Ultra 512GB Smartphone in Black (AT&T) | Samsung US\n...\n# Galaxy S26 Ultra\n512GB | Black | AT&T\n**$44.45/mo** for **36** mos^⊕^\nUnwrap sharper shots and brighter memories.\nSave up to $720 with instant trade-in credit.^θ^\n...\n256GB\n$1,399.99\n512GB\n$1,599.99\n1TB\n$1,999.99\nOnline Exclusi...",
+    "source": "web",
+    "title": "Buy Galaxy S26 Ultra 512GB Smartphone in Black (AT&T) - Samsung",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-at-t-sku-sm-s948uzkeatt/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Galaxy S26 Ultra 256GB Smartphone in Violet (T-Mobile) | Samsung US\n...\n# Galaxy S26 Ultra\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,749.99\nOnline Exclusive\nOnly available at Samsung.com and Samsung Experience Stores\nSilver Shadow\nPink Gold\nCobalt Violet\nSk...",
+    "source": "web",
+    "title": "Buy Galaxy S26 Ultra 256GB Smartphone in Violet (T-Mobile)",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-t-mobile-sku-sm-s948uzvaxau/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 1TB Black Smartphone | Samsung US\n...\n# Galaxy S26 Ultra\n1TB | Black | Unlocked\n**$1,999.99 or 83.34/mo** for **24** mos **at 0% APR** ^⊕σ^\nExperience the world's first built-in Privacy Display.\nGet up to $720 instant trade-in credit.^θ^\n...\nPrivacy Display\n256GB\n$1,399...",
+    "source": "web",
+    "title": "Buy Unlocked Galaxy S26 Ultra 1TB Black Smartphone | Samsung US",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-1tb-unlocked-sku-sm-s948uzkfxaa/"
+   },
+   {
+    "date": "2026-05-21",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Buy Unlocked Galaxy S26 Ultra 256GB Black Smartphone | Samsung US\n...\n# Galaxy S26 Ultra\n256GB | Black | Unlocked\n**$1,149.99 or $47.92/mo** for **24** mos **at 0% APR** ^⊕σ^was $1,399.99 **Save $250.00**\n...\n256GB\nwas: $1399.99 $1,149.99\n512GB\nwas: $1599.99 $1,349.99\n1TB\nwas: $1999.99 $1,749.99\n......",
+    "source": "web",
+    "title": "Buy Unlocked Galaxy S26 Ultra 256GB Black Smartphone - Samsung",
+    "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-256gb-unlocked-sku-sm-s948uzkaxaa/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 25,
+   "cost": {
+    "input_tokens_cost": 0.00175,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00447
+   },
+   "prompt_tokens": 119,
+   "search_context_size": "low",
+   "total_tokens": 144
+  }
+ }
+}

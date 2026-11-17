@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.amazon.com/Scott-Comfortplus-Toilet-Tissue-Double/dp/B07BGLT25K",
+   "URL_RETRIEVAL_STATUS_ERROR"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked)",
+ "finish": "STOP",
+ "cost_usd": 6e-05,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the reason (blocked)",
+       "thoughtSignature": "EnMKcQFpFH0Tok2sqFlt9M4RI9zfyJfZoOvor+zI9k37fWy3u4/zvS+VQb6BasJ6BvoU6FX9t2mCjfwPbn1ljpnEJ5DRukteWoKKQ7T0yVocVwS8Y1z2E8IHMirSa17lW/TK8rusKFb0KAVNGf6LzPhijXND"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.amazon.com/Scott-Comfortplus-Toilet-Tissue-Double/dp/B07BGLT25K",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_ERROR"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 126,
+   "candidatesTokenCount": 53,
+   "totalTokenCount": 452,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 126
+    }
+   ],
+   "toolUsePromptTokenCount": 273,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 273
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "DA_yatisDojpz7IP_b2amQk"
+ }
+}

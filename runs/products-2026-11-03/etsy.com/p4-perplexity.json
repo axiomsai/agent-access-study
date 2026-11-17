@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/listing/?etsrc=sdt",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/listing/1441165597?etsrc=sdt",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name?ls=r&pro=1&content_source=7ad06ebc7128d44636fb6b072a25f3fe%253ALT6cf0a0638402512fec23566768968cbe5accc697",
+  "https://www.etsy.com/listing/1504279815/natural-deodorant-cream-24-hour-full?ls=r&content_source=8e745212fc4046dab4a80c8b43fa3274%253ALT503e6784495afb648f8b263e3393b9c750d49e16",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/market/search_by_seller",
+  "https://www.etsy.com/market/listings"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $94.78+ | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $94.78+ | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/listing/?etsrc=sdt",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/listing/1441165597?etsrc=sdt",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name?ls=r&pro=1&content_source=7ad06ebc7128d44636fb6b072a25f3fe%253ALT6cf0a0638402512fec23566768968cbe5accc697",
+   "https://www.etsy.com/listing/1504279815/natural-deodorant-cream-24-hour-full?ls=r&content_source=8e745212fc4046dab4a80c8b43fa3274%253ALT503e6784495afb648f8b263e3393b9c750d49e16",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/market/search_by_seller",
+   "https://www.etsy.com/market/listings"
+  ],
+  "created": 1793751267,
+  "id": "resp_68e1d25a-7789-4124-a2ba-bff464f99add",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/listing/?etsrc=sdt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4432045135/jewish-mama-sweatshirt-cozy-crewneck\n(25)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n- ## Claude AI and Etsy: Build Digital Products Ebook | Online Business Sellers Guide | Instant Download\n...\n- ## Etsy Shop Planner Printable",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "This item is unavailable - Etsy\nSorry, this item is unavailable.\n### Similar items on Etsy\n( Results include ads",
+    "source": "web",
+    "title": "This item is unavailable - Etsy",
+    "url": "https://www.etsy.com/listing/1441165597?etsrc=sdt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# All Categories\n...\n(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n(9,936)",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": "2026-04-13",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy\n...\n# Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel\n...\nNowPrice:...",
+    "source": "web",
+    "title": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy",
+    "url": "https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name?ls=r&pro=1&content_source=7ad06ebc7128d44636fb6b072a25f3fe%253ALT6cf0a0638402512fec23566768968cbe5accc697"
+   },
+   {
+    "date": "2026-10-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Natural Deodorant Cream, 24-Hour Full Body Deodorant, Aluminum Free, Organic Deodorant, Eco-Friendly Deodorant, Zero Waste, Vegan Deodorant\n## You may also like\n- ### Organic DEODORANT | Natural deodorant | aluminum-free deodorant | deodorant cream | safe and effective deodorant | Gifts Under 10",
+    "source": "web",
+    "title": "Natural Deodorant Cream, 24-hour Full Body Deodorant, Aluminum Free, Organic Deodorant, Eco-friendly Deodorant, Zero Waste, Vegan Deodorant - Etsy",
+    "url": "https://www.etsy.com/listing/1504279815/natural-deodorant-cream-24-hour-full?ls=r&content_source=8e745212fc4046dab4a80c8b43fa3274%253ALT503e6784495afb648f8b263e3393b9c750d49e16"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\nDiscover unique everyday accessories, from elegant scarves to personalized keychains.",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Search by Seller - Etsy\n# Search by Seller\n1,000+ items",
+    "source": "web",
+    "title": "Search by Seller - Etsy",
+    "url": "https://www.etsy.com/market/search_by_seller"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Listings - Etsy\n# Listings\n5,000+ items\n...\n- ## Wedding Guest List Tracker | Google Sheets Template (Digital Download)",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 43,
+   "cost": {
+    "input_tokens_cost": 0.0008500000000000001,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00359
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 157
+  }
+ }
+}

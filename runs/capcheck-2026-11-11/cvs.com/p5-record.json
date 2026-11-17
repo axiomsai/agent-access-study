@@ -1,0 +1,25 @@
+{
+ "domain": "cvs.com",
+ "idx": 5,
+ "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "7076 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 7076,
+   "input_tokens": 22483,
+   "cost_usd": 0.10145
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "10086 chars, copy dated 2026-11-12 (0 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 10086,
+   "input_tokens": 22595,
+   "cost_usd": 0.10054
+  }
+ }
+}

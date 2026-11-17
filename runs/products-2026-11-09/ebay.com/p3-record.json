@@ -1,0 +1,60 @@
+{
+ "domain": "ebay.com",
+ "url": "https://www.ebay.com/itm/167031735841",
+ "idx": 3,
+ "at": "2026-11-09T12:24:32-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "16277 chars, copy dated 2026-08-15 (86 days old)",
+   "parsed": true,
+   "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+   "price": 129.0,
+   "price_raw": "$129.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-08-15T02:22:19+00:00",
+   "age_days": 86,
+   "cost_usd": 0.16673
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+   "price": 129.0,
+   "price_raw": "$129.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0009
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+   "price": 129.0,
+   "price_raw": "$129.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01232
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished",
+   "price": 129.0,
+   "price_raw": "$129.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

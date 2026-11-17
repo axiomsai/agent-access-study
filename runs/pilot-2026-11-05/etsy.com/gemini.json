@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.etsy.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\n**Category Name:** Home and living",
+ "finish": "STOP",
+ "cost_usd": 0.00037,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n\n**Category Name:** Home and living",
+       "thoughtSignature": "EnMKcQFpFH0TXtLNxHj8wN8ONHz5caEm22+1ppGBwxG0Qxm0D7d8JbTN9kBLjU4fByzkz+xphNZknWxncCyEMkcSx/LZmunF3Z3xfS7qcBPaSJdlkw6eXD8DdvBcdFk7rw3zm1NEsrrBBAn12383ucidG3Kk"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.etsy.com/",
+        "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for ..."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 88,
+        "text": "**Page Title:** Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 90,
+        "endIndex": 124,
+        "text": "**Category Name:** Home and living"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.etsy.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 3488,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 3369,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3369
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "j9Tsaqi6NsyLqtsPiNWX4Ao"
+ }
+}

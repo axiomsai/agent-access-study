@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+  "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cough-medicine/cough-syrup",
+  "https://www.cvs.com/shop/brand-shop/n/neo-g",
+  "https://www.cvs.com/shop/brand-shop/c/celluvisc",
+  "https://www.cvs.com/shop/household/q/Resolve/Ball/Pup-Peroni/Snuggle/Lysol/Pedigree/Elmers/Stickers_Northwest/iHip/Pioneer/Purina_One/Royal_Brites/Scotch/brbrbrbrbrbrbrbrbrbrbrbrbr",
+  "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-beach-gardens/specialty/ear-wax-removal-5141.html",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief",
+  "https://www.cvs.com/store-locator/cvs-pharmacy-locations/California/San-Jose/flu-shots"
+ ],
+ "cited_store": true,
+ "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\nCough, Cold & Flu",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\nCough, Cold & Flu",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu",
+   "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cough-medicine/cough-syrup",
+   "https://www.cvs.com/shop/brand-shop/n/neo-g",
+   "https://www.cvs.com/shop/brand-shop/c/celluvisc",
+   "https://www.cvs.com/shop/household/q/Resolve/Ball/Pup-Peroni/Snuggle/Lysol/Pedigree/Elmers/Stickers_Northwest/iHip/Pioneer/Purina_One/Royal_Brites/Scotch/brbrbrbrbrbrbrbrbrbrbrbrbr",
+   "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-beach-gardens/specialty/ear-wax-removal-5141.html",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief",
+   "https://www.cvs.com/store-locator/cvs-pharmacy-locations/California/San-Jose/flu-shots"
+  ],
+  "created": 1794248351,
+  "id": "resp_bcca708b-6112-4f9f-a9f6-b6c9973ab588",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information",
+    "source": "web",
+    "title": "Healthier happens together®",
+    "url": "https://www.cvs.com/"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Cold Medicine at CVS Pharmacy\nEasy Reorder\n...\n- Cough, Cold & Flu\n# Cough, Cold & Flu",
+    "source": "web",
+    "title": "Cold Medicine at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-02",
+    "place_metadata": null,
+    "snippet": "You can shop online for your favorite brand or category in a few quick and easy steps.\nTo search by department, you can use the navigation on the **Shop home page**.\n...\nYou also can search by typing the category, brand name or particular item you're looking for in the search window at the top of th...",
+    "source": "web",
+    "title": "Online Shopping",
+    "url": "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english"
+   },
+   {
+    "date": "2023-04-06",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Cough Syrup at CVS Pharmacy\n...\n# Cough Syrup\n...\n## Cough Syrups\nSoothe your nagging cough with fast-acting cough syrups from CVS.",
+    "source": "web",
+    "title": "Cough Syrup at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/cough-medicine/cough-syrup"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Neo G\n...\n## Cannot change address\nYour cart contains pseudoephedrine or ephedrine.\nFederal law requires that CVS use your address on your verified ID to purchase.\nRemove the item to change your address.",
+    "source": "web",
+    "title": "Neo G - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/n/neo-g"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Celluvisc\n## Does CVS Carry Celluvisc Products?\nYes, CVS sells a variety of Celluvisc products in stores and online.",
+    "source": "web",
+    "title": "Celluvisc - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/c/celluvisc"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "- Household\n# Household\n...\n## Lysol Travel Size Disinfecting Wipes, Lemon & Lime Blossom Scent, 15 ct\nPrices may vary from online to in store.",
+    "source": "web",
+    "title": "Buy Scotch Online - CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/household/q/Resolve/Ball/Pup-Peroni/Snuggle/Lysol/Pedigree/Elmers/Stickers_Northwest/iHip/Pioneer/Purina_One/Royal_Brites/Scotch/brbrbrbrbrbrbrbrbrbrbrbrbr"
+   },
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# EAR WAX REMOVAL at 2480 PGA BLVD, PALM BEACH GARDENS, FL 33410\n4.8 (234 Ratings)",
+    "source": "web",
+    "title": "EAR WAX REMOVAL at 2480 PGA BLVD, PALM BEACH ...",
+    "url": "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-beach-gardens/specialty/ear-wax-removal-5141.html"
+   },
+   {
+    "date": "2023-01-18",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Sinus & Nasal Congestion Relief\n...\n## Nasal Congestion and Sinus Pressure Relief\nIf you're feeling down because of a sinus headache or blocked nose, CVS Pharmacy's range of nasal congestion and sinus pressure relief products may help you breathe more comfortably and alleviate sinus pain, making i...",
+    "source": "web",
+    "title": "Best Sinus Medicine for Relief at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu/sinus-relief"
+   },
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## 4110 N. 1ST STREET SAN JOSE, CA, 95134\nGet directions\n(408) 434-1839",
+    "source": "web",
+    "title": "Flu Shots in San Jose, California - Flu Shot Near Me - CVS",
+    "url": "https://www.cvs.com/store-locator/cvs-pharmacy-locations/California/San-Jose/flu-shots"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.00066,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00322
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

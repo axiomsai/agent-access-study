@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/dp/B079VP6DH5",
+  "https://www.amazon.com/clp/B079VP6DH5",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/s?i=merchant-items&me=AJPZHQ29S0QYK",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/Bee-Frontier-Wearable-Personal-AI-that-grows-with-you-confidential-by-design-transforms-conversations-into-actionable-summaries-/dp/B0GPRYJSJ8",
+  "https://www.amazon.com/b?node=21439846011",
+  "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+  "https://www.amazon.com/amazon-de-deutschland/s?k=amazon.de+deutschland"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/dp/B079VP6DH5",
+   "https://www.amazon.com/clp/B079VP6DH5",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/s?i=merchant-items&me=AJPZHQ29S0QYK",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/Bee-Frontier-Wearable-Personal-AI-that-grows-with-you-confidential-by-design-transforms-conversations-into-actionable-summaries-/dp/B0GPRYJSJ8",
+   "https://www.amazon.com/b?node=21439846011",
+   "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+   "https://www.amazon.com/amazon-de-deutschland/s?k=amazon.de+deutschland"
+  ],
+  "created": 1794248471,
+  "id": "resp_ac19431c-3205-43d6-946e-c8f4196a703c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $43.49 $ 43 . 49 $2.54 per Sheets ( $2.54 $2.54 /100 Sheets) FREE delivery Monday, November 2 Ships from: Amazon.com So...",
+    "source": "web",
+    "title": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household",
+    "url": "https://www.amazon.com/dp/B079VP6DH5"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Bounty Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls\n4.8 (238.3K)\n50K+ bought in past week\n$43.49$43.49 ($2.54/100 Sheets)\n$312.78 delivery Tue, Nov 24.\nOrder within 10 hrs 54 mins\nIn Stock\n...\nProduct details\nBrand\nBounty\nUnit Count\n16 Count\nSheet Count\n1712\nPly Rating\n2...",
+    "source": "web",
+    "title": "Bounty Paper Towels Quick Size",
+    "url": "https://www.amazon.com/clp/B079VP6DH5"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n- Disability Customer Support\n...\n## Silkland 80Gbps DisplayPort Cable 2.1 [VESA Certified] 6.6FT/2M, DP80 HDR\n16K@60Hz, 8K@240Hz, 4K@540Hz 480Hz 360Hz 240Hz, DP 2.1 Cable for DisplayPort 1.4 Cable, HDR, DSC HDCP 2.3 Gaming Monitor 5090\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n# 1 result\n...\n## Clipboard Folio with Notepad, Multifunctional Clipboard Folder with Storage, 5 Folders with 11 Pockets, Waterproof Organizer with Refillable Notepad 40 Page A4, Lightweight, Button Closure (Blue)\n4.2*4.2 out of 5 stars*\n(64)\nPrice, product page$18.60$18.60 List: $22.99\nL...",
+    "source": "web",
+    "title": "DP-US @ Amazon.com:",
+    "url": "https://www.amazon.com/s?i=merchant-items&me=AJPZHQ29S0QYK"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com : products\n# 1-48 of over 1,000 results for \"products\"\nLira Clinical BIO Caviar Crème - Ultra-Hydrating Facial Moisturizer - 1 oz | BV-OSC Vitamin C, Colloidal Gold And Silver, Madonna Lily Plant Stem Cells, Macadamia Oil, Kukui Nut Oil, Aging Complexion\n4.3103\nShop Lira Clinical",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Bee Frontier | Sage | AI Wearable | Amazon\n$74.99$74.99\n...\n# Bee Frontier (all-new), Wearable Personal AI that grows with you, confidential by design, transforms conversations into actionable summaries, 7-day battery, IP67 Rated, Sage\nBrand: Amazon\n3.9 *3.9 out of 5 stars* (131)\nNew on Amazon in pa...",
+    "source": "web",
+    "title": "Bee Frontier | Sage | AI Wearable | Amazon",
+    "url": "https://www.amazon.com/Bee-Frontier-Wearable-Personal-AI-that-grows-with-you-confidential-by-design-transforms-conversations-into-actionable-summaries-/dp/B0GPRYJSJ8"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# Department\n- ## International Shopping Top Categories\n## Computers & Accessories",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=21439846011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "# 1-48 of 371 results for \"amazon.co.uk\"",
+    "source": "web",
+    "title": "Amazon.com: Amazon.co.uk",
+    "url": "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Amazon eGift Card\nBirthday\n4.7*4.7 out of 5 stars*\n...\nPrice, product pageCOP 16,205COP16,205-COP 6,482,000COP6,482,000\n## Electric Callus Remover for Feet (with Dander Vacuum), Portable Pedicure Kit Foot File Callus Remover, Rechargeable Waterproof Foot File for Foot Care Deadskin Remover with 9...",
+    "source": "web",
+    "title": "Amazon.com: Amazon.de Deutschland",
+    "url": "https://www.amazon.com/amazon-de-deutschland/s?k=amazon.de+deutschland"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 38,
+   "cost": {
+    "input_tokens_cost": 0.00107,
+    "output_tokens_cost": 0.00023,
+    "request_cost": 0.0025,
+    "total_cost": 0.0038
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 152
+  }
+ }
+}

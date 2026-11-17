@@ -1,0 +1,25 @@
+{
+ "domain": "cvs.com",
+ "idx": 3,
+ "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "5684 chars, copy dated 2026-11-09 (2 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 5684,
+   "input_tokens": 22597,
+   "cost_usd": 0.10053
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "5684 chars, copy dated 2026-11-09 (2 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 5684,
+   "input_tokens": 22714,
+   "cost_usd": 0.1005
+  }
+ }
+}

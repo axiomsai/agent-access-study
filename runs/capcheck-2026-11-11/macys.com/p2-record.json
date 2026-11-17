@@ -1,0 +1,25 @@
+{
+ "domain": "macys.com",
+ "idx": 2,
+ "url": "https://www.macys.com/shop/product/lancome-3-piece-la-vie-est-belle-lelixir-very-cherry-hypnose-drama-mascara-gift-set?ID=27860844",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15494 chars, copy dated 2026-11-04 (7 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15494,
+   "input_tokens": 42471,
+   "cost_usd": 0.18502
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "104185 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 145.0,
+   "opened": "YES",
+   "doc_chars": 104185,
+   "input_tokens": 26580,
+   "cost_usd": 0.11742
+  }
+ }
+}

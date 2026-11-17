@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+  "https://www.walmart.com/?ret=/ip/f/00750227438293",
+  "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3",
+  "https://www.walmart.com/?itemId=16931758367",
+  "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008",
+  "https://business.walmart.com/browse/technology/4306450?facet=brand:Apple",
+  "https://www.walmart.com/browse/cell-phones/tracking-devices/1105910_133161_9220901",
+  "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241",
+  "https://www.walmart.com/?ret=/ip/AFFY-White-Natural-Diamond-Fashion-Ring-In-10k-Rose-Gold-1-Cttw/532297591",
+  "https://www.walmart.com/?ret=/ip/Farfi-Purple-Artificial-Palm-Tree-Realistic-Faux-Palm-Tropical-Leaves-Fake-Palm-Branches-for-Halloween-Christmas-Indoor-Outdoor-Decor-Small/17782160994?classType=VARIANT"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: OUT OF STOCK | OPENED: YES",
+ "cost_usd": 0.00522,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: OUT OF STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536",
+   "https://www.walmart.com/?ret=/ip/f/00750227438293",
+   "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3",
+   "https://www.walmart.com/?itemId=16931758367",
+   "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008",
+   "https://business.walmart.com/browse/technology/4306450?facet=brand:Apple",
+   "https://www.walmart.com/browse/cell-phones/tracking-devices/1105910_133161_9220901",
+   "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241",
+   "https://www.walmart.com/?ret=/ip/AFFY-White-Natural-Diamond-Fashion-Ring-In-10k-Rose-Gold-1-Cttw/532297591",
+   "https://www.walmart.com/?ret=/ip/Farfi-Purple-Artificial-Palm-Tree-Realistic-Faux-Palm-Tropical-Leaves-Fake-Palm-Branches-for-Halloween-Christmas-Indoor-Outdoor-Decor-Small/17782160994?classType=VARIANT"
+  ],
+  "created": 1794079890,
+  "id": "resp_879be3f1-29b3-496d-bc1e-2122d7ce1f29",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-31",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Apple, Item Tracker, 2nd Generation, for Keys Wallet & More - Walmart.com\n- $0.00\n- Services are only available in the U.S., but you can still shop thousands of items online!\n...\nHero image 0 of Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5×...",
+    "source": "web",
+    "title": "Apple, Item Tracker, 2nd Generation, for Keys Wallet & More",
+    "url": "https://www.walmart.com/ip/Apple-AirTag-2nd-Generation-1-Pack-Item-Tracker-for-Keys-Wallet-More-Precision-Finding-up-to-1-5-Range-One-Tap-iPhone-iPad-Setup/19390102536"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Walmart | Save Money. Live better.\n## Discover Great Brands\nView all\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple Ai...",
+    "source": "web",
+    "title": "Save Money. Live better.",
+    "url": "https://www.walmart.com/?ret=/ip/f/00750227438293"
+   },
+   {
+    "date": "2026-01-10",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "### Open Box Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $17.00 Was $22.00\n** Add\nPrice Now $17.00 Was $22.00\nNow$1700$22.00\nOpen Box Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys...",
+    "source": "web",
+    "title": "Apple New Bluetooth Tracking Devices for Cell Phones - Walmart.com",
+    "url": "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Walmart | Save Money. Live better.\n## Discover Great Brands\nView all\n...\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nAppl...",
+    "source": "web",
+    "title": "Save Money. Live better. - Walmart",
+    "url": "https://www.walmart.com/?itemId=16931758367"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Premium Tracking Devices - Essential Business Tools for Efficiency (1000+)\n(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup\nAdd\n$35.00\ncurrent price $35.00\n(Open Box) Apple AirTag (1st Generation) –...",
+    "source": "web",
+    "title": "Premium Tracking Devices - Essential Business Tools for ...",
+    "url": "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Technology (1000+)\n(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup\nAdd\n$35.00\ncurrent price $35.00\n(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, ...",
+    "source": "web",
+    "title": "Technology",
+    "url": "https://business.walmart.com/browse/technology/4306450?facet=brand:Apple"
+   },
+   {
+    "date": "2026-01-29",
+    "last_updated": "2026-01-29",
+    "place_metadata": null,
+    "snippet": "### Popular pick Apple AirTag (1st Generation) 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup $25.99 Was $29.00\nPopular pick\ncurrent price Now $25.99, Was $29.00\n### Apple AirTag (1st Generation) 1 Pack Item Tracker with Apple Find My, Bluet...",
+    "source": "web",
+    "title": "Tracking Devices in Cell Phone Accessories - Walmart.com",
+    "url": "https://www.walmart.com/browse/cell-phones/tracking-devices/1105910_133161_9220901"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Apple AirTag (2nd Generation) – 4 Pack Item Trackers, Precision Finding up to 1.5× Range, Key, Wallet & Luggage Finder, One-Tap Setup - Walmart Business Supplies\n- $0.00\n...\n# Apple AirTag (2nd Generation) – 4 Pack Item Trackers, Precision Finding up to 1.5× Range, Key, Wallet & Luggage Finder, One-...",
+    "source": "web",
+    "title": "Apple AirTag (2nd Generation) – 4 Pack Item Trackers ...",
+    "url": "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Walmart | Save Money. Live better.\n## Discover Great Brands\nView all\n...\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nAppl...",
+    "source": "web",
+    "title": "Save Money. Live better. - Walmart",
+    "url": "https://www.walmart.com/?ret=/ip/AFFY-White-Natural-Diamond-Fashion-Ring-In-10k-Rose-Gold-1-Cttw/532297591"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Walmart | Save Money. Live better.\n## Discover Great Brands\nMichael Kors Women's Jet Set Large East West Zip Camera Crossbody Bag (Vanilla)\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $2...",
+    "source": "web",
+    "title": "Save Money. Live better. - Walmart",
+    "url": "https://www.walmart.com/?ret=/ip/Farfi-Purple-Artificial-Palm-Tree-Realistic-Faux-Palm-Tropical-Leaves-Fake-Palm-Branches-for-Halloween-Christmas-Indoor-Outdoor-Decor-Small/17782160994?classType=VARIANT"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 60,
+   "cost": {
+    "input_tokens_cost": 0.00175,
+    "output_tokens_cost": 0.00039,
+    "request_cost": 0.0025,
+    "total_cost": 0.00464
+   },
+   "prompt_tokens": 158,
+   "search_context_size": "low",
+   "total_tokens": 218
+  }
+ }
+}

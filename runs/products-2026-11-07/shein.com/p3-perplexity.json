@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=290768889&currency=USD&requestId=ssr-39964aec4bc8186c&landing_page_id=1&activity_id=5051&div_key=8489a8ffbaebe8bd_74ac0291c6538ea2",
+  "https://us.shein.com/manfinitycollection-picks.html",
+  "https://us.shein.com/Brands/Collagica-sc-0146741446.html",
+  "https://us.shein.com/style/Graphic-sc-00101026.html",
+  "https://us.shein.com/home-picks.html",
+  "https://us.shein.com/style/Graphic-Tops-sc-00105066.html",
+  "https://m.shein.com/us/style/Women-T-Shirts-sc-001119722.html",
+  "https://us.shein.com/Sweatshirts-Hoodies-c-1773.html",
+  "https://us.shein.com/pdsearch/-shein/",
+  "https://us.shein.com/sweatshirts-c-1773.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter | PRICE: $7.99 | STOCK: UNKNOWN | OPENED: NO: exact page not opened; search result only",
+ "cost_usd": 0.00521,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter | PRICE: $7.99 | STOCK: UNKNOWN | OPENED: NO: exact page not opened; search result only",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=290768889&currency=USD&requestId=ssr-39964aec4bc8186c&landing_page_id=1&activity_id=5051&div_key=8489a8ffbaebe8bd_74ac0291c6538ea2",
+   "https://us.shein.com/manfinitycollection-picks.html",
+   "https://us.shein.com/Brands/Collagica-sc-0146741446.html",
+   "https://us.shein.com/style/Graphic-sc-00101026.html",
+   "https://us.shein.com/home-picks.html",
+   "https://us.shein.com/style/Graphic-Tops-sc-00105066.html",
+   "https://m.shein.com/us/style/Women-T-Shirts-sc-001119722.html",
+   "https://us.shein.com/Sweatshirts-Hoodies-c-1773.html",
+   "https://us.shein.com/pdsearch/-shein/",
+   "https://us.shein.com/sweatshirts-c-1773.html"
+  ],
+  "created": 1794082263,
+  "id": "resp_f2309dfc-5b8a-46b0-9df4-51e8065196c3",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Autumn Thanksgiving Thankful Printing Drop Shoulder Casual White Graphic Sweatshirt,Chenille Yarn Sportwear,Customized Christian SchoolGift,Winter\n(89)\n900+ Sold\n(89)\n900+ Sold\n$*7*.99\n$46.90\n-30%",
+    "source": "web",
+    "title": "WELCOME TO SHEIN",
+    "url": "https://us.shein.com/mkt/normal?ad_test_id=1&scene=1&ad_type=DPA&goods_id=290768889&currency=USD&requestId=ssr-39964aec4bc8186c&landing_page_id=1&activity_id=5051&div_key=8489a8ffbaebe8bd_74ac0291c6538ea2"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > SHEIN Picks\n## Product list\nSHEIN LUNE Women's Crew Neck Pullover Loose Fit Dropped Shoulder Textured Casual Thanksgiving Women's Social Blouse\n...\nSHEIN LUNE Women's Round Neck Drop Shoulder Long Sleeve Casual Loose Sweatshirt\n...\n$14.45\n$14.45\nLocal\n-83%\nAutumn Thanksgiving Thankful Print...",
+    "source": "web",
+    "title": "Women's & Men's Clothing, Shop Online Fashion | SHEIN",
+    "url": "https://us.shein.com/manfinitycollection-picks.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Collagica\n## Product list\n-11%\nCollagica Collagica Autumn Vibe Thanksgiving Thankful Embroidered Drop Shoulder Casual T-Shirt, Thanksgiving Embroidered T-Shirt, Thanksgiving Chenille Yarn T-Shirt, Christian Gift Customized Personalized Autumn T-Shirt, Autumn T-Shirt Fashion Gift\n#1 Bestsell...",
+    "source": "web",
+    "title": "Home > Collagica",
+    "url": "https://us.shein.com/Brands/Collagica-sc-0146741446.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Graphic Clothing\n## Product list\n-25%\nAutumn Atmosphere Thanksgiving Bow Pumpkin Embroidered Casual Sweatshirt, Thanksgiving Embroidered Sports Shirt, Christian Sweatshirt, Women's Drop Shoulder Crew Neck Long Sleeve Casual Sweatshirt\n$13.34\n$13.34\n1.4k+ sold\nafter coupon\n...\nINAWLY Women's...",
+    "source": "web",
+    "title": "Shop Graphic Tees & Clothing | Trendy Fashion | SHEIN USA",
+    "url": "https://us.shein.com/style/Graphic-sc-00101026.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Home > SHEIN Picks\n## Product list\n-46%\nWomen Lightweight Sweatshirt, Thanksgiving Gobble Turkey Graphic, Leopard Plaid Polka Dot Patchwork Letter Fall Print, Autumn Holiday Pullover\n$7.08\n$7.08\n400+ sold\n...\nAutumn Atmosphere Thanksgiving Bow Pumpkin Embroidered Casual Sweatshirt, Thanksgiving Em...",
+    "source": "web",
+    "title": "Women's & Men's Clothing ...",
+    "url": "https://us.shein.com/home-picks.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Home > Graphic Tops\n## Product list\n-11%\nCollagica Collagica Autumn Vibe Thanksgiving Thankful Embroidered Drop Shoulder Casual T-Shirt, Thanksgiving Embroidered T-Shirt, Thanksgiving Chenille Yarn T-Shirt, Christian Gift Customized Personalized Autumn T-Shirt, Autumn T-Shirt Fashion Gift\n#1 Bests...",
+    "source": "web",
+    "title": "Shop Women's Graphic Tees | Trendy Fashion Tops",
+    "url": "https://us.shein.com/style/Graphic-Tops-sc-00105066.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Women T Shirts\nLocalWomen Graphic Tee With Grateful Thankful Blessed Design, 100% Cotton T Shirt Round Neck Casual Top, Fall Clothes For Women\n...\n4\nCollagica Collagica Autumn Vibe Thanksgiving Thankful Embroidered Drop Shoulder Casual T-Shirt, Thanksgiving Embroidered T-Shirt, Thanksgiving Chenil...",
+    "source": "web",
+    "title": "Fashion Women T Shirts",
+    "url": "https://m.shein.com/us/style/Women-T-Shirts-sc-001119722.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "SHEIN Women's Letter Print Thermal Lined Dropped Shoulder Long Sleeve Casual Loose Sweatshirt, Autumn/Winter, Christmas\n$19.19\n$19.19\n...\nLocal\n-65%\nThanksgiving Thankful Chenille Letter Print Black Crewneck Sweatshirt For Women, Oversized Pullover Top, Casual Fall Outfit For Women\n$8.23\n$8.23\nQuick...",
+    "source": "web",
+    "title": "Sweatshirts & Hoodies | Cozy Pullovers | SHEIN USA",
+    "url": "https://us.shein.com/Sweatshirts-Hoodies-c-1773.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Search results for \"-shein\"\n## Product list\nSHEIN Tween Girls 1 Set White Print Sweatshirt Pants Matching Set, Stylish Fall Casual 80s Cute Outfit Autumn Winter School Family Matching",
+    "source": "web",
+    "title": "Search -shein | SHEIN USA",
+    "url": "https://us.shein.com/pdsearch/-shein/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Home > Women Sweatshirts & Hoodies\n## Product list\nLocal\n-79%\nRaMuse Women Lightweight Crewneck Sweatshirt, Thankful Flocking Cursive Letter Print, Not Embroidery, Back To School Fall Outfit For Women-Soft Casual\n$1.38\n$1.38",
+    "source": "web",
+    "title": "Sweatshirts & Hoodies | Cozy Pullovers",
+    "url": "https://us.shein.com/sweatshirts-c-1773.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 55,
+   "cost": {
+    "input_tokens_cost": 0.00112,
+    "output_tokens_cost": 0.00037,
+    "request_cost": 0.0025,
+    "total_cost": 0.00399
+   },
+   "prompt_tokens": 158,
+   "search_context_size": "low",
+   "total_tokens": 213
+  }
+ }
+}

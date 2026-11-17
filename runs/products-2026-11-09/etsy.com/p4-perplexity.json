@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/listing/4579749252/2027-lunar-phase-calendar-print-moon-art",
+  "https://www.etsy.com/shop/ForgedDevotion?from_page=listing",
+  "https://www.etsy.com/c/art-and-collectibles",
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/market/personalized"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/listing/4579749252/2027-lunar-phase-calendar-print-moon-art",
+   "https://www.etsy.com/shop/ForgedDevotion?from_page=listing",
+   "https://www.etsy.com/c/art-and-collectibles",
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/market/personalized"
+  ],
+  "created": 1794248728,
+  "id": "resp_0e5d8525-cc9f-4a3a-98f3-6ff8bf6188d8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n## https://www.etsy.com/listing/4432045135/jewish-mama-sweatshirt-cozy-crewneck\n(25)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "**2027 Lunar Phase Calendar: Moon Art Poster in a Tube**\nDiscover the 2027 lunar phase calendars, beautifully packaged in sturdy tubes.\nAvailable in seven vibrant colors, this is the original lunar phase poster you’ve been searching for!\nCelebrating over 35 years in print, this exquisite moon calend...",
+    "source": "web",
+    "title": "2027 Lunar Phase Calendar Print: Moon Art Poster in a tube",
+    "url": "https://www.etsy.com/listing/4579749252/2027-lunar-phase-calendar-print-moon-art"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "ForgedDevotion - Etsy\n…\n...\n# ForgedDevotion\n## About ForgedDevotion\nGothic & Catholic Jewelry | Cross Necklaces & Pendants",
+    "source": "web",
+    "title": "ForgedDevotion - Etsy",
+    "url": "https://www.etsy.com/shop/ForgedDevotion?from_page=listing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Art & Collectibles - Etsy\n# Art & Collectibles\nCustom artwork, portraits, and totally original paintings and prints to turn your home into a gallery",
+    "source": "web",
+    "title": "Art & Collectibles",
+    "url": "https://www.etsy.com/c/art-and-collectibles"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\n...\n(1,000+ items)\n- ### Let Me Manifest For You | Love, Money, Career, Luck Or Any Wish, Same Day\n...\n- ### 2000+ Christmas Laser Cut Bundle, Christmas Ornaments, Xmas Laser cut files, Festive Ornament Template, Wood Bauble Engrave(Png Dxf Ai Svg)",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "- ### Personalized Pet Fur Keepsake Keychain, Dog Hair Memorial Holder, Leather Pouch for Pet Loss Gift, Custom Memory Keyring for Dog Lovers\n(97,390)\nStar Seller",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Everyday Accessories\n(97)\nSale Price $17.44 $17.44",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Personalized - Etsy\n# Personalized\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Personalized - Etsy",
+    "url": "https://www.etsy.com/market/personalized"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 22,
+   "cost": {
+    "input_tokens_cost": 0.00077,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00346
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 136
+  }
+ }
+}

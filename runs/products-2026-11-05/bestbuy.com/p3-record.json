@@ -1,0 +1,60 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+ "idx": 3,
+ "at": "2026-11-05T13:30:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "8398 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T12:50:49+00:00",
+   "age_days": 0,
+   "cost_usd": 0.17713
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+   "price": 59.99,
+   "price_raw": "$59.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00084
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+   "price": 59.99,
+   "price_raw": "$59.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023530000000000002
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+   "price": 129.99,
+   "price_raw": "$129.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

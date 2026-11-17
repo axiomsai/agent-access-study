@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13178813",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13105245",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13071209",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/6668410",
+  "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13083479/reviews",
+  "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+  "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat138500050001&id=pcat17071&qp=features_facet=Features~Numeric%20Keypad%5Emodelfamily_facet=Model%20Family~Lenovo%20Ideapad&st=categoryid$pcmcat138500050001",
+  "https://www.bestbuy.com/site/outlet-refurbished-clearance/computers-tablets/pcmcat748300667665.c?id=pcmcat748300667665",
+  "https://www.bestbuy.com/site/outlet-refurbished-clearance/all-outlet/pcmcat1708045838024.c?id=pcmcat1708045838024"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue | PRICE: $259.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00521,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue | PRICE: $259.99 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13178813",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13105245",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13071209",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/6668410",
+   "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13083479/reviews",
+   "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+   "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat138500050001&id=pcat17071&qp=features_facet=Features~Numeric%20Keypad%5Emodelfamily_facet=Model%20Family~Lenovo%20Ideapad&st=categoryid$pcmcat138500050001",
+   "https://www.bestbuy.com/site/outlet-refurbished-clearance/computers-tablets/pcmcat748300667665.c?id=pcmcat748300667665",
+   "https://www.bestbuy.com/site/outlet-refurbished-clearance/all-outlet/pcmcat1708045838024.c?id=pcmcat1708045838024"
+  ],
+  "created": 1794080653,
+  "id": "resp_6b3bf27b-d92c-4521-9043-44f0eef68ab8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n1. Best Buy\n2. Computers & Tablets\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nModel: 83L7002MUS\nSKU: 131788...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13178813"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nModel: 83L7002MUS\nSKU: 13071209\nRating 4.6 out of 5 stars with 5...",
+    "source": "web",
+    "title": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Best Buy",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nModel: 83L7002MUS\nSKU: 13105245\n...\nRating 4.6 out of 5 stars wi...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13105245"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-09-26",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory - 128GB Storage - Frost Blue\nModel: 83L7002MUS\nSKU: 13071209\n...\nProcessor Model\nIntel Proc...",
+    "source": "web",
+    "title": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13071209"
+   },
+   {
+    "date": "2024-10-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n...\n# Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nModel: 83L7002MUS\nSKU: 6668410\n...\nProcessor Model\nIntel Process...",
+    "source": "web",
+    "title": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel ...",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/6668410"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop Intel Processor N150 2024 8GB Memory 128GB Storage Frost Blue - Best Buy\n...\n## Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\n- **Model:**\n83L7002MUS\n|\n- **SKU:**\n13083479\nRating 4.6 out of...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews - Best Buy",
+    "url": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-processor-n150-2024-8gb-memory-128gb-storage-frost-blue/JJGH3RG86H/sku/13083479/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nRating 4.6 out of 5 stars with 58 reviews\n4.6(58 reviews)\n...\n- ### Lenovo IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage\nRating 4.6 out ...",
+    "source": "web",
+    "title": "Lenovo Laptops",
+    "url": "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Numeric Keypad and Lenovo Ideapad Laptops - Best Buy\n# Numeric Keypad and Lenovo Ideapad Laptops\n...\n- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nRating 4.6 out of 5 stars with 59 reviews\n4.6(59 reviews)",
+    "source": "web",
+    "title": "Numeric Keypad and Lenovo Ideapad Laptops - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat138500050001&id=pcat17071&qp=features_facet=Features~Numeric%20Keypad%5Emodelfamily_facet=Model%20Family~Lenovo%20Ideapad&st=categoryid$pcmcat138500050001"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nRating 4.6 out of 5 stars with 57 reviews\n4.6(57 reviews)\n$399.99$39999\n+ 3 offers for you\nMore options from $331.99\nGet it **tomorrow** • **FREE**\n...\n- ### Lenovo IdeaPad Slim 3i ...",
+    "source": "web",
+    "title": "Computers and Tablets Outlet - Best Buy",
+    "url": "https://www.bestbuy.com/site/outlet-refurbished-clearance/computers-tablets/pcmcat748300667665.c?id=pcmcat748300667665"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- ### Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Processor N150 2024- 8GB Memory 128GB Storage - Frost Blue\nRating 4.6 out of 5 stars with 57 reviews\n4.6(57 reviews)\n$399.99$39999\n+ 3 offers for you\nMore options from $331.99\nPick up in **1 hour**\nGet it **tomorrow** • **FREE**\n...\n- ### L...",
+    "source": "web",
+    "title": "All Outlet - Best Buy",
+    "url": "https://www.bestbuy.com/site/outlet-refurbished-clearance/all-outlet/pcmcat1708045838024.c?id=pcmcat1708045838024"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 54,
+   "cost": {
+    "input_tokens_cost": 0.00185,
+    "output_tokens_cost": 0.00037,
+    "request_cost": 0.0025,
+    "total_cost": 0.00472
+   },
+   "prompt_tokens": 156,
+   "search_context_size": "low",
+   "total_tokens": 210
+  }
+ }
+}

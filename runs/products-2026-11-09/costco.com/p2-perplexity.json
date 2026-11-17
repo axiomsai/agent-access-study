@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+  "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+  "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+  "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+  "https://www.costco.com/p/-/barcalounger-leather-power-swivel-glider-recliner-with-power-headrest/100730129",
+  "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305",
+  "https://www.costco.com/s?keyword=ceyr26",
+  "https://www.costco.com/p/-/barcalounger-columbia-leather-power-recliner-with-power-headrest/4000178952?DM_PersistentCookieCreated=true&langId=-1",
+  "https://www.costco.com/p/-/4000418573?EMID=B2C_DAILY_2026_0725_thunt&correlationId=09c9aa61-f603-452d-bdd5-073f1a772711-0",
+  "https://www.costco.com/p/-/4000139585?EMID=B2C_2023_08228_Samsung_Deals_AJO&correlationId=f6a1cadb-aa55-412f-b8cf-09d8206f08dc"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693",
+   "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496",
+   "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943",
+   "https://www.costco.com/o/-/pre-pre-thanksgiving-day",
+   "https://www.costco.com/p/-/barcalounger-leather-power-swivel-glider-recliner-with-power-headrest/100730129",
+   "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305",
+   "https://www.costco.com/s?keyword=ceyr26",
+   "https://www.costco.com/p/-/barcalounger-columbia-leather-power-recliner-with-power-headrest/4000178952?DM_PersistentCookieCreated=true&langId=-1",
+   "https://www.costco.com/p/-/4000418573?EMID=B2C_DAILY_2026_0725_thunt&correlationId=09c9aa61-f603-452d-bdd5-073f1a772711-0",
+   "https://www.costco.com/p/-/4000139585?EMID=B2C_2023_08228_Samsung_Deals_AJO&correlationId=f6a1cadb-aa55-412f-b8cf-09d8206f08dc"
+  ],
+  "created": 1794249558,
+  "id": "resp_2cc07e0b-efc1-4db3-a6d9-4bc58acb5d92",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests | Costco\n...\n# Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\n...\n- Top Grain Leather with Vinyl Match\n- 3 Zero Gravity Power Recliners with Power Headrests\n- Storage Console with Wood T...",
+    "source": "web",
+    "title": "Barcalounger Rowan Leather Power Reclining Sectional with ...",
+    "url": "https://www.costco.com/p/-/barcalounger-rowan-leather-power-reclining-sectional-with-power-headrests/4000440693"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Reclining Sofa with Power Headrests | Costco\n...\n# Barcalounger Leather Power Reclining Sofa with Power Headrests\nItem 1441777\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushions\n- Sinuous Spring Suspension...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Reclining Sofa with Power Headrests",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-reclining-sofa-with-power-headrests/100740496"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest\nItem 1414710\n...\n- Pocket Coil Seat Cushion\n- Sinuous Spring Suspension\n- Power Headrest\n- Leggett & Platt® Reclining Mechanism\n...\nAdd s...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Glider Recliner with ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100675943"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nOnline Only\nBarcalounger Rowan Leather Power Reclining Sectional with Power Headrests\nItem 1987477\nLimit 5.\n$2,299.99\nAfter $1,000 OFF",
+    "source": "web",
+    "title": "Holiday Savings Valid Oct. 30 - Nov. 15",
+    "url": "https://www.costco.com/o/-/pre-pre-thanksgiving-day"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Swivel Glider Recliner with Power Headrest | Costco\n...\n# Barcalounger Leather Power Swivel Glider Recliner with Power Headrest\nItem 1441774\n...\n- Color: Cream\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushion\n- Leggett & Pl...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Swivel Glider Recliner with Power ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-swivel-glider-recliner-with-power-headrest/100730129"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Leather Power Glider Recliner with Power Adjustable Headrest\nItem 1435385 | Model 1435385\n...\n- Top Grain Leather with Polyurethane Match\n- Pocket Coil Seat Cushion\n- Sinuous Spring Suspension\n- Pow...",
+    "source": "web",
+    "title": "Barcalounger Leather Power Glider Recliner with Power ...",
+    "url": "https://www.costco.com/p/-/barcalounger-leather-power-glider-recliner-with-power-adjustable-headrest/100714305"
+   },
+   {
+    "date": "2025-02-26",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Barcalounger Rowan Leather Power Reclining Sectional - $2,499.99 After $800 OFF",
+    "source": "web",
+    "title": "Loading",
+    "url": "https://www.costco.com/s?keyword=ceyr26"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Columbia Leather Power Recliner with Power Headrest | Costco\n...\n# Barcalounger Columbia Leather Power Recliner with Power Headrest\nItem 1695455\n...\n- Material: Top Grain Leather with Polyurethane Match on Sides and Back\n- Pocket Coil Seat Cushion\n- Sinuous Spring Suspension\n- 1 USB Por...",
+    "source": "web",
+    "title": "Barcalounger Columbia Leather Power Recliner with Power Headrest",
+    "url": "https://www.costco.com/p/-/barcalounger-columbia-leather-power-recliner-with-power-headrest/4000178952?DM_PersistentCookieCreated=true&langId=-1"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Bryson Leather Power Rocker Recliner with Power Adjustable Headrest | Costco\n...\n# Barcalounger Bryson Leather Power Rocker Recliner with Power Adjustable Headrest\nItem 1862186\n...\n- Top Grain Leather with Polyurethane Match On Sides and Back\n- Padded Arms\n- Power Rocker Recliner with P...",
+    "source": "web",
+    "title": "Barcalounger Bryson Leather Power Rocker Recliner with Power Adjustable Headrest",
+    "url": "https://www.costco.com/p/-/4000418573?EMID=B2C_DAILY_2026_0725_thunt&correlationId=09c9aa61-f603-452d-bdd5-073f1a772711-0"
+   },
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Barcalounger Presley Leather Power Rocker Recliner with Power Headrest | Costco\n...\n# Barcalounger Presley Leather Power Rocker Recliner with Power Headrest\nItem 1656721\n...\n- Material: Top Grain Leather With Polyurethane Match On Sides And Back\n- Power Rocker Recliner With Power Headrest\n- Pocket C...",
+    "source": "web",
+    "title": "Barcalounger Presley Leather Power Rocker Recliner with ...",
+    "url": "https://www.costco.com/p/-/4000139585?EMID=B2C_2023_08228_Samsung_Deals_AJO&correlationId=f6a1cadb-aa55-412f-b8cf-09d8206f08dc"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00173,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00449
+   },
+   "prompt_tokens": 133,
+   "search_context_size": "low",
+   "total_tokens": 168
+  }
+ }
+}

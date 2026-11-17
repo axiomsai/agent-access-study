@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/",
+  "https://www.homedepot.com/p/Samsung-Bespoke-35in-29cu-ft-Standard-Depth-Charcoal-Glass-Stainless-Steel-4-Door-French-Door-Refrigerator-AI-Family-Hub-32in-RF90F29AECR/333935909",
+  "https://www.homedepot.com/p/GE-17-5-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-Counter-Depth-ENERGY-STAR-GYE18JYLFS/319240389",
+  "https://www.homedepot.com/p/GE-18-6-cu-ft-Counter-Depth-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-GWE19JYLFS/317987058",
+  "https://www.homedepot.com/p/LG-7-4-Cu-Ft-Vented-SMART-Stackable-Electric-Dryer-in-White-with-TurboSteam-and-Sensor-Dry-Technology-DLEX4000W/312440282",
+  "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916",
+  "https://www.homedepot.com/p/GE-Profile-5-4-cu-ft-High-Efficiency-Smart-Top-Load-Washer-in-Diamond-Gray-with-Impeller-Quiet-Wash-Balancing-Technology-PTW700BPTDG/320119258",
+  "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036",
+  "https://www.homedepot.com/p/Chicology-Cordless-Vinyl-Mini-Blinds-Light-FIltering-1-in-Slats-Gloss-White-70-in-W-x-48-in-L-VNBGW7048/311469910",
+  "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+ ],
+ "cited_store": true,
+ "answer": "The Home Depot — Appliances",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "The Home Depot — Appliances",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/",
+   "https://www.homedepot.com/p/Samsung-Bespoke-35in-29cu-ft-Standard-Depth-Charcoal-Glass-Stainless-Steel-4-Door-French-Door-Refrigerator-AI-Family-Hub-32in-RF90F29AECR/333935909",
+   "https://www.homedepot.com/p/GE-17-5-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-Counter-Depth-ENERGY-STAR-GYE18JYLFS/319240389",
+   "https://www.homedepot.com/p/GE-18-6-cu-ft-Counter-Depth-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-GWE19JYLFS/317987058",
+   "https://www.homedepot.com/p/LG-7-4-Cu-Ft-Vented-SMART-Stackable-Electric-Dryer-in-White-with-TurboSteam-and-Sensor-Dry-Technology-DLEX4000W/312440282",
+   "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916",
+   "https://www.homedepot.com/p/GE-Profile-5-4-cu-ft-High-Efficiency-Smart-Top-Load-Washer-in-Diamond-Gray-with-Impeller-Quiet-Wash-Balancing-Technology-PTW700BPTDG/320119258",
+   "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036",
+   "https://www.homedepot.com/p/Chicology-Cordless-Vinyl-Mini-Blinds-Light-FIltering-1-in-Slats-Gloss-White-70-in-W-x-48-in-L-VNBGW7048/311469910",
+   "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+  ],
+  "created": 1794248323,
+  "id": "resp_ae8bc885-935a-4895-8540-898ef736d43e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/"
+   },
+   {
+    "date": "2026-11-04",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Samsung Bespoke 35in.\n29cu.ft.\nStandard Depth Charcoal Glass/Stainless Steel 4-Door French Door Refrigerator AI Family Hub 32in.\nRF90F29AECR - The Home Depot\n...\n## Internet # 333935909\n## Model # RF90F29AECR\n...\n# Bespoke 35in. 29cu.ft. Standard Depth Charcoal Glass/Stainless Steel 4-Door French Do...",
+    "source": "web",
+    "title": "Samsung Bespoke 35in. 29cu.ft. Standard Depth Charcoal ...",
+    "url": "https://www.homedepot.com/p/Samsung-Bespoke-35in-29cu-ft-Standard-Depth-Charcoal-Glass-Stainless-Steel-4-Door-French-Door-Refrigerator-AI-Family-Hub-32in-RF90F29AECR/333935909"
+   },
+   {
+    "date": "2026-03-21",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "GE 17.5 cu. ft.\nFrench Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter-Depth ENERGY STAR GYE18JYLFS - The Home Depot\n...\n## Internet # 319240389\n## Model # GYE18JYLFS\n## Store SKU # 1007428486\n...\n# 17.5 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, C...",
+    "source": "web",
+    "title": "GE 17.5 cu. ft. French Door Refrigerator in Fingerprint Resistant ...",
+    "url": "https://www.homedepot.com/p/GE-17-5-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-Counter-Depth-ENERGY-STAR-GYE18JYLFS/319240389"
+   },
+   {
+    "date": "2026-10-07",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "GE 18.6 cu. ft.\nCounter Depth French Door Refrigerator in Fingerprint resistant, stainless Steel GWE19JYLFS - The Home Depot\n...\n## Internet # 317987058\n## Model # GWE19JYLFS\n...\n# 18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint resistant, stainless Steel",
+    "source": "web",
+    "title": "GE 18.6 cu. ft. Counter Depth French Door Refrigerator in ...",
+    "url": "https://www.homedepot.com/p/GE-18-6-cu-ft-Counter-Depth-French-Door-Refrigerator-in-Fingerprint-resistant-stainless-Steel-GWE19JYLFS/317987058"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "LG 7.4 Cu.\nFt.\nVented SMART Stackable Electric Dryer in White with TurboSteam and Sensor Dry Technology DLEX4000W - The Home Depot\n...\n## Model # DLEX4000W\n...\n# 7.4 Cu. Ft. Vented SMART Stackable Electric Dryer in White with TurboSteam and Sensor Dry Technology\n...\n## Store SKU # 1005793823\n### Cus...",
+    "source": "web",
+    "title": "7.4 Cu. Ft. Vented SMART Stackable Electric Dryer in White ...",
+    "url": "https://www.homedepot.com/p/LG-7-4-Cu-Ft-Vented-SMART-Stackable-Electric-Dryer-in-White-with-TurboSteam-and-Sensor-Dry-Technology-DLEX4000W/312440282"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Frigidaire 13 cu. ft.\nGarage Ready Convertible Frost Free Upright Freezer in White, Energy Star FFUE1326AW - The Home Depot\nAppliances\nFreezers\nUpright Freezers\nFrigidaire Upright Freezers\n## Internet # 339011916\n## Model # FFUE1326AW\n## Store SKU # 1014956823\n...\nThe 13 cu. ft..\nupright freezer off...",
+    "source": "web",
+    "title": "Frigidaire 13 cu. ft. Garage Ready Convertible Frost Free ...",
+    "url": "https://www.homedepot.com/p/Frigidaire-13-cu-ft-Garage-Ready-Convertible-Frost-Free-Upright-Freezer-in-White-FFUE1326AW/339011916"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "GE Profile 5.4 cu. ft.\nHigh-Efficiency Smart Top Load Washer in Diamond Gray with Impeller, Quiet Wash Balancing Technology PTW700BPTDG - The Home Depot\nAppliances\n...\nGE Top Load Washers\n## Internet # 320119258\n## Model # PTW700BPTDG\n## Store SKU # 1007583040",
+    "source": "web",
+    "title": "GE Profile 5.4 cu. ft. High-Efficiency Smart Top Load Washer in Diamond Gray with Impeller, Quiet Wash Balancing Technology PTW700BPTDG - The Home Depot",
+    "url": "https://www.homedepot.com/p/GE-Profile-5-4-cu-ft-High-Efficiency-Smart-Top-Load-Washer-in-Diamond-Gray-with-Impeller-Quiet-Wash-Balancing-Technology-PTW700BPTDG/320119258"
+   },
+   {
+    "date": "2026-05-25",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "VEVOR 5 Gal.\nSand Blaster 60 to 110 PSI High Pressure Sandblaster with 4 Nozzles, Oil-Water Separator for Paint Stain Removal PSG5JL6125PS7XJMJV0 - The Home Depot\n...\nVEVOR 5 Gal.\nSand Blaster.\nChoose VEVOR 5 Gal.\nsandblaster and experience a simpler, more efficient and precise surface treatment.\nIt...",
+    "source": "web",
+    "title": "VEVOR 5 Gal. Sand Blaster 60 to 110 PSI High Pressure Sandblaster with ...",
+    "url": "https://www.homedepot.com/p/VEVOR-5-Gal-Sand-Blaster-60-to-110-PSI-High-Pressure-Sandblaster-with-4-Nozzles-Oil-Water-Separator-for-Paint-Stain-Removal-PSG5JL6125PS7XJMJV0/329683036"
+   },
+   {
+    "date": "2026-09-10",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Chicology Cordless Vinyl Mini Blinds, Light FIltering, 1 in.\nSlats, Gloss White, 70 in.\nW x 48 in.\nL VNBGW7048 - The Home Depot\n...\n# Cordless Vinyl Mini Blinds, Light FIltering, 1 in. Slats, Gloss White, 70 in. W x 48 in. L\n...\n$36.98\n...\n## Model # VNBGW7048\n### Specifications\n#### Dimensions\n|Act...",
+    "source": "web",
+    "title": "Chicology Cordless Vinyl Mini Blinds, Light FIltering, 1 in. Slats, Gloss White, 70 in. W x 48 in. L VNBGW7048 - The Home Depot",
+    "url": "https://www.homedepot.com/p/Chicology-Cordless-Vinyl-Mini-Blinds-Light-FIltering-1-in-Slats-Gloss-White-70-in-W-x-48-in-L-VNBGW7048/311469910"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Building Materials - The Home Depot\nBuilding Materials\n# Building Materials\n## Order Now, Get It Faster\nGet same-day delivery on select in-stock building materials when you order before 4 p.m.\nSubject to availability.",
+    "source": "web",
+    "title": "Building Materials",
+    "url": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 5,
+   "cost": {
+    "input_tokens_cost": 0.0011099999999999999,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00363
+   },
+   "prompt_tokens": 59,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

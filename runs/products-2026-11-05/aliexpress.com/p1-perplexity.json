@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/category/200003189/category.html",
+  "https://www.aliexpress.com/gcp/300001352/main",
+  "https://www.aliexpress.com/item/1005010217517516.html",
+  "https://www.aliexpress.com/item/1005013100879534.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=4c693cea-c25f-4f7e-ba17-d120d87626c1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:4c693cea-c25f-4f7e-ba17-d120d87626c1,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B%22order%22:%22114%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013100879534%22,%22orig_item_id%22:%221005012992689691%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!211.58!211.58!!!1404.92!1404.92!@2103081117927096241966237e0d07!12000060295768744!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013100879534%7C_p_origin_prod:1005012992689691",
+  "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161",
+  "https://www.aliexpress.com/item/1005006244678789.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in available results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in available results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/category/200003189/category.html",
+   "https://www.aliexpress.com/gcp/300001352/main",
+   "https://www.aliexpress.com/item/1005010217517516.html",
+   "https://www.aliexpress.com/item/1005013100879534.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=4c693cea-c25f-4f7e-ba17-d120d87626c1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:4c693cea-c25f-4f7e-ba17-d120d87626c1,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B%22order%22:%22114%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013100879534%22,%22orig_item_id%22:%221005012992689691%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!211.58!211.58!!!1404.92!1404.92!@2103081117927096241966237e0d07!12000060295768744!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013100879534%7C_p_origin_prod:1005012992689691",
+   "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161",
+   "https://www.aliexpress.com/item/1005006244678789.html"
+  ],
+  "created": 1793907633,
+  "id": "resp_4ba74403-f743-437a-9b5a-001f949f57a2",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Today's deals\n### Dollar Express\n...\n## More to love\n### Four Seasons Men's And Women's Universal Y2K Knit Hat Spider Web Riding Outdoor Sports Fashion Hat\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### Handmade Spider-Man 2 Movie Accuracy Garfield Version Cosplay Mask Peter Parker Handicraft Collectible Item For Birthday Gifts",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807541562330.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2025-05-05",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Koop https aliexpress met gratis verzending op ...",
+    "url": "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### APEXEL Professional HB100U with LED Light Macro LenPhotography Lens for iPhone Samsung and All Smartphones, Aluminum Phone Camera Lens Kit with Universal Clip. Phone Lens Attachment",
+    "source": "web",
+    "title": "X",
+    "url": "https://www.aliexpress.com/category/200003189/category.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## More to love\n### VIKAMA Simple Silk Wool Plush Carpet Bedroom Living Room Bed Blanket Solid Color High-Grade Soft Blanket Room Coffee Table Mat\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "主会场",
+    "url": "https://www.aliexpress.com/gcp/300001352/main"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, this item's currently unavailable in your location.",
+    "source": "web",
+    "title": "Bone Conduction Headphones Bluetooth 5.4 12H Battery - AliExpress",
+    "url": "https://www.aliexpress.com/item/1005010217517516.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n## More to love\n### 4pcs 56mm/68mm Automotive Wheel Hub Center Cover Accessories Suitable for BMW mini M X2 X1 X3 X5 X6 X7 E60 E92 E71 E70 E46 F18",
+    "source": "web",
+    "title": "Original Ulanzi TC002 Pixbar Smart Pixel Clock II Multi Function ...",
+    "url": "https://www.aliexpress.com/item/1005013100879534.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=4c693cea-c25f-4f7e-ba17-d120d87626c1&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:4c693cea-c25f-4f7e-ba17-d120d87626c1,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B%22order%22:%22114%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013100879534%22,%22orig_item_id%22:%221005012992689691%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!211.58!211.58!!!1404.92!1404.92!@2103081117927096241966237e0d07!12000060295768744!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013100879534%7C_p_origin_prod:1005012992689691"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount Aluminum Base Original House Mounting Kit - AliExpress 13\n# Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount Aluminum Base Original House Mounting Kit\n...\n$48.09",
+    "source": "web",
+    "title": "Starlink Roof Mount, Starlink Standard 4/Gen 3 Pivot Wall Mount ...",
+    "url": "https://www.aliexpress.com/item/1005013277937684.html?gps-id=platformRecommendH5ForSpider&scm=1007.10668.432016.0&scm_id=1007.10668.432016.0&scm-url=1007.10668.432016.0&pvid=90051161-6e7b-4864-90c0-94c52a3c1ae7&_t=gps-id:platformRecommendH5ForSpider,scm-url:1007.10668.432016.0,pvid:90051161-6e7b-4864-90c0-94c52a3c1ae7,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22order%22:%2224%22,%22eval%22:%221%22,%22orig_sl_item_id%22:%221005013277937684%22,%22orig_item_id%22:%221005012991683161%22,%22sceneId%22:%228499%22,%22fromPage%22:%22recommend%22%7D&pdp_npi=6@dis!USD!120.29!120.29!!!800.84!800.84!@2103094f17921629712943353e0f07!12000060708819411!rec!CA!!AB!1!0!&utparam-url=scene:platformRecommendH5ForSpider%7Cquery_from:%7Cx_object_id:1005013277937684%7C_p_origin_prod:1005012991683161"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005006244678789.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.0011099999999999999,
+    "output_tokens_cost": 0.0002,
+    "request_cost": 0.0025,
+    "total_cost": 0.00381
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 139
+  }
+ }
+}

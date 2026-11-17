@@ -1,0 +1,144 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631",
+ "retrieved_at": "2026-10-18T19:14:01+00:00",
+ "age_days": 20,
+ "doc_chars": 9436,
+ "doc_markers": [],
+ "answer": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.15172,
+ "raw": [
+  {
+   "id": "srvtoolu_01V1jyjEPs4g3bDPxKhzJxhf",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0]['title'],len(c));import re\n print(c[:1500]);print(re.findall(r'.{60}\\$\\d+\\.\\d\\d.{60}',c)[:8]);print(re.findall(r'.{50}(?:[Ii]n [Ss]tock|[Oo]ut of [Ss]tock|[Uu]navailable).{50}',c)[:6])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01AQuHAC5NmbEVZz5woZCFZG",
+   "caller": {
+    "tool_id": "srvtoolu_01V1jyjEPs4g3bDPxKhzJxhf",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01V1jyjEPs4g3bDPxKhzJxhf",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\nmeta-HandheldFriendly: True\nmeta-MobileOptimized: 320\nmeta-apple-mobile-web-app-capable: yes\nmeta-apple-mobile-web-app-status-bar-style: black\nmeta-description: Shop holiday living 7.5-ft new kensington pine pre-lit artificial christmas tree with twinkling color changing led lightsLowes.com\nmeta-format-detection: telephone=no\nmeta-og:description: Shop holiday living 7.5-ft new kensington pine pre-lit artificial christmas tree with twinkling color changing led lightsLowes.com\nmeta-og:image: //mobileimages.lowes.com/productimages/f8a34b99-022c-4041-be96-4426662c29d9/103499983.jpeg?size=sm\nmeta-og:site_name: Lowe's\nmeta-og:title: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights Lowes.com\nmeta-og:type: product\nmeta-og:url: https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\nmeta-robots: follow\nmeta-viewport: width=device-width, user-scalable=yes, minimum-scale=1.0,maximum-scale=5.0,initial-scale=1.0\ntitle: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights in the Artificial Christmas Trees department at Lowes.com\n---\n\nSkip to main content\n\n[Find great gifts for everyone on your list in the Gift Zone. Shop Now >](https://www.lowes.com/pl/Gifting/1711264269779?int_cmp=FW37_26_Gifting_GLOBAL)\n\n[Lowe's Credit Center](https://www.lowes.com/l/Credit)[Order Status](https://www.lowes.com/mylowes/orders)[Weekly Ad](https://www.lowes.com/weekly-ad)[Lowe's PRO](https://www.lowes.com/l/Pro)\n\n[Link to Lowe's Home Improvement Home Page](https://www.lowes.com/ \"Link to Lowe's Home Improvement Home Page\")\n\nMylow\n\nMyLowesSign In\n\nCart with 0 itemsCart\n\nShop All\n\nServices\n\nDeals\n\nDesign & Ideas\n\n$99 Maintenance\n\nAppliances\n\nBathroom\n\nLighting\n\nFlooring\n\nBuilding Supplies\n\nTools\n\nHoliday Decorations\n\nOutdoor\n\nLawn & Garden\n\n[Fall Inspo](https://www.lowes.com/l/seasonal-inspiration)\n\nPrices, Promotions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and availability of products and services are subject to change without notice. Errors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted.\n\n1. [Holiday Decorations](https://www.lowes.com/c/Holiday-decorations)\n2. [Christmas Decorations](https://www.lowes.com/c/Christmas-decorations-Holiday-decorations)\n3. [Christmas Trees](https://www.lowes.com/c/Christmas-trees-Christmas-decorations-Holiday-decorations)\n4. [Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430)\n\n- ![Holiday Living W14L0939 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights](https://mobileimages.lowes.com/productimages/f8a34b99-022c-4041-be96-4426662c29d9/103499983.jpeg?size=pdhz)\n\n  \n  \n  \n  \n  \n\n- ![A thumbnail for the video](https://mobileimages.lowes.com/productimages/a812d0dd-a570-40b7-891c-a142a5d390f4/New-Kensington_thumbnail.jpg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #2](https://mobileimages.lowes.com/productimages/251967ad-14f6-4ca0-95b3-00ab1151b959/72861358.png?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #3](https://mobileimages.lowes.com/productimages/d2da4310-9c8e-43c2-a5a7-f23ec99dadc4/69461341.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #4](https://mobileimages.lowes.com/productimages/cefb82bd-c8a0-4b55-a20c-4bacaccb595e/72310096.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #5](https://mobileimages.lowes.com/productimages/b70888e4-b73b-4283-8cab-9c64c78b258b/72310211.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #6](https://mobileimages.lowes.com/productimages/b660777a-737f-49a4-b493-9267d51be2c2/72310279.jpeg?size=pdhism)\n\n-\n-\n-\n-\n-\n\n View All Images\n\n1K+bought last week\n\n# Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\n\nItem #6023522 |\n\nModel #W14L0939\n\n[Shop Holiday Living](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/holiday-living/4294417430-4294965360)\n\n[Shop the Collection](https://www.lowes.com/collections/Holiday-Living-New-Kensington-7-5-ft/GR_32812)\n\n**Height:** 7.5\n\n7.5\n\n9\n\n12\n\n**Shape:** Full\n\nFull\n\nSlim\n\n**Manufacturer Color/Finish:** Green\n\nGreen\n\nGreen & White\n\nStepper number input field with increment and decrement buttons\n\nBest Price. Guaranteed\n\nFind a lower price on an exact item? We'll match it. Some exclusions apply.\n\n[Price Guarantee](https://www.lowes.com/l/about/lowest-price-guarantee)\n\nFREE Returns\n\nReturn it in store or ship it back for free. Eligibility rules apply.\n\nReturn Policy\n\nPay Your Way\n\nCredit card, PayPal or Buy Now, Pay Later options available at checkout. Your choice.\n\n[Payment Options](https://www.lowes.com/l/Credit)\n\n## Overview\n\n- Realistic, Lifelike Appearance: This pre-lit tree offers a full, natural look with 2707 tips, for a width of 56 inches, mimicking a real tree while maintaining durability and beauty for years of holiday celebrations.\n\n- Dual Twinkle & Color Options: Featuring LED dual-color lights in warm white and multicolor (R/Y/B/G/P), plus twinkling bulbs, this tree creates a dynamic, mesmerizing light show that enhances any holiday décor.\n\n- Convenient & Easy Setup: With a 9-function foot switch, memory wire for perfect shape retention, and quick-connect construction, this tree makes decorating effortless and delivers a stunning holiday display with minimal fuss.\n\n- Self-Shaping Branch Construction - Designed for easier fluffing and faster setup during the busy holiday season\n\n- 2250 lights that controlled by foot pedal switch which includes 9 functions - combination, twinkle warm white, steady warm white, slow fade warm white, twinkle multicolor, steady multicolor, slow fade multicolor, sequential warm white and multicolor, slow fade warm white and multicolor.\n\n- One plug tree® and quick connect® technology - simple pole-to-pole connection lights the entire tree with just a single cord and plug.\n\n## Specifications\n\nManuals & Documents\n\n[Instructions/Assembly](https://pdf.lowes.com/productdocuments/0215afdc-544c-4c06-81a6-528a1b9eb80e/103335150.pdf)PDF\n\n[Read All Reviews](https://www.lowes.com/reviews/holiday-living-w14l0939-artificial-christmas-trees/5016065631)\n\n## Reviews\n\n0 ( 0 )\n\n[Read All Q&A](https://www.lowes.com/questions/holiday-living-w14l0939-artificial-christmas-trees/5016065631)\n\n## Community Q & A\n\n### RELATED SEARCHES\n\n[Holiday Living Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/holiday-living/4294417430-4294965360)\n\n[Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430)\n\n[Holiday Living Outdoor Christmas Decorations](https://www.lowes.com/pl/christmas-decorations/outdoor-christmas-decor/outdoor-christmas-decorations/holiday-living/4294417423-4294965360)\n\n[Pre-lit Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pre-lit/4294417430-4294701146)\n\n[Full Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/full/4294417430-4294416386)\n\n[Pine Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pine/4294417430-2810922122)\n\n[LED Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/led/4294417430-4294836652)\n\n[Multi-function Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/multi-function/4294417430-4294698997)\n\n[Green Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/green/4294417430-4294797985)\n\n[Flocked Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/flocked/4294417430-4294416607)\n\n[Multicolor/White Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/multicolor-white/4294417430-1622090000516)\n\n[Self-Shaping Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/self-shaping/4294417430-4294414169)\n\n[PE/PVC Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pe-pvc/4294417430-1352143346)\n\n[Leg base Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/leg-base/4294417430-4294411558)\n\n[Single Plug Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/single-plug/4294417430-1169230756)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights Lowes.com",
+     "type": "document"
+    },
+    "retrieved_at": "2026-10-18T19:14:01+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631"
+   },
+   "tool_use_id": "srvtoolu_01AQuHAC5NmbEVZz5woZCFZG",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01V1jyjEPs4g3bDPxKhzJxhf/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0]['title'],len(c));import re\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01V1jyjEPs4g3bDPxKhzJxhf",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_018c6ubF3owQA4L4ET3DTVne",
+   "caller": null,
+   "input": {
+    "code": "print(type(r), str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\", \"retrieved_at\": \"2026-10-18T19:14:01+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\\nmeta-HandheldFriendly: True\\nmeta-MobileOptimized: 320\\nmeta-apple-mobile-web-app-capable: yes\\nmeta-apple-mobile-web-app-status-bar-style: black\\nmeta-description: Shop holiday living 7.5-ft new kensington pine pre-lit artificial christmas tree with twinkling color changing led lightsLowes.com\\nmeta-format-detection: telephone=no\\nmeta-og:description: Shop holiday living 7.5-ft new kensington pine pre-lit artificial christmas tree with twinkling color changing led lightsLowes.com\\nmeta-og:image: //mobileimages.lowes.com/productimages/f8a34b99-022c-4041-be96-4426662c29d9/103499983.jpeg?size=sm\\nmeta-og:site_name: Lowe's\\nmeta-og:title: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights Lowes.com\\nmeta-og:type: product\\nmeta-og:url: https://www.lowes.com/pd/Holiday-Living-7-5-ft-New-Kensington-Pine-Pre-lit-Artificial-Christmas-Tree-with-Twinkling-Color-Changing-LED-Lights/5016065631\\nmeta-robots: follow\\nmeta-viewport:\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_018c6ubF3owQA4L4ET3DTVne",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01CioLZiJRZcFwarwxyhguit",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nc=json.loads(r)['content']['source']['data'];print(len(c))\nprint(c[1500:3500])\nprint(re.findall(r'.{80}\\$\\d+\\.\\d\\d.{80}',c,re.S)[:8]);print(re.findall(r'.{60}(?:[Ii]n [Ss]tock|[Oo]ut of [Ss]tock|[Uu]navailable|Add to Cart).{60}',c,re.S)[:6])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "9436\nn the Gift Zone. Shop Now >](https://www.lowes.com/pl/Gifting/1711264269779?int_cmp=FW37_26_Gifting_GLOBAL)\n\n[Lowe's Credit Center](https://www.lowes.com/l/Credit)[Order Status](https://www.lowes.com/mylowes/orders)[Weekly Ad](https://www.lowes.com/weekly-ad)[Lowe's PRO](https://www.lowes.com/l/Pro)\n\n[Link to Lowe's Home Improvement Home Page](https://www.lowes.com/ \"Link to Lowe's Home Improvement Home Page\")\n\nMylow\n\nMyLowesSign In\n\nCart with 0 itemsCart\n\nShop All\n\nServices\n\nDeals\n\nDesign & Ideas\n\n$99 Maintenance\n\nAppliances\n\nBathroom\n\nLighting\n\nFlooring\n\nBuilding Supplies\n\nTools\n\nHoliday Decorations\n\nOutdoor\n\nLawn & Garden\n\n[Fall Inspo](https://www.lowes.com/l/seasonal-inspiration)\n\nPrices, Promotions, styles, and availability may vary. Our local stores do not honor online pricing. Prices and availability of products and services are subject to change without notice. Errors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted.\n\n1. [Holiday Decorations](https://www.lowes.com/c/Holiday-decorations)\n2. [Christmas Decorations](https://www.lowes.com/c/Christmas-decorations-Holiday-decorations)\n3. [Christmas Trees](https://www.lowes.com/c/Christmas-trees-Christmas-decorations-Holiday-decorations)\n4. [Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430)\n\n- ![Holiday Living W14L0939 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights](https://mobileimages.lowes.com/productimages/f8a34b99-022c-4041-be96-4426662c29d9/103499983.jpeg?size=pdhz)\n\n  \n  \n  \n  \n  \n\n- ![A thumbnail for the video](https://mobileimages.lowes.com/productimages/a812d0dd-a570-40b7-891c-a142a5d390f4/New-Kensington_thumbnail.jpg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #2](https://mobileimages.lowes.com/product\n[]\n[]\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01CioLZiJRZcFwarwxyhguit",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01P2M3d3QNwXw9aJYGhJ6qTS",
+   "caller": null,
+   "input": {
+    "code": "print(c[3500:9436])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "images/251967ad-14f6-4ca0-95b3-00ab1151b959/72861358.png?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #3](https://mobileimages.lowes.com/productimages/d2da4310-9c8e-43c2-a5a7-f23ec99dadc4/69461341.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #4](https://mobileimages.lowes.com/productimages/cefb82bd-c8a0-4b55-a20c-4bacaccb595e/72310096.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #5](https://mobileimages.lowes.com/productimages/b70888e4-b73b-4283-8cab-9c64c78b258b/72310211.jpeg?size=pdhism)\n\n- ![Holiday Living W14L0939 Artificial-Christmas-Trees - View #6](https://mobileimages.lowes.com/productimages/b660777a-737f-49a4-b493-9267d51be2c2/72310279.jpeg?size=pdhism)\n\n-\n-\n-\n-\n-\n\n View All Images\n\n1K+bought last week\n\n# Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights\n\nItem #6023522 |\n\nModel #W14L0939\n\n[Shop Holiday Living](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/holiday-living/4294417430-4294965360)\n\n[Shop the Collection](https://www.lowes.com/collections/Holiday-Living-New-Kensington-7-5-ft/GR_32812)\n\n**Height:** 7.5\n\n7.5\n\n9\n\n12\n\n**Shape:** Full\n\nFull\n\nSlim\n\n**Manufacturer Color/Finish:** Green\n\nGreen\n\nGreen & White\n\nStepper number input field with increment and decrement buttons\n\nBest Price. Guaranteed\n\nFind a lower price on an exact item? We'll match it. Some exclusions apply.\n\n[Price Guarantee](https://www.lowes.com/l/about/lowest-price-guarantee)\n\nFREE Returns\n\nReturn it in store or ship it back for free. Eligibility rules apply.\n\nReturn Policy\n\nPay Your Way\n\nCredit card, PayPal or Buy Now, Pay Later options available at checkout. Your choice.\n\n[Payment Options](https://www.lowes.com/l/Credit)\n\n## Overview\n\n- Realistic, Lifelike Appearance: This pre-lit tree offers a full, natural look with 2707 tips, for a width of 56 inches, mimicking a real tree while maintaining durability and beauty for years of holiday celebrations.\n\n- Dual Twinkle & Color Options: Featuring LED dual-color lights in warm white and multicolor (R/Y/B/G/P), plus twinkling bulbs, this tree creates a dynamic, mesmerizing light show that enhances any holiday décor.\n\n- Convenient & Easy Setup: With a 9-function foot switch, memory wire for perfect shape retention, and quick-connect construction, this tree makes decorating effortless and delivers a stunning holiday display with minimal fuss.\n\n- Self-Shaping Branch Construction - Designed for easier fluffing and faster setup during the busy holiday season\n\n- 2250 lights that controlled by foot pedal switch which includes 9 functions - combination, twinkle warm white, steady warm white, slow fade warm white, twinkle multicolor, steady multicolor, slow fade multicolor, sequential warm white and multicolor, slow fade warm white and multicolor.\n\n- One plug tree® and quick connect® technology - simple pole-to-pole connection lights the entire tree with just a single cord and plug.\n\n## Specifications\n\nManuals & Documents\n\n[Instructions/Assembly](https://pdf.lowes.com/productdocuments/0215afdc-544c-4c06-81a6-528a1b9eb80e/103335150.pdf)PDF\n\n[Read All Reviews](https://www.lowes.com/reviews/holiday-living-w14l0939-artificial-christmas-trees/5016065631)\n\n## Reviews\n\n0 ( 0 )\n\n[Read All Q&A](https://www.lowes.com/questions/holiday-living-w14l0939-artificial-christmas-trees/5016065631)\n\n## Community Q & A\n\n### RELATED SEARCHES\n\n[Holiday Living Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/holiday-living/4294417430-4294965360)\n\n[Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/4294417430)\n\n[Holiday Living Outdoor Christmas Decorations](https://www.lowes.com/pl/christmas-decorations/outdoor-christmas-decor/outdoor-christmas-decorations/holiday-living/4294417423-4294965360)\n\n[Pre-lit Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pre-lit/4294417430-4294701146)\n\n[Full Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/full/4294417430-4294416386)\n\n[Pine Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pine/4294417430-2810922122)\n\n[LED Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/led/4294417430-4294836652)\n\n[Multi-function Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/multi-function/4294417430-4294698997)\n\n[Green Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/green/4294417430-4294797985)\n\n[Flocked Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/flocked/4294417430-4294416607)\n\n[Multicolor/White Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/multicolor-white/4294417430-1622090000516)\n\n[Self-Shaping Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/self-shaping/4294417430-4294414169)\n\n[PE/PVC Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/pe-pvc/4294417430-1352143346)\n\n[Leg base Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/leg-base/4294417430-4294411558)\n\n[Single Plug Artificial Christmas Trees](https://www.lowes.com/pl/christmas-decorations/christmas-trees/artificial-christmas-trees/single-plug/4294417430-1169230756)\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01P2M3d3QNwXw9aJYGhJ6qTS",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSjQUKEAgTGAI4AUIIdGhpbmtpbmcSDGGIqa13JaVh3XSHDBoMGr1fdhMVsYWmE4hQIjAZwkxYkPZ9KE6kHIWUQjY6LN8sdN890aASqSILyTZUzp2QbklVW35/63XRzZhcCjwqqgTNVj3Zm/h7O8/0MlqTUkKTdb/pmEsLbilZrN05Qh6ICHKZNuEH2jETt1s/VtlcqJF/uNp8RZmDZTOel7T/MaJuCnaIyXVMu1vtewUYSgGuYk2zdynzaBVfP72IhAFkkXGgo1CNJNHeJYi7NUZY0b6WntsFdhszhI9qVq/D4x5FQvcBhZ0b+AbgZuKhVUp4qct8AHPyXzAEu3sHNv1VejqJskGg27i13BapkMr+lhZ1IT3oR93katl8YQGxMnqzAZ9qgyc+Aa6bqH7SHd2Oj2vsqmwOCCwZsj12IHD5d5Iob3UmrLeD4DFytB9XN2oqni5b67PJ2RqGp4Tba6mqZ1etBChei/ealDUEggW+Xztiax896alm5vPLfUkP+8Wnx59xZD1nITAs+7U9cnpD0Dyn08hiqJFVZntVSrDG3x1m9COWpNMkHHKOX2q48SN6sUje7Kb4/UZq2Jzv6f58oj1sKJ0c1DjXYo+0GSS3I3tkA+N/d+0R+b2eUm7OnT07EEEdP7PALOz1qkzqJ4lVdrr5P2owp98e3wUwmooC8mGi5YF6oWe5ZbTcBrG9/mUE94YUsNH0M0T5guH2Xcroi5UYtVlc9AXfHIF4Xd38e8eBSQAs6XHvPPwAz57hflxmQmHof7zi6F2NmZhtKj7jdMKRG0HVcCV0cGR7+BHJ52S9cjf7hOazoNK8TZDEPuw5a/2Cs2g/cu2JoLPqQ1aIS64bLFS1TuiPok7/3hgB",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Holiday Living 7.5-ft New Kensington Pine Pre-lit Artificial Christmas Tree with Twinkling Color Changing LED Lights | PRICE: NONE | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

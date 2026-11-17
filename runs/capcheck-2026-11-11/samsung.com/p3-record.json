@@ -1,0 +1,25 @@
+{
+ "domain": "samsung.com",
+ "idx": 3,
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "16058 chars, copy dated 2026-11-11 (0 days old)",
+   "price": 2299.99,
+   "opened": "YES",
+   "doc_chars": 16058,
+   "input_tokens": 40182,
+   "cost_usd": 0.17809
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "16058 chars, copy dated 2026-11-11 (0 days old)",
+   "price": 2299.99,
+   "opened": "YES",
+   "doc_chars": 16058,
+   "input_tokens": 23519,
+   "cost_usd": 0.10802
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "model": "claude-opus-5-5",
+ "stop_reason": "end_turn",
+ "tool_called": true,
+ "tool_error": null,
+ "fetched_url": "https://www.etsy.com/listing/4435842809",
+ "retrieved_at": "2026-11-04T00:13:59+00:00",
+ "age_days": 0,
+ "doc_chars": 18600,
+ "doc_markers": [],
+ "answer": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $118.48 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.21128,
+ "raw": [
+  {
+   "id": "srvtoolu_011X7q5crNGsuvAtdK8b2cTz",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.etsy.com/listing/4435842809\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c['result_type']);print(c['content'][:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01S81bGrmkmgZERRLTUAjroK",
+   "caller": {
+    "tool_id": "srvtoolu_011X7q5crNGsuvAtdK8b2cTz",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.etsy.com/listing/4435842809"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_011X7q5crNGsuvAtdK8b2cTz",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name\nmeta-al:android:app_name: Etsy\nmeta-al:android:package: com.etsy.android\nmeta-al:android:url: etsy://listing/4435842809?ref=applinks_android\nmeta-al:ios:app_name: Etsy\nmeta-al:ios:app_store_id: 477128284\nmeta-al:ios:url: etsy://listing/4435842809?ref=applinks_ios\nmeta-apple-mobile-web-app-title: Etsy\nmeta-application-name: Etsy\nmeta-csrf_nonce: 3:1793751239:RegWLtlToSoxHiiFWAfVGPWCeqrQ:c0089cbb4c7de285ac47e0d6aada9e4135b1c8c704a13c1ab62601bb5cad1f15\nmeta-css_dist_path: /ac/sasquatch/css/\nmeta-description: This Gender-Neutral Adult Sweatshirts item by ParentClubStore has 30 favorites from Etsy shoppers. Ships from Charlotte, NC. Listed on Jul 28, 2026\nmeta-dist: 202611031793745869\nmeta-fb:app_id: 89186614300\nmeta-msapplication-TileColor: #F1641E\nmeta-og:description: This Gender-Neutral Adult Sweatshirts item by ParentClubStore has 30 favorites from Etsy shoppers. Ships from Charlotte, NC. Listed on Jul 28, 2026\nmeta-og:image: https://i.etsystatic.com/53432708/r/il/5ca525/7343682960/il_1080xN.7343682960_78ce.jpg\nmeta-og:title: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy\nmeta-og:type: product\nmeta-og:url: https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share\nmeta-pinterest: nosearch\nmeta-product:price:amount: 118.48\nmeta-product:price:currency: USD\nmeta-robots: max-image-preview:large\nmeta-theme-color: rgb(255, 255, 255)\nmeta-twitter:app:id:googleplay: com.etsy.android\nmeta-twitter:app:id:ipad: 477128284\nmeta-twitter:app:id:iphone: 477128284\nmeta-twitter:app:name:googleplay: Etsy\nmeta-twitter:app:name:ipad: Etsy\nmeta-twitter:app:name:iphone: Etsy\nmeta-twitter:app:url:googleplay: etsy://listing/4435842809?ref=TwitterProductCard\nmeta-twitter:app:url:ipad: etsy://listing/4435842809?ref=TwitterProductCard\nmeta-twitter:app:url:iphone: etsy://listing/4435842809?ref=TwitterProductCard\nmeta-twitter:card: summary_large_image\nmeta-twitter:site: @Etsy\nmeta-uaid_nonce: 3:1793751239:h1dIIWc1BOj9kZUuAFMIORRytPgX:70fa6a22ebef517ef2106e51e0f0508ba30fb6faa74eb82e909311903a45db0b\nmeta-viewport: width=device-width, initial-scale=1.0\ntitle: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy\n---\n\n[Etsy](https://www.etsy.com/?ref=lgo)\n\nCategories\n\nBrowse\n\nSearch for items or shops\n\nClear search\n\n[Skip to Content](#content)\n\n- Sign in\n- [0](https://www.etsy.com/cart?ref=hdr-cart) Cart\n\n- [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav)\n- [Friendsgiving Finds](https://www.etsy.com/r/curated/top-100-friendsgiving-picks?sections=1502464589897&ref=Friendsgiving110226_cat_nav)\n- [Home Favorites](https://www.etsy.com/featured/hub/home-favorites?ref=contentful_promo_cat_nav-4)\n- [Fashion Finds](https://www.etsy.com/featured/hub/fashion-favorites?ref=contentful_promo_cat_nav-5)\n- [Vintage](https://www.etsy.com/r/curated/etsys-best-vintage-finds?sections=1461029776888&narrow=best-vintage-finds&ref=contentful_promo_cat_nav-6)\n- [Wedding Guide](https://www.etsy.com/featured/hub/weddings-hub?ref=contentful_promo_cat_nav-9)\n- [Gift Cards](https://www.etsy.com/giftcards?ref=contentful_promo_cat_nav-10)\n\n- [Homepage](https://www.etsy.com/?ref=catnav_breadcrumb-home)\n- [Clothing](https://www.etsy.com/c/clothing?explicit=1&ref=catnav_breadcrumb-0)\n\nEtsy’s Pick\n\nEtsy’s Picks are hand selected by our style experts to highlight items from shops that have shown quality, reliability and style.\n\n[Discover More](https://www.etsy.com/featured/hub/etsy-picks?ref=listing_etsys_pick_signal)\n\nAdd to Favorites\n\n- ![Matching Family Sweatshirts Custom Name Embroidery Personalized Rainbow Design Coordinated Set Holiday Portrait Outfits Photo Session Ready Multiple Size Options Adult Youth Toddler Sizes Available Fifteen Color Choices Cotton Polyester](https://i.etsystatic.com/53432708/r/il/5ca525/7343682960/il_794xN.7343682960_78ce.jpg)\n- Loading\n  \n  [https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/sc1pdm1zlggyffuwte0y.mp4](https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/sc1pdm1zlggyffuwte0y.mp4)\n  \n  Hm, we’re having trouble loading this video.\n  \n  Try to refresh the page or come back later.\n- ![Holiday Family Portraits Matching Sweatshirt Collection Custom Embroidered Names Rainbow Design Feature Personalized Family Set Coordinated Outfit Options Multiple Sizes Available Adult Children Toddler Sizing Cotton Polyester Blend](https://i.etsystatic.com/53432708/r/il/49b096/7388166633/il_794xN.7388166633_jj27.jpg)\n- ![May include: A young child wearing a light gray sweatshirt with the name \"EVA\" embroidered in colorful letters. The child is also wearing matching ribbed leggings. The sweatshirt has a pink collar. The child is standing in front of two adults.](https://i.etsystatic.com/53432708/r/il/eafe8e/7573919716/il_794xN.7573919716_1cca.jpg)\n- ![May include: Navy blue sweatshirt with the embroidered text \"DAD OF EVA\" in colorful letters. The sweatshirt is a crew neck style and is being worn.](https://i.etsystatic.com/53432708/r/il/52bd88/7340215320/il_794xN.7340215320_s0a6.jpg)\n- ![May include: A family of three wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF EVA\" in rainbow letters. The father wears a navy blue sweatshirt with \"DAD OF EVA\". The child wears a light beige sweatshirt with \"EVA\".](https://i.etsystatic.com/53432708/r/il/98df72/7573923914/il_794xN.7573923914_ag2o.jpg)\n- ![May include: A family walks on a beach at sunset. The adults wear matching sweatshirts with text that reads \"Dad of Adriana\" and \"Mom of Adriana\". The child wears a matching sweatshirt that reads \"Adriana\". All are wearing jeans and sneakers.](https://i.etsystatic.com/53432708/r/il/6bf604/7908107270/il_794xN.7908107270_qh2c.jpg)\n- ![May include: A light pink sweatshirt with embroidered text in various colors. The text reads \"MAMA OF WILDER HAZEL VENTURE OCEAN\". The sweatshirt is inside a cardboard box lined with patterned tissue paper.](https://i.etsystatic.com/53432708/r/il/68b0d2/6534666355/il_794xN.6534666355_lypz.jpg)\n- ![May include: A gift box containing three sweatshirts. One is navy blue with \"DAD OF NICHOLAS\" embroidered in rainbow colors. Another is light pink with \"MOM OF NICHOLAS\". The third is light gray with \"NICHOLAS\". The box is lined with patterned paper.](https://i.etsystatic.com/53432708/r/il/5bdb79/6519085881/il_794xN.6519085881_o9a8.jpg)\n- ![May include: Several personalized embroidered shirts in open cardboard boxes. Shirts are in various colors, including cream, black, pink, navy, and blue. Each shirt has text embroidered in rainbow colors, such as \"Mama of Noah & Oliver\" and \"Mom of Indie.\"](https://i.etsystatic.com/53432708/r/il/b3b14a/7621911161/il_794xN.7621911161_nhoh.jpg)\n- ![May include: A gift box containing three sweatshirts: navy blue with \"DAD OF ASHER\", beige with \"ASHER\", and pink with \"MOM OF ASHER\". All text is embroidered in rainbow colors. The box is lined with patterned paper.](https://i.etsystatic.com/53432708/r/il/a6b814/7573913182/il_794xN.7573913182_b59p.jpg)\n- ![May include: A color chart for sweatshirts displays various fabric colors. The chart includes swatches of Charcoal, Garnet, and Sapphire at the top, with stacks of folded sweatshirts below in colors like White, Black, and Royal. The text \"SWEATSHIRT COLOR CHART\" is at the top.](https://i.etsystatic.com/53432708/r/il/708277/7956065059/il_794xN.7956065059_8llu.jpg)\n- ![May include: Image of a family wearing matching crewneck sweatshirts. The sweatshirts are pink, navy, and light yellow. The image includes size charts for the sweatshirts, with measurements in inches for width and length. The text on the sweatshirts reads \"DA OF VA\".](https://i.etsystatic.com/53432708/r/il/938467/6276665469/il_794xN.6276665469_4mgc.jpg)\n- ![May include: A toddler crewneck sweatshirt in natural color with the name \"EVA\" embroidered in yellow, orange, and blue. The image includes a size chart with measurements in inches and the text \"PARENT CLUB\" and \"TODDLER CREWNECK SWEATSHIRT SIZES\".](https://i.etsystatic.com/53432708/r/il/bb503f/7616944819/il_794xN.7616944819_gxoj.jpg)\n- ![May include: A display of toddler crewneck sweatshirts in various colors, including white, pink, and navy, hanging on a clothing rack. The image includes the text \"PARENT CLUB\" and \"TODDLER CREWNECK SWEATSHIRT COLORS\".](https://i.etsystatic.com/53432708/r/il/f13e96/7616945141/il_794xN.7616945141_5kq7.jpg)\n- ![May include: A family is walking down a tree-lined street. The parents are wearing matching sweatshirts that say \"Dad of Aaron\" and \"Mom of Aaron\". The child is wearing a gray sweatshirt and shorts. All are wearing sneakers.](https://i.etsystatic.com/53432708/r/il/c336e7/7908109260/il_794xN.7908109260_pi5g.jpg)\n- ![May include: Three people wearing matching sweatshirts with the text \"DAD OF AARON\", \"MOM OF AARON\", and \"AARON\" in rainbow lettering. The person wearing the \"DAD\" sweatshirt is wearing black shorts and black and white sneakers. The person wearing the \"MOM\" sweatshirt is wearing a white skirt and white and gray sneakers.](https://i.etsystatic.com/53432708/r/il/a564a0/7956067997/il_794xN.7956067997_6tya.jpg)\n- ![May include: A family portrait featuring three individuals wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF LEO\" embroidered in colorful letters. The child wears a cream sweatshirt with \"LEO\" embroidered. The father wears a green sweatshirt with \"DAD OF LEO\".](https://i.etsystatic.com/53432708/r/il/431e6d/7908109686/il_794xN.7908109686_44l5.jpg)\n- ![May include: Close-up of two sweatshirts, one beige and one teal. The beige sweatshirt has the word \"BEIGE\" printed on it. The teal sweatshirt has the word \"BASIL\" printed on it. Both sweatshirts are made of a soft, textured fabric.](https://i.etsystatic.com/53432708/r/il/97045d/7955646822/il_794xN.7955646822_h6h4.jpg)\n- ![May include: A collection of crewneck sweatshirts in various colors, including royal blue, lavender, and pink. The image displays the sweatshirts neatly stacked, with color labels such as \"Navy\", \"Brown\", and \"Saltwater\". The text at the bottom states that colors may vary.](https://i.etsystatic.com/53432708/r/il/5c9d8b/8003604537/il_794xN.8003604537_m11m.jpg)\n- ![May include: Close-up of three folded fabric samples in charcoal, granite, and heather gray. The word \"CHARCOAL\" is printed in white above the top sample. The word \"GRANITE\" is printed in white above the middle sample. The word \"HEATHER\" is printed in white above the bottom sample.](https://i.etsystatic.com/53432708/r/il/1fcc26/7955646832/il_794xN.7955646832_9gqb.jpg)\n\n- Matching Family Sweatshirts Custom Name Embroidery Personalized Rainbow Design Coordinated Set Holiday Portrait Outfits Photo Session Ready Multiple Size Options Adult Youth Toddler Sizes Available Fifteen Color Choices Cotton Polyester\n- Product video\n- Holiday Family Portraits Matching Sweatshirt Collection Custom Embroidered Names Rainbow Design Feature Personalized Family Set Coordinated Outfit Options Multiple Sizes Available Adult Children Toddler Sizing Cotton Polyester Blend\n- May include: A young child wearing a light gray sweatshirt with the name \"EVA\" embroidered in colorful letters. The child is also wearing matching ribbed leggings. The sweatshirt has a pink collar. The child is standing in front of two adults.\n- May include: Navy blue sweatshirt with the embroidered text \"DAD OF EVA\" in colorful letters. The sweatshirt is a crew neck style and is being worn.\n- May include: A family of three wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF EVA\" in rainbow letters. The father wears a navy blue sweatshirt with \"DAD OF EVA\". The child wears a light beige sweatshirt with \"EVA\".\n- May include: A family walks on a beach at sunset. The adults wear matching sweatshirts with text that reads \"Dad of Adriana\" and \"Mom of Adriana\". The child wears a matching sweatshirt that reads \"Adriana\". All are wearing jeans and sneakers.\n- May include: A light pink sweatshirt with embroidered text in various colors. The text reads \"MAMA OF WILDER HAZEL VENTURE OCEAN\". The sweatshirt is inside a cardboard box lined with patterned tissue paper.\n- May include: A gift box containing three sweatshirts. One is navy blue with \"DAD OF NICHOLAS\" embroidered in rainbow colors. Another is light pink with \"MOM OF NICHOLAS\". The third is light gray with \"NICHOLAS\". The box is lined with patterned paper.\n- May include: Several personalized embroidered shirts in open cardboard boxes. Shirts are in various colors, including cream, black, pink, navy, and blue. Each shirt has text embroidered in rainbow colors, such as \"Mama of Noah & Oliver\" and \"Mom of Indie.\"\n- May include: A gift box containing three sweatshirts: navy blue with \"DAD OF ASHER\", beige with \"ASHER\", and pink with \"MOM OF ASHER\". All text is embroidered in rainbow colors. The box is lined with patterned paper.\n- May include: A color chart for sweatshirts displays various fabric colors. The chart includes swatches of Charcoal, Garnet, and Sapphire at the top, with stacks of folded sweatshirts below in colors like White, Black, and Royal. The text \"SWEATSHIRT COLOR CHART\" is at the top.\n- May include: Image of a family wearing matching crewneck sweatshirts. The sweatshirts are pink, navy, and light yellow. The image includes size charts for the sweatshirts, with measurements in inches for width and length. The text on the sweatshirts reads \"DA OF VA\".\n- May include: A toddler crewneck sweatshirt in natural color with the name \"EVA\" embroidered in yellow, orange, and blue. The image includes a size chart with measurements in inches and the text \"PARENT CLUB\" and \"TODDLER CREWNECK SWEATSHIRT SIZES\".\n- May include: A display of toddler crewneck sweatshirts in various colors, including white, pink, and navy, hanging on a clothing rack. The image includes the text \"PARENT CLUB\" and \"TODDLER CREWNECK SWEATSHIRT COLORS\".\n- May include: A family is walking down a tree-lined street. The parents are wearing matching sweatshirts that say \"Dad of Aaron\" and \"Mom of Aaron\". The child is wearing a gray sweatshirt and shorts. All are wearing sneakers.\n- May include: Three people wearing matching sweatshirts with the text \"DAD OF AARON\", \"MOM OF AARON\", and \"AARON\" in rainbow lettering. The person wearing the \"DAD\" sweatshirt is wearing black shorts and black and white sneakers. The person wearing the \"MOM\" sweatshirt is wearing a white skirt and white and gray sneakers.\n- May include: A family portrait featuring three individuals wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF LEO\" embroidered in colorful letters. The child wears a cream sweatshirt with \"LEO\" embroidered. The father wears a green sweatshirt with \"DAD OF LEO\".\n- May include: Close-up of two sweatshirts, one beige and one teal. The beige sweatshirt has the word \"BEIGE\" printed on it. The teal sweatshirt has the word \"BASIL\" printed on it. Both sweatshirts are made of a soft, textured fabric.\n- May include: A collection of crewneck sweatshirts in various colors, including royal blue, lavender, and pink. The image displays the sweatshirts neatly stacked, with color labels such as \"Navy\", \"Brown\", and \"Saltwater\". The text at the bottom states that colors may vary.\n- May include: Close-up of three folded fabric samples in charcoal, granite, and heather gray. The word \"CHARCOAL\" is printed in white above the top sample. The word \"GRANITE\" is printed in white above the middle sample. The word \"HEATHER\" is printed in white above the bottom sample.\n\n- Matching Family Sweatshirts Custom Name Embroidery Personalized Rainbow Design Coordinated Set Holiday Portrait Outfits Photo Session Ready Multiple Size Options Adult Youth Toddler Sizes Available Fifteen Color Choices Cotton Polyester\n- Loading\n- Holiday Family Portraits Matching Sweatshirt Collection Custom Embroidered Names Rainbow Design Feature Personalized Family Set Coordinated Outfit Options Multiple Sizes Available Adult Children Toddler Sizing Cotton Polyester Blend\n- May include: A young child wearing a light gray sweatshirt with the name \"EVA\" embroidered in colorful letters. The child is also wearing matching ribbed leggings. The sweatshirt has a pink collar. The child is standing in front of two adults.\n- May include: Navy blue sweatshirt with the embroidered text \"DAD OF EVA\" in colorful letters. The sweatshirt is a crew neck style and is being worn.\n- May include: A family of three wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF EVA\" in rainbow letters. The father wears a navy blue sweatshirt with \"DAD OF EVA\". The child wears a light beige sweatshirt with \"EVA\".\n- May include: A family walks on a beach at sunset. The adults wear matching sweatshirts with text that reads \"Dad of Adriana\" and \"Mom of Adriana\". The child wears a matching sweatshirt that reads \"Adriana\". All are wearing jeans and sneakers.\n- May include: A light pink sweatshirt with embroidered text in various colors. The text reads \"MAMA OF WILDER HAZEL VENTURE OCEAN\". The sweatshirt is inside a cardboard box lined with patterned tissue paper.\n- May include: A gift box containing three sweatshirts. One is navy blue with \"DAD OF NICHOLAS\" embroidered in rainbow colors. Another is light pink with \"MOM OF NICHOLAS\". The third is light gray with \"NICHOLAS\". The box is lined with patterned paper.\n- May include: Several personalized embroidered shirts in open cardboard boxes. Shirts are in various colors, including cream, black, pink, navy, and blue. Each shirt has text embroidered in rainbow colors, such as \"Mama of Noah & Oliver\" and \"Mom of Indie.\"\n- May include: A gift box containing three sweatshirts: navy blue with \"DAD OF ASHER\", beige with \"ASHER\", and pink with \"MOM OF ASHER\". All text is embroidered in rainbow colors. The box is lined with patterned paper.\n- May include: A color chart for sweatshirts displays various fabric colors. The chart includes swatches of Charcoal, Garnet, and Sapphire at the top, with stacks of folded sweatshirts below in colors like White, Black, and Royal. The text \"SWEATSHIRT COLOR CHART\" is at the top.\n- May include: Image of a family wearing matching crewneck sweatshirts. The sweatshirts are pink, navy, and light yellow. The image includes size c",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-04T00:13:59+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.etsy.com/listing/4435842809"
+   },
+   "tool_use_id": "srvtoolu_01S81bGrmkmgZERRLTUAjroK",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_011X7q5crNGsuvAtdK8b2cTz/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c['result_type']);print(c['content'][:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_011X7q5crNGsuvAtdK8b2cTz",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01T2ftEYtHKFSZXJ6QNALtms",
+   "caller": null,
+   "input": {
+    "code": "print(str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "{\"type\": \"web_fetch_result\", \"url\": \"https://www.etsy.com/listing/4435842809\", \"retrieved_at\": \"2026-11-04T00:13:59+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.etsy.com/listing/4435842809/matching-family-sweatshirt-custom-name\\nmeta-al:android:app_name: Etsy\\nmeta-al:android:package: com.etsy.android\\nmeta-al:android:url: etsy://listing/4435842809?ref=applinks_android\\nmeta-al:ios:app_name: Etsy\\nmeta-al:ios:app_store_id: 477128284\\nmeta-al:ios:url: etsy://listing/4435842809?ref=applinks_ios\\nmeta-apple-mobile-web-app-title: Etsy\\nmeta-application-name: Etsy\\nmeta-csrf_nonce: 3:1793751239:RegWLtlToSoxHiiFWAfVGPWCeqrQ:c0089cbb4c7de285ac47e0d6aada9e4135b1c8c704a13c1ab62601bb5cad1f15\\nmeta-css_dist_path: /ac/sasquatch/css/\\nmeta-description: This Gender-Neutral Adult Sweatshirts item by ParentClubStore has 30 favorites from Etsy shoppers. Ships from Charlotte, NC. Listed on Jul 28, 2026\\nmeta-dist: 202611031793745869\\nmeta-fb:app_id: 89186614300\\nmeta-msapplication-TileColor: #F1641E\\nmeta-og:description: This Gender-Neutral Adult Sweatshirts item by ParentClubStore has 30 favorites from Etsy shoppers. Ships from Charlotte, NC. Listed on Jul 28, 2026\\nmeta-og:image: https://i.etsystatic.com/53432708/r/il/5ca525/7343682960/il_1080xN.7343682960_78ce.jpg\\nmeta-og:title: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrai\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01T2ftEYtHKFSZXJ6QNALtms",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01LATtadfyjaELY5Jpn6Dvhh",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nd=json.loads(r)['content']['source']['data']\nfor k in ['og:title','price','Price','\\\\$','stock','Stock','availability','sold out','Sold out']:\n  for m in list(re.finditer(k,d))[:4]:print(k,'::',d[max(0,m.start()-80):m.start()+120].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "og:title :: systatic.com/53432708/r/il/5ca525/7343682960/il_1080xN.7343682960_78ce.jpg meta-og:title: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfi\nprice :: h&utm_medium=PageTools&utm_campaign=Share meta-pinterest: nosearch meta-product:price:amount: 118.48 meta-product:price:currency: USD meta-robots: max-image-preview:large meta-theme-color: rgb(255, 25\nprice :: n=Share meta-pinterest: nosearch meta-product:price:amount: 118.48 meta-product:price:currency: USD meta-robots: max-image-preview:large meta-theme-color: rgb(255, 255, 255) meta-twitter:app:id:google\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01LATtadfyjaELY5Jpn6Dvhh",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01PHQDUMP5AK5vRNG5duqKYN",
+   "caller": null,
+   "input": {
+    "code": "m=re.search(r'og:title: (.*)',d);print(m.group(1));i=d.find('\\n---',5);print(d[i:i+3000])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel - Etsy\n\n---\n\n[Etsy](https://www.etsy.com/?ref=lgo)\n\nCategories\n\nBrowse\n\nSearch for items or shops\n\nClear search\n\n[Skip to Content](#content)\n\n- Sign in\n- [0](https://www.etsy.com/cart?ref=hdr-cart) Cart\n\n- [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav)\n- [Friendsgiving Finds](https://www.etsy.com/r/curated/top-100-friendsgiving-picks?sections=1502464589897&ref=Friendsgiving110226_cat_nav)\n- [Home Favorites](https://www.etsy.com/featured/hub/home-favorites?ref=contentful_promo_cat_nav-4)\n- [Fashion Finds](https://www.etsy.com/featured/hub/fashion-favorites?ref=contentful_promo_cat_nav-5)\n- [Vintage](https://www.etsy.com/r/curated/etsys-best-vintage-finds?sections=1461029776888&narrow=best-vintage-finds&ref=contentful_promo_cat_nav-6)\n- [Wedding Guide](https://www.etsy.com/featured/hub/weddings-hub?ref=contentful_promo_cat_nav-9)\n- [Gift Cards](https://www.etsy.com/giftcards?ref=contentful_promo_cat_nav-10)\n\n- [Homepage](https://www.etsy.com/?ref=catnav_breadcrumb-home)\n- [Clothing](https://www.etsy.com/c/clothing?explicit=1&ref=catnav_breadcrumb-0)\n\nEtsy’s Pick\n\nEtsy’s Picks are hand selected by our style experts to highlight items from shops that have shown quality, reliability and style.\n\n[Discover More](https://www.etsy.com/featured/hub/etsy-picks?ref=listing_etsys_pick_signal)\n\nAdd to Favorites\n\n- ![Matching Family Sweatshirts Custom Name Embroidery Personalized Rainbow Design Coordinated Set Holiday Portrait Outfits Photo Session Ready Multiple Size Options Adult Youth Toddler Sizes Available Fifteen Color Choices Cotton Polyester](https://i.etsystatic.com/53432708/r/il/5ca525/7343682960/il_794xN.7343682960_78ce.jpg)\n- Loading\n  \n  [https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/sc1pdm1zlggyffuwte0y.mp4](https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/sc1pdm1zlggyffuwte0y.mp4)\n  \n  Hm, we’re having trouble loading this video.\n  \n  Try to refresh the page or come back later.\n- ![Holiday Family Portraits Matching Sweatshirt Collection Custom Embroidered Names Rainbow Design Feature Personalized Family Set Coordinated Outfit Options Multiple Sizes Available Adult Children Toddler Sizing Cotton Polyester Blend](https://i.etsystatic.com/53432708/r/il/49b096/7388166633/il_794xN.7388166633_jj27.jpg)\n- ![May include: A young child wearing a light gray sweatshirt with the name \"EVA\" embroidered in colorful letters. The child is also wearing matching ribbed leggings. The sweatshirt has a pink collar. The child is standing in front of two adults.](https://i.etsystatic.com/53432708/r/il/eafe8e/7573919716/il_794xN.7573919716_1cca.jpg)\n- ![May include: Navy blue sweatshirt with the embroidered text \"DAD OF EVA\" in colorful letters. The sweatshirt is a crew neck style and is being worn.](https://i.etsystatic.com/53432708/r/il/52bd88/7340215320/il_794xN.7340215320_s0a6.jpg)\n- ![May include: A family of three wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF EVA\" in rainbow letter\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01PHQDUMP5AK5vRNG5duqKYN",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01HGviK1TFwzJPArZpKPVbkP",
+   "caller": null,
+   "input": {
+    "code": "for k in ['Price','USD','\\\\$','Add to cart','Sold out','left','unavailable','# ']:\n  for m in list(re.finditer(k,d[i:]))[:3]:print(k,'::',d[i+m.start()-100:i+m.start()+100].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01HGviK1TFwzJPArZpKPVbkP",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSsgUKEAgTGAI4AUIIdGhpbmtpbmcSDPPtLRi2+ixjFN8DIBoMuqV4kQz9QikOsqYfIjBvMEy9ByPUf3I13a7MFMxhvfJn7ldRrknUnoN7XCdBEmb9Q8NP95tDL5GrWufuCFIqzwQEwTS0WLa4p5V6IjvxrERufgJ2ezNOu0rSobrBw3dDMCOCCh9LI8c68mHB6VOE0epgyYIZOayAaxZESl7IB20VPiyEm2eq5/UmJevtroY3BLHGLkjma5fU96zPPoq/vRaF1kc6fNW+EtZGEx9niWug3YDxs+7XUFDYMba2zvdyybIzbfyAmkb16XjH38JmRyFn+qzdgclCdSU9Fw7tyCKbGW51wzMgC7ajl/4UZv8PWJRyAkgM+a+hksdTNTkTLmf7ZtLXBYsBs5Tfzje6XuNkvObz17QsOm12gYz8kM5CGfpMwDdI5n4qNXYo8S11zRh4WpxFecFotf2cb8BscZNuQTENX4WJMMnPIHDVxxe9aSMVkml+nd1bWU9fCl6CQTChLLMgqr45j4aJW6I5deUx3pMZ3IbpAA2ac0r2LFKFhaqmmKP9xozVqAmVuh7bFebCoaPkd6+Cc1XBXQBlrVBi1EksdVx/Kbuw49X5BuD9n8Lx3gxhxqbj0Aos4bpDIVjL7DMqVK71Mqs5C3CSHZzC6RLxMKP2lACYvp8ArU3IRSpIc7OaAPpUHeCzrkxx7HirFq3LRdnuJhm6X2iF639H0jOtV+0Ve2sbjn9mjmcbdmGQafPvVB36IgXTKB4e4ajU0VtTIhJHuEq1hLXDjwleBk9A1EP+BuY1w6Nhn9+LhIrSs8QUC2RZ0nZ6TMR2v0Uj//6/pYWSQImh4WHKr7Jw4Lt81oYHMO2k9aK3HZ7sb1/LO2AqDWIKxIfyv3Tp76fsT4lzLhN642nN/0KQrL4YAQ==",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_019gkqp3pXMUVRmgZD5jBjWd",
+   "caller": null,
+   "input": {
+    "code": "b=d[i:];print(len(b));print(b[-2500:])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "16123\nLoading\n- Holiday Family Portraits Matching Sweatshirt Collection Custom Embroidered Names Rainbow Design Feature Personalized Family Set Coordinated Outfit Options Multiple Sizes Available Adult Children Toddler Sizing Cotton Polyester Blend\n- May include: A young child wearing a light gray sweatshirt with the name \"EVA\" embroidered in colorful letters. The child is also wearing matching ribbed leggings. The sweatshirt has a pink collar. The child is standing in front of two adults.\n- May include: Navy blue sweatshirt with the embroidered text \"DAD OF EVA\" in colorful letters. The sweatshirt is a crew neck style and is being worn.\n- May include: A family of three wearing matching sweatshirts. The mother wears a pink sweatshirt with \"MOM OF EVA\" in rainbow letters. The father wears a navy blue sweatshirt with \"DAD OF EVA\". The child wears a light beige sweatshirt with \"EVA\".\n- May include: A family walks on a beach at sunset. The adults wear matching sweatshirts with text that reads \"Dad of Adriana\" and \"Mom of Adriana\". The child wears a matching sweatshirt that reads \"Adriana\". All are wearing jeans and sneakers.\n- May include: A light pink sweatshirt with embroidered text in various colors. The text reads \"MAMA OF WILDER HAZEL VENTURE OCEAN\". The sweatshirt is inside a cardboard box lined with patterned tissue paper.\n- May include: A gift box containing three sweatshirts. One is navy blue with \"DAD OF NICHOLAS\" embroidered in rainbow colors. Another is light pink with \"MOM OF NICHOLAS\". The third is light gray with \"NICHOLAS\". The box is lined with patterned paper.\n- May include: Several personalized embroidered shirts in open cardboard boxes. Shirts are in various colors, including cream, black, pink, navy, and blue. Each shirt has text embroidered in rainbow colors, such as \"Mama of Noah & Oliver\" and \"Mom of Indie.\"\n- May include: A gift box containing three sweatshirts: navy blue with \"DAD OF ASHER\", beige with \"ASHER\", and pink with \"MOM OF ASHER\". All text is embroidered in rainbow colors. The box is lined with patterned paper.\n- May include: A color chart for sweatshirts displays various fabric colors. The chart includes swatches of Charcoal, Garnet, and Sapphire at the top, with stacks of folded sweatshirts below in colors like White, Black, and Royal. The text \"SWEATSHIRT COLOR CHART\" is at the top.\n- May include: Image of a family wearing matching crewneck sweatshirts. The sweatshirts are pink, navy, and light yellow. The image includes size c\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019gkqp3pXMUVRmgZD5jBjWd",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQS0gYKEAgTGAI4AUIIdGhpbmtpbmcSDCpZx7SuZLKNDtnXuRoMAYz0zGJ4sVLH+uIoIjC3h+7wMhd3jz45sTB8OO5h9QOgkJExx4lNlMeTFIAsysWtgWMi36XODA8oY+7VS9Uq7wUquYpT9mK6zKKQiXqA5BGih7uzdNJLsX+YSQLXdeVplbd6RH6eLldcOFSJGXEiiFeHnvjJMZ3EqTuHXyuV8BCLqt3LtT+hQE1x/IYh0CJLA7ttw48j/bRjzN+qAmGQMYtyTcN9RPCuVtQFsA1SAhtmAnOHMD/yajERxZQordLNKlBlpDO7/QKNBduVWQR2GlBZIzlroT0yD2FRMGFVtEtT4CRuxziHs6F/jNGKWOurAaFd7I8XohqBF+pf/VxJ24VNTAvEFzkt7ezW+RoaltDG+Ms9skSEtY3j1fi0hZYZlg4J2ttJ1A4hzdq0Wgg7yV/Q9SKWeexUT8BVMERIseiplgeQrhCrKtgpz5Dm7WgFN1fhCSbm+mb3hAjo8TGehPluw+3nXyVnCAUHV85r8/pk93PVd0CC5UmXXfTGQm0ovHiIxQD1GPargLyEnVbHHbzBbOJI7H6jYZnQTGX8cXn6E93yMiEUQLVzKvEQt+detndmhuT+mID1rEBP380YvJVmWiqKT5Mp2OkFMNpXjabmDygMxT2Mdn/e0/jP9IFFKyBqvgPxP7xYJR+1h6JzdXOPlWVkfuM0jfFUo479ldWwKppqIvgdDC51BdrFRL+BwWl1GmQrFW8CCloQ9dpIv3Pm3w3BWCq8ZdbPkFSHn2eAj6IEr4ixj+XHsiYgevUdQ3J04/ZJCckOP2v3xVLTIBVpfmwsWsMHXGAQCjfXKwL7ROTTEKKeE3AjW7/OZlmuq2gb69N38jrgIyo64kayJiZxjPh4YtJ7NmFcdyHWwvo6P7m0juO0UHGuYrzJLAaPCtORyHsbSd4SBgd1/gAImEXWvKkULrKKmPoHfp2iygKIq4CDa3AGOoxFJTA1WwUS/NHzHF11fm0nOpRy5pFQZTzj3sBlw1UPktAc7WocjrlmaPbolot+ioCg2au2759sIDmkb1Hp/yk0TVY5MHR2jMCsvXI22uNt4Ze2zg+FhsDKp+70J3zhjNAMD8f6Q/0UGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Matching Family Sweatshirt Custom Name Embroidered Clothing Set Personalized Rainbow Design Coordinating Outfit Holiday Portrait Apparel | PRICE: $118.48 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

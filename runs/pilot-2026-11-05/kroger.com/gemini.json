@@ -1,0 +1,80 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.kroger.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nProduct/Category: Fresh Grocery",
+ "finish": "STOP",
+ "cost_usd": 0.00221,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Kroger : Groceries & Pharmacy | Order Online or Shop In-Store\nProduct/Category: Fresh Grocery",
+       "thoughtSignature": "EnMKcQFpFH0TswwTqgQElK5W1zez3TdHafHcB7JNqX6ipnR1tcF+UUSB/zKAp5OmNKTdYGQV8mUcd7gNlm7ioFvdPYOUv1CRX8TEGu+tq24dzt3kA4S5uzeDFKpMduc2+GbwDswavSH8yUjq+Z5m6GspTUdT"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.kroger.com/",
+        "title": "Kroger : Groceries & Pharmacy | Order Online or Shop In-Store"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 69,
+        "endIndex": 100,
+        "text": "Product/Category: Fresh Grocery"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.kroger.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 21909,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 21799,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21799
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "BNXsavm7CruIqtsP2YWguQU"
+ }
+}

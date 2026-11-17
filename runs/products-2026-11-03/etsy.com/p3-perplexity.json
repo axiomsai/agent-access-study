@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/food_prep",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/market/search_by_seller",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/market/listings",
+  "https://www.etsy.com/market/personalized",
+  "https://www.etsy.com/listing/1868615965/custom-order",
+  "https://www.etsy.com/c"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in search results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/food_prep",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/market/search_by_seller",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/market/listings",
+   "https://www.etsy.com/market/personalized",
+   "https://www.etsy.com/listing/1868615965/custom-order",
+   "https://www.etsy.com/c"
+  ],
+  "created": 1793751250,
+  "id": "resp_7993528a-ad02-4ca8-9bba-7d32fccd3020",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "FREE shipping\n## Dangle Earring https://www.etsy.com/shop/RemembranceFashion\n- ## https://www.etsy.com/listing/4493969257/funny-cartoon-mouse-pad-with-wrist-rest\n(20)",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Food Prep - Etsy\n# Food Prep\n- ## Kitchen Scarf Boa, Cooking Food Prep Towel\n(2.9k)\n$20.00",
+    "source": "web",
+    "title": "Food Prep - Etsy",
+    "url": "https://www.etsy.com/market/food_prep"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\nDiscover unique everyday accessories, from elegant scarves to personalized keychains.\nExplore diverse styles, materials, and price points for gifts or personal treats.",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Search by Seller - Etsy\n# Search by Seller\n1,000+ items",
+    "source": "web",
+    "title": "Search by Seller - Etsy",
+    "url": "https://www.etsy.com/market/search_by_seller"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Etsy.com\nDigital Download\n- ## Comfort Colors® https://www.etsy.com/listing/4596137183",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Listings - Etsy\n# Listings\n5,000+ items\n...\n- ## Wedding Guest List Tracker | Google Sheets Template (Digital Download)",
+    "source": "web",
+    "title": "Listings - Etsy",
+    "url": "https://www.etsy.com/market/listings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Personalized - Etsy\n# Personalized\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Personalized - Etsy",
+    "url": "https://www.etsy.com/market/personalized"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "This item is unavailable - Etsy\nSorry, this item is unavailable.\nSorry, this item is unavailable.\nCreationsByCadeee 5 out of 5 stars (83) 83 reviews\n# CUSTOM ORDER\n$21.00",
+    "source": "web",
+    "title": "CUSTOM ORDER",
+    "url": "https://www.etsy.com/listing/1868615965/custom-order"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# All Categories\nHome & Living\nAccessories\n(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n(9,928)\nStar Seller\nSale Price $6.30 $6.30\n$18.00 Original Price $18.00 (65% off)\n...\n- ### All ...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 23,
+   "cost": {
+    "input_tokens_cost": 0.00073,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00344
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 137
+  }
+ }
+}

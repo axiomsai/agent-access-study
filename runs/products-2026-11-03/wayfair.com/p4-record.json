@@ -1,0 +1,60 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/decor-pillows/pdp/the-holiday-aisle-johnavan-faux-evergreen-32-holiday-wreath-w100387869.html",
+ "idx": 4,
+ "at": "2026-11-03T18:16:17-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15616 chars, copy dated 2026-11-04 (0 days old)",
+   "parsed": true,
+   "name": "The Holiday Aisle® Johnavan Faux Evergreen 32'' Holiday Wreath",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:16:21+00:00",
+   "age_days": 0,
+   "cost_usd": 0.18169
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Johnavan 32\" Handmade Wreath",
+   "price": 254.3,
+   "price_raw": "$254.30",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00169
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Johnavan 32 \" Handmade Wreath",
+   "price": 281.43,
+   "price_raw": "$281.43",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0229
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Johnavan Faux Evergreen 32'' Holiday Wreath",
+   "price": 273.1,
+   "price_raw": "$273.10",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

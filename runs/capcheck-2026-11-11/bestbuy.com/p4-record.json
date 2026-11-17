@@ -1,0 +1,25 @@
+{
+ "domain": "bestbuy.com",
+ "idx": 4,
+ "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+ "arms": {
+  "A_capped": {
+   "verdict": "served_stale",
+   "why": "7821 chars, copy dated 2026-11-03 (8 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 7821,
+   "input_tokens": 32269,
+   "cost_usd": 0.1443
+  },
+  "B_uncapped": {
+   "verdict": "served_stale",
+   "why": "7821 chars, copy dated 2026-11-03 (8 days old)",
+   "price": 499.0,
+   "opened": "YES",
+   "doc_chars": 7821,
+   "input_tokens": 39386,
+   "cost_usd": 0.17544
+  }
+ }
+}

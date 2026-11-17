@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.cvs.com/",
+  "https://www.cvs.com/shop/brand-shop/n/neo-g",
+  "https://www.cvs.com/shop/health-medicine/cough-cold-flu?page=3",
+  "https://www.cvs.com/shop/content/omega-3-supplements",
+  "https://www.cvs.com/minuteclinic/clinic-locator/ga/douglasville/specialty/ear-wax-removal-154.html",
+  "https://www.cvs.com/shop/beauty/fragrance",
+  "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+  "https://www.cvs.com/shop/brand-shop/c/cvs",
+  "https://www.cvs.com/minuteclinic/clinic-locator/va/leesburg/specialty/ear-wax-removal-16994.html",
+  "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-coast/specialty/ear-wax-removal-3249.html"
+ ],
+ "cited_store": true,
+ "answer": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Cough, Cold & Flu",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information — Cough, Cold & Flu",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.cvs.com/",
+   "https://www.cvs.com/shop/brand-shop/n/neo-g",
+   "https://www.cvs.com/shop/health-medicine/cough-cold-flu?page=3",
+   "https://www.cvs.com/shop/content/omega-3-supplements",
+   "https://www.cvs.com/minuteclinic/clinic-locator/ga/douglasville/specialty/ear-wax-removal-154.html",
+   "https://www.cvs.com/shop/beauty/fragrance",
+   "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english",
+   "https://www.cvs.com/shop/brand-shop/c/cvs",
+   "https://www.cvs.com/minuteclinic/clinic-locator/va/leesburg/specialty/ear-wax-removal-16994.html",
+   "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-coast/specialty/ear-wax-removal-3249.html"
+  ],
+  "created": 1793905839,
+  "id": "resp_97700411-2eb8-4cb6-bb4d-61c0a3ecd074",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information",
+    "source": "web",
+    "title": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health ...",
+    "url": "https://www.cvs.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Neo G\n...\n## Cannot change address\nYour cart contains pseudoephedrine or ephedrine.\nFederal law requires that CVS use your address on your verified ID to purchase.\nRemove the item to change your address.",
+    "source": "web",
+    "title": "Neo G - CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/n/neo-g"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Cold Medicine at CVS Pharmacy\n...\n# Cough, Cold & Flu\n**Schedule your FREE flu shot.**",
+    "source": "web",
+    "title": "Cough, Cold & Flu - CVS Pharmacy Page 3",
+    "url": "https://www.cvs.com/shop/health-medicine/cough-cold-flu?page=3"
+   },
+   {
+    "date": "2021-11-30",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Omega 3 Supplements & Pills - CVS Pharmacy\nEasy Reorder\nOrder Status & History\n...\n- Omega 3 Supplements\n# Omega 3 Supplements",
+    "source": "web",
+    "title": "Omega 3 Supplements & Pills",
+    "url": "https://www.cvs.com/shop/content/omega-3-supplements"
+   },
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# EAR WAX REMOVAL at 6031 FAIRBURN RD., DOUGLASVILLE, GA 30134\n4.7 (161 Ratings)",
+    "source": "web",
+    "title": "EAR WAX REMOVAL at 6031 FAIRBURN RD. ...",
+    "url": "https://www.cvs.com/minuteclinic/clinic-locator/ga/douglasville/specialty/ear-wax-removal-154.html"
+   },
+   {
+    "date": "2024-06-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Perfume, Cologne, & Fragrance at CVS Pharmacy\n...\n# Fragrance\n## Gift Guide for Fragrances\n- 1-800-679-9691",
+    "source": "web",
+    "title": "Perfume, Cologne, & Fragrance at CVS Pharmacy",
+    "url": "https://www.cvs.com/shop/beauty/fragrance"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-02",
+    "place_metadata": null,
+    "snippet": "You can shop online for your favorite brand or category in a few quick and easy steps.\nTo search by department, you can use the navigation on the **Shop home page**.\n...\nYou also can search by typing the category, brand name or particular item you're looking for in the search window at the top of th...",
+    "source": "web",
+    "title": "Online Shopping",
+    "url": "https://www.cvs.com/retail/help/help-subtopic-shopping-for-nonprescription-products?icid=cvsheader:english"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# CVS\nFilter\n...\n## CVS Sensitivity Infant Formula Milk-Based Powder with Iron, 12.5 OZ\nPrices may vary from online to in store.",
+    "source": "web",
+    "title": "CVS",
+    "url": "https://www.cvs.com/shop/brand-shop/c/cvs"
+   },
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# EAR WAX REMOVAL at 1200 EDWARDS FERRY RD NE, LEESBURG, VA 20176\n4.6 (108 Ratings)",
+    "source": "web",
+    "title": "EAR WAX REMOVAL at 1200 EDWARDS FERRY RD NE, ...",
+    "url": "https://www.cvs.com/minuteclinic/clinic-locator/va/leesburg/specialty/ear-wax-removal-16994.html"
+   },
+   {
+    "date": "2024-03-19",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# EAR WAX REMOVAL at 1 OLD KINGS ROAD, PALM COAST, FL 32137\n4.7 (335 Ratings)",
+    "source": "web",
+    "title": "MinuteClinic® at 1 OLD KINGS ROAD, PALM COAST, FL.",
+    "url": "https://www.cvs.com/minuteclinic/clinic-locator/fl/palm-coast/specialty/ear-wax-removal-3249.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 21,
+   "cost": {
+    "input_tokens_cost": 0.0006299999999999999,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00319
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

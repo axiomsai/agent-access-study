@@ -1,0 +1,60 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+ "idx": 5,
+ "at": "2026-11-03T18:14:53-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "7076 chars, copy dated 2026-11-04 (0 days old)",
+   "parsed": true,
+   "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:15:07+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10124
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00031
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01134
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like Symptoms, 6 Count",
+   "price": 19.99,
+   "price_raw": "$19.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

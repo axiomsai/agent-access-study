@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.gap.com/browse/product.do?pid=1188295092",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00041,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: CashSoft Oversized Rollneck Sweater | PRICE: $53.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T5s7h4/cvFn2VE5HIuB20C8xLzF/CWfPZ7IBQNsfdw1R8ioka6RgDxf3pEPiwO2ZRcKvi2gd5JSxfEF+8Ji2C1ssOoQ2UY2/KVAI56Sxn9IBZLDoT8eogFMzZ3WKCYjGWDjM/lpz6m1f6jssE"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.gap.com/browse/product.do?pid=1188295092",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 133,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 3867,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 133
+    }
+   ],
+   "toolUsePromptTokenCount": 3669,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3669
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "wtvsaqKRCY3oz7IP78qT-QM"
+ }
+}

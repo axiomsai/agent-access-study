@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.wayfair.com/furniture/sb1/chenille-sectionals-c413893-a2482~275263.html",
+  "https://www.wayfair.com/",
+  "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html",
+  "https://www.wayfair.com/brand/bnd/mayfair-b12518.html",
+  "https://www.wayfair.com/furniture/sb1/nontoxic-small-sofas-loveseats-c1867934-a153903~519925.html",
+  "https://www.wayfair.com/storage-organization/sb2/21-30-pair-metal-shoe-racks-cubbies-c1869017-a47987~159662-a76220~278859.html",
+  "https://www.wayfair.com/decor-pillows/sb0/wall-art-c215363.html",
+  "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html",
+  "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html",
+  "https://www.wayfair.com/outdoor/sb0/patio-sofas-sectionals-c35210.html"
+ ],
+ "cited_store": true,
+ "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Bedding & Bath[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Bedding & Bath[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.wayfair.com/furniture/sb1/chenille-sectionals-c413893-a2482~275263.html",
+   "https://www.wayfair.com/",
+   "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html",
+   "https://www.wayfair.com/brand/bnd/mayfair-b12518.html",
+   "https://www.wayfair.com/furniture/sb1/nontoxic-small-sofas-loveseats-c1867934-a153903~519925.html",
+   "https://www.wayfair.com/storage-organization/sb2/21-30-pair-metal-shoe-racks-cubbies-c1869017-a47987~159662-a76220~278859.html",
+   "https://www.wayfair.com/decor-pillows/sb0/wall-art-c215363.html",
+   "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html",
+   "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html",
+   "https://www.wayfair.com/outdoor/sb0/patio-sofas-sectionals-c35210.html"
+  ],
+  "created": 1793749478,
+  "id": "resp_6f150213-bd1a-428f-81c1-0e636e771ab8",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Chenille Sectionals | Sectional Sofa & Couch\n...\n# Chenille Sectionals\n- Chenille Sectionals\n...\n- Wayfair Verified",
+    "source": "web",
+    "title": "Chenille Sectionals | Sectional Sofa & Couch - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/chenille-sectionals-c413893-a2482~275263.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\nFast & Free Shipping Over $35*\n- Open Bedding & Bath Menu Dropdown\n- Open Decor & Pillows Menu Dropdown",
+    "source": "web",
+    "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "url": "https://www.wayfair.com/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Swivel Chairs\n## 34.1\" Wide Modern Chenille Upholstered Barrel Accent Chair",
+    "source": "web",
+    "title": "Swivel Chairs | Living Room & Accent Chairs - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/swivel-accent-chairs-c416225-a3171~274858.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Mayfair\nFrom bathroom to health care products and beyond, the family-owned Bemis Manufacturing Company, continuously produces quality, innovative products for everyday life.",
+    "source": "web",
+    "title": "Mayfair | Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/mayfair-b12518.html"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Nontoxic Small Sofas & Loveseats You'll Love | Wayfair\n...\n# Nontoxic Small Sofas & Loveseats",
+    "source": "web",
+    "title": "Nontoxic Small Sofas & Loveseats You'll Love - Wayfair",
+    "url": "https://www.wayfair.com/furniture/sb1/nontoxic-small-sofas-loveseats-c1867934-a153903~519925.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "21 - 30 Pair Metal Shoe Racks & Cubbies You'll Love | Wayfair\n...\n# 21 - 30 Pair Metal Shoe Racks & Cubbies\n- Large (25-40 Pairs)\n- Large (25-40 Pairs)",
+    "source": "web",
+    "title": "21 - 30 Pair Metal Shoe Racks & Cubbies You'll Love | Wayfair",
+    "url": "https://www.wayfair.com/storage-organization/sb2/21-30-pair-metal-shoe-racks-cubbies-c1869017-a47987~159662-a76220~278859.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Wall Art\n1You are currently on page one234…200Page 200, the final page",
+    "source": "web",
+    "title": "Wall Art | Wall Pictures & Wall Art Decor - Wayfair",
+    "url": "https://www.wayfair.com/decor-pillows/sb0/wall-art-c215363.html"
+   },
+   {
+    "date": "2026-09-11",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# WG Wood Products\nWith everything from magazine racks and DVD shelving to jewelry cabinets and spice racks, WG Wood Products is the perfect place for all your home accent needs!",
+    "source": "web",
+    "title": "WG Wood Products - Wayfair",
+    "url": "https://www.wayfair.com/brand/bnd/wg-wood-products-b21980.html"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Light Shades | Bedroom & Colored Lamp Shades\n...\n1. Lighting/\n...\n3. Light Shades",
+    "source": "web",
+    "title": "Light Shades | Bedroom & Colored Lamp Shades - Wayfair",
+    "url": "https://www.wayfair.com/lighting/sb0/light-shades-c416546.html"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Patio Seating\n- Patio Sofas & Sectionals\n1. Outdoor/",
+    "source": "web",
+    "title": "Outdoor Sofas, Loveseats & Couches",
+    "url": "https://www.wayfair.com/outdoor/sb0/patio-sofas-sectionals-c35210.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00058,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00314
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 81
+  }
+ }
+}

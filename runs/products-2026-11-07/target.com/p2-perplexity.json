@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+  "https://www.target.com/s/eos+lotion",
+  "https://www.target.com/s/eos+shea+better+moisture+body+lotion?Nao=24",
+  "https://www.target.com/s/eos+holiday",
+  "https://www.target.com/s/eos+holiday+lotion",
+  "https://www.target.com/s/holiday+lotion",
+  "https://www.target.com/s/holiday+body+lotion+winter",
+  "https://www.target.com/s/eos+sensitive",
+  "https://www.target.com/c/bath-body-beauty/eos/-/N-5xu1mZt73ck",
+  "https://www.target.com/s/beauty+gift+sets+eos"
+ ],
+ "cited_store": true,
+ "answer": "NAME: eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz | PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz | PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+   "https://www.target.com/s/eos+lotion",
+   "https://www.target.com/s/eos+shea+better+moisture+body+lotion?Nao=24",
+   "https://www.target.com/s/eos+holiday",
+   "https://www.target.com/s/eos+holiday+lotion",
+   "https://www.target.com/s/holiday+lotion",
+   "https://www.target.com/s/holiday+body+lotion+winter",
+   "https://www.target.com/s/eos+sensitive",
+   "https://www.target.com/c/bath-body-beauty/eos/-/N-5xu1mZt73ck",
+   "https://www.target.com/s/beauty+gift+sets+eos"
+  ],
+  "created": 1794080374,
+  "id": "resp_45684413-6257-49c5-b590-6b851fe1561c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz : Target\n...\n# eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\n3.55 out of 5 stars\n57\nNew at target\n$9.99\nIn Stock\nSave 5% every day\n...\nStrawberry spun sugar swirls into orange blossom ...",
+    "source": "web",
+    "title": "eos Holiday Shea Better 24H Moisture Body Lotion - Cotton ...",
+    "url": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "EOS Lotion - Shea Better 24H Moisture, Multiple Scents & Sizes\n...\n110 results for “eos lotion”\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.7(41)\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\n...\n- $9.9...",
+    "source": "web",
+    "title": "EOS Lotion - Shea Better 24H Moisture, Multiple Scents & Sizes",
+    "url": "https://www.target.com/s/eos+lotion"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "EOS Shea Better 24H Moisture Body Lotion | Best For Dry Skin : Page 2\n...\n### Trending now\n- $9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\n3.6 out of 5 stars with 53 ratings53 reviews\n- $9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 1...",
+    "source": "web",
+    "title": "eos shea better moisture body lotion",
+    "url": "https://www.target.com/s/eos+shea+better+moisture+body+lotion?Nao=24"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "EOS Holiday Collection: Lip Balm & Body Lotion\n...\n109 results for “eos holiday”\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n4.5(35)\nLoved for: hydrating formula\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl...",
+    "source": "web",
+    "title": "EOS Holiday Collection: Lip Balm & Body Lotion - Target",
+    "url": "https://www.target.com/s/eos+holiday"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "110 results for “eos holiday lotion”\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n4.6(25)\nLoved for: hydrating formula\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.7(30)\n$9.99",
+    "source": "web",
+    "title": "EOS Holiday Lotion | Shea Better Body Lotion",
+    "url": "https://www.target.com/s/eos+holiday+lotion"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n...\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.6(54)\n...\n- $9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - ...",
+    "source": "web",
+    "title": "Holiday Lotion Sizes: Best Sellers & eos Options",
+    "url": "https://www.target.com/s/holiday+lotion"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "Holiday Body Lotion Winter Shea Better 24H Moisture | eos\n...\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n4(2)\n$4.99",
+    "source": "web",
+    "title": "Holiday Body Lotion Winter Shea Better 24H Moisture | eos - Target",
+    "url": "https://www.target.com/s/holiday+body+lotion+winter"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "eos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n...\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.7(50)\n$9.99($0.62/fluid ounce)\n...\n- $9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Co...",
+    "source": "web",
+    "title": "EOS Sensitive Skin Lotion & Creams - Target",
+    "url": "https://www.target.com/s/eos+sensitive"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "## 38 results\n66k+ bought in last month\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.7(52)\n46k+ bought in last month\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n4.5(33)",
+    "source": "web",
+    "title": "eos : Bath & Body: Body Wash, Lotions, Scrubs & Bath Care",
+    "url": "https://www.target.com/c/bath-body-beauty/eos/-/N-5xu1mZt73ck"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz\neosNew at target¬\n3.5(56)\n$9.99\neos Holiday Shea Better 24H Moisture Body Lotion - Cozy Comfort - 16 fl oz\neosNew at target¬\n4.5(35)",
+    "source": "web",
+    "title": "EOS Beauty Gift Sets | Lotion, Lip Balm & Skincare - Target",
+    "url": "https://www.target.com/s/beauty+gift+sets+eos"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 41,
+   "cost": {
+    "input_tokens_cost": 0.00132,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00412
+   },
+   "prompt_tokens": 143,
+   "search_context_size": "low",
+   "total_tokens": 184
+  }
+ }
+}

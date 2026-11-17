@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/cp/electronics/3944",
+  "https://www.walmart.com/",
+  "https://www.walmart.com/ip/Victorinox-Classic-SD-7-Function-Orange-Pocket-Knife/799738233",
+  "https://www.walmart.com/?country=US",
+  "https://www.walmart.com/shop/savings",
+  "https://www.walmart.com/all-departments",
+  "https://developer.walmart.com/global-marketplace/docs//request-an-item-report",
+  "https://business.walmart.com/browse/food-grocery/condiments-sauces/other-condiments-sauces-spreads/4143521_3159144_4267836/Y2F0ZWdvcnk6T3RoZXIgQ29uZGltZW50cywgU2F1Y2VzICYgU3ByZWFkcwieie",
+  "https://business.walmart.com/browse/technology/vizio-4k-tvs/vizio/4306450_7792866_3940652_6382388_6262553_7591765/YnJhbmQ6VklaSU8ie",
+  "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+ ],
+ "cited_store": true,
+ "answer": "Walmart | Save Money. Live better. — Bedding, decor & more[2]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walmart | Save Money. Live better. — Bedding, decor & more[2]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/cp/electronics/3944",
+   "https://www.walmart.com/",
+   "https://www.walmart.com/ip/Victorinox-Classic-SD-7-Function-Orange-Pocket-Knife/799738233",
+   "https://www.walmart.com/?country=US",
+   "https://www.walmart.com/shop/savings",
+   "https://www.walmart.com/all-departments",
+   "https://developer.walmart.com/global-marketplace/docs//request-an-item-report",
+   "https://business.walmart.com/browse/food-grocery/condiments-sauces/other-condiments-sauces-spreads/4143521_3159144_4267836/Y2F0ZWdvcnk6T3RoZXIgQ29uZGltZW50cywgU2F1Y2VzICYgU3ByZWFkcwieie",
+   "https://business.walmart.com/browse/technology/vizio-4k-tvs/vizio/4306450_7792866_3940652_6382388_6262553_7591765/YnJhbmQ6VklaSU8ie",
+   "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+  ],
+  "created": 1794079562,
+  "id": "resp_01ed4964-55b7-467e-a844-74dd3156d037",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Electronics: Smartphones, Cellphones, Laptops, Audio\n...\n# Electronics: Smartphones, Cellphones, Laptops, Audio",
+    "source": "web",
+    "title": "Electronics: Smartphones, Cellphones, Laptops, Audio",
+    "url": "https://www.walmart.com/cp/electronics/3944"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\n...\n# Walmart | Save Money. Live better.\n- Ask Sparky\n...\n- Bedding, decor & more",
+    "source": "web",
+    "title": "Walmart | Save Money. Live better.",
+    "url": "https://www.walmart.com/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2025-08-20",
+    "place_metadata": null,
+    "snippet": "Victorinox\n# Victorinox Classic SD 7 Function Orange Pocket Knife\n4.8 stars out of 87 reviews",
+    "source": "web",
+    "title": "Victorinox Classic SD 7 Function Orange Pocket Knife - Walmart.com",
+    "url": "https://www.walmart.com/ip/Victorinox-Classic-SD-7-Function-Orange-Pocket-Knife/799738233"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "Walmart | Save Money.\n...\n# Walmart | Save Money. Live better.\n- Fill up on trick-or-treat fun\n...\n- Get it as fast as 30 min.",
+    "source": "web",
+    "title": "Walmart",
+    "url": "https://www.walmart.com/?country=US"
+   },
+   {
+    "date": "2026-10-19",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Rollbacks & more - Walmart.com\n...\n- Services are only available in the U.S., but you can still shop thousands of items online!",
+    "source": "web",
+    "title": "Rollbacks & more - Walmart.com",
+    "url": "https://www.walmart.com/shop/savings"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "All Departments - Walmart.com\n- $0.00\n# Browse Departments",
+    "source": "web",
+    "title": "All Departments - Walmart.com",
+    "url": "https://www.walmart.com/all-departments"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "|Field name|Description|\n|--|--|\n|Product Name|Item title shown to customers.|\n| … | … |\n|Item Page URL|URL of the product page.|",
+    "source": "web",
+    "title": "Request an item report",
+    "url": "https://developer.walmart.com/global-marketplace/docs//request-an-item-report"
+   },
+   {
+    "date": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Other Condiments, Sauces & Spreads Condiments & Sauces - Essential Food Items for Your Business - Business.walmart.com\n1. Food & Grocery/\n2. Canned & Dry/\n...\n# Other Condiments, Sauces & Spreads Condiments & Sauces - Essential Food Items for Your Business - Business.walmart.com (22)\nMcCormick Brown...",
+    "source": "web",
+    "title": "Other Condiments, Sauces & Spreads ... - Walmart Business",
+    "url": "https://business.walmart.com/browse/food-grocery/condiments-sauces/other-condiments-sauces-spreads/4143521_3159144_4267836/Y2F0ZWdvcnk6T3RoZXIgQ29uZGltZW50cywgU2F1Y2VzICYgU3ByZWFkcwieie"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "VIZIO VIZIO: Premium Electronics for Your Business Needs - Business.walmart.com\n...\n# VIZIO VIZIO: Premium Electronics for Your Business Needs - Business.walmart.com (36)",
+    "source": "web",
+    "title": "VIZIO VIZIO: Premium Electronics for Your Business Needs",
+    "url": "https://business.walmart.com/browse/technology/vizio-4k-tvs/vizio/4306450_7792866_3940652_6382388_6262553_7591765/YnJhbmQ6VklaSU8ie"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Help & customer support\n## 24. How to Contact Us\nIf you have any questions or comments, please contact us at https://walmart.com/help, or by mail at the following address: Walmart.com; 850 Cherry Ave., San Bruno, CA 94066.",
+    "source": "web",
+    "title": "Walmart.com Terms of Use",
+    "url": "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 19,
+   "cost": {
+    "input_tokens_cost": 0.00062,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00317
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 76
+  }
+ }
+}

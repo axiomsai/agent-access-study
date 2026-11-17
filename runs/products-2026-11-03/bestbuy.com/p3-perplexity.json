@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+  "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884/reviews",
+  "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884",
+  "https://www.bestbuy.com/site/shop/modern-home-air-fryer",
+  "https://www.bestbuy.com/site/shop/stainless-steel-air-fryer",
+  "https://www.bestbuy.com/site/shop/air-fryers-with-ceramic-coating",
+  "https://www.bestbuy.com/site/brands/bella-pro/pcmcat1770231527702.c",
+  "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=bella%20pro",
+  "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/6583884/openbox",
+  "https://www.bestbuy.com/product/bella-pro-4-qt-touchscreen-slim-air-fryer-stainless-steel/6583861/openbox"
+ ],
+ "cited_store": true,
+ "answer": "NAME: bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel | PRICE: $129.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel | PRICE: $129.99 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR",
+   "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884/reviews",
+   "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884",
+   "https://www.bestbuy.com/site/shop/modern-home-air-fryer",
+   "https://www.bestbuy.com/site/shop/stainless-steel-air-fryer",
+   "https://www.bestbuy.com/site/shop/air-fryers-with-ceramic-coating",
+   "https://www.bestbuy.com/site/brands/bella-pro/pcmcat1770231527702.c",
+   "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=bella%20pro",
+   "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/6583884/openbox",
+   "https://www.bestbuy.com/product/bella-pro-4-qt-touchscreen-slim-air-fryer-stainless-steel/6583861/openbox"
+  ],
+  "created": 1793751332,
+  "id": "resp_d583e6b3-23ab-4331-95dc-f96840334009",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "bella PRO SmartCrisp 8 qt.\nTouchscreen Air Fryer Stainless Steel - Best Buy\n...\n# bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel\nModel: 90223\nSKU: 6583884\nRating 4.7 out of 5 stars with 1916 reviews\n...\nSold byBest Buy\n...\n$129,99\n...\n# bella PRO - SmartCrisp 8-qt. Touchscreen ...",
+    "source": "web",
+    "title": "bella PRO SmartCrisp 8 qt. Touchscreen Air Fryer Stainless Steel",
+    "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "bella PRO SmartCrisp 8 qt.\nTouchscreen Air Fryer Stainless Steel - Best Buy\n...\n# Customer Ratings & Reviews\n## bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel\n- **Model:**\n90223\n|\n- **SKU:**\n6583884\nRating 4.7 out of 5 stars with 1874 reviews\n...\nTop Deal\n$79.99$7999\nSave $50\nT...",
+    "source": "web",
+    "title": "bella PRO SmartCrisp 8 qt. Touchscreen Air Fryer Stainless Steel",
+    "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884/reviews"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "bella PRO SmartCrisp 8 qt.\nTouchscreen Air Fryer Stainless Steel - Best Buy\n...\n# bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel\nModel: 90223\nSKU: 6583884\nSold byBest Buy\n...\n- #### 8-quart capacity\nFeeds a crowd—serves up to 8 people.\n- #### Fast heat-up, even cooking\n1700 wat...",
+    "source": "web",
+    "title": "SmartCrisp 8-qt. Touchscreen Air Fryer - bella PRO",
+    "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/J3P5RSSWRR/sku/6583884"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-10-09",
+    "place_metadata": null,
+    "snippet": "1. ### bella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer - Stainless Steel\nSKU: J3P5RSSWRR\nRating 5 out of 5 stars with 1,885\nreviews\n*\n* (1,885)\n...\n#### Product Description\nA stainless steel touchscreen air fryer with ceramic nonstick basket and multiple cooking functions for healthier meals.\n$79...",
+    "source": "web",
+    "title": "Modern Home Air Fryer",
+    "url": "https://www.bestbuy.com/site/shop/modern-home-air-fryer"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-10-10",
+    "place_metadata": null,
+    "snippet": "4. ### bella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer - Stainless Steel\nSKU: J3P5RSSWRR\nRating 5 out of 5 stars with 1,885\nreviews\n*\n* (1,885)\n**Love** it!!!\n**Best** Buy has **great** employees with excellent customer service...It was ready for pick up when I got there **great** job **Best** Bu...",
+    "source": "web",
+    "title": "Stainless Steel Air Fryer - Best Buy",
+    "url": "https://www.bestbuy.com/site/shop/stainless-steel-air-fryer"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "3. ### bella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer - Stainless Steel\nSKU: J3P5RSSWRR**Love** it!!!**Best** Buy has**great** employees with excellent customer service...It was ready for pick up when I got there**great** job**Best** Buy ..advertising was correct..**best** air fryer...ever I**lo...",
+    "source": "web",
+    "title": "Air Fryers With Ceramic Coating",
+    "url": "https://www.bestbuy.com/site/shop/air-fryers-with-ceramic-coating"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# bella PRO\n## bella PRO (40)\n- ### bella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer - Stainless Steel\nRating 4.7 out of 5 stars with 1917 reviews\n4.7(1,917 reviews)\nCompare",
+    "source": "web",
+    "title": "bella PRO - Best Buy",
+    "url": "https://www.bestbuy.com/site/brands/bella-pro/pcmcat1770231527702.c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "bella pro - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n...\n### bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel\nRating 4.7 out of 5 stars with 1880 reviews\n** 4.7(1,880 reviews)\nCompare\n...\n- ### bella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer\n4.7(1880)\nTop...",
+    "source": "web",
+    "title": "bella pro",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=bella%20pro"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "bella PRO SmartCrisp 8 qt.\nTouchscreen Air Fryer Stainless Steel 90223 - Open Box - Best Buy\n...\nA do-it-all-and-more powerhouse, the bella PRO SmartCrisp 8-qt.\nTouchscreen Air Fryer feeds a family of 8.\nThe spacious basket holds more than 6lbs of food and features EverGood Ceramic Nonstick Coating ...",
+    "source": "web",
+    "title": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel",
+    "url": "https://www.bestbuy.com/product/bella-pro-smartcrisp-8-qt-touchscreen-air-fryer-stainless-steel/6583884/openbox"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# bella PRO - 4-qt. Touchscreen Slim Air Fryer - Stainless Steel\nModel: 90235\n...\nView All Images\nbella PRO - SmartCrisp 8-qt.\nTouchscreen Air Fryer - Stainless Steel\n4.7(1916)\n$129.99$129.99\nA do-it-all-and-more powerhouse, the bella PRO SmartCrisp 8-qt.\nTouchscreen Air Fryer feeds a family of 8.\nT...",
+    "source": "web",
+    "title": "bella PRO 4 qt. Touchscreen Slim Air Fryer Stainless Steel 90235",
+    "url": "https://www.bestbuy.com/product/bella-pro-4-qt-touchscreen-slim-air-fryer-stainless-steel/6583861/openbox"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 38,
+   "cost": {
+    "input_tokens_cost": 0.00166,
+    "output_tokens_cost": 0.00028,
+    "request_cost": 0.0025,
+    "total_cost": 0.00444
+   },
+   "prompt_tokens": 136,
+   "search_context_size": "low",
+   "total_tokens": 174
+  }
+ }
+}

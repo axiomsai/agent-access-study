@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/",
+  "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340",
+  "https://www.walgreens.com/q/groceries",
+  "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3",
+  "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+  "https://www.walgreens.com/store/c/productlist/N=20005820",
+  "https://www.walgreens.com/q/olay-complete",
+  "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1",
+  "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+  "https://www.walgreens.com/store/c/productlist/cold-&-flu-medications-adult-cold-remedies/N=361457-2000011429"
+ ],
+ "cited_store": true,
+ "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Vitamins[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Vitamins[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/",
+   "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340",
+   "https://www.walgreens.com/q/groceries",
+   "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3",
+   "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general",
+   "https://www.walgreens.com/store/c/productlist/N=20005820",
+   "https://www.walgreens.com/q/olay-complete",
+   "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1",
+   "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3",
+   "https://www.walgreens.com/store/c/productlist/cold-&-flu-medications-adult-cold-remedies/N=361457-2000011429"
+  ],
+  "created": 1793905831,
+  "id": "resp_e0cb1dc3-0698-4b4e-98b8-afbd8549c659",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You\n# Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "source": "web",
+    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "url": "https://www.walgreens.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Receive FREE 1-Hour Delivery when you spend $20 on these eligible products\n## Refine\n**Vitamins**\n...\n**Oral Care**\n...\n103 items filtered*",
+    "source": "web",
+    "title": "Receive FREE 1-Hour Delivery when you spend $20 on ...",
+    "url": "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003340"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Groceries\n...\n## Groceries\nYou can order packaged groceries for yourself and your family and save yourself the hassle of parking in a supermarket lot.\nA full selection of packaged groceries is available for shipment right to you.\nWalgreens.com carries food from well-known grocery brands like Oscar...",
+    "source": "web",
+    "title": "Groceries",
+    "url": "https://www.walgreens.com/q/groceries"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Allergy Medicine & Relief | Walgreens\n# Allergy Medicine\n## Refine",
+    "source": "web",
+    "title": "Allergy Medicine & Relief | Walgreens",
+    "url": "https://www.walgreens.com/store/c/allergy-medicine/ID=361485-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Cold and Flu Medicine | Walgreens\n# Cold and Flu Medicine\n## Up to 25% OFF",
+    "source": "web",
+    "title": "Cold and Flu Medicine - Walgreens",
+    "url": "https://www.walgreens.com/store/c/cough-cold-and-flu-medications/ID=360549-tier2general"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Sitewide: 15% OFF $40+ with code GIFT15 or 20% OFF $50+ with code GIFT20*\n## Refine\n416 items filtered*\nPrice and inventory may vary from online to in store.\n- In-stock items only\n...\n- **Dolce & Gabbana Intenso Eau De Toilette Spray for Men** - 2.5 fl oz",
+    "source": "web",
+    "title": "15% OFF $40+ with code GIFT15 or 20% OFF $50+ with code GIFT20",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20005820"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Olay Complete | Walgreens\n# Olay Complete\n## Refine\n- - $20 - $50\n...\n- **Olay Complete Complete Lotion Moisturizer with Sunscreen SPF 15, Normal Skin No Scent** - 6 oz",
+    "source": "web",
+    "title": "Olay Complete | Walgreens",
+    "url": "https://www.walgreens.com/q/olay-complete"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Toys, Games & Books | Walgreens\n# Toys, Games & Books",
+    "source": "web",
+    "title": "Toys, Games & Books",
+    "url": "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Grocery & Beverages | Walgreens\n# Grocery & Beverages\n## Refine\n...\n6119 items filtered*",
+    "source": "web",
+    "title": "Grocery & Beverages",
+    "url": "https://www.walgreens.com/store/c/grocery-products/ID=359451-tier3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Cold Medicine | Walgreens\n- Adult Cold Remedies\n# Cold & Flu Medications - Adult Cold Remedies",
+    "source": "web",
+    "title": "Cold & Flu Medications - Adult Cold Remedies",
+    "url": "https://www.walgreens.com/store/c/productlist/cold-&-flu-medications-adult-cold-remedies/N=361457-2000011429"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 20,
+   "cost": {
+    "input_tokens_cost": 0.00055,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00311
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 78
+  }
+ }
+}

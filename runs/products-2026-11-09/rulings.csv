@@ -1,0 +1,26 @@
+key,coder_a,coder_b,ruling,ruled_by,ruled_on,reason
+amazon.com|1|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+amazon.com|3|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+amazon.com|4|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+temu.com|1|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+temu.com|3|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+temu.com|5|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+etsy.com|3|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+etsy.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+lowes.com|5|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+cvs.com|1|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+walgreens.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+costco.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+costco.com|5|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+shein.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|1|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|2|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|3|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|4|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+aliexpress.com|5|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+depop.com|2|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-09,refused vs challenge; both turned away
+temu.com|5|openai,claude:blind_to_price,gemini:shell_or_challenge,shell_or_challenge,precedent temu.com|1|openai (2026-11-05),2026-11-09,"says OPENED: YES but names no product"
+macys.com|3|perplexity,gemini:opened,gpt:shell_or_challenge,refused_or_error,precedent amazon.com|2|perplexity (2026-11-07),2026-11-09,"says OPENED: NO but gives a price (price while blocked)"
+shein.com|5|claude (said_copy_age),gemini:na,gpt:n,n,precedent (2026-11-07),2026-11-09,"copy date exists; answer does not mention it"
+bestbuy.com|5|claude,gemini:blind_to_price,gpt:opened,blind_to_price,karen-spinner,2026-11-09,"answer says it saw only a metadata price of 349 (the right price) but reports PRICE: NONE"

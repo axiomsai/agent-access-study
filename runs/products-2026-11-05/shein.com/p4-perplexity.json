@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.shein.com/Satin-Halter-Backless-Midi-Dress-Women-Elegant-Formal-High-Neck-Cowl-Back-Wedding-Guest-Dress,-Silt-Design-p-275193282.html",
+  "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html",
+  "https://us.shein.com/SHEIN-SXY-Tie-Backless-Pearl-Beaded-Halter-Satin-Dress-p-9164142.html",
+  "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+  "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html",
+  "https://us.shein.com/SHEIN-Priv-Solid-Halter-Neck-Satin-Dress-p-15468613.html",
+  "https://us.shein.com/style/Party-Dresses-sc-00100728.html",
+  "https://us.shein.com/category/Dresses-sc-008295440.html",
+  "https://us.shein.com/pdsearch/High%20Low%20Dress/",
+  "https://us.shein.com/Women%20Party%20Wear-c-5360.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.shein.com/Satin-Halter-Backless-Midi-Dress-Women-Elegant-Formal-High-Neck-Cowl-Back-Wedding-Guest-Dress,-Silt-Design-p-275193282.html",
+   "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html",
+   "https://us.shein.com/SHEIN-SXY-Tie-Backless-Pearl-Beaded-Halter-Satin-Dress-p-9164142.html",
+   "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html",
+   "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html",
+   "https://us.shein.com/SHEIN-Priv-Solid-Halter-Neck-Satin-Dress-p-15468613.html",
+   "https://us.shein.com/style/Party-Dresses-sc-00100728.html",
+   "https://us.shein.com/category/Dresses-sc-008295440.html",
+   "https://us.shein.com/pdsearch/High%20Low%20Dress/",
+   "https://us.shein.com/Women%20Party%20Wear-c-5360.html"
+  ],
+  "created": 1793907373,
+  "id": "resp_fcb68396-44b6-4fac-9401-3f7c4d7280fd",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Satin Halter Backless Midi Dress Women Elegant Formal High Neck Cowl Back Wedding Guest Dress, Silt Design | SHEIN USA\n...\n2. Sports & Outdoor/\n3. Women Activewear/\n...\n5. Satin Halter Backless Midi Dress Women Elegant Formal High Neck Cowl Back Wedding Guest Dress, Silt Design\n# Satin Halter Backle...",
+    "source": "web",
+    "title": "Satin Halter Backless Midi Dress Women Elegant Formal High ...",
+    "url": "https://us.shein.com/Satin-Halter-Backless-Midi-Dress-Women-Elegant-Formal-High-Neck-Cowl-Back-Wedding-Guest-Dress,-Silt-Design-p-275193282.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "#WarmToneLayered\nLocal\n-43%\nElegant Women's Sleeveless Formal Long Dress, Asymmetrical Neckline Ruched Satin Fabric, Slim Fit Mermaid Cocktail Dress Party Wedding\n#2 Bestseller\nin Ruched Women Party Wear\n$18.95\n...\nElisanya Sleeveless Backless Slit Slim Fit Party Dress\n(1000+)\n...\nLocal\n-44%\nElegant...",
+    "source": "web",
+    "title": "Fashion Women Cocktail Dresses | SHEIN USA",
+    "url": "https://us.shein.com/Women-Cocktail-Dresses-c-8035.html"
+   },
+   {
+    "date": "2022-05-11",
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "SHEIN SXY Tie Backless Pearl Beaded Halter Satin Dress | SHEIN USA\n...\n2. Women Apparel/\n3. Women Clothing/\n...\n6. SHEIN SXY Tie Backless Pearl Beaded Halter Satin Dress\n# SHEIN SXY Tie Backless Pearl Beaded Halter Satin Dress\nSKU: sw2111302614207078\n## Price and availability\n$15.69\n4 easy payments ...",
+    "source": "web",
+    "title": "SHEIN SXY Tie Backless Pearl Beaded Halter Satin Dress",
+    "url": "https://us.shein.com/SHEIN-SXY-Tie-Backless-Pearl-Beaded-Halter-Satin-Dress-p-9164142.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Home > Curve Halter Dresses\n## Product list\nFemmeverse Women's Plus Size Summer New Ruched Halter Neck Sequin Patchwork Sleeveless High Waist Bodycon Dress\n...\n-26%\nSOLERSUN Plus Size Women's Autumn/Winter Fashion Solid Color Halterneck Halter Neck Tie Long Sleeve Mini Dress, Elegant Draped Fitted...",
+    "source": "web",
+    "title": "Fashion Curve Halter Dresses",
+    "url": "https://us.shein.com/style/Curve-Halter-Dresses-sc-00146201.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Home > Satin Dresses\n## Product list\nYIU LUMOS Women's Deep Blue Satin Mini Dress, Halter V-Neck Tie Long Puff Sleeve Cinched Waist Pleated Hem, Sexy Vintage Fashion Date Party Evening Dress\n20.77€\n20.77€\n...\nCHARMVALE Women's Short Dress With High Neck, Satin Satin Sleeves, Bodycon Hem And Contra...",
+    "source": "web",
+    "title": "Satin Dresses - SHEIN",
+    "url": "https://roe.shein.com/style/Satin-Dresses-sc-00106405.html"
+   },
+   {
+    "date": "2023-07-13",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "SHEIN Privé Solid Halter Neck Satin Dress | SHEIN USA\n...\n2. Women Apparel/\n3. Women Clothing/\n...\n6. SHEIN Privé Solid Halter Neck Satin Dress\n# SHEIN Privé Solid Halter Neck Satin Dress\nSKU: sz2303236982523946\n## Price and availability\n$9.04\n## Size\n...\n## Product Details\n|Material|Satin|\n|--|--|\n...",
+    "source": "web",
+    "title": "SHEIN Privé Solid Halter Neck Satin Dress | SHEIN",
+    "url": "https://us.shein.com/SHEIN-Priv-Solid-Halter-Neck-Satin-Dress-p-15468613.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Home > Party Dresses\n## Product list\nBlack Cold Shoulder Halter Neck Women's Dress, Autumn Elegant Sexy Mesh Long Sleeve Party Evening Bodycon Mermaid Dress\n...\nDAZY Women's Sleeveless Draped Neck Fitted Sequin Cowl Neck Dress For Date And Party, All Seasons",
+    "source": "web",
+    "title": "Shop Party Dresses | Trendy Fashion | SHEIN USA",
+    "url": "https://us.shein.com/style/Party-Dresses-sc-00100728.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Home > Dresses\n## Product list\nAvenya Halter Neck Tie Back Open Back Sexy Elegant Romantic Ruffle Mini Dress, Party Dinner Date Night, Wedding Guest Outfit, Birthday Dark Purple Summer",
+    "source": "web",
+    "title": "Fashion Dresses",
+    "url": "https://us.shein.com/category/Dresses-sc-008295440.html"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Search results for \"High Low Dress\"\n## Product list\nAiiRZ\n-45%\nAiiRZ Chiffon Halter Neck High Low Dress With Open Back And Ruffle Hem Flowing Elegant Evening Gown For Party Wedding Guest\nOnly 7 left\n$19.36\n$19.36\n...\nKSTM V-Neck Sleeveless Asymmetric Handkerchief Hem Midi Dress With Fit And Flare ...",
+    "source": "web",
+    "title": "Search High Low Dress | SHEIN USA",
+    "url": "https://us.shein.com/pdsearch/High%20Low%20Dress/"
+   },
+   {
+    "date": "2025-08-28",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Home > Women Party Wear\n## Product list\nElegant Women's Sleeveless Formal Long Dress, Asymmetrical Neckline Ruched Satin Fabric, Slim Fit Mermaid Cocktail Dress Party Wedding\n...\nXUCTHHC POP\n-20%\nBurgundy Elegant Halter Neck Sleeveless Satin A-Line Evening Gown, Autumn/Winter Formal Dress, Suitabl...",
+    "source": "web",
+    "title": "Home > Women Party Wear",
+    "url": "https://us.shein.com/Women%20Party%20Wear-c-5360.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00165,
+    "output_tokens_cost": 0.0003,
+    "request_cost": 0.0025,
+    "total_cost": 0.00445
+   },
+   "prompt_tokens": 161,
+   "search_context_size": "low",
+   "total_tokens": 179
+  }
+ }
+}

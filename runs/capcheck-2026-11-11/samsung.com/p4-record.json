@@ -1,0 +1,25 @@
+{
+ "domain": "samsung.com",
+ "idx": 4,
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "13597 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 1199.99,
+   "opened": "YES",
+   "doc_chars": 13597,
+   "input_tokens": 30950,
+   "cost_usd": 0.1383
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "13597 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 1199.99,
+   "opened": "YES",
+   "doc_chars": 13597,
+   "input_tokens": 31213,
+   "cost_usd": 0.14043
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Target : Expect More. Pay Less.\n\n**Category Name:** Toys & Games",
+ "finish": "STOP",
+ "cost_usd": 0.00041,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Target : Expect More. Pay Less.\n\n**Category Name:** Toys & Games",
+       "thoughtSignature": "EnMKcQFpFH0T41vT39kgCPfzZkjYxF/leRq7A6YLpEHZyRP6V3dETLmo1dxSnQ/UQpo22T7Q5ube+m2G7dEeekrHL/QlF0RLKHF9XYAqNMA7KeYMnoGG8I1FXJiLurAnKVhLZBmM+DdBJcohhMlGydruCT3x"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 61,
+   "candidatesTokenCount": 39,
+   "totalTokenCount": 3991,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 61
+    }
+   ],
+   "toolUsePromptTokenCount": 3891,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3891
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "UnvvaoyEDv7nz7IPqcnX8Ac"
+ }
+}

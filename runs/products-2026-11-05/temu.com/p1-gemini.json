@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Portable Tire Inflator Air Compressor Cordless Electric Bike Pump 200PSI Portable Tire Inflator with LCD Pressure Gauge and LED Light Ideal for Cars Bicycles Motorcycles and | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page provided no product details, price, or stock information because it was blocked or restricted.",
+ "finish": "STOP",
+ "cost_usd": 0.00219,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Portable Tire Inflator Air Compressor Cordless Electric Bike Pump 200PSI Portable Tire Inflator with LCD Pressure Gauge and LED Light Ideal for Cars Bicycles Motorcycles and | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page provided no product details, price, or stock information because it was blocked or restricted.",
+       "thoughtSignature": "EnMKcQFpFH0TbQLSiXKHSh3rAItTTdw9R8/19wJPicPxo8PafI55/rbc1VvR38yVA9PhXdDmXdc6HFfYXhBCTTv1WbwmF7RixqLa4vI5jIQTLg8drQ++hRBZY3auG27lgA+kzo/Ii7Z6ED3NpVjM1pd+ih/K"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 196,
+   "candidatesTokenCount": 170,
+   "totalTokenCount": 21423,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 196
+    }
+   ],
+   "toolUsePromptTokenCount": 21057,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21057
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "O9XsavP0E_SaqtsPtd-KyAo"
+ }
+}

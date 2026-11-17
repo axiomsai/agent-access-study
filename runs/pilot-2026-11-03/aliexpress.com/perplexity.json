@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/",
+  "https://www.aliexpress.com/item/1005010231711537.html",
+  "https://www.aliexpress.com/item/1005006141671425.html",
+  "https://www.aliexpress.com/item/1005009162862648.html",
+  "https://www.aliexpress.com/p/transparencycenter/tools.html",
+  "https://www.aliexpress.com/item/1005011842943868.html",
+  "https://www.aliexpress.com/item/1005008403470557.html",
+  "https://www.aliexpress.com/item/1005007460963794.html",
+  "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+  "https://www.aliexpress.com/i/1005006341932501.html"
+ ],
+ "cited_store": true,
+ "answer": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Folding Butterfly Knife Trainer",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping — Folding Butterfly Knife Trainer",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/",
+   "https://www.aliexpress.com/item/1005010231711537.html",
+   "https://www.aliexpress.com/item/1005006141671425.html",
+   "https://www.aliexpress.com/item/1005009162862648.html",
+   "https://www.aliexpress.com/p/transparencycenter/tools.html",
+   "https://www.aliexpress.com/item/1005011842943868.html",
+   "https://www.aliexpress.com/item/1005008403470557.html",
+   "https://www.aliexpress.com/item/1005007460963794.html",
+   "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link",
+   "https://www.aliexpress.com/i/1005006341932501.html"
+  ],
+  "created": 1793749485,
+  "id": "resp_f7044978-4b44-48c1-a7e6-9ddb5a0c4a51",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## More to love\n### Folding Butterfly Knife Trainer Stainless Steel Pocket Practice Training Uncut Tool for Outdoor Games Hand Movements\nAliExpress is an international B to C cross-border electronic commerce platform under the Alibaba group.",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping",
+    "url": "https://www.aliexpress.com/"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Sem título",
+    "url": "https://www.aliexpress.com/item/1005010231711537.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/1005006141671425.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n0\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "MECHREVO 15Pro Gaming Laptop 15.3 RTX 4060 i9- ...",
+    "url": "https://www.aliexpress.com/item/1005009162862648.html"
+   },
+   {
+    "date": "2026-07-28",
+    "last_updated": "2026-10-12",
+    "place_metadata": null,
+    "snippet": "# Tools\nPlatform users can navigate to the product reporting interface by utilizing the report button located on the product detail page.",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.aliexpress.com/p/transparencycenter/tools.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "- AliExpress",
+    "url": "https://www.aliexpress.com/item/1005011842943868.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "[World Premiere] realme C85 Pro Smartphone NFC 7000mAh ...",
+    "url": "https://www.aliexpress.com/item/1005008403470557.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Vibrating Cock Ring Penis Ring Sex Toys for Men Couples ...",
+    "url": "https://www.aliexpress.com/item/1005007460963794.html"
+   },
+   {
+    "date": "2025-09-16",
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "Here’s what “specific link” means in practice: - **** Specific Link ****\nA direct URL that points to a single product listing on a marketplace like AliExpress, including the seller ID, product ID, and any unique tracking parameters.\nIt should load the exact product page without requiring further nav...",
+    "source": "web",
+    "title": "Give Me a Specific Link: The Ultimate Guide to Finding Your...",
+    "url": "https://www.aliexpress.com/s/wiki-ssr/article/give-me-a-specific-link"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(\n## More to love",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/i/1005006341932501.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.00058,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00313
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

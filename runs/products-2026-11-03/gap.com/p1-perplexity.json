@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/",
+  "https://www.gap.com/browse/category.do?cid=17045",
+  "https://www.gap.com/browse/product.do?pid=888869022",
+  "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+  "https://www.gap.com/browse/category.do?cid=1023990%22",
+  "https://www.gap.com/browse/product.do?vid=1&pid=989359002",
+  "https://www.gap.com/browse/product.do?pid=8601460020005",
+  "https://www.gap.com/browse/product.do?pid=165891032",
+  "https://www.gap.com/browse/product.do?pid=11815280120000",
+  "https://www.gap.com/browse/product.do?pid=714026042"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/",
+   "https://www.gap.com/browse/category.do?cid=17045",
+   "https://www.gap.com/browse/product.do?pid=888869022",
+   "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844",
+   "https://www.gap.com/browse/category.do?cid=1023990%22",
+   "https://www.gap.com/browse/product.do?vid=1&pid=989359002",
+   "https://www.gap.com/browse/product.do?pid=8601460020005",
+   "https://www.gap.com/browse/product.do?pid=165891032",
+   "https://www.gap.com/browse/product.do?pid=11815280120000",
+   "https://www.gap.com/browse/product.do?pid=714026042"
+  ],
+  "created": 1793751436,
+  "id": "resp_998c4675-5712-4fa3-ae2d-83670d72ae34",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Sweaters in season\nWarm knits.\nSoft textures.\nLayered over and under.\nA stack of sweaters, outfitted for fall.",
+    "source": "web",
+    "title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "Sign up for email",
+    "url": "https://www.gap.com/browse/category.do?cid=17045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-23",
+    "place_metadata": null,
+    "snippet": "# Relaxed Pique Polo\n![Image 1 of 5, Wicking stretch pique cotton polo shirt., Spread collar, front button placket., Short sleeves., Certain styles have an allover print., This product was made in a factory that invests in gender equity and women’s empowerment through RISE. Learn more at gapinc.com/...",
+    "source": "web",
+    "title": "Relaxed Pique Polo",
+    "url": "https://www.gap.com/browse/product.do?pid=888869022"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-10",
+    "place_metadata": null,
+    "snippet": "# Shop All Styles\n## All Products\nhttps://www.gap.com/browse/product.do?pid=912383002)",
+    "source": "web",
+    "title": "Men Shop All Styles Accessories",
+    "url": "https://www.gap.com/browse/men/shop-all-styles/accessories?cid=1127944&style=1163844"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "The Closet Refresh: 50% off your purchase + extra 10% off for Cardmembers with code MORE",
+    "source": "web",
+    "title": "www.gap.com · browse · categoryGap",
+    "url": "https://www.gap.com/browse/category.do?cid=1023990%22"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-14",
+    "place_metadata": null,
+    "snippet": "# Fitted boyfriend shirt\nsee additional colors\nOut of Stock\n...\nSize Guide",
+    "source": "web",
+    "title": "Fitted boyfriend shirt",
+    "url": "https://www.gap.com/browse/product.do?vid=1&pid=989359002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "# Seamless Scoop Bralette\n$24.50\n$14.99",
+    "source": "web",
+    "title": "Seamless Scoop Bralette",
+    "url": "https://www.gap.com/browse/product.do?pid=8601460020005"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-10",
+    "place_metadata": null,
+    "snippet": "# Stripe tank\nOut of Stock\n# Stripe tank\n$14.95",
+    "source": "web",
+    "title": "Stripe tank",
+    "url": "https://www.gap.com/browse/product.do?pid=165891032"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Denim Five Pocket Tote\n$99.95\nImage of 5 stars, 5 are filled, 1 Ratings\n...\n- Product #1181528",
+    "source": "web",
+    "title": "Denim Five Pocket Tote",
+    "url": "https://www.gap.com/browse/product.do?pid=11815280120000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-27",
+    "place_metadata": null,
+    "snippet": "# GapFit Smooth Racerback Tank Top\n...\n# GapFit Smooth Racerback Tank Top",
+    "source": "web",
+    "title": "GapFit Smooth Racerback...",
+    "url": "https://www.gap.com/browse/product.do?pid=714026042"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00071,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.0034
+   },
+   "prompt_tokens": 117,
+   "search_context_size": "low",
+   "total_tokens": 135
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\nProduct or category name: Furniture",
+ "finish": "STOP",
+ "cost_usd": 0.00103,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\nProduct or category name: Furniture",
+       "thoughtSignature": "EnMKcQFpFH0TK4Xr4ti8Mcb7DaIz7hzunpGVV2nshCKV9X8sG5BzCVfjBgxYjb2H6+1pDiaf05oLCJrJX/C7v+zqNBLDNxOI6NPHsbuqcq44j145tEpIftH2RozHD3GY4F2QTaFTgaX+9c2hOHWc+ZBk5ncQ"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.wayfair.com/",
+        "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors ..."
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 81,
+        "text": "Page title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 83,
+        "endIndex": 118,
+        "text": "Product or category name: Furniture"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 56,
+   "totalTokenCount": 10159,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 10041,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 10041
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "qQ7yaoCGB9qgz7IP2pOa6Qk"
+ }
+}

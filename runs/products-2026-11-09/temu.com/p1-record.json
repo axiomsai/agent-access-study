@@ -1,0 +1,60 @@
+{
+ "domain": "temu.com",
+ "url": "https://www.temu.com/portable-tire-inflator-air-compressor-cordless-electric-bike-pump-200psi-portable-tire-inflator-with-lcd-pressure-gauge-and-led-light-ideal-for-cars-bicycles-motorcycles-and--g-607295605976896.html",
+ "idx": 1,
+ "at": "2026-11-09T12:21:10-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "459 chars, copy dated 2026-11-09 (0 days old)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked (the page returned only an empty \"Temu\" shell with no product content)",
+   "retrieved_at": "2026-11-09T18:21:13+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10299
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the page appears to be a general landing page or error page rather than a specific product details page.",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00218
+  },
+  "openai": {
+   "verdict": "blocked",
+   "why": "opened, answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01144
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Portable Tire Inflator Air Compressor, Cordless Electric Bike Pump, 200PSI, Portable Tire Inflator with LCD Pressure Gauge And LED Light, Ideal for Cars, Bicycles, Motorcycles, And Sports Balls",
+   "price": 15.97,
+   "price_raw": "$15.97",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00523
+  }
+ }
+}

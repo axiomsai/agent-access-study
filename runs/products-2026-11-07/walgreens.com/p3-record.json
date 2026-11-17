@@ -1,0 +1,60 @@
+{
+ "domain": "walgreens.com",
+ "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+ "idx": 3,
+ "at": "2026-11-07T13:44:13-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "13913 chars, copy dated 2026-09-23 (45 days old)",
+   "parsed": true,
+   "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-09-23T15:22:06+00:00",
+   "age_days": 45,
+   "cost_usd": 0.18748
+  },
+  "gemini": {
+   "verdict": "blocked",
+   "why": "success status but answer reports a block",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the page content was blocked by a consent/privacy wall",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.0003
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02229
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea",
+   "price": 16.99,
+   "price_raw": "$16.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00519
+  }
+ }
+}

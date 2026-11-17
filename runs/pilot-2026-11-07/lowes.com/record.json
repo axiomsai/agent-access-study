@@ -1,0 +1,45 @@
+{
+ "domain": "lowes.com",
+ "url": "https://www.lowes.com/",
+ "started": "2026-11-07T13:26:00-06:00",
+ "robots": {
+  "status": 403,
+  "error": null,
+  "rules": {}
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://www.lowes.com/",
+  "bytes": 323309,
+  "error": null,
+  "title": "Lowe’s Home Improvement",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "4886 chars, copy dated 2026-11-06 (0 days old)",
+   "answer": "I opened the page without any errors, blocks or captchas.\n\n- **Page title:** Lowe's Home Improvement\n- **Category on the page:** Appliances",
+   "cost_usd": 0.09649
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "**Page Title:** Lowe's Home Improvement\n**Product/Category Name:** Appliances",
+   "cost_usd": 0.0004
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Lowe’s Home Improvement. ([lowes.com](https://www.lowes.com/))\n\nProduct/category name: Appliances. ([lowes.com](https://www.lowes.com/))",
+   "cost_usd": 0.0121
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Lowe’s Home Improvement — Lawn & Garden Hand Tools[1]",
+   "cost_usd": 0.00507
+  }
+ }
+}

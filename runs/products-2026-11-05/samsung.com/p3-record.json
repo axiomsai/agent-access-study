@@ -1,0 +1,60 @@
+{
+ "domain": "samsung.com",
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+ "idx": 3,
+ "at": "2026-11-05T13:30:59-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15242 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Galaxy Z Fold8 Ultra",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T14:37:33+00:00",
+   "age_days": 0,
+   "cost_usd": 0.17369
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Galaxy Z Fold8 Ultra",
+   "price": 2299.99,
+   "price_raw": "$2,299.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00059
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Buy the Unlocked Galaxy Z Fold8 Ultra 512GB in Green",
+   "price": 2299.99,
+   "price_raw": "$2,299.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01235
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Galaxy Z Fold8 Ultra",
+   "price": 2299.99,
+   "price_raw": "$2,299.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00515
+  }
+ }
+}

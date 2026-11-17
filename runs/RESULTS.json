@@ -1,0 +1,391 @@
+{
+ "lead1": {
+  "stores_with_product_pages": 20,
+  "stores": [
+   "aliexpress.com",
+   "amazon.com",
+   "depop.com",
+   "shein.com",
+   "temu.com"
+  ],
+  "count": 5,
+  "turned_away_by_store": {
+   "aliexpress.com": [
+    "claude",
+    "gemini",
+    "openai",
+    "perplexity"
+   ],
+   "amazon.com": [
+    "claude",
+    "gemini",
+    "perplexity"
+   ],
+   "bestbuy.com": [],
+   "costco.com": [
+    "claude"
+   ],
+   "cvs.com": [
+    "openai",
+    "perplexity"
+   ],
+   "depop.com": [
+    "claude",
+    "gemini",
+    "perplexity"
+   ],
+   "ebay.com": [
+    "perplexity"
+   ],
+   "etsy.com": [
+    "perplexity"
+   ],
+   "gap.com": [],
+   "homedepot.com": [],
+   "kroger.com": [],
+   "lowes.com": [],
+   "macys.com": [
+    "perplexity"
+   ],
+   "samsung.com": [],
+   "shein.com": [
+    "claude",
+    "gemini",
+    "perplexity"
+   ],
+   "target.com": [
+    "claude"
+   ],
+   "temu.com": [
+    "claude",
+    "gemini",
+    "openai",
+    "perplexity"
+   ],
+   "walgreens.com": [],
+   "walmart.com": [],
+   "wayfair.com": []
+  },
+  "pages_turned_away_2of3": {
+   "aliexpress.com": {
+    "claude": 5,
+    "gemini": 5,
+    "openai": 5,
+    "perplexity": 5
+   },
+   "amazon.com": {
+    "claude": 5,
+    "gemini": 5,
+    "openai": 0,
+    "perplexity": 3
+   },
+   "bestbuy.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 1
+   },
+   "costco.com": {
+    "claude": 3,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 1
+   },
+   "cvs.com": {
+    "claude": 1,
+    "gemini": 0,
+    "openai": 5,
+    "perplexity": 3
+   },
+   "depop.com": {
+    "claude": 5,
+    "gemini": 5,
+    "openai": 0,
+    "perplexity": 5
+   },
+   "ebay.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 3
+   },
+   "etsy.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 3
+   },
+   "gap.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 1
+   },
+   "homedepot.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "kroger.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "lowes.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "macys.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 4
+   },
+   "samsung.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "shein.com": {
+    "claude": 5,
+    "gemini": 4,
+    "openai": 0,
+    "perplexity": 5
+   },
+   "target.com": {
+    "claude": 5,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "temu.com": {
+    "claude": 5,
+    "gemini": 4,
+    "openai": 4,
+    "perplexity": 5
+   },
+   "walgreens.com": {
+    "claude": 0,
+    "gemini": 1,
+    "openai": 0,
+    "perplexity": 2
+   },
+   "walmart.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 0
+   },
+   "wayfair.com": {
+    "claude": 0,
+    "gemini": 0,
+    "openai": 0,
+    "perplexity": 1
+   }
+  }
+ },
+ "lead2": {
+  "claude": {
+   "2026-11-05": 32,
+   "2026-11-07": 34,
+   "2026-11-09": 34
+  },
+  "gemini": {
+   "2026-11-05": 13,
+   "2026-11-07": 11,
+   "2026-11-09": 10
+  },
+  "openai": {
+   "2026-11-05": 24,
+   "2026-11-07": 25,
+   "2026-11-09": 23
+  },
+  "perplexity": {
+   "2026-11-05": 6,
+   "2026-11-07": 8,
+   "2026-11-09": 6
+  }
+ },
+ "lead3": {
+  "claude": {
+   "2026-11-05": {
+    "match": 18,
+    "graded": 26,
+    "other_listed": 2,
+    "conflict": 1,
+    "price_while_blocked": 0
+   },
+   "2026-11-07": {
+    "match": 19,
+    "graded": 29,
+    "other_listed": 2,
+    "conflict": 1,
+    "price_while_blocked": 0
+   },
+   "2026-11-09": {
+    "match": 17,
+    "graded": 30,
+    "other_listed": 3,
+    "conflict": 0,
+    "price_while_blocked": 0
+   },
+   "pooled": {
+    "match": 54,
+    "graded": 85,
+    "per_100": 63.5
+   }
+  },
+  "gemini": {
+   "2026-11-05": {
+    "match": 50,
+    "graded": 56,
+    "other_listed": 0,
+    "conflict": 2,
+    "price_while_blocked": 0
+   },
+   "2026-11-07": {
+    "match": 54,
+    "graded": 61,
+    "other_listed": 1,
+    "conflict": 1,
+    "price_while_blocked": 0
+   },
+   "2026-11-09": {
+    "match": 49,
+    "graded": 65,
+    "other_listed": 2,
+    "conflict": 1,
+    "price_while_blocked": 0
+   },
+   "pooled": {
+    "match": 153,
+    "graded": 182,
+    "per_100": 84.1
+   }
+  },
+  "openai": {
+   "2026-11-05": {
+    "match": 48,
+    "graded": 57,
+    "other_listed": 0,
+    "conflict": 0,
+    "price_while_blocked": 0
+   },
+   "2026-11-07": {
+    "match": 48,
+    "graded": 61,
+    "other_listed": 0,
+    "conflict": 1,
+    "price_while_blocked": 0
+   },
+   "2026-11-09": {
+    "match": 44,
+    "graded": 60,
+    "other_listed": 1,
+    "conflict": 0,
+    "price_while_blocked": 0
+   },
+   "pooled": {
+    "match": 140,
+    "graded": 178,
+    "per_100": 78.7
+   }
+  },
+  "perplexity": {
+   "2026-11-05": {
+    "match": 30,
+    "graded": 41,
+    "other_listed": 1,
+    "conflict": 2,
+    "price_while_blocked": 17
+   },
+   "2026-11-07": {
+    "match": 27,
+    "graded": 47,
+    "other_listed": 1,
+    "conflict": 1,
+    "price_while_blocked": 15
+   },
+   "2026-11-09": {
+    "match": 32,
+    "graded": 51,
+    "other_listed": 2,
+    "conflict": 0,
+    "price_while_blocked": 15
+   },
+   "pooled": {
+    "match": 89,
+    "graded": 139,
+    "per_100": 64.0
+   }
+  }
+ },
+ "lead4": {
+  "2026-11-05": {
+   "dated": 73,
+   "older_than_7_days": 15,
+   "said_so": 0
+  },
+  "2026-11-07": {
+   "dated": 73,
+   "older_than_7_days": 17,
+   "said_so": 0
+  },
+  "2026-11-09": {
+   "dated": 71,
+   "older_than_7_days": 15,
+   "said_so": 0
+  }
+ },
+ "lead5": {
+  "2026-11-05": {
+   "count": 4,
+   "of": 21,
+   "stores": [
+    "aliexpress.com",
+    "amazon.com",
+    "ebay.com",
+    "instacart.com"
+   ]
+  },
+  "2026-11-07": {
+   "count": 4,
+   "of": 21,
+   "stores": [
+    "aliexpress.com",
+    "amazon.com",
+    "ebay.com",
+    "instacart.com"
+   ]
+  },
+  "2026-11-09": {
+   "count": 4,
+   "of": 21,
+   "stores": [
+    "aliexpress.com",
+    "amazon.com",
+    "ebay.com",
+    "instacart.com"
+   ]
+  }
+ },
+ "coded_vs_rule_access_agreement": {
+  "agree": 1066,
+  "of": 1200
+ },
+ "price_while_blocked": {
+  "2026-11-05": 17,
+  "2026-11-07": 15,
+  "2026-11-09": 15
+ },
+ "price_conflict_pages": {
+  "2026-11-05": 4,
+  "2026-11-07": 4,
+  "2026-11-09": 3
+ }
+}

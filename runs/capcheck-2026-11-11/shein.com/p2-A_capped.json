@@ -1,0 +1,85 @@
+{
+ "model": "claude-opus-5-5",
+ "tool_called": true,
+ "tool_error": "url_too_long",
+ "retrieved_at": null,
+ "age_days": null,
+ "doc_chars": 0,
+ "doc_markers": [],
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error (url_too_long, the fetch tool rejected the URL as too long)",
+ "input_tokens": 16085,
+ "cost_usd": 0.07264,
+ "raw": [
+  {
+   "id": "srvtoolu_01J5Gq3AP18rAVirTL1YLVPN",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0]['content'];print(r[0].get('title'),len(c));print(c[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01JzfgbLfdEgK5zy8yqUYgHZ",
+   "caller": {
+    "tool_id": "srvtoolu_01J5Gq3AP18rAVirTL1YLVPN",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://us.shein.com/Watermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01J5Gq3AP18rAVirTL1YLVPN",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "error_code": "url_too_long",
+    "type": "web_fetch_tool_result_error"
+   },
+   "tool_use_id": "srvtoolu_01JzfgbLfdEgK5zy8yqUYgHZ",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01J5Gq3AP18rAVirTL1YLVPN/cell.py\", line 11, in <module>\n    c=r[0]['content'];print(r[0].get('title'),len(c));print(c[:1500])\n      ~~~~^^^^^^^^^^^\nTypeError: string indices must be integers, not 'str'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01J5Gq3AP18rAVirTL1YLVPN",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_015AJSmWSkK3rfbkimV1bckL",
+   "caller": null,
+   "input": {
+    "code": "print(str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "{\"type\": \"web_fetch_tool_result_error\", \"error_code\": \"url_too_long\"}\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_015AJSmWSkK3rfbkimV1bckL",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error (url_too_long, the fetch tool rejected the URL as too long)",
+   "type": "text"
+  }
+ ]
+}

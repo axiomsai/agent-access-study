@@ -1,0 +1,30 @@
+key,coder_a,coder_b,ruling,ruled_by,ruled_on,reason
+amazon.com|1|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+amazon.com|2|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+amazon.com|3|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+amazon.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+walmart.com|3|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|1|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|3|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|4|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|4|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|5|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+temu.com|5|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+ebay.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+etsy.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+etsy.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+cvs.com|5|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+bestbuy.com|3|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+walgreens.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+walgreens.com|4|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+walgreens.com|5|gemini,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+wayfair.com|2|perplexity,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+aliexpress.com|1|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+aliexpress.com|3|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+aliexpress.com|5|openai,,,turned_away (either class),standing ruling 2026-11-05,2026-11-07,refused vs challenge; both turned away
+wayfair.com|1|claude,gemini:blind_to_price,gpt:shell_or_challenge,shell_or_challenge,precedent wayfair.com|5|claude (2026-11-05),2026-11-07,"only site menus came back, same as Nov 5 ruling"
+amazon.com|2|perplexity,gemini:opened,gpt:refused_or_error,refused_or_error,karen-spinner,2026-11-07,"answer says OPENED: NO but gives a price"
+macys.com|4|perplexity,gemini:opened,gpt:shell_or_challenge,refused_or_error,karen-spinner,2026-11-07,"answer says OPENED: NO but gives a price"
+bestbuy.com|4|perplexity,gemini:blind_to_price,gpt:shell_or_challenge,refused_or_error,karen-spinner,2026-11-07,"answer says OPENED: N(O), no price"
+temu.com|3|claude (said_copy_age),gemini:na,gpt:n,n,karen-spinner,2026-11-07,"copy date exists; answer does not mention it"
+macys.com|2|claude (said_copy_age),gemini:n,gpt:na,n,karen-spinner,2026-11-07,"copy date exists; answer does not mention it"

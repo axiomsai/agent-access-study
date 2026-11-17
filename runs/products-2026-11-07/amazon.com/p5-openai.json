@@ -1,0 +1,180 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.amazon.com/dp/B0FN4NH4K8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B0FN4NH4K8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B0FN4NH4K8"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B0FN4NH4K8"
+  ]
+ ],
+ "answer": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: $12.77 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.04366,
+ "raw": {
+  "id": "resp_0b62e93ba1da118b006aef7c70035087d1ac13782fe6a5f158",
+  "object": "response",
+  "created_at": 1794079856,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1794079861,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0b62e93ba1da118b006aef7c70826487d181b01a547baab3b1",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.amazon.com/dp/B0FN4NH4K8"
+    }
+   },
+   {
+    "id": "ws_0b62e93ba1da118b006aef7c714b7c87d1b95a2a273932e54d",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "priceblock",
+     "url": "https://www.amazon.com/dp/B0FN4NH4K8"
+    }
+   },
+   {
+    "id": "ws_0b62e93ba1da118b006aef7c72b0f887d1a271432ba9f740fc",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "a-price",
+     "url": "https://www.amazon.com/dp/B0FN4NH4K8"
+    }
+   },
+   {
+    "id": "ws_0b62e93ba1da118b006aef7c73b48c87d1adc82342205e4664",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "Currently unavailable",
+     "url": "https://www.amazon.com/dp/B0FN4NH4K8"
+    }
+   },
+   {
+    "id": "msg_0b62e93ba1da118b006aef7c74e77887d19930ae20f8579d01",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Angel Soft Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, Soft and Strong | PRICE: $12.77 | STOCK: UNKNOWN | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 12190,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 307,
+   "output_tokens_details": {
+    "reasoning_tokens": 267
+   },
+   "total_tokens": 12497
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://us.amazon.com/clp/B07BGLT25K",
+  "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://docs.business.amazon.com/docs/using-guided-buying",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+  "https://www.amazon.com/-/he/gp/cart/view.html/ref=uss_cart",
+  "https://www.amazon.com/amazon-ca/s?k=amazon.ca"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: $5.68 | STOCK: UNKNOWN | OPENED: NO: blocked to exact page",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: $5.68 | STOCK: UNKNOWN | OPENED: NO: blocked to exact page",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://us.amazon.com/clp/B07BGLT25K",
+   "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://docs.business.amazon.com/docs/using-guided-buying",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk",
+   "https://www.amazon.com/-/he/gp/cart/view.html/ref=uss_cart",
+   "https://www.amazon.com/amazon-ca/s?k=amazon.ca"
+  ],
+  "created": 1794248469,
+  "id": "resp_d1639ac9-b9bf-421f-b1a6-f08ef04ccf3a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "Scott Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue\n4.5 ** (147.7K)\n100K+ bought in past week\n-12% $5.68$5.68 ($0.20/100 Sheets) List: $6.49$6.49\n$6.99 delivery Wed, Oct 21\n...\nBrand\nScott\nSpecial Feature\nAbsorbent, Clog Free, Perforated, Sept...",
+    "source": "web",
+    "title": "Scott ComfortPlus Toilet Paper, 12 Triple Rolls, 231 Sheets ...",
+    "url": "https://us.amazon.com/clp/B07BGLT25K"
+   },
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying",
+    "url": "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "## Silkland 80Gbps DisplayPort Cable 2.1 [VESA Certified] 6.6FT/2M, DP80 HDR\n16K@60Hz, 8K@240Hz, 4K@540Hz 480Hz 360Hz 240Hz, DP 2.1 Cable for DisplayPort 1.4 Cable, HDR, DSC HDCP 2.3 Gaming Monitor 5090\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying - What are Amazon Business APIs?",
+    "url": "https://docs.business.amazon.com/docs/using-guided-buying"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\n...\nin Every Room\nBlink\nSmart Security",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Amazon.com : products\n...\n## Lumify Redness Relief Eye Drops, Whiter & Brighter Looking Eyes, 0.25 oz\nWorks in 1 minute, lasts up to 8 hours, For Whiter & Brighter Looking Eyes, 1 bottle\n4.8*4.8 out of 5 stars*\n...\nPrice, product page$18.99$18.99 ($75.96$75.96/fluid ounce) List: $21.99\nList: $21.99$...",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Amazon.com : amazon.co.uk\n# 1-48 of 371 results for \"amazon.co.uk\"\n...\n## Roselux",
+    "source": "web",
+    "title": "Amazon.com: Amazon.co.uk",
+    "url": "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com Shopping Cart\n# All Carts\n## Shopping Cart\n### No items saved for later\nThe price and availability of items at Amazon.com are subject to change.",
+    "source": "web",
+    "title": "All Carts",
+    "url": "https://www.amazon.com/-/he/gp/cart/view.html/ref=uss_cart"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 5,000 results for \"amazon.ca\"",
+    "source": "web",
+    "title": "Amazon.com: Amazon.ca",
+    "url": "https://www.amazon.com/amazon-ca/s?k=amazon.ca"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 52,
+   "cost": {
+    "input_tokens_cost": 0.00126,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00403
+   },
+   "prompt_tokens": 115,
+   "search_context_size": "low",
+   "total_tokens": 167
+  }
+ }
+}

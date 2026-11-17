@@ -1,0 +1,102 @@
+{
+ "domain": "shein.com",
+ "url": "https://www.shein.com/",
+ "started": "2026-11-09T12:19:02-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 200,
+  "final_url": "https://us.shein.com/?cdn_rsite=cf&ref=www&rep=dir&ret=us",
+  "bytes": 398196,
+  "error": null,
+  "title": "Women&#39;s Clothing, Women Fashion Sale | SHEIN USA",
+  "markers": [],
+  "ok": true
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "13513 chars, copy dated 2026-11-09 (0 days old)",
+   "answer": "I opened the page. It redirected to the US site (canonical: https://us.shein.com/).\n\n- **Page title:** Women's Clothing, Women Fashion Sale | SHEIN USA\n- **One category on the page:** New In",
+   "cost_usd": 0.06839
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Title: SHEIN USA: Women's Clothing, Women Fashion Sale\nProduct or category name: Women",
+   "cost_usd": 0.0001
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: SHEIN Fashion for Women - Buy The Latest Trends ([id.shein.com](https://id.shein.com/?cdn_rsite=ak&ref=www&rep=dir&ret=id))  \nCategory: Categories ([id.shein.com](https://id.shein.com/?cdn_rsite=ak&ref=www&rep=dir&ret=id))",
+   "cost_usd": 0.01134
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Women's & Men's Clothing, Shop Online Fashion | SHEIN\n\nWomen Shoes",
+   "cost_usd": 0.00507
+  }
+ }
+}

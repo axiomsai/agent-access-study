@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.amazon.com/clp/B079VP6DH5",
+  "https://www.amazon.com/dp/B079VP6DH5",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/products/s?k=products",
+  "https://www.amazon.com/b?node=202448500011",
+  "https://www.amazon.com/-/es/b?node=12766669011",
+  "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+  "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: UNKNOWN | OPENED: NO: error retrieving stock status",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls | PRICE: $43.49 | STOCK: UNKNOWN | OPENED: NO: error retrieving stock status",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.amazon.com/clp/B079VP6DH5",
+   "https://www.amazon.com/dp/B079VP6DH5",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/products/s?k=products",
+   "https://www.amazon.com/b?node=202448500011",
+   "https://www.amazon.com/-/es/b?node=12766669011",
+   "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+   "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator"
+  ],
+  "created": 1794079864,
+  "id": "resp_f7612538-af49-474b-9af1-724e4ff69162",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Bounty Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls\n4.8 (238.2K)\n40K+ bought in past week\n$43.49$43.49 ($2.54/100 Sheets)\n$205.36 delivery Thu, Nov 19.\nOrder within 11 hrs 27 mins\n...\nScott Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls = 12 Regular Rolls (100 Sheets...",
+    "source": "web",
+    "title": "Bounty Paper Towels Quick Size, White, 16 Family Rolls ...",
+    "url": "https://www.amazon.com/clp/B079VP6DH5"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household\n- Health & Household\n...\n- Household Supplies\n...\n##### One-time purchase $43.49 $ 43 . 49 $2.54 per Sheets ( $2.54 $2.54 /100 Sheets) FREE delivery Monday, November 2 Ships from: Amazon.com So...",
+    "source": "web",
+    "title": "Amazon.com: Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls : Health & Household",
+    "url": "https://www.amazon.com/dp/B079VP6DH5"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Visit the help section\n...\ncontact us\n...\nYour recently viewed items and featured recommendations",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n# 1-16 of over 20,000 results for \"dp\"\n...\n## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items - Amazon Customer Service",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# 1-48 of over 100,000 results for \"products\"",
+    "source": "web",
+    "title": "Amazon.com: Products",
+    "url": "https://www.amazon.com/products/s?k=products"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "## Handheld Rechargeable Milk Frother Wand | Rich Foam in Seconds, 2-IN-1 Dual Spring Whisk, Travel Cover included, Perfect Drink Mixer for Lattes & More\n4.4*4.4 out of 5 stars* (2.7K)",
+    "source": "web",
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?node=202448500011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Después de ver las páginas de detalles de productos, consulta esta sección para encontrar una manera sencilla de navegar a las páginas de tu interés.",
+    "source": "web",
+    "title": "Vender",
+    "url": "https://www.amazon.com/-/es/b?node=12766669011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp vibrator\n...\n## Wearable Remote Control Vibrator - BIG SHOCKED Adult Sex Toys for Women Couples Female Sex Toy G Spot Vibrators Clitoral Penis Vibrator with 10 Powerful Vibrating Double-Ended Dildos Vibrating Panties\n4.3*4.3 out of 5 stars*\n...\n## DP Fantasy Ring Powerful 10 Speed Bu...",
+    "source": "web",
+    "title": "Amazon.com: Dp Vibrator",
+    "url": "https://www.amazon.com/dp-vibrator/s?k=dp+vibrator"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 42,
+   "cost": {
+    "input_tokens_cost": 0.00099,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.00373
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 156
+  }
+ }
+}

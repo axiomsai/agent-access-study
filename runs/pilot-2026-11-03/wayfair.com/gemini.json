@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.wayfair.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n**Product/Category Name:** Furniture",
+ "finish": "STOP",
+ "cost_usd": 0.00039,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n**Product/Category Name:** Furniture",
+       "thoughtSignature": "EnMKcQFpFH0Tl8oJ8DemANoXcnhvcXGJAjv5Rquq1IXLhZfRMX9OD/T1mipdU1mdc1az1ML3pDO39wG/YjvrT9V+YeJs9GDktzqiFyhRlD5t4E+n8puEWMaihZVcNkaBvgJv53lQ66mWrWtoGElbVjIOe8YM"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.wayfair.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 3739,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 3629,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3629
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "4nHqavC2BpL0qtsPit39qAE"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "kroger.com",
+ "idx": 2,
+ "url": "https://www.kroger.com/p/death-wish-coffee-co-medium-roast-ground-coffee/0081006334306",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "14593 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 13.99,
+   "opened": "YES",
+   "doc_chars": 14593,
+   "input_tokens": 29325,
+   "cost_usd": 0.12952
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "14593 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 13.99,
+   "opened": "YES",
+   "doc_chars": 14593,
+   "input_tokens": 23215,
+   "cost_usd": 0.10516
+  }
+ }
+}

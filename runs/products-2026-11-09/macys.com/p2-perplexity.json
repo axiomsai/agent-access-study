@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439",
+  "https://www.macys.com/shop/beauty/gift-sets/makeup/Pageindex/2?id=269156",
+  "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318",
+  "https://www.macys.com/shop/macys-beauty-sale-clearance/Pageindex/4?id=120059",
+  "https://www.macys.com/shop/beauty/skin-care/sun-care-tanning/Ingredients/Vitamin%20E?id=336150",
+  "https://www.macys.com/shop/beauty/skin-care/serum-treatments/Brand/Est%C3%A9e%20Lauder?id=50363",
+  "https://www.macys.com/shop/beauty/gift-sets/Color_normal/White?id=55537",
+  "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+  "https://www.macys.com/",
+  "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439",
+   "https://www.macys.com/shop/beauty/gift-sets/makeup/Pageindex/2?id=269156",
+   "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318",
+   "https://www.macys.com/shop/macys-beauty-sale-clearance/Pageindex/4?id=120059",
+   "https://www.macys.com/shop/beauty/skin-care/sun-care-tanning/Ingredients/Vitamin%20E?id=336150",
+   "https://www.macys.com/shop/beauty/skin-care/serum-treatments/Brand/Est%C3%A9e%20Lauder?id=50363",
+   "https://www.macys.com/shop/beauty/gift-sets/Color_normal/White?id=55537",
+   "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store",
+   "https://www.macys.com/",
+   "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537"
+  ],
+  "created": 1794249813,
+  "id": "resp_7cb4c0f5-f188-4e5a-9a79-e9e79140b01c",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "$165.75; 15% off; with code FRIEND;$165.75 (15% off)",
+    "source": "web",
+    "title": "Perfume Gift Sets",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-09",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n...\nSupra Screen Sunscreen SPF 50+ and Rénergie Mother's Day Skincare Set\nCurrent price $149.00; ;",
+    "source": "web",
+    "title": "Makeup Gift Sets - Macy's",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/makeup/Pageindex/2?id=269156"
+   },
+   {
+    "date": "2026-09-06",
+    "last_updated": "2026-09-11",
+    "place_metadata": null,
+    "snippet": "This item is unavailable\n# Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose Drama Mascara Set\n...\n# Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose Drama Mascara Set\n...\n- Full-Size Refillable La vie Est Belle L'Elixir Eau de Parfum Spray, 3.4 oz.; Purse Spray 0.34...",
+    "source": "web",
+    "title": "Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose ...",
+    "url": "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Sale & Clearance\n(500+)\nRed\n- Donna Karan New York\n...\nFRIEND applied\n...\n- Estée Lauder",
+    "source": "web",
+    "title": "Macy's Beauty Sale & Clearance",
+    "url": "https://www.macys.com/shop/macys-beauty-sale-clearance/Pageindex/4?id=120059"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-09",
+    "place_metadata": null,
+    "snippet": "(41)\nFace sunscreen\nBody sunscreen\nSelf-tanner\nSkin care with SPF",
+    "source": "web",
+    "title": "Vitamin E Sun Care & Tanning Products | Macy's",
+    "url": "https://www.macys.com/shop/beauty/skin-care/sun-care-tanning/Ingredients/Vitamin%20E?id=336150"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-09",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n...\nSupra Screen Sunscreen SPF 50+ and Rénergie Mother's Day Skincare Set\nCurrent price $149.00; ;",
+    "source": "web",
+    "title": "Estée Lauder Serum & Treatments",
+    "url": "https://www.macys.com/shop/beauty/skin-care/serum-treatments/Brand/Est%C3%A9e%20Lauder?id=50363"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "1. Beauty/\n...\n# White Beauty Gift Sets\n(216)",
+    "source": "web",
+    "title": "White Beauty Gift Sets | Macy's",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Color_normal/White?id=55537"
+   },
+   {
+    "date": "2026-07-01",
+    "last_updated": "2026-10-03",
+    "place_metadata": null,
+    "snippet": "You can search by:\n- Item name\n- Short description\n- Brand name",
+    "source": "web",
+    "title": "How can I find an item online or in store? - Macy's",
+    "url": "https://www.macys.com/customer-service/articles/how-can-i-find-an-item-online-or-in-store"
+   },
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com",
+    "source": "web",
+    "title": "Macy’s– Official Site",
+    "url": "https://www.macys.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Lancôme All Beauty Gifts & Value Sets - Macy's\n...\n# Lancôme Beauty Gift Sets",
+    "source": "web",
+    "title": "Lancôme All Beauty Gifts & Value Sets",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 0.00026,
+    "request_cost": 0.0025,
+    "total_cost": 0.00359
+   },
+   "prompt_tokens": 146,
+   "search_context_size": "low",
+   "total_tokens": 164
+  }
+ }
+}

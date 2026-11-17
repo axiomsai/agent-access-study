@@ -1,0 +1,60 @@
+{
+ "domain": "samsung.com",
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+ "idx": 2,
+ "at": "2026-11-03T18:15:17-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "2734 chars, copy dated 2026-11-03 (0 days old)",
+   "parsed": true,
+   "name": "Galaxy Z Fold8",
+   "price": 1599.99,
+   "price_raw": "$1,599.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-03T10:06:59+00:00",
+   "age_days": 0,
+   "cost_usd": 0.1392
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Galaxy Z Fold8",
+   "price": 1899.99,
+   "price_raw": "$1,899.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00057
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Galaxy Z Fold8",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01139
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Galaxy Z Fold8",
+   "price": 1899.99,
+   "price_raw": "$1,899.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

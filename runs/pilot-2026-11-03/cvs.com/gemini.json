@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\nProduct or Category: Flu shot",
+ "finish": "STOP",
+ "cost_usd": 0.00214,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\nProduct or Category: Flu shot",
+       "thoughtSignature": "EnMKcQFpFH0TLpkKwMl/I3EFD5Zng1H6xnl6svSV+WU06m/KAm1I92FRFxM0nJflbOazarNJrOSc8ZZeDcTL9+jaVijGGSbekytwe/fgQ4u3M7BEDj9AmGMdkUcwMOvfdNL1R+ZVVR+9ONoWIh1r3dabqclj"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 42,
+   "totalTokenCount": 21320,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 21216,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21216
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "2HHqavqzHoDBz7IPu6u6sAE"
+ }
+}

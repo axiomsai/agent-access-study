@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.ebay.com/itm/167031735841",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98&LH_FR=0&_oac=1",
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FR=0&LH_PrefLoc=2",
+  "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+  "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2",
+  "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_All=1&LH_AS=0&LH_AV=1&LH_Savings=1&LH_RPA=1&LH_LPickup=0&LH_PrefLoc=3&LH_BOPIS=1&LH_FS=1",
+  "https://www.ebay.com/itm/314685786785?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=8cdcb283b7bf449481ce5e994b12be9a&pid=101196&rk=9&rkt=12&b=1&sd=135138691452&itm=314685786785&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3146857867858cdcb283b7bf449481ce5e994b12be9a%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3bRDbZ0TFvXhS64T%252BWjticWPqQ3qgSNy9AM2d5cEPf%252F5IJA62V6k3ydLVdwmyKc7g5k5iHN5t2iPXI5T4%252BdVNK2PET1cfnHXcNdTFJYtUv9Y1PzbMdk60povTnQ7jB45A%252BWJWnRt5zCpRL0u3oF6d1qXxCEXXF4n%252BSarRsVbX7mk6N6DHjYw9I12qK8MY2ynGyNS9YoW5%252Fz4diCYr%252FDCU0geQlEOYc5oIDhkXUH0IczMYHKteEI3Bw2gbAwz1grrguYw9bpVdpW9WgMkURZxho%253D%7Campid:PL_CLK%7Cclp:2332490&epid=228889929&itmmeta=01J2MCNP3SEYA19X904G10C053",
+  "http://edp.g.ebay.com/DevZone/XML/docs/Reference/ebay/extra/gtitm.rspns.itm.sllngstts.hghbddr.st.html",
+  "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=521192"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Bose Solo Soundbar 2 Home Theater, Certified Refurbished | PRICE: $129.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.ebay.com/itm/167031735841",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98&LH_FR=0&_oac=1",
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FR=0&LH_PrefLoc=2",
+   "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807",
+   "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2",
+   "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_All=1&LH_AS=0&LH_AV=1&LH_Savings=1&LH_RPA=1&LH_LPickup=0&LH_PrefLoc=3&LH_BOPIS=1&LH_FS=1",
+   "https://www.ebay.com/itm/314685786785?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=8cdcb283b7bf449481ce5e994b12be9a&pid=101196&rk=9&rkt=12&b=1&sd=135138691452&itm=314685786785&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3146857867858cdcb283b7bf449481ce5e994b12be9a%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3bRDbZ0TFvXhS64T%252BWjticWPqQ3qgSNy9AM2d5cEPf%252F5IJA62V6k3ydLVdwmyKc7g5k5iHN5t2iPXI5T4%252BdVNK2PET1cfnHXcNdTFJYtUv9Y1PzbMdk60povTnQ7jB45A%252BWJWnRt5zCpRL0u3oF6d1qXxCEXXF4n%252BSarRsVbX7mk6N6DHjYw9I12qK8MY2ynGyNS9YoW5%252Fz4diCYr%252FDCU0geQlEOYc5oIDhkXUH0IczMYHKteEI3Bw2gbAwz1grrguYw9bpVdpW9WgMkURZxho%253D%7Campid:PL_CLK%7Cclp:2332490&epid=228889929&itmmeta=01J2MCNP3SEYA19X904G10C053",
+   "http://edp.g.ebay.com/DevZone/XML/docs/Reference/ebay/extra/gtitm.rspns.itm.sllngstts.hghbddr.st.html",
+   "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=521192"
+  ],
+  "created": 1794248699,
+  "id": "resp_ef67a28b-f7f4-4a73-9c8b-441f472e6a18",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-12-09",
+    "last_updated": "2024-12-22",
+    "place_metadata": null,
+    "snippet": "# Bose Solo Soundbar 2 Home Theater, Certified RefurbishedOriginal Retail Packaging - Buy Direct From BoseBose\n## List priceUS $199.00(35% off) -US $70.00Item priceUS $129.00ShippingFREEEstimated totalUS $129.00*You save: US $70.00Condition:“The item is in a pristine, like-new condition. It has been...",
+    "source": "web",
+    "title": "Bose Solo Soundbar 2 Home Theater, Certified Refurbished | eBay",
+    "url": "https://www.ebay.com/itm/167031735841"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(341) (341) Items",
+    "source": "web",
+    "title": "341 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&_dmd=2&LH_PrefLoc=98&LH_BOPIS=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(304) (304) Items",
+    "source": "web",
+    "title": "304 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_dmd=1&LH_BOPIS=1&LH_PrefLoc=98&LH_FR=0&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_1 | eBay\n- - **All**\n...\n- All Listings(342) (342) Items",
+    "source": "web",
+    "title": "342 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_pa4_demo_1&_oac=1&LH_All=1&LH_FR=0&LH_PrefLoc=2"
+   },
+   {
+    "date": "2023-05-31",
+    "last_updated": "2025-01-30",
+    "place_metadata": null,
+    "snippet": "# Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 HoursGBP 27.40Condition:",
+    "source": "web",
+    "title": "Timeguard STBT4 Immersion Heater Booster Countdown Timer, 15 Mins to 2 Hours 5012483015285 | eBay",
+    "url": "https://www.ebay.com/itm/275356190620?_trkparms=amclksrc=ITM&aid=1110011&algo=HOMESPLICE.DISCLISTINGS&ao=1&asc=20221018103213&meid=4561610ac9224eb3896f858d90606feb&pid=101429&rk=3&rkt=4&b=1&sd=232158920283&itm=275356190620&pmt=1&noa=0&pg=2332490&algv=default&_trksid=p2332490.c101429.m5206&amdata=cksum:2753561906204561610ac9224eb3896f858d90606feb%7Cenc:AQAHAAAA4OF5%252BpTTB9eWzF1iVTnQDCuSJCds%252F0O5hgZ6VJWuqp6t4rBQB%252FgPmhPtjCCZ1RpFmknA00Cu%252BF%252F8sFggtE0YTS6vsT1a9PHQiWU5KRmpS%252FiALp33Enxqu%252B4rPEzmeK0X6Uk6z3V1WT1%252FoKGyfrGT%252BzaZ5q4pfq9SrdJyFztSGBgufeFs10R%252FIvbVlpLRk3d0qfrIjqWp9%252FmpMJkeCjpkkVeN6tLwfu9JIlNYnWEQNLt7d3xYfABzMPAjhZIjNDlUHBKJRyO%252FwMeoDiR26PhgkXFuLuEtRKE5QFrcGENipKDI%7Campid:PL_CLK%7Cclp:2332490&epid=3036286807"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n# 0 results\n...\n- Buy It Now",
+    "source": "web",
+    "title": "62 results",
+    "url": "https://www.sandbox.ebay.com/sch/4662/i.html?_ssn=testuser_nomar_seller&_oac=1&_udhi=20&_dmd=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "| eBay\n# 0 results\n- All\n...\n- Buy It Now\n...\n- - Returns acceptedRemove filter",
+    "source": "web",
+    "title": "0 results",
+    "url": "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Sold=1&LH_Complete=1&LH_All=1&LH_AS=0&LH_AV=1&LH_Savings=1&LH_RPA=1&LH_LPickup=0&LH_PrefLoc=3&LH_BOPIS=1&LH_FS=1"
+   },
+   {
+    "date": "2025-03-16",
+    "last_updated": "2025-04-12",
+    "place_metadata": null,
+    "snippet": "# Fundamentals of Bioinformatics and Computational Biology - 9783319383132GBP 143.04Condition:\n## Brand New2 available\n## Shop with confidenceeBay Money Back GuaranteeGet the item you ordered or your money back. Learn moreeBay Money Back Guarantee - opens new window or tab\neBay item number:314685786...",
+    "source": "web",
+    "title": "Fundamentals of Bioinformatics and Computational Biology - 9783319383132 9783319383132 | eBay",
+    "url": "https://www.ebay.com/itm/314685786785?_trkparms=amclksrc=ITM&aid=1110018&algo=HOMESPLICE.COMPLISTINGS&ao=2&asc=20230821142934&meid=8cdcb283b7bf449481ce5e994b12be9a&pid=101196&rk=9&rkt=12&b=1&sd=135138691452&itm=314685786785&pmt=1&noa=0&pg=2332490&algv=CompVIDesktopATF2V3WithQueryItemRecallV3&_trksid=p2332490.c101196.m2219&itmprp=cksum:3146857867858cdcb283b7bf449481ce5e994b12be9a%7Cenc:AQAJAAABALUK373GZYwoSkhvUXwZwr3Lp3r3WT4Qud2dDLs4kSBNth2Eu5TUC8jvvz7GgFAZD3bRDbZ0TFvXhS64T%252BWjticWPqQ3qgSNy9AM2d5cEPf%252F5IJA62V6k3ydLVdwmyKc7g5k5iHN5t2iPXI5T4%252BdVNK2PET1cfnHXcNdTFJYtUv9Y1PzbMdk60povTnQ7jB45A%252BWJWnRt5zCpRL0u3oF6d1qXxCEXXF4n%252BSarRsVbX7mk6N6DHjYw9I12qK8MY2ynGyNS9YoW5%252Fz4diCYr%252FDCU0geQlEOYc5oIDhkXUH0IczMYHKteEI3Bw2gbAwz1grrguYw9bpVdpW9WgMkURZxho%253D%7Campid:PL_CLK%7Cclp:2332490&epid=228889929&itmmeta=01J2MCNP3SEYA19X904G10C053"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Applicable values for GetItemResponse.Item.SellingStatus.HighBidder.Site",
+    "source": "web",
+    "title": "Applicable values for GetItemResponse.Item.SellingStatus.HighBidder.Site",
+    "url": "http://edp.g.ebay.com/DevZone/XML/docs/Reference/ebay/extra/gtitm.rspns.itm.sllngstts.hghbddr.st.html"
+   },
+   {
+    "date": "2025-07-22",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "##### Search works fine. I can find anything I want\nhttps://www.ebay.com/itm/177277499023?",
+    "source": "web",
+    "title": "Item specifics",
+    "url": "https://community.ebay.com/forum/selling-57920/topic/search-works-fine-i-can-find-anything-i-want-149665/?focus_post=521192"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 31,
+   "cost": {
+    "input_tokens_cost": 0.00141,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00413
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 145
+  }
+ }
+}

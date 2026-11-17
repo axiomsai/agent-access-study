@@ -1,0 +1,47 @@
+{
+ "domain": "macys.com",
+ "url": "https://www.macys.com/",
+ "started": "2026-11-05T13:10:33-06:00",
+ "robots": {
+  "status": 403,
+  "error": null,
+  "rules": {}
+ },
+ "control": {
+  "status": 403,
+  "final_url": "https://www.macys.com/",
+  "bytes": 9892,
+  "error": null,
+  "title": "Access Denied - Macy's",
+  "markers": [
+   "access denied"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15258 chars, copy dated 2026-11-05 (0 days old)",
+   "answer": "I opened the page without any errors, blocks or captchas.\n\n- **Page title:** Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n- **Category on the page:** \"Up to 65% off coats & sweaters\" (listed under Today's Deals)",
+   "cost_usd": 0.0685
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com\n\nProduct/Category Name: Women",
+   "cost_usd": 0.00051
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com  \nProduct/category name: Women ([macys.com](https://www.macys.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Macy’s - Shop Fashion Clothing & Accessories - Official Site - Macys.com — Women’s Clothing",
+   "cost_usd": 0.00508
+  }
+ }
+}

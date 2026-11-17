@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.ebay.com/itm/157751149633",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: adidas men VL Court 3.0 Shoes | PRICE: $26.00 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00076,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: adidas men VL Court 3.0 Shoes | PRICE: $26.00 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0T6Ds4Lv8obOnIcpBezrxCawTHw8MKGvJKq4hvqolwbQkJYR+qVAHuaWbiLGkCxQ2OIPg99TO8gEPPMUDFoRK4eD8kAu+Atvij1lB9uhciAK/ca3Jv+TE4g8EOa53u1BHyGl+ej+KTDAKjhyOf"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.ebay.com/itm/157751149633",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 129,
+   "candidatesTokenCount": 63,
+   "totalTokenCount": 7399,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 129
+    }
+   ],
+   "toolUsePromptTokenCount": 7207,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 7207
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "9A_yaqCjGtzVz7IPm4S50A0"
+ }
+}

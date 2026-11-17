@@ -1,0 +1,25 @@
+{
+ "domain": "macys.com",
+ "idx": 5,
+ "url": "https://www.macys.com/shop/product/sol-de-janeiro-3-piece-bum-bum-jet-set?ID=28442578",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "15326 chars, copy dated 2026-11-07 (4 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 15326,
+   "input_tokens": 40907,
+   "cost_usd": 0.17877
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "189058 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 34.0,
+   "opened": "YES",
+   "doc_chars": 189058,
+   "input_tokens": 31548,
+   "cost_usd": 0.14027
+  }
+ }
+}

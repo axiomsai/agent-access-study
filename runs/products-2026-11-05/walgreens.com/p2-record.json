@@ -1,0 +1,60 @@
+{
+ "domain": "walgreens.com",
+ "url": "https://www.walgreens.com/store/c/walgreens-allergy-relief-diphenhydramine-coated-mini-tabs/ID=prod2502000-product",
+ "idx": 2,
+ "at": "2026-11-05T13:31:26-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "12832 chars, copy dated 2026-11-04 (1 days old)",
+   "parsed": true,
+   "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-04T00:15:37+00:00",
+   "age_days": 1,
+   "cost_usd": 0.18334
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs, 24 ea",
+   "price": 4.99,
+   "price_raw": "$4.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00036
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.02229
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Walgreens Allergy Relief Diphenhydramine Coated Mini Tabs - 24 ea",
+   "price": 4.99,
+   "price_raw": "$4.99",
+   "stock": "IN STOCK",
+   "opened": "NO: error",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00518
+  }
+ }
+}

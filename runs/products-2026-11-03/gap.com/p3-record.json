@@ -1,0 +1,60 @@
+{
+ "domain": "gap.com",
+ "url": "https://www.gap.com/browse/product.do?pid=914524042",
+ "idx": 3,
+ "at": "2026-11-03T18:16:57-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "7394 chars, copy dated 2026-10-31 (3 days old)",
+   "parsed": true,
+   "name": "CashSoft Rib Quarter-Zip Sweater",
+   "price": 59.0,
+   "price_raw": "$59.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-10-31T22:17:56+00:00",
+   "age_days": 3,
+   "cost_usd": 0.10539
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "CashSoft Rib Quarter-Zip Sweater",
+   "price": 59.0,
+   "price_raw": "$59.00",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00016
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "CashSoft Rib Quarter-Zip Sweater",
+   "price": 94.0,
+   "price_raw": "$94.00",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.023530000000000002
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "UNKNOWN",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: the page was not accessible in the available results",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

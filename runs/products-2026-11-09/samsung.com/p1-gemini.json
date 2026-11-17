@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Galaxy S26 Ultra | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00057,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Galaxy S26 Ultra | PRICE: $1,199.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TPInp1Bqj78dRrJo0I3RKXmmwM6z1W+07pviB6FSzvyVV3S/+dVJyJqNJY2RKby4bzcCGtzYkt8x0iU3KfMUI4iK7GoJZunOGZ4o5AhKghEjhsdknFN35oEkQOwRQsFOXWxpDCxE3Hx5OtV0v"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 131,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 5500,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 131
+    }
+   ],
+   "toolUsePromptTokenCount": 5305,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 5305
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "PhLyavnWKciwqtsPwbiw4A4"
+ }
+}

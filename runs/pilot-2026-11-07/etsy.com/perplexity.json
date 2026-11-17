@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/pages",
+  "https://www.etsy.com/",
+  "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop",
+  "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+  "https://help.etsy.com/hc/en-gb/articles/360000344448-How-to-Report-Intellectual-Property-Infringement",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/market/etsy.com",
+  "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue",
+  "https://help.etsy.com/hc/en-gb",
+  "https://www.etsy.com/robots.txt"
+ ],
+ "cited_store": true,
+ "answer": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone; Everyday Accessories[1]",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone; Everyday Accessories[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/pages",
+   "https://www.etsy.com/",
+   "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop",
+   "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop",
+   "https://help.etsy.com/hc/en-gb/articles/360000344448-How-to-Report-Intellectual-Property-Infringement",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/market/etsy.com",
+   "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue",
+   "https://help.etsy.com/hc/en-gb",
+   "https://www.etsy.com/robots.txt"
+  ],
+  "created": 1794079563,
+  "id": "resp_8859d634-623d-47df-bcd5-cf2876612819",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Etsy Pages\n# Etsy Pages\nExplore the marketplace through your favorite tastemakers.",
+    "source": "web",
+    "title": "Etsy Pages",
+    "url": "https://www.etsy.com/pages"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What’s the Link for My Shop?\nYou can type your shop web address (URL) directly in a web browser's address bar using either of these formats:\n- *shopname*.etsy.com\n- www.etsy.com/shop/*shopname*\nThese links will only work once your shop is open.",
+    "source": "web",
+    "title": "What’s the Link for My Shop? - Etsy",
+    "url": "https://help.etsy.com/hc/en-gb/articles/360000338087-What-s-the-Link-for-My-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# What’s the Link for My Shop?\nYou can type your shop web address (URL) directly in a web browser's address bar using either of these formats:\n- *shopname*.etsy.com\n- www.etsy.com/shop/*shopname*\nThese links will only work once your shop is open.",
+    "source": "web",
+    "title": "What's the Link for My Shop?",
+    "url": "https://help.etsy.com/hc/en-us/articles/360000338087-What-s-the-Link-for-My-Shop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "Report suspected intellectual property infringement using Etsy’s Reporting Portal.\nYou must be the owner of the property or authorised to report on behalf of the owner of the property.\n...\nIf you cannot reach an agreement with the seller, you can report suspected intellectual property infringement t...",
+    "source": "web",
+    "title": "How to Report Intellectual Property Infringement - Etsy",
+    "url": "https://help.etsy.com/hc/en-gb/articles/360000344448-How-to-Report-Intellectual-Property-Infringement"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\n5,000+ items\n...\nThis Blind Date with a Book is exactly what I was looking for!",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n968+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# How to Resolve a Technical Issue\nMost technical issues on Etsy can be resolved using the steps in this article.\nIf you’re still having trouble, you can find help in our Technical Issues forum.\nIf you’re having trouble viewing Etsy, and the site or app isn’t responding the way it’s supposed to, we ...",
+    "source": "web",
+    "title": "How to Resolve a Technical Issue",
+    "url": "https://help.etsy.com/hc/en-us/articles/115015654428-How-to-Resolve-a-Technical-Issue"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Etsy\nThanks for your message!\nWe’ll be in touch soon.\n# How can we help?\nHaving problems with an order?\nReach out to the seller with a help request.",
+    "source": "web",
+    "title": "How can we help? - Etsy",
+    "url": "https://help.etsy.com/hc/en-gb"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-08-05",
+    "place_metadata": null,
+    "snippet": "User-agent: Spinn3r\nDisallow: /\n...\nDisallow: /ca/*my_etsy=*",
+    "source": "web",
+    "title": "robots.txt",
+    "url": "https://www.etsy.com/robots.txt"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 22,
+   "cost": {
+    "input_tokens_cost": 0.00087,
+    "output_tokens_cost": 6e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00343
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 79
+  }
+ }
+}

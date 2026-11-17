@@ -1,0 +1,60 @@
+{
+ "domain": "cvs.com",
+ "url": "https://www.cvs.com/shop/gr-ns-imm-n-daily-immunity-gummies-sugar-free-12-servings-prodid-833507",
+ "idx": 3,
+ "at": "2026-11-05T13:26:01-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "5668 chars, copy dated 2026-11-01 (4 days old)",
+   "parsed": true,
+   "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-01T02:48:01+00:00",
+   "age_days": 4,
+   "cost_usd": 0.10199
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00021
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "NONE",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: error (timeout)",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01134
+  },
+  "perplexity": {
+   "verdict": "blocked",
+   "why": "cited, answer reports a block",
+   "parsed": true,
+   "name": "Grüns Immün Daily Immunity Gummies, Sugar-Free, 12 Servings",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "NO: blocked",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

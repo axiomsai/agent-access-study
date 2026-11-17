@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+  "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003545&Ns=Average_Rating&Nso=-1",
+  "https://www.walgreens.com/store/c/productlist/$20---$50-spend-$20-get-$10-in-rewards-on-tylenol,-neutrogena-&-more-kenvue-brands/N=20007528-307450-9000160810-367211-310032-4294896499-2149-100076021-2000010045-1000023-4294840275",
+  "https://www.walgreens.com/store/c/productlist/N=20007411-2000010045",
+  "https://www.walgreens.com/q/allergy-medication",
+  "https://www.walgreens.com/q/allergy+medicine+non+drowsy",
+  "https://www.walgreens.com/store/c/zyrtec-24-hour-allergy-relief-tablets,-10-mg-cetirizine-hcl-antihistamine/ID=300467997-product",
+  "https://www.walgreens.com/q/zyrtec-d",
+  "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045",
+  "https://www.walgreens.com/store/c/productlist/N=20007503"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea | PRICE: $16.99 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea | PRICE: $16.99 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+   "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003545&Ns=Average_Rating&Nso=-1",
+   "https://www.walgreens.com/store/c/productlist/$20---$50-spend-$20-get-$10-in-rewards-on-tylenol,-neutrogena-&-more-kenvue-brands/N=20007528-307450-9000160810-367211-310032-4294896499-2149-100076021-2000010045-1000023-4294840275",
+   "https://www.walgreens.com/store/c/productlist/N=20007411-2000010045",
+   "https://www.walgreens.com/q/allergy-medication",
+   "https://www.walgreens.com/q/allergy+medicine+non+drowsy",
+   "https://www.walgreens.com/store/c/zyrtec-24-hour-allergy-relief-tablets,-10-mg-cetirizine-hcl-antihistamine/ID=300467997-product",
+   "https://www.walgreens.com/q/zyrtec-d",
+   "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045",
+   "https://www.walgreens.com/store/c/productlist/N=20007503"
+  ],
+  "created": 1793751360,
+  "id": "resp_4c2f5028-7e0e-4421-8bcc-fa8c25177c28",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-08-09",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "# Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets, 30.0 ea\n4.6 out of 5 stars.\n32 total reviews.\n...\n$16.99\nWhen ordered online\n...\nSave to shopping list\n...\n- 24 hour\n- Indoor & outdoor allergies\nOriginal prescription strength.\nRelief of sneezing; runny nose; itchy, watery e...",
+    "source": "web",
+    "title": "Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride ...",
+    "url": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "# Allergy & Sinus\n## Refine\nPrice and inventory may vary from online to in store.\n...\n- **Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets** - 150 ea\nWalgreens(8)\n$39.99\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery av...",
+    "source": "web",
+    "title": "Allergy & Sinus",
+    "url": "https://www.walgreens.com/store/store/category/productlist.jsp?N=20003545&Ns=Average_Rating&Nso=-1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Spend $20 Get $10 in rewards on Tylenol, Neutrogena & more Kenvue brands\nPrice and inventory may vary from online to in store.\n...\n- **Zyrtec 24 Hour Dissolving Allergy Relief Tablets with 10 mg Cetirizine Hydrochloride Citrus** - 24 ea\nZyrtec(273)\n$24.99$1.04 / ea\nExtra 15% off $35+ eligib...\nPic...",
+    "source": "web",
+    "title": "Spend $20 Get $10 in rewards on Tylenol, Neutrogena & more Kenvue brands | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/$20---$50-spend-$20-get-$10-in-rewards-on-tylenol,-neutrogena-&-more-kenvue-brands/N=20007528-307450-9000160810-367211-310032-4294896499-2149-100076021-2000010045-1000023-4294840275"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "Add to cartwill open overlay for Zyrtec 24-Hour Allergy Relief, Dye-Free Chewable Tablets\n...\n- **Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets ** - 30 ea\nWalgreens(32)\n$16.99\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open ove...",
+    "source": "web",
+    "title": "Extra 15% off Pickup orders sitewide with code FAST15 - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20007411-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "# Allergy Medication\n## Refine\nPrice and inventory may vary from online to in store.\n...\n- **Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets** - 30 ea\nWalgreens(34)\n$16.99\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery...",
+    "source": "web",
+    "title": "Allergy Medication | Walgreens",
+    "url": "https://www.walgreens.com/q/allergy-medication"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "## Refine\n- **Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets** - 30 ea\nWalgreens(34)\n$16.99\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Walgreens 24 Hour Allergy Relief Ce...",
+    "source": "web",
+    "title": "allergy medicine non drowsy",
+    "url": "https://www.walgreens.com/q/allergy+medicine+non+drowsy"
+   },
+   {
+    "date": "2026-09-05",
+    "last_updated": "2026-09-18",
+    "place_metadata": null,
+    "snippet": "Shop all Zyrtec\n# Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl Antihistamine, 30 ea\n...\nOld price $23.99\n$19.99 $0.67/ea\n...\nWalgreens\nWalgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets 30.0ea\n$16.99\nCompare & save $3.00 with Walgreens Brand\n-\nZyrtec Allergy Relie...",
+    "source": "web",
+    "title": "Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl ...",
+    "url": "https://www.walgreens.com/store/c/zyrtec-24-hour-allergy-relief-tablets,-10-mg-cetirizine-hcl-antihistamine/ID=300467997-product"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "- **Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl Antihistamine** - 30 ea\nZyrtec(1620)\n$23.99$0.80 / ea\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nShipping Available\nAdd to cartwill open overlay for Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine ...",
+    "source": "web",
+    "title": "Zyrtec D - Walgreens",
+    "url": "https://www.walgreens.com/q/zyrtec-d"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- **Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl Antihistamine** - 30 ea\nZyrtec(1621)\n$23.99$0.80 / ea\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill open overlay for Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl Antihistamine\n*...",
+    "source": "web",
+    "title": "Extra $10 off when you spend $50+ sitewide with code AUG10",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20007755-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "- **Zyrtec 24 Hour Allergy Relief Tablets, 10 mg Cetirizine HCl Antihistamine ** - 30 ea\nZyrtec(1612)\nPrevious price was$23.99Current sale price is$19.99$0.67 / ea\n$5 off 1 CouponOpen simulated dialog\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nShipping Available\nAdd to...",
+    "source": "web",
+    "title": "Up to 20% OFF select allergy relief + extra $5 off coupon - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20007503"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 44,
+   "cost": {
+    "input_tokens_cost": 0.00171,
+    "output_tokens_cost": 0.00031,
+    "request_cost": 0.0025,
+    "total_cost": 0.00452
+   },
+   "prompt_tokens": 142,
+   "search_context_size": "low",
+   "total_tokens": 186
+  }
+ }
+}

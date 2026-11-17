@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=8777490025006",
+  "https://www.gap.com/",
+  "https://www.gap.com/browse/product.do?pid=11844440123234",
+  "https://www.gap.com/browse/product.do?pid=8663680120204",
+  "https://www.gap.com/browse/product.do?pid=8248980221401",
+  "https://www.gap.com/browse/product.do?pid=7247950121104",
+  "https://www.gap.com/browse/product.do?pid=8143270323000",
+  "https://www.gap.com/browse/product.do?pid=7801850421107",
+  "https://www.gap.com/browse/product.do?pid=9125580025006",
+  "https://www.gap.com/browse/product.do?pid=4407751520003"
+ ],
+ "cited_store": true,
+ "answer": "Sign up for email  \nWomen's Clothing",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Sign up for email  \nWomen's Clothing",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=8777490025006",
+   "https://www.gap.com/",
+   "https://www.gap.com/browse/product.do?pid=11844440123234",
+   "https://www.gap.com/browse/product.do?pid=8663680120204",
+   "https://www.gap.com/browse/product.do?pid=8248980221401",
+   "https://www.gap.com/browse/product.do?pid=7247950121104",
+   "https://www.gap.com/browse/product.do?pid=8143270323000",
+   "https://www.gap.com/browse/product.do?pid=7801850421107",
+   "https://www.gap.com/browse/product.do?pid=9125580025006",
+   "https://www.gap.com/browse/product.do?pid=4407751520003"
+  ],
+  "created": 1793749483,
+  "id": "resp_87e82230-1b35-4b16-bc02-66bd4bef4153",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Friends & Family 50% off matching PJs for everyone\n[](https://www.gap.com/browse/new/family-matching-pjs?cid=1072174 \"Friends & Family 50% off matching PJs for everyone Online & in stores. Select styles.\")\nOnline & in stores.\nSelect styles.",
+    "source": "web",
+    "title": "Gap × Disney Baby & Toddler Rash Guard Swim Set",
+    "url": "https://www.gap.com/browse/product.do?pid=8777490025006"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing\n00 h 23 m 52 s",
+    "source": "web",
+    "title": "Sign up for email",
+    "url": "https://www.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- [Shop All Styles](https://www.gap.com/browse/category.do?cid=1127938#pageId=0&department=136)\n- [Jeans](https://www.gap.com/browse/category.do?cid=5664#pageId=0&department=136)\n...\n- [Sweatshirts & Sweatpants](https://www.gap.com/browse/category.do?cid=1066503#pageId=0&department=75)",
+    "source": "web",
+    "title": "Modern Loose Pleated Khakis",
+    "url": "https://www.gap.com/browse/product.do?pid=11844440123234"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-15",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\nFriends & Family 40% off everything — includes new arrivals",
+    "source": "web",
+    "title": "Corduroy Big Shirt - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8663680120204"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-20",
+    "place_metadata": null,
+    "snippet": "…\n[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n…\n- [Women](https://www.gap.com/browse/division.do?cid=5643)\n...\n- New & Featured\n- [New Ar...",
+    "source": "web",
+    "title": "Kids Cargo Shorts",
+    "url": "https://www.gap.com/browse/product.do?pid=8248980221401"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- [Shop All Styles](https://www.gap.com/browse/category.do?cid=1127938#pageId=0&department=136)",
+    "source": "web",
+    "title": "Kids GapFit 5\" Fit Tech Shorts",
+    "url": "https://www.gap.com/browse/product.do?pid=7247950121104"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Gap × Disney Baby & Toddler Graphic T-Shirt | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\n## Color:\nN...",
+    "source": "web",
+    "title": "Gap × Disney Baby & Toddler Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=8143270323000"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-10",
+    "place_metadata": null,
+    "snippet": "[Gap](https://www.gap.com/)[Gap Factory](https://www.gapfactory.com/?ssiteID=GAP)[Old Navy](https://oldnavy.gap.com/)[Banana Republic](https://bananarepublic.gap.com/)[Athleta](https://athleta.gap.com/)\n...\n- [Harmony](https://www.gap.com/browse/product.do?pid=1180239002)\n- [Categories](https://www....",
+    "source": "web",
+    "title": "Kids Graphic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=7801850421107"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Baby & Toddler Rain Jacket | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](",
+    "source": "web",
+    "title": "Baby & Toddler Rain Jacket",
+    "url": "https://www.gap.com/browse/product.do?pid=9125580025006"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Classic T-Shirt | Gap\n[Skip to top navigation](https://www.gap.com#topNavWrapper)[Skip to shopping bag](https://www.gap.com#shopping-bag)[Skip to main content](https://www.gap.com#main-content)[Skip to footer links](https://www.gap.com#sitewide-footer)![](\n...\nThe original now & forever tee — cut fo...",
+    "source": "web",
+    "title": "Classic T-Shirt",
+    "url": "https://www.gap.com/browse/product.do?pid=4407751520003"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 8,
+   "cost": {
+    "input_tokens_cost": 0.00087,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.0034
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 65
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "walgreens.com",
+ "url": "https://www.walgreens.com/store/c/walgreens-sinus-pe---allergy-maximum-strength-tablets/ID=prod1607738-product",
+ "idx": 1,
+ "at": "2026-11-07T13:44:11-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "12905 chars, copy dated 2026-11-07 (0 days old)",
+   "parsed": true,
+   "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": "2026-11-07T19:44:15+00:00",
+   "age_days": 0,
+   "cost_usd": 0.1916
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+   "price": 7.79,
+   "price_raw": "$7.79",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00035
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets",
+   "price": null,
+   "price_raw": "NONE",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01193
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Walgreens Sinus PE + Allergy Maximum Strength Tablets, 24.0 ea",
+   "price": 7.79,
+   "price_raw": "$7.79",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00517
+  }
+ }
+}

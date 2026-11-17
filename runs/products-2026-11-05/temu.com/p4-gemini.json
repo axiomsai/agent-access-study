@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page did not load product details (blocked/no content)",
+ "finish": "STOP",
+ "cost_usd": 0.00218,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page did not load product details (blocked/no content)",
+       "thoughtSignature": "EnMKcQFpFH0TSP1mzy41zyT7iyabMW6vZivK/6hSdZMVZHNvIktXEd5JwQGhUN7GO57w6Z9s7IS7rRJ2AFRsZ0nfWNtvXYiij6oYdR5UWl5xhc1Ymb/XLYt9hmfn0wr3GCBhDsDhEZqxdL61/HnV5dPMi9j9"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 204,
+   "candidatesTokenCount": 139,
+   "totalTokenCount": 21424,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 204
+    }
+   ],
+   "toolUsePromptTokenCount": 21081,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21081
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "PNXsatroL8CHz7IP9aGYsQQ"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.temu.com/es-en",
+  "https://www.temu.com/de-en/terms-of-use.html",
+  "https://www.temu.com/pl-en/c.html",
+  "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105",
+  "https://www.temu.com/robots.txt",
+  "https://www.temu.com/about-temu.html",
+  "https://www.temu.com/about_temu/home.html",
+  "https://www.temu.com/co/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099622322196&adg_ctx=a-30b1e916&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1553518697918&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099622322196&_x_ns_product_id=17592609244709&_x_ns_site_id=164&locale_override=45~~COP&mrk_rec=1",
+  "https://seller.temu.com/seller/login",
+  "https://www.temu.com/support/c3/how-to--scam-emails-f-208-s-2039.html"
+ ],
+ "cited_store": true,
+ "answer": "Temu homepage — Pet Supplies",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Temu homepage — Pet Supplies",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.temu.com/es-en",
+   "https://www.temu.com/de-en/terms-of-use.html",
+   "https://www.temu.com/pl-en/c.html",
+   "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105",
+   "https://www.temu.com/robots.txt",
+   "https://www.temu.com/about-temu.html",
+   "https://www.temu.com/about_temu/home.html",
+   "https://www.temu.com/co/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099622322196&adg_ctx=a-30b1e916&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1553518697918&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099622322196&_x_ns_product_id=17592609244709&_x_ns_site_id=164&locale_override=45~~COP&mrk_rec=1",
+   "https://seller.temu.com/seller/login",
+   "https://www.temu.com/support/c3/how-to--scam-emails-f-208-s-2039.html"
+  ],
+  "created": 1793905814,
+  "id": "resp_5b33dfad-2389-456c-a906-bc922f006a36",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-09-20",
+    "place_metadata": null,
+    "snippet": "Temu Spain | Explore the Latest Clothing, Beauty, Home, Jewelry & More\n...\n# Temu homepage",
+    "source": "web",
+    "title": "Temu Spain | Explore the Latest Clothing, Beauty, Home, Jewelry ...",
+    "url": "https://www.temu.com/es-en"
+   },
+   {
+    "date": "2026-09-23",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Temu | Germany | Terms of Use\n**5.1** You may report content (e.g., advertisements, reviews or product listings) that you believe constitutes Prohibited Content by using the reporting tools, including the three dots (“…”) next to a review, the “report advertisement” within the Ad tooltip, or the “...",
+    "source": "web",
+    "title": "13. Purchases",
+    "url": "https://www.temu.com/de-en/terms-of-use.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Temu | Shop All Categories - Free Returns Within 90 Days\n...\n5-Star Rated\n1. # Shop All Categories\n## Pet Supplies",
+    "source": "web",
+    "title": "Shop All Categories",
+    "url": "https://www.temu.com/pl-en/c.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\n...\n### 2D Flat Printing 2/3pcs Duvet Cover, 1pc Duvet Cover And 1/2pcs Pillowcases (Without Filler), Black Stallion Vintage Map Ornate Border, Christmas Bedding, Horse Bedding Suitable for Decorating Bedroom Open in new tab.",
+    "source": "web",
+    "title": "Temu.com Official Site - Free Shipping Today - All Categories",
+    "url": "https://www.temu.com/ul/kuiper/un1.html?goods_id=601099534671105"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-01-17",
+    "place_metadata": null,
+    "snippet": "Disallow: /w/\nDisallow: /s/\nDisallow: /*?*opt_level=*title=*",
+    "source": "web",
+    "title": "Temu | Shop for Clothing, Shoes, Jewelry, Beauty & More",
+    "url": "https://www.temu.com/robots.txt"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# What is Temu?\nTemu is an e-commerce company that connects consumers with millions of merchandise partners, manufacturers and brands with the mission to empower them to live a better life.",
+    "source": "web",
+    "title": "About Temu",
+    "url": "https://www.temu.com/about-temu.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-08",
+    "place_metadata": null,
+    "snippet": "If you are a shopper with questions about Temu, please visit Temu Support Center.",
+    "source": "web",
+    "title": "About Temu",
+    "url": "https://www.temu.com/about_temu/home.html"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\n- Free returns\n...\n- Price adjustment\n...\nFurniture\nThis item was discontinued\nItem details are unavailable.\nCheck out similar items.",
+    "source": "web",
+    "title": "Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+    "url": "https://www.temu.com/co/kuiper/un3.html?subj=dpa-un&_p_jump_id=543&_x_vst_scene=adg&goods_id=601099622322196&adg_ctx=a-30b1e916&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=%7Bproduct_partition_id%7D&_x_ads_id=%7Badgroupid%7D&_x_ads_set=%7Bcampaignid%7D&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1553518697918&_x_ns_creative=%7Badid%7D&_x_ns_gid=601099622322196&_x_ns_product_id=17592609244709&_x_ns_site_id=164&locale_override=45~~COP&mrk_rec=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Temu Seller CenterTemu | Start selling with Temu\n...\n1 Normally, applications are reviewed within one business day.",
+    "source": "web",
+    "title": "Temu Seller Center",
+    "url": "https://seller.temu.com/seller/login"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "# How to recognise scam emails?\nThese emails usually direct you to a fake website that looks very similar to temu.com and ask you for account information, such as your email address and password.\n...\nSome phishing emails are translated from other languages or are not proofread before being sent so t...",
+    "source": "web",
+    "title": "Temu - Support Center & FAQ",
+    "url": "https://www.temu.com/support/c3/how-to--scam-emails-f-208-s-2039.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 6,
+   "cost": {
+    "input_tokens_cost": 0.00073,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00325
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 63
+  }
+ }
+}

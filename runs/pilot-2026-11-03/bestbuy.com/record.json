@@ -1,0 +1,102 @@
+{
+ "domain": "bestbuy.com",
+ "url": "https://www.bestbuy.com/",
+ "started": "2026-11-03T17:44:01-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": null,
+  "final_url": null,
+  "bytes": null,
+  "error": "TimeoutError: The read operation timed out",
+  "title": null,
+  "markers": [],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15006 chars, copy dated 2026-11-03 (0 days old)",
+   "answer": "I was able to open the page.\n\n- **Page title:** Best Buy | Official Online Store | Shop Now & Save\n- **Category on the page:** Apple, listed under \"Shop deals by category\"",
+   "cost_usd": 0.06814
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page Title: Best Buy | Official Online Store | Shop Now & Save\n\nProduct Category: TV & Home Theater",
+   "cost_usd": 0.00082
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Best Buy | Official Online Store | Shop Now & Save  \nCategory name: Computers & Tablets ([bestbuy.com](https://www.bestbuy.com/))",
+   "cost_usd": 0.0123
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Best Buy | Official Online Store | Shop Now & Save — Deals for every list[1]",
+   "cost_usd": 0.00508
+  }
+ }
+}

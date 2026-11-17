@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/us_/",
+  "https://www.depop.com/br4ndib3hl7/",
+  "https://www.depop.com/brooklyn_deals/",
+  "https://www.depop.com/closetscrapss/",
+  "https://www.depop.com/michellesvarietyshop/",
+  "https://www.depop.com/products/remass-general-depop-stock-follow-73d7/",
+  "https://www.depop.com/gb/",
+  "https://www.depop.com/blog/",
+  "https://www.depop.com/login/?pla_feed=US"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00515,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/us_/",
+   "https://www.depop.com/br4ndib3hl7/",
+   "https://www.depop.com/brooklyn_deals/",
+   "https://www.depop.com/closetscrapss/",
+   "https://www.depop.com/michellesvarietyshop/",
+   "https://www.depop.com/products/remass-general-depop-stock-follow-73d7/",
+   "https://www.depop.com/gb/",
+   "https://www.depop.com/blog/",
+   "https://www.depop.com/login/?pla_feed=US"
+  ],
+  "created": 1793751452,
+  "id": "resp_17b13892-6028-40e6-8f4b-dce05924f6f6",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# 50 years of Burton\n## Shop by price\nAritzia",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2024-01-25",
+    "last_updated": "2025-07-16",
+    "place_metadata": null,
+    "snippet": "# us_\nUs Vintage’s shop\nDiscounts on bundles | Please ask any questions before purchase/PM offers | No returns/Trades || Free Shippinghttp://instagram.com/usvintage_",
+    "source": "web",
+    "title": "us_'s Shop | Depop",
+    "url": "https://www.depop.com/us_/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "br4ndib3hl7's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Baby (0-12m)",
+    "source": "web",
+    "title": "br4ndib3hl7's Shop | Depop",
+    "url": "https://www.depop.com/br4ndib3hl7/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "brooklyn_deals's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Baby (0-12m)",
+    "source": "web",
+    "title": "brooklyn_deals's Shop | Depop",
+    "url": "https://www.depop.com/brooklyn_deals/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "closetscrapss's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Baby (0-12m)",
+    "source": "web",
+    "title": "closetscrapss's Shop | Depop",
+    "url": "https://www.depop.com/closetscrapss/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "michellesvarietyshop's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n### Baby (0-12m)",
+    "source": "web",
+    "title": "michellesvarietyshop's Shop | Depop",
+    "url": "https://www.depop.com/michellesvarietyshop/"
+   },
+   {
+    "date": "2023-07-24",
+    "last_updated": "2025-03-13",
+    "place_metadata": null,
+    "snippet": "Loading…remassLoading…Loading…Loading…Loading…Loading…Loading…Loading…\n...\nGENERAL DEPOP STOCK 🫶Loading…",
+    "source": "web",
+    "title": "GENERAL DEPOP STOCK 🫶 | Depop",
+    "url": "https://www.depop.com/products/remass-general-depop-stock-follow-73d7/"
+   },
+   {
+    "date": "2025-06-24",
+    "last_updated": "2025-07-04",
+    "place_metadata": null,
+    "snippet": "## Men\n## Women\n## Buy for less. Sell for free. Keep fashion circular.",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/gb/"
+   },
+   {
+    "date": "2026-10-09",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "### Baby (0-12m)\n### Toddler (1-3 years)",
+    "source": "web",
+    "title": "The Depop Circular",
+    "url": "https://www.depop.com/blog/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Vintage.\nStreetwear.\nSneakers.\nWhatever your style.",
+    "source": "web",
+    "title": "?pla_feed=US",
+    "url": "https://www.depop.com/login/?pla_feed=US"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00072,
+    "output_tokens_cost": 0.00022,
+    "request_cost": 0.0025,
+    "total_cost": 0.00344
+   },
+   "prompt_tokens": 127,
+   "search_context_size": "low",
+   "total_tokens": 145
+  }
+ }
+}

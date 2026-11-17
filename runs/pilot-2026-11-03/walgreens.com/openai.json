@@ -1,0 +1,143 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.walgreens.com/"
+  ]
+ ],
+ "answer": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Featured category: Beauty ([walgreens.com](https://www.walgreens.com/))",
+ "cost_usd": 0.0123,
+ "raw": {
+  "id": "resp_0d28a232139861cd006aea71d7806887d0b5702afde354b2c1",
+  "object": "response",
+  "created_at": 1793749463,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793749464,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0d28a232139861cd006aea71d7fc2487d0a93e1c1619e4a50e",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.walgreens.com/"
+    }
+   },
+   {
+    "id": "msg_0d28a232139861cd006aea71d8a1e887d093b07188b23be2e9",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [
+       {
+        "type": "url_citation",
+        "end_index": 134,
+        "start_index": 89,
+        "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+        "url": "https://www.walgreens.com/"
+       }
+      ],
+      "logprobs": [],
+      "text": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You — Featured category: Beauty ([walgreens.com](https://www.walgreens.com/))"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 8633,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 69,
+   "output_tokens_details": {
+    "reasoning_tokens": 31
+   },
+   "total_tokens": 8702
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

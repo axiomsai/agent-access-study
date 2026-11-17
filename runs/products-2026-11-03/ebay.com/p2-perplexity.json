@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_All=1&LH_PrefLoc=98&_dmd=1&_oac=1",
+  "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=30&_sop=7&LH_All=1&LH_RPA=1&LH_BOPIS=1&LH_PrefLoc=98",
+  "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&_udhi=25&LH_All=1&LH_PrefLoc=2",
+  "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2",
+  "https://www.sandbox.ebay.com/sch/20625/i.html?item=110591067073&_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_RPA=1&_udlo=15&_udhi=35&_sop=7&_pgn=3",
+  "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Complete=1&LH_Sold=1&LH_Savings=1&LH_AV=1&LH_BIN=1&LH_LPickup=0&LH_BOPIS=1&LH_FS=0&LH_AS=1&LH_FR=0&LH_RPA=0&LH_PrefLoc=1",
+  "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+  "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=0",
+  "https://www.sandbox.ebay.com/sch/i.html?item=110590751107&_ssn=testuser_pa4_demo_6&_oac=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_All=1&LH_PrefLoc=98&_dmd=1&_oac=1",
+   "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=30&_sop=7&LH_All=1&LH_RPA=1&LH_BOPIS=1&LH_PrefLoc=98",
+   "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&_udhi=25&LH_All=1&LH_PrefLoc=2",
+   "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2",
+   "https://www.sandbox.ebay.com/sch/20625/i.html?item=110591067073&_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_RPA=1&_udlo=15&_udhi=35&_sop=7&_pgn=3",
+   "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Complete=1&LH_Sold=1&LH_Savings=1&LH_AV=1&LH_BIN=1&LH_LPickup=0&LH_BOPIS=1&LH_FS=0&LH_AS=1&LH_FR=0&LH_RPA=0&LH_PrefLoc=1",
+   "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3",
+   "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=0",
+   "https://www.sandbox.ebay.com/sch/i.html?item=110590751107&_ssn=testuser_pa4_demo_6&_oac=1"
+  ],
+  "created": 1793751251,
+  "id": "resp_a130aa57-d06e-40b5-8bcc-ee4ce5810d0a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **All**\n- New(1,300) (1,300) Items\n...\n# 1,300+ results\nFree shipping\n- INFINITE SWITCH 120V 15A for APW WYOTT EGO 2E-1327900 1327900 5059130004",
+    "source": "web",
+    "title": "1,300+ results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?_ssn=testuser_nomar_seller&_udlo=15&_udhi=35&LH_All=1&LH_PrefLoc=98&_dmd=1&_oac=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(104) (104) Items\n...\n# 104 results\n...\n- Buy It Now\n...\n- Returns acceptedRemove filter",
+    "source": "web",
+    "title": "104 results",
+    "url": "https://www.sandbox.ebay.com/sch/42909/i.html?item=110591067073&_ssn=testuser_nomar_seller&_udhi=30&_sop=7&LH_All=1&LH_RPA=1&LH_BOPIS=1&LH_PrefLoc=98"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- - **Other Valves & Manifolds**\n- to\n- Buy It Now(15) (15) Items\n...\n# 15 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter\n...\n- CONNECTOR PARKER TERMINAL BLOCK A-22\nBrand New\n$11.79\n...\nFree shipping\n- T&P COIL VALVE 24V 50/60HZ\nBrand New\n$15....",
+    "source": "web",
+    "title": "15 results",
+    "url": "https://www.sandbox.ebay.com/sch/184148/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&LH_BOPIS=1&_udhi=25&LH_All=1&LH_PrefLoc=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "- HAND EDIT RANCILIO 36301030 FILTER HOLDER GASKET\nBrand New\n$12.34\nBuy It Now\n...\n$21.87",
+    "source": "web",
+    "title": "499 results",
+    "url": "https://www.sandbox.ebay.com/sch/12576/i.html?item=110591069623&_ssn=testuser_nomar_seller&_udhi=25&LH_All=1&LH_FS=1&_oac=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n...\n- All Listings(204) (204) Items\nBuy It Now(204) (204) Items\n...\n# 204 results\n- Under $20.00Remove filter\n...\n- GLOBE MCR59, SWITCH COVER\nBrand New\n$14.98",
+    "source": "web",
+    "title": "204 results",
+    "url": "https://www.sandbox.ebay.com/sch/260308/i.html?item=110591066484&_ssn=testuser_nomar_seller&_udhi=20&LH_PrefLoc=3&_oac=1&LH_BOPIS=1&_dmd=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- New(412) (412) Items\n...\n- All Listings(412) (412) Items",
+    "source": "web",
+    "title": "412 results",
+    "url": "https://www.sandbox.ebay.com/sch/20625/i.html?item=110591067073&_ssn=testuser_nomar_seller&_dmd=1&LH_BOPIS=1&LH_RPA=1&_udlo=15&_udhi=35&_sop=7&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-24",
+    "place_metadata": null,
+    "snippet": "| eBay\n# 0 results\n- All\n...\n- Buy It Now\n...\n- - Authorized SellerRemove filter",
+    "source": "web",
+    "title": "0 results",
+    "url": "https://sandbox.ebay.com/sch/20635/i.html?_fsrp=1&_oaa=1&_vs=1&_dmd=1&_sop=12&LH_Complete=1&LH_Sold=1&LH_Savings=1&LH_AV=1&LH_BIN=1&LH_LPickup=0&LH_BOPIS=1&LH_FS=0&LH_AS=1&LH_FR=0&LH_RPA=0&LH_PrefLoc=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- All Listings(115) (115) Items\nBuy It Now(115) (115) Items\n...\n# 115 results\n...\n- Buy It Now\n...\n- Under $35.00Remove filter\n...\n- BEARING SKF 6205 2RS C3\nBrand New\n$30.73\nBuy It Now\nFree shipping\n- BEARING SKF 6207 ZZ C3\nBrand New\n$28.37\n...\n- B...",
+    "source": "web",
+    "title": "115 results",
+    "url": "https://www.sandbox.ebay.com/sch/181748/i.html?item=110591067669&_ssn=testuser_nomar_seller&_udhi=35&_oac=1&LH_BOPIS=1&LH_PrefLoc=2&_pgn=3"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_nomar_seller | eBay\n- to\n- Buy It Now(13) (13) Items\nAccepts Offers\n# 13 results\n...\n- Buy It Now\n...\n- Under $25.00Remove filter\n...\n- MICROWAVE CAPACITOR 1.14µF 2100 V-AC\nBrand New\n$21.09\nBuy It Now\nFree shipping\n- MICROWAVE CAPACITOR 1.10µF 2100 V-AC\nBrand New\n$21.02\nBu...",
+    "source": "web",
+    "title": "13 results",
+    "url": "https://www.sandbox.ebay.com/sch/159903/i.html?item=110591067669&_ssn=testuser_nomar_seller&_oac=1&_udhi=25&LH_BOPIS=1&LH_PrefLoc=3&LH_FS=0"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Items for sale by testuser_pa4_demo_6 | eBay\n- - **All**\n...\n- All Listings(130) (130) Items",
+    "source": "web",
+    "title": "130 results",
+    "url": "https://www.sandbox.ebay.com/sch/i.html?item=110590751107&_ssn=testuser_pa4_demo_6&_oac=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00126,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00395
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 132
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.macys.com/shop/brands/lancome?id=28688",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Lanc%C3%B4me?id=30087",
+  "https://www.macys.com/shop/beauty/gift-sets/fragrance/Brand/Lanc%C3%B4me?id=214356",
+  "https://www.macys.com/shop/beauty/fragrance/Brand/Lanc%C3%B4me?id=277259",
+  "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537",
+  "https://www.macys.com/shop/beauty/fragrance/Pageindex/2?id=277259",
+  "https://www.macys.com/shop/beauty/Brand,Pageindex/Lanc%C3%B4me,2?id=290756",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/3?id=30087",
+  "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439",
+  "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318"
+ ],
+ "cited_store": true,
+ "answer": "NAME: 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set | PRICE: $123.25 | STOCK: UNKNOWN | OPENED: NO: exact product page not opened",
+ "cost_usd": 0.00519,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set | PRICE: $123.25 | STOCK: UNKNOWN | OPENED: NO: exact product page not opened",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.macys.com/shop/brands/lancome?id=28688",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Lanc%C3%B4me?id=30087",
+   "https://www.macys.com/shop/beauty/gift-sets/fragrance/Brand/Lanc%C3%B4me?id=214356",
+   "https://www.macys.com/shop/beauty/fragrance/Brand/Lanc%C3%B4me?id=277259",
+   "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537",
+   "https://www.macys.com/shop/beauty/fragrance/Pageindex/2?id=277259",
+   "https://www.macys.com/shop/beauty/Brand,Pageindex/Lanc%C3%B4me,2?id=290756",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/3?id=30087",
+   "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439",
+   "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318"
+  ],
+  "created": 1793907641,
+  "id": "resp_8171f4a6-500c-4e4c-acec-20324a94362e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n### 3-Piece La Vie Est Belle Eau de Parfum Spray Trio Set\n$167.45; 15% off; with code FRIEND;$167.45 (15% off)\nFRIEND applied\nPrevious price $197.00;$197.00$275.00 value\n...\n- Lancôme\n…\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; wit...",
+    "source": "web",
+    "title": "Lancôme | Skincare, Makeup & Fragrance",
+    "url": "https://www.macys.com/shop/brands/lancome?id=28688"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "### 3-Piece La Vie Est Belle Eau de Parfum Spray Trio Set\n$167.45; 15% off; with code FRIEND;$167.45 (15% off)\n...\n- Lancôme\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; with code FRIEND;$123.25 (15% off)\nFRIEND applied\nPrevious price $145.00;$...",
+    "source": "web",
+    "title": "Lancôme Perfume & Eau de Parfum - Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Brand/Lanc%C3%B4me?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-10",
+    "place_metadata": null,
+    "snippet": "Lancôme Fragrance Gift Sets - Macy's\n...\n# Lancôme Fragrance Gifts Sets\n...\n- Lancôme\n### NEW!\n3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\nCurrent price $145.00; ;$145.00\n$181.00 value\nTake $30 off every $150!\n(15)",
+    "source": "web",
+    "title": "Lancôme Fragrance Gift Sets - Macy's",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/fragrance/Brand/Lanc%C3%B4me?id=214356"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "### 3-Piece La Vie Est Belle Eau de Parfum Spray Trio Set\n$167.45; 15% off; with code FRIEND;$167.45 (15% off)\nFRIEND applied\nPrevious price $197.00;$197.00$275.00 value\n...\n- Lancôme\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; with code FRIEN...",
+    "source": "web",
+    "title": "Lancôme Fragrances for Women and Men | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/Brand/Lanc%C3%B4me?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Lancôme Beauty Gift Sets\n(41)\n...\n### 3-Piece La Vie Est Belle Eau de Parfum Spray Trio Set\nCurrent price $197.00; ;$197.00\n$275.00 value\nBonus Offer with Purchase\n...\n### 3-Piece Full Size La Vie Est Belle Perfume Spray & Body Lotion Set\nCurrent price $190.00; ;$190.00\n...\n### 2-Piece Full-Size H...",
+    "source": "web",
+    "title": "Lancôme All Beauty Gifts & Value Sets",
+    "url": "https://www.macys.com/shop/beauty/gift-sets/Brand/Lanc%C3%B4me?id=55537"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n### 3-Piece La Vie Est Belle Eau de Parfum Spray Trio Set\n$167.45; 15% off; with code EARLY;$167.45 (15% off)\nEARLY applied\nPrevious price $197.00;$197.00$275.00 value\nBonus Offer with Purchase\n(94)\n...\n- Lancôme\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gif...",
+    "source": "web",
+    "title": "Fragrances for Women and Men | Macy's",
+    "url": "https://www.macys.com/shop/beauty/fragrance/Pageindex/2?id=277259"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-23",
+    "place_metadata": null,
+    "snippet": "### La vie est belle Eau de Parfum L'Elixir, First at Macy's\nCurrent price From $30.60 to $146.20; 15% off; with code EARLY;$30.60 - $146.20 (15% off)\nEARLY applied\n...\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; with code EARLY;$123.25 (15% o...",
+    "source": "web",
+    "title": "Lancôme Beauty - Macy's",
+    "url": "https://www.macys.com/shop/beauty/Brand,Pageindex/Lanc%C3%B4me,2?id=290756"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-28",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; with code FRIEND;$123.25 (15% off)\nFRIEND applied\nPrevious price $145.00;$145.00$181.00 value\nBonus Offer with Purchase\n(29)",
+    "source": "web",
+    "title": "Perfume & Eau de Parfum",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/Pageindex/3?id=30087"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "- Lancôme\n### 3-Piece La Vie Est Belle L'Elixir Very Cherry & Hypnôse Drama Mascara Gift Set\n$123.25; 15% off; with code FRIEND;$123.25 (15% off)\nFRIEND applied\nPrevious price $145.00;$145.00$181.00 value\nBonus Offer with Purchase\n(31)\n- Marc Jacobs\n...\n- Estée Lauder",
+    "source": "web",
+    "title": "Perfume Gift Sets",
+    "url": "https://www.macys.com/shop/beauty/fragrance/perfume/gift-sets/Pageindex/2?id=69439"
+   },
+   {
+    "date": "2026-09-06",
+    "last_updated": "2026-09-11",
+    "place_metadata": null,
+    "snippet": "This item is unavailable\n# Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose Drama Mascara Set\nStill curious?\n...\n# Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose Drama Mascara Set\nExperience a touch of sophistication with this Lancôme set that features the La Vie ...",
+    "source": "web",
+    "title": "Lancôme 3-Pc. La Vie Est Belle L'Elixir Perfume Spray and Hypnose ...",
+    "url": "https://www.macys.com/shop/product/lancome-3-pc.-la-vie-est-belle-lelixir-perfume-spray-hypnose-drama-mascara-set?ID=26088318"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 49,
+   "cost": {
+    "input_tokens_cost": 0.0015,
+    "output_tokens_cost": 0.00033,
+    "request_cost": 0.0025,
+    "total_cost": 0.00433
+   },
+   "prompt_tokens": 146,
+   "search_context_size": "low",
+   "total_tokens": 195
+  }
+ }
+}

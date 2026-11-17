@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nProduct/Category Name: Jewelry",
+ "finish": "STOP",
+ "cost_usd": 0.00017,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Title: Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More\nProduct/Category Name: Jewelry",
+       "thoughtSignature": "EnMKcQFpFH0TbI7z1V7CeYd4J1mb47E0oM+kV7+tQZDDXLc1BuA0GolD959bRtk6wA4Qx5A/q+Xw4IVnt7YQEOcI7m8Zld1ZY/ah+zYAQamgMAnO+9dMj97z0WMOT8gCIcZ2SH8t0agwURbcB+kyKMDWN43A"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 44,
+   "totalTokenCount": 1602,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 1496,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 1496
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "gA7yavmfIaXVz7IP0uWRsAs"
+ }
+}

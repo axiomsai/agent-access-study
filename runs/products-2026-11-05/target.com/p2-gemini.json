@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz | PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES",
+ "finish": "STOP",
+ "cost_usd": 0.00089,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: eos Holiday Shea Better 24H Moisture Body Lotion - Cotton Candy Fleur - 16 fl oz | PRICE: $9.99 | STOCK: IN STOCK | OPENED: YES",
+       "thoughtSignature": "EnMKcQFpFH0TitqNsc5D9n+I6Yn1/epkdAmnfCIugVlJyO7wwDnqX2y05oAmW+CbhUGrnx40MCJPJPSo4kLfLqKKG4Y3Q3KTR4G3kyvb42PVlr1ZAfebb+b/tL+u85dGEHMiT1+yGy9RKyh9WKuT8Jyc6EHP"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.target.com/p/eos-holiday-shea-better-24h-moisture-body-lotion-cotton-candy-fleur-16-fl-oz/-/A-95251979",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 162,
+   "candidatesTokenCount": 107,
+   "totalTokenCount": 8619,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 162
+    }
+   ],
+   "toolUsePromptTokenCount": 8350,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 8350
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "P9jsasyMOriKqtsPubeD2A4"
+ }
+}

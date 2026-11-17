@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walgreens.com/store/c/productlist/N=302715/1/Brands=yes",
+  "https://www.walgreens.com/store/c/productlist/cough-drops-medicines-&-treatments/N=359438-2000010045-2000012784-5000022175-4294838623-2000014990-2000012489-2000014941-5000024316-2000014859-100079059-2000014819",
+  "https://www.walgreens.com/store/c/productlist/N=20007503",
+  "https://www.walgreens.com/store/c/productlist/N=302715-438312-501-358957-264-366121-357609-9000149604-1841",
+  "https://www.walgreens.com/store/c/productlist/N=9000151992-302715-9000158903",
+  "https://www.walgreens.com/store/c/productlist/claritin-$19.99-select-allergy-relief-+-more-deals/N=20006062-302715",
+  "https://www.walgreens.com/store/c/productlist/claritin-summer-wellness-&-first-aid/N=20006087-302715",
+  "https://www.walgreens.com/store/store/category/productlist.jsp?N=20004142",
+  "https://www.walgreens.com/store/c/productlist/allergy-medications-$19.99-select-allergy-relief-+-more-deals/N=20006062-2000010045",
+  "https://www.walgreens.com/store/c/productlist/claritin-allergy-medicine/N=361485-2000010045-302715"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Claritin 24 Hour Allergy Liqui-Gels 10 mg | PRICE: $24.99 | STOCK: IN STOCK | OPENED: NO: blocked",
+ "cost_usd": 0.00517,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Claritin 24 Hour Allergy Liqui-Gels 10 mg | PRICE: $24.99 | STOCK: IN STOCK | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walgreens.com/store/c/productlist/N=302715/1/Brands=yes",
+   "https://www.walgreens.com/store/c/productlist/cough-drops-medicines-&-treatments/N=359438-2000010045-2000012784-5000022175-4294838623-2000014990-2000012489-2000014941-5000024316-2000014859-100079059-2000014819",
+   "https://www.walgreens.com/store/c/productlist/N=20007503",
+   "https://www.walgreens.com/store/c/productlist/N=302715-438312-501-358957-264-366121-357609-9000149604-1841",
+   "https://www.walgreens.com/store/c/productlist/N=9000151992-302715-9000158903",
+   "https://www.walgreens.com/store/c/productlist/claritin-$19.99-select-allergy-relief-+-more-deals/N=20006062-302715",
+   "https://www.walgreens.com/store/c/productlist/claritin-summer-wellness-&-first-aid/N=20006087-302715",
+   "https://www.walgreens.com/store/store/category/productlist.jsp?N=20004142",
+   "https://www.walgreens.com/store/c/productlist/allergy-medications-$19.99-select-allergy-relief-+-more-deals/N=20006062-2000010045",
+   "https://www.walgreens.com/store/c/productlist/claritin-allergy-medicine/N=361485-2000010045-302715"
+  ],
+  "created": 1794080677,
+  "id": "resp_da1d2c3a-10c9-4a7f-a8bf-e2e223a6d9c9",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "Claritin | Walgreens\n# Claritin\n## Refine\n28 items filtered*\nPrice and inventory may vary from online to in store.\n...\nPrice and inventory may vary from online to in store.\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(227)\n$24.99$0.83 / ea\n$4 off 1 CouponOpen simulated dialog\nEx...",
+    "source": "web",
+    "title": "Claritin - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=302715/1/Brands=yes"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Medicines & Treatments\nPrice and inventory may vary from online to in store.\n...\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(227)\n$24.99$0.83 / ea\n$5 off 1 CouponOpen simulated dialog\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery available\nAdd to cartwill op...",
+    "source": "web",
+    "title": "Medicines & Treatments | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/cough-drops-medicines-&-treatments/N=359438-2000010045-2000012784-5000022175-4294838623-2000014990-2000012489-2000014941-5000024316-2000014859-100079059-2000014819"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-18",
+    "place_metadata": null,
+    "snippet": "# Up to 20% OFF select allergy relief + extra $5 off coupon\n## Refine\n**Save** **$3.00** with Walgreens brand\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(227)\n$24.99$0.83 / ea\n$5 off 1 CouponOpen simulated dialog\nExtra 15% off $35+ eligib...\nPickup available\nSame Day Delivery a...",
+    "source": "web",
+    "title": "Up to 20% OFF select allergy relief + extra $5 off coupon - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=20007503"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "# Claritin\n**Save** **$4.00** with Walgreens brand\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg** - 30 ea\nClaritin(227)\nPrevious price was$24.99Current sale price is$20.99$0.70 / ea\n$4 off 1 CouponOpen simulated dialog\nOTC benefit card: If you ...\nPickup available\nSame Day Delivery available\nAdd to...",
+    "source": "web",
+    "title": "| Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=302715-438312-501-358957-264-366121-357609-9000149604-1841"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-14",
+    "place_metadata": null,
+    "snippet": "Skip to product section content\n...\n- - **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin\nPrevious price was$24.99Current sale price is$19.99$0.67 / ea\n$5 off 1 CouponOpen simulated dialog\n...\nExtra 20% off $50+ on sel...- **Claritin Allergy Medicine, Loratadine Tablets 10 mg ** - 30 e...",
+    "source": "web",
+    "title": "Walgreens | Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/N=9000151992-302715-9000158903"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-09-06",
+    "place_metadata": null,
+    "snippet": "# Claritin - $19.99 select allergy relief + more deals\nSkip to product section content\n...\n- **Claritin Liqui-Gels: 24 Hour Non-Drowsy Allergy Relief ** - 10 ea\nClaritin\n$12.99$1.30 / ea\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin\nPrevious price was$24.99Current sale price is$1...",
+    "source": "web",
+    "title": "Claritin - $19.99 select allergy relief + more deals",
+    "url": "https://www.walgreens.com/store/c/productlist/claritin-$19.99-select-allergy-relief-+-more-deals/N=20006062-302715"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-08-28",
+    "place_metadata": null,
+    "snippet": "# Claritin - Summer Wellness & First Aid\nSkip to product section content\n...\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin\nPrevious price was$24.99Current sale price is$19.99$0.67 / ea\n$5 off 1 CouponOpen simulated dialog\nExtra $10 off $50+ sitewi...Extra $10 off $50+ sitewi...\n-...",
+    "source": "web",
+    "title": "Claritin - Summer Wellness & First Aid - Walgreens",
+    "url": "https://www.walgreens.com/store/c/productlist/claritin-summer-wellness-&-first-aid/N=20006087-302715"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Shop Allergy Relief\n## Refine\n**Save** **$4.00** with Walgreens brand\n...\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(227)\nPrevious price was$24.99Current sale price is$20.99$0.70 / ea\n$4 off 1 CouponOpen simulated dialog\nExtra 15% off $35+ eligib...\nPickup available\nSame Day...",
+    "source": "web",
+    "title": "717 S Houston Ave, Tulsa, OK",
+    "url": "https://www.walgreens.com/store/store/category/productlist.jsp?N=20004142"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-11",
+    "place_metadata": null,
+    "snippet": "# Allergy Medications - Get Cold, Cough, or Flu Symptom Relief Now!\n**Save** **$3.00** with Walgreens brand\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(225)\n$24.99$0.83 / ea\nBuy 1, Get 1 50% OFFBuy 1, Get 1 50% OFF\n$5 off 1 CouponOpen simulated dialog\nPickup available\nSame Day ...",
+    "source": "web",
+    "title": "Allergy Medications - Get Cold, Cough, or Flu Symptom ...",
+    "url": "https://www.walgreens.com/store/c/productlist/allergy-medications-$19.99-select-allergy-relief-+-more-deals/N=20006062-2000010045"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "# Claritin - Allergy Medications - Allergy Medicine\n...\nPrice and inventory may vary from online to in store.\n- In-stock items only\n...\n- **Claritin 24 Hour Allergy Liqui-Gels 10 mg ** - 30 ea\nClaritin(227)\n$24.99$0.83 / ea\n$5 off 1 CouponOpen simulated dialog\nExtra 15% off $35+ eligib...\nPickup ava...",
+    "source": "web",
+    "title": "Allergy Medicine & Relief",
+    "url": "https://www.walgreens.com/store/c/productlist/claritin-allergy-medicine/N=361485-2000010045-302715"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 35,
+   "cost": {
+    "input_tokens_cost": 0.00144,
+    "output_tokens_cost": 0.00027,
+    "request_cost": 0.0025,
+    "total_cost": 0.00421
+   },
+   "prompt_tokens": 134,
+   "search_context_size": "low",
+   "total_tokens": 169
+  }
+ }
+}

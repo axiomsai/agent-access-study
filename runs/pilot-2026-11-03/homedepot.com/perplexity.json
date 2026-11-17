@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.homedepot.com/",
+  "https://www.homedepot.com/p/Samsung-1-1-cu-ft-1100-W-Fingerprint-Resistant-Stainless-Steel-Smart-SLIM-Over-the-Range-Microwave-with-400-CFM-and-Wi-Fi-ME11A7510DS/318198451?MERCH=REC-_-brand_based_collection-_-328468103-_-14-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a",
+  "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749",
+  "https://www.homedepot.com/p/Klean-Strip-1-Gal-Klean-Heat-Premium-1-K-Kerosene-GKKH99991/100112454",
+  "https://www.homedepot.com/content/",
+  "https://www.homedepot.com/home",
+  "https://www.homedepot.com/p/Home-Decorators-Collection-Snow-Drift-Top-Down-Bottom-Up-Cordless-Light-Filtering-Cellular-Window-Shades-20-25-in-W-x-48-in-L-Actual-20-x-48-10793478785070/308418440",
+  "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+  "https://www.homedepot.com/p/IDEAL-Suretrace-Digital-Circuit-Tracer-0-to-480-Volt-AC-DC-61-946/330901735",
+  "https://www.homedepot.com/p/LG-30-in-W-20-cu-ft-Top-Freezer-Refrigerator-w-Multi-Air-Flow-and-Reversible-Door-in-Stainless-Steel-ENERGY-STAR-LTCS20020S/311231763"
+ ],
+ "cited_store": true,
+ "answer": "Home Page — Popular Categories",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Home Page — Popular Categories",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.homedepot.com/",
+   "https://www.homedepot.com/p/Samsung-1-1-cu-ft-1100-W-Fingerprint-Resistant-Stainless-Steel-Smart-SLIM-Over-the-Range-Microwave-with-400-CFM-and-Wi-Fi-ME11A7510DS/318198451?MERCH=REC-_-brand_based_collection-_-328468103-_-14-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a",
+   "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749",
+   "https://www.homedepot.com/p/Klean-Strip-1-Gal-Klean-Heat-Premium-1-K-Kerosene-GKKH99991/100112454",
+   "https://www.homedepot.com/content/",
+   "https://www.homedepot.com/home",
+   "https://www.homedepot.com/p/Home-Decorators-Collection-Snow-Drift-Top-Down-Bottom-Up-Cordless-Light-Filtering-Cellular-Window-Shades-20-25-in-W-x-48-in-L-Actual-20-x-48-10793478785070/308418440",
+   "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+   "https://www.homedepot.com/p/IDEAL-Suretrace-Digital-Circuit-Tracer-0-to-480-Volt-AC-DC-61-946/330901735",
+   "https://www.homedepot.com/p/LG-30-in-W-20-cu-ft-Top-Freezer-Refrigerator-w-Multi-Air-Flow-and-Reversible-Door-in-Stainless-Steel-ENERGY-STAR-LTCS20020S/311231763"
+  ],
+  "created": 1793749438,
+  "id": "resp_ab91d117-7f0b-441a-a9b5-8a71e25cd3f7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Popular Categories\nFor screen reader problems with this website, please call 1-800-430-3376 or text 38698 (standard carrier rates apply to texts).",
+    "source": "web",
+    "title": "Home Page [www.homedepot.com]",
+    "url": "https://www.homedepot.com/"
+   },
+   {
+    "date": "2026-10-16",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Samsung 1.1 cu. ft.\n1100 W Fingerprint Resistant Stainless Steel Smart SLIM Over-the-Range Microwave with 400 CFM and Wi-Fi ME11A7510DS - The Home Depot\n...\n## Model # ME11A7510DS\n...\n# 1.1 cu. ft. 1100 W Fingerprint Resistant Stainless Steel Smart SLIM Over-the-Range Microwave with 400 CFM and Wi-F...",
+    "source": "web",
+    "title": "Samsung - 1.1 cu. ft. 1100 W Fingerprint Resistant Stainless Steel ...",
+    "url": "https://www.homedepot.com/p/Samsung-1-1-cu-ft-1100-W-Fingerprint-Resistant-Stainless-Steel-Smart-SLIM-Over-the-Range-Microwave-with-400-CFM-and-Wi-Fi-ME11A7510DS/318198451?MERCH=REC-_-brand_based_collection-_-328468103-_-14-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a"
+   },
+   {
+    "date": "2026-08-19",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "## Internet # 339700749\n...\n## Shop ALIEN\n# Alien Power Super Concentrated Stain Remover 24 oz. All Purpose Cleaner Spray (2-Pack)\n...\n$29.99",
+    "source": "web",
+    "title": "Alien Power Super Concentrated Stain Remover 24 oz. All ...",
+    "url": "https://www.homedepot.com/p/ALIEN-Alien-Power-Super-Concentrated-Stain-Remover-24-oz-All-Purpose-Cleaner-Spray-2-Pack-6785/339700749"
+   },
+   {
+    "date": "2025-01-06",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Klean-Strip 1 Gal.\nKlean-Heat Premium 1-K Kerosene GKKH99991 - The Home Depot\nAppliances\nAppliance Parts\nPortable Heater Parts\nKlean-Strip Portable Heater Parts\n## Internet # 100112454\n## Model # GKKH99991\n## Store SKU # 391171\n...\n# 1 Gal. Klean-Heat Premium 1-K Kerosene\n### About This Product\nKlea...",
+    "source": "web",
+    "title": "1 Gal. Klean-Heat Premium 1-K Kerosene",
+    "url": "https://www.homedepot.com/p/Klean-Strip-1-Gal-Klean-Heat-Premium-1-K-Kerosene-GKKH99991/100112454"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n...\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/content/"
+   },
+   {
+    "date": "2025-01-02",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "The Home Depot\n...\n##### We're having trouble loading your recently viewed items.",
+    "source": "web",
+    "title": "9PM",
+    "url": "https://www.homedepot.com/home"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Home Decorators Collection Snow Drift Top Down Bottom Up Cordless Light Filtering Cellular Window Shades-20.25 in W x 48 in L (Actual 20 x 48) 10793478785070 - The Home Depot\n...\nHome Decorators Collection Cellular Shades\n## Internet # 308418440\n## Model # 10793478785070\n...\n## Shop Home Decorators ...",
+    "source": "web",
+    "title": "Home Decorators Collection Snow Drift Top Down Bottom Up Cordless Light Filtering Cellular Window Shades-20.25 in W x 48 in L (Actual 20 x 48) 10793478785070 - The Home Depot",
+    "url": "https://www.homedepot.com/p/Home-Decorators-Collection-Snow-Drift-Top-Down-Bottom-Up-Cordless-Light-Filtering-Cellular-Window-Shades-20-25-in-W-x-48-in-L-Actual-20-x-48-10793478785070/308418440"
+   },
+   {
+    "date": "2023-11-20",
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Tools - The Home Depot\n...\n# Tools\n...\n## Related Products\n### M12 12-Volt Lithium-Ion XC High Output 5.0 Ah Battery Pack\n###### Holiday Decorations\nFor screen reader problems with this website, please call 1-800-430-3376 or text 38698 (standard carrier rates apply to texts).",
+    "source": "web",
+    "title": "Tools",
+    "url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy"
+   },
+   {
+    "date": "2026-04-25",
+    "last_updated": "2026-10-22",
+    "place_metadata": null,
+    "snippet": "IDEAL Suretrace Digital Circuit Tracer, 0 to 480-Volt AC/DC 61-946 - The Home Depot\n...\n## Internet # 330901735\n## Model # 61-946\n...\n# Suretrace Digital Circuit Tracer, 0 to 480-Volt AC/DC\n...\n$257.77",
+    "source": "web",
+    "title": "IDEAL Suretrace Digital Circuit Tracer, 0 to 480-Volt AC/DC 61-946",
+    "url": "https://www.homedepot.com/p/IDEAL-Suretrace-Digital-Circuit-Tracer-0-to-480-Volt-AC-DC-61-946/330901735"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "LG 30 in.\nW 20 cu. ft.\nTop Freezer Refrigerator w/ Multi-Air Flow and Reversible Door in Stainless Steel,ENERGY STAR LTCS20020S - The Home Depot\n...\n## Model # LTCS20020S\n...\n# 30 in. W 20 cu. ft. Top Freezer Refrigerator w/ Multi-Air Flow and Reversible Door in Stainless Steel,ENERGY STAR\n## Store ...",
+    "source": "web",
+    "title": "30 in. W 20 cu. ft. Top Freezer Refrigerator w/ Multi-Air ...",
+    "url": "https://www.homedepot.com/p/LG-30-in-W-20-cu-ft-Top-Freezer-Refrigerator-w-Multi-Air-Flow-and-Reversible-Door-in-Stainless-Steel-ENERGY-STAR-LTCS20020S/311231763"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 5,
+   "cost": {
+    "input_tokens_cost": 0.00103,
+    "output_tokens_cost": 2e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00355
+   },
+   "prompt_tokens": 59,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

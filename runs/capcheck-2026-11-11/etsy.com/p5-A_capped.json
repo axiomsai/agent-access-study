@@ -1,0 +1,174 @@
+{
+ "model": "claude-opus-5-5",
+ "tool_called": true,
+ "tool_error": null,
+ "retrieved_at": "2026-11-12T00:04:07+00:00",
+ "age_days": 0,
+ "doc_chars": 18381,
+ "doc_markers": [],
+ "answer": "NAME: Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) | PRICE: $48.00 | STOCK: UNKNOWN | OPENED: YES",
+ "input_tokens": 38713,
+ "cost_usd": 0.17259,
+ "raw": [
+  {
+   "id": "srvtoolu_01MPe4txBEPxcBSzVXKuucwR",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.etsy.com/listing/1736171915\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c['result_type']);t=c['content'];print(len(t));print(t[:1500])\n import re\n for k in ['$','stock','Sold out','sold out','Price']:\n  for m in re.finditer(re.escape(k),t):print(k,':',t[max(0,m.start()-80):m.start()+80].replace('\\n',' '));break"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01TkEfNQ7ks6UTeYnsGZodAn",
+   "caller": {
+    "tool_id": "srvtoolu_01MPe4txBEPxcBSzVXKuucwR",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.etsy.com/listing/1736171915"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01MPe4txBEPxcBSzVXKuucwR",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup\nmeta-al:android:app_name: Etsy\nmeta-al:android:package: com.etsy.android\nmeta-al:android:url: etsy://listing/1736171915?ref=applinks_android\nmeta-al:ios:app_name: Etsy\nmeta-al:ios:app_store_id: 477128284\nmeta-al:ios:url: etsy://listing/1736171915?ref=applinks_ios\nmeta-apple-mobile-web-app-title: Etsy\nmeta-application-name: Etsy\nmeta-csrf_nonce: 3:1794441847:0J61IgsxK3GhpkkPoGT7OAgFVxSq:f738a0ebe8797a5dd43c51431c2bbdc90353631bfe4c7234aed8c610b7b7e85d\nmeta-css_dist_path: /ac/sasquatch/css/\nmeta-description: This Fine Art Ceramics item by ALICJACERAMICS has 2180 favorites from Etsy shoppers. Ships from Warren, VT. Listed on Nov 11, 2026\nmeta-dist: 202611111794438869\nmeta-fb:app_id: 89186614300\nmeta-msapplication-TileColor: #F1641E\nmeta-og:description: This Fine Art Ceramics item by ALICJACERAMICS has 2180 favorites from Etsy shoppers. Ships from Warren, VT. Listed on Nov 11, 2026\nmeta-og:image: https://i.etsystatic.com/7901302/r/il/f21d3d/8601016825/il_1080xN.8601016825_k4y6.jpg\nmeta-og:title: Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) - Etsy\nmeta-og:type: product\nmeta-og:url: https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share\nmeta-pinterest: nosearch\nmeta-product:price:amount: 48.00\nmeta-product:price:currency: USD\nmeta-robots: max-image-preview:large\nmeta-theme-color: rgb(255, 255, 255)\nmeta-twitter:app:id:googleplay: com.etsy.android\nmeta-twitter:app:id:ipad: 477128284\nmeta-twitter:app:id:iphone: 477128284\nmeta-twitter:app:name:googleplay: Etsy\nmeta-twitter:app:name:ipad: Etsy\nmeta-twitter:app:name:iphone: Etsy\nmeta-twitter:app:url:googleplay: etsy://listing/1736171915?ref=TwitterProductCard\nmeta-twitter:app:url:ipad: etsy://listing/1736171915?ref=TwitterProductCard\nmeta-twitter:app:url:iphone: etsy://listing/1736171915?ref=TwitterProductCard\nmeta-twitter:card: summary_large_image\nmeta-twitter:site: @Etsy\nmeta-uaid_nonce: 3:1794441847:1MnwfC0uzS7m1VGQJz3KYOw2jLK5:6eea43d4f5abe293131ff6f2e6dee22f9440f0b41f5239e992ec6cfc5b971824\nmeta-viewport: width=device-width, initial-scale=1.0\ntitle: Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) - Etsy\n---\n\n[Etsy](https://www.etsy.com/?ref=lgo)\n\nCategories\n\nBrowse\n\nSearch for items or shops\n\nClear search\n\n[Skip to Content](#content)\n\n- Sign in\n- [0](https://www.etsy.com/cart?ref=hdr-cart) Cart\n\n- [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav)\n- [Top 100 Gifts](https://www.etsy.com/r/curated/top-100-gifts?sections=1515349730209&ref=Top100giftsus102626_cat_nav)\n- [Home Favorites](https://www.etsy.com/featured/hub/home-favorites?ref=contentful_promo_cat_nav-4)\n- [Fashion Finds](https://www.etsy.com/featured/hub/fashion-favorites?ref=contentful_promo_cat_nav-5)\n- [Vintage](https://www.etsy.com/r/curated/etsys-best-vintage-finds?sections=1461029776888&narrow=best-vintage-finds&ref=contentful_promo_cat_nav-6)\n- [Wedding Guide](https://www.etsy.com/featured/hub/weddings-hub?ref=contentful_promo_cat_nav-9)\n- [Gift Cards](https://www.etsy.com/giftcards?ref=contentful_promo_cat_nav-10)\n\nTake full advantage of our site features by enabling JavaScript.\n\n- [Homepage](https://www.etsy.com/?ref=catnav_breadcrumb-home)\n- [Art & Collectibles](https://www.etsy.com/c/art-and-collectibles?explicit=1&ref=catnav_breadcrumb-0)\n- [Fine Art Ceramics](https://www.etsy.com/c/art-and-collectibles/fine-art-ceramics?explicit=1&ref=catnav_breadcrumb-1)\n\nAdd to Favorites\n\nEtsy’s Pick\n\nEtsy’s Picks are hand selected by our style experts to highlight items from shops that have shown quality, reliability and style.\n\n[Discover More](https://www.etsy.com/featured/hub/etsy-picks?ref=listing_etsys_pick_signal)\n\n- ![May include: A set of six off-white ceramic cups arranged in two rows. Each cup features dark green handwritten text specifying coffee orders, including \"Iced caramel latte,\" \"Flat white for,\" \"Cold brew for,\" and personalized names like Sophie and Claire.](https://i.etsystatic.com/7901302/r/il/f21d3d/8601016825/il_794xN.8601016825_k4y6.jpg)\n- Loading\n\n  [https://v.etsystatic.com/e/videos/ec46/af713684-85ac-4f16-abd6-0cb814eb3b6f/vid_v1.mp4](https://v.etsystatic.com/e/videos/ec46/af713684-85ac-4f16-abd6-0cb814eb3b6f/vid_v1.mp4)\n  Hm, we’re having trouble loading this video.\n  Try to refresh the page or come back later.\n\n- Loading\n\n  [https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_pkqisa.mp4](https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_pkqisa.mp4)\n  Hm, we’re having trouble loading this video.\n  Try to refresh the page or come back later.\n\n- ![May include: A cream-colored ceramic tumbler featuring the handwritten pink text Iced Honey Latte for Elizabeth. The cup has a smooth, cylindrical shape with a slightly tapered base and a glossy finish, displaying clear, legible lettering.](https://i.etsystatic.com/7901302/r/il/4c5c20/8879166063/il_794xN.8879166063_ch4k.jpg)\n- ![May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.](https://i.etsystatic.com/7901302/r/il/0af648/8553149688/il_794xN.8553149688_ol0d.jpg)\n- ![May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.](https://i.etsystatic.com/7901302/r/il/189053/8831370442/il_794xN.8831370442_o7a6.jpg)\n- ![May include: A cream-colored ceramic mug featuring the dark green cursive text Slutty Little Coffee written on the front. The mug has a smooth, cylindrical body and a simple, handleless design with a clean, minimalist aesthetic.](https://i.etsystatic.com/7901302/r/il/649985/8831370424/il_794xN.8831370424_ynnk.jpg)\n- ![May include: A cream-colored ceramic mug with a smooth, glossy finish. The text \"Emotional Support Coffee\" is written on the front in a dark green, cursive script. The mug has a cylindrical shape with a slightly tapered base.](https://i.etsystatic.com/7901302/r/il/9631dd/6739397491/il_794xN.6739397491_coxo.jpg)\n- ![May include: A cream-colored ceramic tumbler featuring the dark green handwritten text \"Emily's Chocolate Milk\" on the front. The vessel has a smooth, glossy finish and a cylindrical shape with a slightly tapered base.](https://i.etsystatic.com/7901302/r/il/f2bf49/6739402117/il_794xN.6739402117_hhcn.jpg)\n- ![May include: Four off-white ceramic tumblers arranged in a group. Each tumbler features the dark green handwritten text Earthbound Farm Stand on the front. The cups have a smooth, cylindrical shape with a slightly tapered base.](https://i.etsystatic.com/7901302/r/il/c83cd5/6739404655/il_794xN.6739404655_csu9.jpg)\n- ![May include: Three off-white ceramic cups held in a toast. Each cup features dark green cursive lettering. One cup displays the text 2026 Saratoga, while another shows the name Pamela. The cups have a smooth, cylindrical shape with a slightly flared rim.](https://i.etsystatic.com/7901302/r/il/d95b72/8603879283/il_794xN.8603879283_rot6.jpg)\n- ![May include: A collection of five off-white ceramic cups with dark green handwritten text. Each cup features specific beverage orders and names, including 'Flat white for', 'Cold brew for', and 'Iced latte with skim milk for Sophie'.](https://i.etsystatic.com/7901302/r/il/430d82/8603879275/il_794xN.8603879275_m7ul.jpg)\n- ![May include: A white ceramic tumbler featuring the black handwritten text Mojo's Toothbrush, containing a single toothbrush with a light-colored handle and black bristles, standing upright in the center of the container.](https://i.etsystatic.com/7901302/r/il/a6df24/8556019070/il_794xN.8556019070_ocv5.jpg)\n- ![May include: Two white ceramic cups with blue handwritten text. The front cup features the German phrase 'die besten Großeltern der Welt', while the back cup displays the French text 'les meilleurs grands-parents du monde'.](https://i.etsystatic.com/7901302/r/il/8d315c/8603879343/il_794xN.8603879343_p0ls.jpg)\n- ![May include: A cream-colored ceramic cup with a slightly tapered shape, featuring the dark green handwritten text \"Mrs. Farris' Matcha\" vertically oriented on the front surface of the vessel.](https://i.etsystatic.com/7901302/r/il/85659c/8603879323/il_794xN.8603879323_9k7i.jpg)\n- ![May include: A set of eight off-white ceramic cups arranged in a row, each featuring handwritten dark green text specifying a coffee order and a name, including Iced caramel latte for Gillian, Cold brew with almond milk for Claire, and others.](https://i.etsystatic.com/7901302/r/il/6794e8/8603879279/il_794xN.8603879279_oclz.jpg)\n- ![May include: A cream-colored ceramic tumbler featuring the hand-lettered green text \"Glass Half Full\" written in a cursive script. The vessel has a smooth, glossy finish and a slightly tapered cylindrical shape with a flat base.](https://i.etsystatic.com/7901302/r/il/3d5b0e/8603879317/il_794xN.8603879317_n7n2.jpg)\n- ![May include: Two off-white ceramic tumblers stacked vertically. The top tumbler features green cursive text reading World's best Grandma. The bottom tumbler features green cursive text reading World's best Grandpa. Both have a smooth finish.](https://i.etsystatic.com/7901302/r/il/08fc0d/8603879325/il_794xN.8603879325_it3w.jpg)\n- ![May include: A cream-colored ceramic cup featuring dark blue handwritten text that reads: Iced coffee, two pumps, pumpkin, little bit, of cream. The cup has a tapered cylindrical shape with a smooth finish and a simple, unadorned rim.](https://i.etsystatic.com/7901302/r/il/2bd624/8879171099/il_794xN.8879171099_6l7h.jpg)\n- ![May include: A cream-colored ceramic tumbler featuring dark blue handwritten text that reads: Iced coffee, two pumps pumpkin, little bit of cream. The cup has a smooth, cylindrical shape and a simple, handleless design.](https://i.etsystatic.com/7901302/r/il/60020c/8879171115/il_794xN.8879171115_abf9.jpg)\n- ![May include: Two white ceramic tumblers with blue handwritten text. The left tumbler features the text \"Spagetti's dad\" and the right tumbler features the text \"World's best husband\" written in a cursive script style.](https://i.etsystatic.com/7901302/r/il/65aa6b/6010850900/il_794xN.6010850900_11qg.jpg)\n- ![May include: A white ceramic tumbler featuring red handwritten text that reads 20th Anniversary Annie & Jim. The vessel has a tapered cylindrical shape with a smooth finish and is positioned upright.](https://i.etsystatic.com/7901302/r/il/364df6/8831396466/il_794xN.8831396466_4b3c.jpg)\n\n- May include: A set of six off-white ceramic cups arranged in two rows. Each cup features dark green handwritten text specifying coffee orders, including \"Iced caramel latte,\" \"Flat white for,\" \"Cold brew for,\" and personalized names like Sophie and Claire.\n- Product video\n\n- Product video\n\n- May include: A cream-colored ceramic tumbler featuring the handwritten pink text Iced Honey Latte for Elizabeth. The cup has a smooth, cylindrical shape with a slightly tapered base and a glossy finish, displaying clear, legible lettering.\n- May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.\n- May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.\n- May include: A cream-colored ceramic mug featuring the dark green cursive text Slutty Little Coffee written on the front. The mug has a smooth, cylindrical body and a simple, handleless design with a clean, minimalist aesthetic.\n- May include: A cream-colored ceramic mug with a smooth, glossy finish. The text \"Emotional Support Coffee\" is written on the front in a dark green, cursive script. The mug has a cylindrical shape with a slightly tapered base.\n- May include: A cream-colored ceramic tumbler featuring the dark green handwritten text \"Emily's Chocolate Milk\" on the front. The vessel has a smooth, glossy finish and a cylindrical shape with a slightly tapered base.\n- May include: Four off-white ceramic tumblers arranged in a group. Each tumbler features the dark green handwritten text Earthbound Farm Stand on the front. The cups have a smooth, cylindrical shape with a slightly tapered base.\n- May include: Three off-white ceramic cups held in a toast. Each cup features dark green cursive lettering. One cup displays the text 2026 Saratoga, while another shows the name Pamela. The cups have a smooth, cylindrical shape with a slightly flared rim.\n- May include: A collection of five off-white ceramic cups with dark green handwritten text. Each cup features specific beverage orders and names, including 'Flat white for', 'Cold brew for', and 'Iced latte with skim milk for Sophie'.\n- May include: A white ceramic tumbler featuring the black handwritten text Mojo's Toothbrush, containing a single toothbrush with a light-colored handle and black bristles, standing upright in the center of the container.\n- May include: Two white ceramic cups with blue handwritten text. The front cup features the German phrase 'die besten Großeltern der Welt', while the back cup displays the French text 'les meilleurs grands-parents du monde'.\n- May include: A cream-colored ceramic cup with a slightly tapered shape, featuring the dark green handwritten text \"Mrs. Farris' Matcha\" vertically oriented on the front surface of the vessel.\n- May include: A set of eight off-white ceramic cups arranged in a row, each featuring handwritten dark green text specifying a coffee order and a name, including Iced caramel latte for Gillian, Cold brew with almond milk for Claire, and others.\n- May include: A cream-colored ceramic tumbler featuring the hand-lettered green text \"Glass Half Full\" written in a cursive script. The vessel has a smooth, glossy finish and a slightly tapered cylindrical shape with a flat base.\n- May include: Two off-white ceramic tumblers stacked vertically. The top tumbler features green cursive text reading World's best Grandma. The bottom tumbler features green cursive text reading World's best Grandpa. Both have a smooth finish.\n- May include: A cream-colored ceramic cup featuring dark blue handwritten text that reads: Iced coffee, two pumps, pumpkin, little bit, of cream. The cup has a tapered cylindrical shape with a smooth finish and a simple, unadorned rim.\n- May include: A cream-colored ceramic tumbler featuring dark blue handwritten text that reads: Iced coffee, two pumps pumpkin, little bit of cream. The cup has a smooth, cylindrical shape and a simple, handleless design.\n- May include: Two white ceramic tumblers with blue handwritten text. The left tumbler features the text \"Spagetti's dad\" and the right tumbler features the text \"World's best husband\" written in a cursive script style.\n- May include: A white ceramic tumbler featuring red handwritten text that reads 20th Anniversary Annie & Jim. The vessel has a tapered cylindrical shape with a smooth finish and is positioned upright.\n\n- May include: A set of six off-white ceramic cups arranged in two rows. Each cup features dark green handwritten text specifying coffee orders, including \"Iced caramel latte,\" \"Flat white for,\" \"Cold brew for,\" and personalized names like Sophie and Claire.\n- Loading\n\n- Loading\n\n- May include: A cream-colored ceramic tumbler featuring the handwritten pink text Iced Honey Latte for Elizabeth. The cup has a smooth, cylindrical shape with a slightly tapered base and a glossy finish, displaying clear, legible lettering.\n  Item in the photo is in **letter color: pink letters** May include: A cream-colored ceramic tumbler featuring the handwritten pink text Iced Honey Latte for Elizabeth. The cup has a smooth, cylindrical shape with a slightly tapered base and a glossy finish, displaying clear, legible lettering.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.\n  Item in the photo is in **letter color: forest green letters** May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.\n  Item in the photo is in **letter color: black letters** May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic mug featuring the dark green cursive text Slutty Little Coffee written on the front. The mug has a smooth, cylindrical body and a simple, handleless design with a clean, minimalist aesthetic.\n- May include: A cream-colored ceramic mug with a smooth, glossy finish. The text \"Emotional Support Coffee\" is written on the front in a dark green, cursive script. The mug has a cylindrical shape with a slightly tapered base.\n- May include: A cream-colored ceramic tumbler featuring the dark green handwritten text \"Emily's Chocolate Milk\" on the front. The vessel has a smooth, glossy finish and a cylindrical shape with a slightly tapered base.\n- May include: Four off-white ceramic tumblers arranged in a group. Each tumbler features the dark green handwritten text Earthbound Farm Stand on the front. The cups have a smooth, cylindrical shape with a slightly tapered base.\n- May include: Three off-white ceramic cups held in a toast. Each cu",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) - Etsy",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-12T00:04:07+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.etsy.com/listing/1736171915"
+   },
+   "tool_use_id": "srvtoolu_01TkEfNQ7ks6UTeYnsGZodAn",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01MPe4txBEPxcBSzVXKuucwR/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c['result_type']);t=c['content'];print(len(t));print(t[:1500])\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01MPe4txBEPxcBSzVXKuucwR",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01SQ3sJQD7D9c818zGNvPP7M",
+   "caller": null,
+   "input": {
+    "code": "print(type(r),str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.etsy.com/listing/1736171915\", \"retrieved_at\": \"2026-11-12T00:04:07+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup\\nmeta-al:android:app_name: Etsy\\nmeta-al:android:package: com.etsy.android\\nmeta-al:android:url: etsy://listing/1736171915?ref=applinks_android\\nmeta-al:ios:app_name: Etsy\\nmeta-al:ios:app_store_id: 477128284\\nmeta-al:ios:url: etsy://listing/1736171915?ref=applinks_ios\\nmeta-apple-mobile-web-app-title: Etsy\\nmeta-application-name: Etsy\\nmeta-csrf_nonce: 3:1794441847:0J61IgsxK3GhpkkPoGT7OAgFVxSq:f738a0ebe8797a5dd43c51431c2bbdc90353631bfe4c7234aed8c610b7b7e85d\\nmeta-css_dist_path: /ac/sasquatch/css/\\nmeta-description: This Fine Art Ceramics item by ALICJACERAMICS has 2180 favorites from Etsy shoppers. Ships from Warren, VT. Listed on Nov 11, 2026\\nmeta-dist: 202611111794438869\\nmeta-fb:app_id: 89186614300\\nmeta-msapplication-TileColor: #F1641E\\nmeta-og:description: This Fine Art Ceramics item by ALICJACERAMICS has 2180 favorites from Etsy shoppers. Ships from Warren, VT. Listed on Nov 11, 2026\\nmeta-og:image: https://i.etsystatic.com/7901302/r/il/f21d3d/8601016825/il_1080xN.8601016825_k4y6.jpg\\nmeta-og:title: Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) - Etsy\\nmeta-og:type: product\\nmeta-og:url: https://www.etsy.com/listing/1736171915/personalize\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01SQ3sJQD7D9c818zGNvPP7M",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01Cqhzg8FSWehajgPtpkvBGd",
+   "caller": null,
+   "input": {
+    "code": "import json,re\nt=json.loads(r)['content']['source']['data']\nfor k in ['price','\\\\$','stock','availability','sold out','Add to cart','<h1','# ']:\n  for m in list(re.finditer(k,t,re.I))[:3]:print(k,':',t[max(0,m.start()-80):m.start()+100].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "price : h&utm_medium=PageTools&utm_campaign=Share meta-pinterest: nosearch meta-product:price:amount: 48.00 meta-product:price:currency: USD meta-robots: max-image-preview:large meta-theme\nprice : gn=Share meta-pinterest: nosearch meta-product:price:amount: 48.00 meta-product:price:currency: USD meta-robots: max-image-preview:large meta-theme-color: rgb(255, 255, 255) meta-t\nsold out : ar, legible lettering.   Select this option   Option selected!   This option is sold out.  - May include: A cream-colored ceramic tumbler featuring dark green handwritten text that\nsold out : le, handleless design.   Select this option   Option selected!   This option is sold out.  - May include: A cream-colored ceramic tumbler featuring black hand-lettered text that re\nsold out : a clean, open top rim.   Select this option   Option selected!   This option is sold out.  - May include: A cream-colored ceramic mug featuring the dark green cursive text Slutty L\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01Cqhzg8FSWehajgPtpkvBGd",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSjgUKEAgTGAI4AUIIdGhpbmtpbmcSDBIJcAuEDOu/GQZEeBoMGXB240WQzHQxqGtWIjBQb0++qttoJqPEzN6fQP6tgsfqsQNRa5rUQyEsRckq75+ELs7Z2gRQhkdtvRbnLYMqqwTnoE7IukW5SYKzCBrMuDVD7/F4fS7VCEthSUnsPMqF/7ca0w7IpCYF6POW7pCLbv7hRKwU4Is1xGUNarpgdJH4cXsuE7YmXvCpluIxotX6xujyPTnywkrjHlndA4QvVqjvVWwMJPPvl3d6HCsdegtIP4ESHZKcMczcTqtUe4SLDwtXR6GifCsGo8xJor1115sWUKPiPA/ydDMUCHYJzjUL5W+KCHwqOUB/+Ob5MAwcZY7OxNSlOC43rl2zG7FbsTIf5p1xNNtq6gaAzi0hJWXrSevKOux8Lm9nV1biWqGb38NHeQQumxeedbfS/BK8264zLC+dgCXIvzLwTQs0oihQBn/o799cd2Lyk7bq77Dbek2RPEJIBuy9HU7iRkmTidf8nHX6VXK9kPqd1fv1qr8Tl08TeOkvCNZLzWU5orS0D8qlUsJ0/3AmiNaRcRABEKU+846jQ2efTAG6qyipGFKTGrXX8ggAlckLdBQoum/SOM90GKnGSJBFiJUdQO0ilHzUw3S2Ca8DMKfPIqnUQROhf+O18w3xoy1VjKs+QLjrfqMnGuBzWkNhkAbnmY6CgQRwVRMMse2uqg1Ent0Z81Kvog+ZeKw+qwqyji8rvWwyM5R83b3FQyKO5jtD4LDyVDVoO/k5vgi9nKZdiqDoRiofy1u2RtqVwizKZodeirocVmkQZCFQd8H4m9FR3FVMDOjC305HjHXpFzK0rIWtZoThaao5JfzT6svcKlsYAQ==",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_01TxpUc11UArz71LrhAv37Lc",
+   "caller": null,
+   "input": {
+    "code": "i=t.find('\\n---',5);b=t[i:];print(len(b))\nfor k in ['Personalized Coffee','USD','Price','In stock','Only','left','cart','unavailable']:\n  for m in list(re.finditer(k,b))[:2]:print(k,':',b[max(0,m.start()-100):m.start()+120].replace('\\n',' '))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "16080\nleft : xN.8879171115_abf9.jpg) - ![May include: Two white ceramic tumblers with blue handwritten text. The left tumbler features the text \"Spagetti's dad\" and the right tumbler features the text \"World's best husband\" written i\nleft : imple, handleless design. - May include: Two white ceramic tumblers with blue handwritten text. The left tumbler features the text \"Spagetti's dad\" and the right tumbler features the text \"World's best husband\" written i\ncart : for items or shops  Clear search  [Skip to Content](#content)  - Sign in - [0](https://www.etsy.com/cart?ref=hdr-cart) Cart  - [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav) - [Top 100 Gifts](https:\ncart : shops  Clear search  [Skip to Content](#content)  - Sign in - [0](https://www.etsy.com/cart?ref=hdr-cart) Cart  - [Gifts](https://www.etsy.com/featured/hub/gifts?ref=gift_global_nav) - [Top 100 Gifts](https://www.etsy.co\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01TxpUc11UArz71LrhAv37Lc",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQS0gUKEAgTGAI4AUIIdGhpbmtpbmcSDLLxzYJSptawQ7YePRoMpJnX7plHPj63R7rMIjD4hWBoVohRCgiYMEMVbTHK2iquC3xJsYYkgushfWjt6SXWQcxwfv7RKBnE368slUYq7wTsIN9vRTQ9O3yhALySSGDPSThZMq6SDqCqsoD010YiOQtl20BIITbu7ZOK9GmcRP0IdgsUngNfTeO55KsgcH5sLgX3JU+iHDoFZcIIGcokrYXhyRsfEA1vRWpJPVeSenukVu+k/hiMNfKmECuel+4dj7GcDwgqBb4JzYEajNejd57GgZzjEN0gLytX54CmRcEEQ4KchUZseJqhddzdsnTB6kj3qbEwr8lwyPjrAmOTlbeFTGeWJyHOOqsC4ITjyDiGrRvtJv+mJyiXuHG7GDwjm5pUiFZFzCXG3zQjjqv7btmEsEeU5Iz75RCLQBFyQBGDhFYuTGu39ulGeaLEGkS5bbW+c49BO161YYrx9IgClxNXS3Z3ksPHbjVrmy58vUkB/1D0tjDg68u0wwr1XEx4fERA7fpn/3Lad8JEuVUT2/+hEdTfnj/zfVdVkbSA00szsWzUXvBlkOFhC0fNM/TGF7byJRPE8/JxXJYP1mKCSomJuSsltKI7se3+yDkrxDmJ74dI8PXYAaRnzX/L225aWz3pJUUkH9+4ZRy5cWzX/TD9hXoKutPqF+JsDLXxryVg3mknxTmuVyORJJ14+tILcxyBFzG0KkIQ86JB5yqnjRV5QRtnlhSLfGO03PIsWQ/q0sjf+BTavTMnXEJ9uVdEauyGhhqhYOrdv4KUDfGs0+4tbFQtIql+xqUIIke615i5OJNuY/Fyq4QGfibyWZILcH2mWmP3qaXq9Nq/GYrQY1kiWjPnc1w3zqerfx7o7DtstWn36/nt79z/UOEdX+2I6DLWWeEwebxBNY0laP7l+qu1hgclIiOhoRSqNFym6RgB",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_011CsJS8cHg9VMzW4aXNtg5Q",
+   "caller": null,
+   "input": {
+    "code": "print(b[-2500:])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": " legible lettering.\n  Item in the photo is in **letter color: pink letters** May include: A cream-colored ceramic tumbler featuring the handwritten pink text Iced Honey Latte for Elizabeth. The cup has a smooth, cylindrical shape with a slightly tapered base and a glossy finish, displaying clear, legible lettering.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.\n  Item in the photo is in **letter color: forest green letters** May include: A cream-colored ceramic tumbler featuring dark green handwritten text that reads: Iced latte with skim milk for Sophie. The cup has a smooth, tapered cylindrical shape and a simple, handleless design.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.\n  Item in the photo is in **letter color: black letters** May include: A cream-colored ceramic tumbler featuring black hand-lettered text that reads Vanilla Latté with Oat for Tiffany. The cup has a smooth, cylindrical shape with a slightly tapered base and a clean, open top rim.\n  Select this option\n  Option selected!\n  This option is sold out.\n\n- May include: A cream-colored ceramic mug featuring the dark green cursive text Slutty Little Coffee written on the front. The mug has a smooth, cylindrical body and a simple, handleless design with a clean, minimalist aesthetic.\n- May include: A cream-colored ceramic mug with a smooth, glossy finish. The text \"Emotional Support Coffee\" is written on the front in a dark green, cursive script. The mug has a cylindrical shape with a slightly tapered base.\n- May include: A cream-colored ceramic tumbler featuring the dark green handwritten text \"Emily's Chocolate Milk\" on the front. The vessel has a smooth, glossy finish and a cylindrical shape with a slightly tapered base.\n- May include: Four off-white ceramic tumblers arranged in a group. Each tumbler features the dark green handwritten text Earthbound Farm Stand on the front. The cups have a smooth, cylindrical shape with a slightly tapered base.\n- May include: Three off-white ceramic cups held in a toast. Each cu\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_011CsJS8cHg9VMzW4aXNtg5Q",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQSqQcKEAgTGAI4AUIIdGhpbmtpbmcSDFIBlfvA7b2zR7h8SxoMFaOsicqBmr5w2MF9IjDdDI608ntFATD5sSquoVPTsfYTa2zFk/QYdv2Zu7Z3vI2/SBEyoeIRFDlrOQgMcRYqxgZ45mxp+UAbpcbwiFO/fYYAgqHXgRAhlUo6aYUX7wvl8yNaNirlqk54t+aCEK8Wszd0vZSg+eXvUlJEDM8yp35pgRsc0yfQF2iPXXYk7jWO+q+Z+q6hBYRBWbeshA73Xnqy+8FwbD12fbgXJFds7plQ3Y+WHr9oDuMZgi67UatKgUTwQMl0Tgr0R9YbbtMBxZhHakXS4vHOrnn5VppWCn9i1u8KZSpO6OjP2CYP1sgC9F54EfKFU62jCtXSYqLeTE2vV5yqHtpTbZM0PMfsn1sMG2ysrgXH65pYzqCug+tZ9Ljpt58E+gPtz55Q5gcUNckTunMQY5qCScDOihvx6jXRn6Qk5orbOt6jg4gvZI2psRqd4CsrGl5DrOBlthL/NgODv49Wky8yAYysK0V2NXrT4fI6RcyXIu/MNALwnnalRqd7SzYdwIhdCP7xl/4ds671KxJjab9XUXIwYX3L7huO13PtftV9Rqdqh2dqAlFHqLZs07QOEyaPh8ogwswlWU13UmnEJ7RUVgWoUn57Zi0ppjPZ2cSsjoF43fubWOL4pnLhCg82KpoljQ56Ck7LI50uOLsr/gatrgFgyYPCONOeqPVLYNKi1sLeyPmSCNIaf/OXrPFcSlSc8f0vpOUjhjeKsPHcCZpLWv4SvNw5i8aso0ur2HrZtIiKxKrMeDHJBw6lIyquXSYDNUaSfKAk98ERvJ84VcUb3DiACcMnpiqkHrMSLrewX1EbtaUkATsvgkoeryuCjgmKbU7MEoIuWThdPJ7I34xMUGMWBrMBDWRtSnwJFsXf8cjB5Xdz3ZeS55gQU3oXmMAmrl95kThBlr1HkwMriwtehYFNv2kjv7TwOiOuoXwbWaMxo0MFaot0Y0Korhvd+Qbub/4a/MgzVoeVrqK49zaYp4ro7vCxzGA4sILXSmAbC6hU9kthbVbM6MUzYTE1r9U5/kDjiAxfpRadGAKj9GO6sx7B0h7zJZ51MTgB2zMfEpBdaoe4ISe0k+yK3d4Sb1HOxh8fgQVtf9ffXtiDKfr8qFVqSnnU9hC9r55wI2KVmEfNzYE38zFVgzyc0Usq6qQEqiCP1cIE9qb5BiqzHebRqKUO492KwvxbihAisL5jGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Personalized Coffee Order Ceramic Hand Painted Cup (multiple Words) | PRICE: $48.00 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

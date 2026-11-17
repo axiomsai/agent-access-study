@@ -1,0 +1,107 @@
+{
+ "domain": "wayfair.com",
+ "url": "https://www.wayfair.com/",
+ "started": "2026-11-09T12:19:06-06:00",
+ "robots": {
+  "status": 200,
+  "error": null,
+  "rules": {
+   "GPTBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ChatGPT-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "OAI-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "PerplexityBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Perplexity-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "ClaudeBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-User": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Claude-SearchBot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Google-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalAgent": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Meta-ExternalFetcher": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Amazonbot": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "Applebot-Extended": {
+    "homepage_allowed": true,
+    "named_in_file": false
+   },
+   "*": {
+    "homepage_allowed": true,
+    "named_in_file": true
+   }
+  }
+ },
+ "control": {
+  "status": 429,
+  "final_url": "https://www.wayfair.com/",
+  "bytes": 5825,
+  "error": null,
+  "title": "Access to this page has been denied",
+  "markers": [
+   "captcha",
+   "press & hold",
+   "perimeterx",
+   "px-captcha"
+  ],
+  "ok": false
+ },
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "15667 chars, copy dated 2026-11-09 (0 days old)",
+   "answer": "I opened the page successfully, with no error, block or captcha.\n\n- **Title:** Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n- **Category on the page:** Shop by Room",
+   "cost_usd": 0.12507
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "answer": "Page title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More\n\nProduct or category name: Furniture",
+   "cost_usd": 0.00103
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "answer": "Title: Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More  \nOne category name: Furniture ([wayfair.com](https://www.wayfair.com/))",
+   "cost_usd": 0.01196
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "answer": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More — Mattresses.",
+   "cost_usd": 0.00508
+  }
+ }
+}

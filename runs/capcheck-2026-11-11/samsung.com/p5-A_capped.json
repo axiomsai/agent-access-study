@@ -1,0 +1,143 @@
+{
+ "model": "claude-opus-5-5",
+ "tool_called": true,
+ "tool_error": null,
+ "retrieved_at": "2026-11-10T13:58:39+00:00",
+ "age_days": 1,
+ "doc_chars": 13389,
+ "doc_markers": [],
+ "answer": "NAME: Galaxy Tab S12 Ultra (14.6\") | PRICE: $1,399.99 | STOCK: UNKNOWN | OPENED: YES",
+ "input_tokens": 33620,
+ "cost_usd": 0.14796,
+ "raw": [
+  {
+   "id": "srvtoolu_01VmPKkqEwQeErzM6PgVo1nr",
+   "caller": null,
+   "input": {
+    "code": "r=await web_fetch({\"url\":\"https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/\"})\nif isinstance(r,dict):print(r)\nelse:\n c=r[0];print(c.get('title'),c['result_type']);t=c['content'];print(len(t))\n import re\n for k in ['$','tock','Galaxy Tab S']:\n  for m in list(re.finditer(re.escape(k),t))[:8]:print(repr(t[max(0,m.start()-80):m.start()+80]))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_01LVUnkn87Bpo68AXGgT271b",
+   "caller": {
+    "tool_id": "srvtoolu_01VmPKkqEwQeErzM6PgVo1nr",
+    "type": "code_execution_20260120"
+   },
+   "input": {
+    "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/"
+   },
+   "name": "web_fetch",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "tool_id": "srvtoolu_01VmPKkqEwQeErzM6PgVo1nr",
+    "type": "code_execution_20260120"
+   },
+   "content": {
+    "content": {
+     "citations": null,
+     "source": {
+      "data": "---\ncanonical: https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\nmeta-al:android:app_name: Shop Samsung\nmeta-al:android:package: com.samsung.ecomm\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-X940NZAAXAR&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\nmeta-al:ios:app_name: Shop Samsung\nmeta-al:ios:app_store_id: 1274679179\nmeta-description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful performance. Shop Galaxy tablets at Samsung US.\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\nmeta-og:description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful performance. Shop Galaxy tablets at Samsung US.\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\nmeta-og:site_name: Samsung US\nmeta-og:title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\nmeta-og:type: website\nmeta-og:url: https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\nmeta-title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\nmeta-twitter:card: summary_large_image\nmeta-twitter:creator: @SamsungUS\nmeta-twitter:description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful performance. Shop Galaxy tablets at Samsung US.\nmeta-twitter:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$\nmeta-twitter:site: @SamsungUS\nmeta-twitter:title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\nmeta-viewport: width=device-width\ntitle: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\n---\n\nGalaxy Tab S12 SeriesGalaxy Tab S11 SeriesGalaxy Tab S10+Galaxy Tab S10 FE SeriesGalaxy Tab S10 Lite\n\n4.9(57)\n\n# Galaxy Tab S12 Ultra (14.6\")\n\n![360 image](https://image-us.samsung.com/us/b2c_pf/360/360-icon_76x76.png?$default-png$)\n\nDevice\n\n![](https://images.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\n\nDevice\n\n![](https://images.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\n\nGalaxy Tab S12 Ultra\n\n$1,399.99\n\nGalaxy Tab S12+\n\n$1,199.99\n\nStorage\n\nStorage\n\n256 GB\n\n$1,399.99\n\n512 GB\n\n$1,599.99\n\n1 TB\n\n$1,999.99\n\nScreen Size\n\nScreen Size\n\n14.6\"\n\n$1,399.99\n\nColor\n\nColor\n\nGray\n\nSilver\n\nConnectivity\n\nConnectivity\n\n![](https://image-us.samsung.com/SamsungUS/home/mobile/phones/configurator/wifi-icon-280x120b.jpg)\n\nReviews\n\n### Galaxy Tab S12 Ultra (14.6\")\n\n4.9 (57 Reviews)\n\nRecommended by **100%** of customers.\n\nWrite a review\n\n5.0\n\n93% (53)\n\n4.0\n\n7% (4)\n\n3.0\n\n0% (0)\n\n2.0\n\n0% (0)\n\n1.0\n\n0% (0)\n\nView detail\n\nFeatures5.0\n\nPerformance5.0\n\nDesign4.3\n\nValue4.9\n\nAI Functionality4.3\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Tab S12 Ultra (14.6\")\n\n- Customers praise the 14.6-inch AMOLED display as breathtaking, with exceptional crispness, brightness, and color accuracy for creative work and entertainment.\n- Reviewers highlight powerful performance that handles demanding applications like Photoshop effortlessly and enables smooth multitasking across multiple windows.\n- Many commend the S Pen for its smoothness and pressure sensitivity, perfect for drawing, note-taking, and document signing.\n- Customers appreciate the keyboard's tactile feel and seamless pairing, transforming the tablet into a productive desktop-like workstation.\n- Reviewers note effortless connectivity with other devices, creating a unified ecosystem experience that reinforces brand loyalty and satisfaction.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3b472f67-b926-565e-ba15-4ba93094fe50) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5a0abd43-d55c-511c-81e1-75b08262e4cf) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/72d1545c-9110-561c-96cc-f31af250007c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/8b7cdcdb-e038-50e9-ad1b-4c1cb35bf47c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/88482d26-8da7-5b60-90d5-c79aa6f35d7c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/40c42340-2343-588e-a4e0-7504152ca4bf) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/de8689b4-e11a-5388-9617-c0f9eb1ff8a5) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3dc25ebf-fe73-59fa-8d25-c904d7b3d3e5)\n\nFilters(0)\n\nSort byMost relevant\n\n57 Reviews\n\nFilters (0)57 Reviews\n\nSort byMost relevant\n\nOverall rating\n\nReviewer type\n\nKeywords\n\n1. WouldRatherBeReading\n\n   - Incentivized review\n\n   5\n   2026-10-14\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   It has been awhile since I upgraded my tablet. I have been using my Galaxy Tab S8+ for 4.5 years now and it has been an excellent device. It's hard to imagine a better one, but the Galaxy S12 Ultra is such a device. This is much snappier, the screen is beautiful, and the size is really nice on this device. The only thing I would change is to add lighted keys to their Slim keyboard, and a place to store the S-pen like the keyboard used to have. I like the low profile of the Slim keyboard and I don't need a trackpad nor the e...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3b472f67-b926-565e-ba15-4ba93094fe50)\n   Helpful? (11)\n   Value\n   5\n   Response from Samsung:\n   2026-10-15\n\n   ---\n\n   **R&R Team**\n   Hi WouldRatherBeReading, we appreciate you sharing your thoughts about your Samsung Galaxy Tab S12 Ultra with us. We are thrilled to hear how much you are finding this device so amazing during your usage, and that the addition of the keyboard and S Pen have only enhanced your experience every day. Please, reach out to us again in the future if you have questions about your device, or wish to share additional feedback on any of your Samsung products. Thank you for being a Samsung customer. -Elizabeth Samsung Support smsng.us/Samsung-Support Samsung Community smsng.us/Samsung-Community Facebook smsng.us/Facebook-Messenger X https://smsng.us/X-Messages\n\n2. Patric4090\n\n   - Incentivized review\n\n   5\n   2026-10-30\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   I bought this mainly because I was due for an upgrade, but it exceeded my expectations once I started using it. The screen is noticeably brighter, and the speakers are louder and clearer—my brother compared it to his S10 Ultra, and the sound difference was obvious. I still need to test the updated note-taking capabilities, but so far, it feels like a solid leap forward. My primary feedback is on protection and pen storage: I wish the keyboard case included a fully protected back shell with a secure place for the S Pen. I'd ...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5a0abd43-d55c-511c-81e1-75b08262e4cf)\n   Helpful? (6)\n   Value\n   5\n   Response from Samsung:\n   2026-10-30\n\n   ---\n\n   **R&R Team**\n   Hi there Patric4090, thank you for your feedback on your Samsung Galaxy Tab S12 Ultra. We are thrilled to hear how happy you are with the upgrade to your new device, and that it has so exceeded your expectations. We have shared a link to the Samsung Support Team for your convenience. These experts can help you any time you have questions about your Samsung products. We appreciate you being a Samsung customer. -Elizabeth Samsung Support smsng.us/Samsung-Support Samsung Community smsng.us/Samsung-Community Facebook smsng.us/Facebook-Messenger X https://smsng.us/X-Messages\n\n3. Sammynator\n\n   - Incentivized review\n\n   5\n   2026-10-13\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   So i usually upgrade every year but I skipped the s11 ultra and kept my s10 ultra. This year I chose to upgrade to the s12 ultra because I need the power and design focus on creativity to fuel the future of my youtube channel. I've had the s12 ultra for 24 hours so far with the pro keyboard. Im impressed. You can feel the speed boost over the s10. The tab also comes preloaded with tons of productivity tricks like controlling your phone and tablet with the pro keyboard and track pad which works great especially with my zfol...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/72d1545c-9110-561c-96cc-f31af250007c)\n   Helpful? (7)\n   Value\n   5\n\n4. Kasuki\n\n   - Incentivized review\n\n   5\n   2026-10-12\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   This is my first Samsung tablet! I chose the Samsung Galaxy Tab S12 Ultra because the display is super vibrant, and the massive 14.6-inch display makes it worth it for those in school, doing professional work, or just for personal things, especially if you are using it most of the day or all day thanks to the massive battery. The performance of the S12 Ultra is top-notch, no need to worry about issues with apps like Photoshop/Lightroom or gaming. It's extremely portable, and can fit in your backpack, even with the Pro Keybo...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/8b7cdcdb-e038-50e9-ad1b-4c1cb35bf47c)\n   Helpful? (10)\n   Value\n   5\n\n5. Anders888\n\n   - Incentivized review\n\n   5\n   2026-10-12\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   The screen is incredible, the colors are accurate, the touchscreen is responsive, and the in-display fingerprint scanner is lightning-fast; the front-facing camera offers great quality for video calls. The audio is amazing thanks to the four speakers—movies, podcasts, and YouTube content are a real pleasure to enjoy on this tablet. I bought the Pro keyboard, and it makes for a truly spectacular combo for work or university. The stylus comes included with the tablet and is incredible for taking notes; I no longer use paper f...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/88482d26-8da7-5b60-90d5-c79aa6f35d7c)\n   Helpful? (5)\n   Value\n   5\n\n6. Will911\n\n   - Incentivized review\n\n   5\n   2026-10-17\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   \"I bought the Galaxy Tab S12 Ultra to replace my aging laptop, and it has completely blown me away. The 14.6-inch AMOLED screen is absolutely stunning—watching movies and editing photos on this thing feels like looking into the future. What really sold me is Samsung DeX. I snapped on the keyboard, and suddenly I had a full desktop setup that lets me multitask across three or four open windows without a single stutter. The included S Pen is incredibly smooth for signing documents and sketching out quick ideas, and the batter...\n   View more\n   ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/40c42340-2343-588e-a4e0-7504152ca4bf)\n   Helpful? (4)\n   Value\n   5\n\n7. Dredogg\n\n   - Incentivized review\n\n   5\n   2026-10-17\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   The screen on my new Samsung Galaxy Tab S12 Ultra is absolutely breathtaking! The colors are incredibly vibrant, the images are crystal clear, and the level of detail is simply remarkable. Everything from watching videos and viewing photos to reading and multitasking looks phenomenal. Coming from my Galaxy Tab S8, the difference is night and day! The large display makes everything feel more immersive, and the picture quality is nothing short of spectacular. Samsung has truly outdone itself with this display. Every time I turn it on, I'm reminded why I made the upgrade. Hands down, one of the most impressive screens I'v...\n   View more\n   Helpful? (5)\n   Value\n   5\n\n8. StolenDreams13\n\n   - Incentivized review\n\n   5\n   2026-10-07\n   Color: Gray|Storage: 256 GB\n   Color: Gray|Storage: 256 GB\n   5\n   I chose the S12 Ultra tablet because my fiance has had Samsung tablets all the way up to this one but when we got together I started messing with her tablets which was the 11 and when she upgraded to this new one there was no doubt in my mind I was switching from the main competitors tablet because that's just what I've always had but I always had Samsung phones but I liked their tablets. That is until I got my hands on this new 12 Ultra! It's so similar to my s26 ultra and just as fast and the graphics are absolutely insane that there was no hesitation I switched immediately. I chose Samsung and I am once again happy ...\n   View more\n   Helpful? (20)\n   Value\n   5\n\nLoading…\n\n![Bazaarvoice Authentic Reviews](https://apps.bazaarvoice.com/common/images/intelligent_trustmark_icons/trustmark_en.png)",
+      "media_type": "text/plain",
+      "type": "text"
+     },
+     "title": "Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB",
+     "type": "document"
+    },
+    "retrieved_at": "2026-11-10T13:58:39+00:00",
+    "type": "web_fetch_result",
+    "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/"
+   },
+   "tool_use_id": "srvtoolu_01LVUnkn87Bpo68AXGgT271b",
+   "type": "web_fetch_tool_result"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/tmp/srvtoolu_01VmPKkqEwQeErzM6PgVo1nr/cell.py\", line 11, in <module>\n    c=r[0];print(c.get('title'),c['result_type']);t=c['content'];print(len(t))\n                 ^^^^^\nAttributeError: 'str' object has no attribute 'get'\n",
+    "stdout": "",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01VmPKkqEwQeErzM6PgVo1nr",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_01MyS4michg33j4cVoGHmiVJ",
+   "caller": null,
+   "input": {
+    "code": "print(type(r),str(r)[:1500])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "<class 'str'> {\"type\": \"web_fetch_result\", \"url\": \"https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/\", \"retrieved_at\": \"2026-11-10T13:58:39+00:00\", \"content\": {\"type\": \"document\", \"source\": {\"type\": \"text\", \"media_type\": \"text/plain\", \"data\": \"---\\ncanonical: https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\\nmeta-al:android:app_name: Shop Samsung\\nmeta-al:android:package: com.samsung.ecomm\\nmeta-al:android:url: android-app://com.samsung.ecomm/samsungestore/openpdp?product=SM-X940NZAAXAR&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing\\nmeta-al:ios:app_name: Shop Samsung\\nmeta-al:ios:app_store_id: 1274679179\\nmeta-description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful performance. Shop Galaxy tablets at Samsung US.\\nmeta-google-site-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\\nmeta-og:description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful performance. Shop Galaxy tablets at Samsung US.\\nmeta-og:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg\\nmeta-og:site_name: Samsung US\\nmeta-og:title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\\nmeta-og:type: website\\nmeta-og:url: https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\\nmeta-title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\\nmeta-twitter:card:\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_01MyS4michg33j4cVoGHmiVJ",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "id": "srvtoolu_018meJUaafZRzFPhJASUePzz",
+   "caller": null,
+   "input": {
+    "code": "import json,re;t=json.loads(r)['content']['source']['data'];print(len(t))\nfor k in ['$','tock','Add to cart','Sold out','Galaxy Tab S12']:\n  for m in list(re.finditer(re.escape(k),t))[:6]:print(k,'|',repr(t[max(0,m.start()-100):m.start()+80]))"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "13389\n$ | 'at Samsung US.\\nmeta-twitter:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$\\nmeta-twitter:site: @SamsungUS\\nmeta-twitter:title: Buy the'\n$ | 'witter:image: https://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$\\nmeta-twitter:site: @SamsungUS\\nmeta-twitter:title: Buy the Gray Galaxy Tab S12 '\n$ | 'y Tab S12 Ultra (14.6\")\\n\\n![360 image](https://image-us.samsung.com/us/b2c_pf/360/360-icon_76x76.png?$default-png$)\\n\\nDevice\\n\\n![](https://images.samsung.com/uk/smartphones/galaxy-s25'\n$ | 'tra (14.6\")\\n\\n![360 image](https://image-us.samsung.com/us/b2c_pf/360/360-icon_76x76.png?$default-png$)\\n\\nDevice\\n\\n![](https://images.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/0'\n$ | '.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\\n\\nGalaxy Tab S12 Ultra\\n\\n$1,399.99\\n\\nGalaxy Tab S12+\\n\\n$1,199.99\\n\\nStorage\\n\\nStorage\\n\\n256 GB\\n\\n$1,399.99\\n\\n512 '\n$ | 'galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\\n\\nGalaxy Tab S12 Ultra\\n\\n$1,399.99\\n\\nGalaxy Tab S12+\\n\\n$1,199.99\\n\\nStorage\\n\\nStorage\\n\\n256 GB\\n\\n$1,399.99\\n\\n512 GB\\n\\n$1,599.99\\n\\n1 TB\\n\\n$1,999.'\nGalaxy Tab S12 | 'os:app_name: Shop Samsung\\nmeta-al:ios:app_store_id: 1274679179\\nmeta-description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful perfor'\nGalaxy Tab S12 | 'e-verification: tRRiAg-v-kU_FV5tU0IUtvibspXaAG4RcLu-oClDRVI\\nmeta-og:description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful perfor'\nGalaxy Tab S12 | 'com/SamsungUS/home/samsung-logo-191-1.jpg\\nmeta-og:site_name: Samsung US\\nmeta-og:title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\\nmeta-og:type: website\\nmeta-og:url: https://'\nGalaxy Tab S12 | 'laxy-tab-s12/buy/galaxy-tab-s12-ultra-256gb-gray-wi-fi-sku-sm-x940nzaaxar/\\nmeta-title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\\nmeta-twitter:card: summary_large_image\\nmeta'\nGalaxy Tab S12 | ': summary_large_image\\nmeta-twitter:creator: @SamsungUS\\nmeta-twitter:description: Check out the Gray Galaxy Tab S12 Ultra 256GB with Galaxy AI tools, Note Assist and powerful perfor'\nGalaxy Tab S12 | '-logo-1-1.jpg?$seo-twitter-card-jpg$\\nmeta-twitter:site: @SamsungUS\\nmeta-twitter:title: Buy the Gray Galaxy Tab S12 Ultra 256GB with 12GB\\nmeta-viewport: width=device-width\\ntitle: Bu'\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_018meJUaafZRzFPhJASUePzz",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "signature": "CAQS/wQKEAgTGAI4AUIIdGhpbmtpbmcSDJuySKR+uE26dzkzLhoMUTcZfQ9+h99eQxRuIjBDoX+tBJR5LSw677qdkKBqN9v/HdoDPTLhn9Uf7HvP7eZefoREh2LxV0ogeFD5QM4qnAS3Hn2yFyBrTGg4VdDIkd+JotXlCYCpxsGiHNoqV1Jy2iZGBGS1oj4S82FXDYAWIYb0xAP0TCY/dD94yUvlZDyflLw8YlKJJG7gE9nwoHZJLBC1EOqGs2RvjqYugVeqVp4G2jq2IBqLnwwGsM0v19gPoQL605uKVmVRihI11ATQ0Xy9bVNaGEy+tvPeNMnLyUIBQvehRXfQOjw8TCDXJEGcIEagpUhE//AlxUDhHwpSFExBM7qcOlRhraZmxKYGaAM4BgI1T5NlFAU+GGBlkEo/QhiBIb0xNTUu1reixfR3IiFbAEHA2TFerF6SEUEWnBLJw8k7ZVpdGx+Qktle4TYuI/umNK8D6QpigARjWDMrmMAranLobaWC9o59OLmXPne2TtpuPgL5vVwhG0F62ZciZp2d0pj7cn2jnLgWvXQ6gfGmqsdaT76XYaY3q8ul6N8jMrbvdi0c6BgG2xyAY2xTqCIXUqocSSz55b+QuGO09Fpv7W8v/Rjb681XJnXXK3YVUjoA7XyxpG8qH1cjkWqkSA2xJVi9XuX+qXVBgBL37a32ccs8I7Z++2VUSS+MDnSvFiHJ7xcFBqRF+2NSzFGkZ+EwFG3k6653f+vMzGOT7vpSlhNoqO/LNyqbQDfpRVRHFevfGqu7LRZZnBANJAiht0Lzf7oeNs7bZB5tj1W45aCTB7ct5tVpEVxBO0V/kzwzP9rhzGse3EGqv64YAQ==",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_019LeDgEcctqh86HiRrLEfgV",
+   "caller": null,
+   "input": {
+    "code": "i=t.find('Galaxy Tab S12 Ultra\\n\\n$1');print(t[i-300:i+2500]);print([w for w in ['Out of stock','Sold Out','In stock','Buy now','Continue','Notify'] if w.lower() in t.lower()])"
+   },
+   "name": "code_execution",
+   "type": "server_tool_use"
+  },
+  {
+   "content": {
+    "content": [],
+    "return_code": 0,
+    "stderr": "",
+    "stdout": "\n![360 image](https://image-us.samsung.com/us/b2c_pf/360/360-icon_76x76.png?$default-png$)\n\nDevice\n\n![](https://images.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\n\nDevice\n\n![](https://images.samsung.com/uk/smartphones/galaxy-s25-ultra/buy/03_Device/Galaxy_AI_PC.png)\n\nGalaxy Tab S12 Ultra\n\n$1,399.99\n\nGalaxy Tab S12+\n\n$1,199.99\n\nStorage\n\nStorage\n\n256 GB\n\n$1,399.99\n\n512 GB\n\n$1,599.99\n\n1 TB\n\n$1,999.99\n\nScreen Size\n\nScreen Size\n\n14.6\"\n\n$1,399.99\n\nColor\n\nColor\n\nGray\n\nSilver\n\nConnectivity\n\nConnectivity\n\n![](https://image-us.samsung.com/SamsungUS/home/mobile/phones/configurator/wifi-icon-280x120b.jpg)\n\nReviews\n\n### Galaxy Tab S12 Ultra (14.6\")\n\n4.9 (57 Reviews)\n\nRecommended by **100%** of customers.\n\nWrite a review\n\n5.0\n\n93% (53)\n\n4.0\n\n7% (4)\n\n3.0\n\n0% (0)\n\n2.0\n\n0% (0)\n\n1.0\n\n0% (0)\n\nView detail\n\nFeatures5.0\n\nPerformance5.0\n\nDesign4.3\n\nValue4.9\n\nAI Functionality4.3\n\n![AI review summary icon](https://images.samsung.com/is/image/samsung/p6pim/us/feature/554117/us-galaxy-z-fold7-f966-547879996)\n\n### AI review summary for Galaxy Tab S12 Ultra (14.6\")\n\n- Customers praise the 14.6-inch AMOLED display as breathtaking, with exceptional crispness, brightness, and color accuracy for creative work and entertainment.\n- Reviewers highlight powerful performance that handles demanding applications like Photoshop effortlessly and enables smooth multitasking across multiple windows.\n- Many commend the S Pen for its smoothness and pressure sensitivity, perfect for drawing, note-taking, and document signing.\n- Customers appreciate the keyboard's tactile feel and seamless pairing, transforming the tablet into a productive desktop-like workstation.\n- Reviewers note effortless connectivity with other devices, creating a unified ecosystem experience that reinforces brand loyalty and satisfaction.\n\nAI-generated from customer ratings & reviews, and may include incentivized reviews.\n\n## Supported languages\n\nThis summary is AI-generated from ratings and reviews across multiple languages.\n\n- English\n- German\n- French\n- Spanish\n- Portuguese\n- Italian\n- Korean\n- Chinese\n- Japanese\n- Arabic\n\n### Reviews with images & videos\n\nAll Images Videos\n\n![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/3b472f67-b926-565e-ba15-4ba93094fe50) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/5a0abd43-d55c-511c-81e1-75b08262e4cf) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/72d1545c-9110-561c-96cc-f31af250007c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/8b7cdcdb-e038-50e9-ad1b-4c1cb35bf47c) ![Review image send by user](https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/88482d26-8da7-5b60-90d5-c\n[]\n",
+    "type": "code_execution_result",
+    "abort_reason": null
+   },
+   "tool_use_id": "srvtoolu_019LeDgEcctqh86HiRrLEfgV",
+   "type": "code_execution_tool_result"
+  },
+  {
+   "citations": null,
+   "text": "NAME: Galaxy Tab S12 Ultra (14.6\") | PRICE: $1,399.99 | STOCK: UNKNOWN | OPENED: YES",
+   "type": "text"
+  }
+ ]
+}

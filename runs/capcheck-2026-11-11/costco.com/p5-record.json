@@ -1,0 +1,25 @@
+{
+ "domain": "costco.com",
+ "idx": 5,
+ "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15639,
+   "cost_usd": 0.06964
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_not_accessible",
+   "price": null,
+   "opened": "NO: error (url_not_accessible)",
+   "doc_chars": 0,
+   "input_tokens": 15677,
+   "cost_usd": 0.07015
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Powerful Handheld Vacuum Cleaner with Detachable Battery | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page content provided is a technical server response/redirect page rather than a product details page.",
+ "finish": "STOP",
+ "cost_usd": 0.00218,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Powerful Handheld Vacuum Cleaner with Detachable Battery | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: The page content provided is a technical server response/redirect page rather than a product details page.",
+       "thoughtSignature": "EnMKcQFpFH0TkrQ7A7AcxJ4MrnamIhkrWNxkxWtQkHTGwQC4hDQ0+b1fifPxWO1k6WBXLVNjNwno4GNtDdgKeRSM6n4AS1O3SFGXApWJ2t76Wnd63l75+tquBCeahPYkcgkUUvt2ozpsdkabS41tzWpXoKzI"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.temu.com/powerful-handheld-vacuum-cleaner-with-detachable-battery-suitable-for-pet-hair-floors-lightweight-vertical-vacuum-with-45-min---motor-led-floor-brush-voltage-plug-for-use-g-601103585498762.html",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 193,
+   "candidatesTokenCount": 142,
+   "totalTokenCount": 21387,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 193
+    }
+   ],
+   "toolUsePromptTokenCount": 21052,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 21052
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "Ig_yauToGrrQz7IP_pCO6Ak"
+ }
+}

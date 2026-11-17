@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+  "https://www.costco.com/opt/diamond-accessories",
+  "https://www.costco.com/opt/natural-diamond-jewelry",
+  "https://www.costco.com/opt/gold-jewelry-collections",
+  "https://www.costco.com/opt/womens-necklaces",
+  "https://www.costco.com/opt/lightweight-gold-pendant-necklaces",
+  "https://www.costco.com/opt/diamond-jewelry-gifts-for-her",
+  "https://www.costco.com/opt/fine-diamond-jewelry",
+  "https://www.costco.com/opt/diamond-gifts",
+  "https://www.costco.com/opt/colorless-diamond-stud-earrings"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+ "cost_usd": 0.00518,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: blocked",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133",
+   "https://www.costco.com/opt/diamond-accessories",
+   "https://www.costco.com/opt/natural-diamond-jewelry",
+   "https://www.costco.com/opt/gold-jewelry-collections",
+   "https://www.costco.com/opt/womens-necklaces",
+   "https://www.costco.com/opt/lightweight-gold-pendant-necklaces",
+   "https://www.costco.com/opt/diamond-jewelry-gifts-for-her",
+   "https://www.costco.com/opt/fine-diamond-jewelry",
+   "https://www.costco.com/opt/diamond-gifts",
+   "https://www.costco.com/opt/colorless-diamond-stud-earrings"
+  ],
+  "created": 1793751377,
+  "id": "resp_a385cdc2-a438-4d2e-ac54-2b9f3a3e86c4",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2024-05-02",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant | Costco\n...\n3. Jewelry & Watches\n...\n7. Diamond Necklaces\n...\n# Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt Gold Three Stone Pendant\nItem 1386311\n...\n## How To Get It\nChange My WarehouseUnavailable\n- ...",
+    "source": "web",
+    "title": "Round Brilliant 1.00 ctw VS2 Clarity, I Color Diamond 14kt ...",
+    "url": "https://www.costco.com/p/-/round-brilliant-100-ctw-vs2-clarity-i-color-diamond-14kt-gold-three-stone-pendant/100520133"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Diamond Accessories\nElevate every occasion with the timeless elegance of diamond accessories.\nDiscover a stunning selection designed to add a touch of brilliance to your style, whether you’re celebrating life’s special moments or simply indulging in everyday luxury.\n...\nShowing 1 - 7 of 7\n...\nRoun...",
+    "source": "web",
+    "title": "Diamond Accessories - Costco Wholesale",
+    "url": "https://www.costco.com/opt/diamond-accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Natural Diamond Jewelry\nRound Brilliant 0.50 ctw VS2 Clarity G Color Diamond 14kt White Gold Solitaire Pendant\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Three Stone Pendant Yellow Gold\nRated 4.7 out of 5 stars based on 254 reviews.\n(254)\n...\n## FAQs\nThe collection includes...",
+    "source": "web",
+    "title": "Natural Diamond Jewelry",
+    "url": "https://www.costco.com/opt/natural-diamond-jewelry"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "Round Brilliant 4.00 ctw VS2 Clarity I Color Diamond 14kt Gold Tennis Bracelet\n...\nRound Brilliant 1.10 ctw VS2 Clarity I Color Diamond 14kt White Gold Wedding Set Size 5\n...\nMorganite and Diamond 14kt Rose Gold Pendant\nRound Brilliant 3.00 ctw VS2 Clarity G Color Diamond Cluster 14kt White Gold Ten...",
+    "source": "web",
+    "title": "Gold Jewelry Collections | Costco",
+    "url": "https://www.costco.com/opt/gold-jewelry-collections"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Women's Necklaces\nShop women's necklaces at Costco with your style and preferred fit in mind.\nCompare the listed lengths and design details to find a necklace that works with your favorite necklines, whether you plan to wear it on its own or layer it with other pieces.\n...\nRound Brilliant 1.00 ctw...",
+    "source": "web",
+    "title": "Women's Necklaces",
+    "url": "https://www.costco.com/opt/womens-necklaces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Lightweight Gold Pendant Necklaces\nExplore lightweight gold pendant necklaces for a piece that suits your everyday style or layers with necklaces you already own.\nCompare pendant designs, chain lengths, and listed weights to find the look and fit you prefer.\nShowing 1 - 7 of 7\n...\nSort by:\nShowing...",
+    "source": "web",
+    "title": "Lightweight Gold Pendant Necklaces",
+    "url": "https://www.costco.com/opt/lightweight-gold-pendant-necklaces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Diamond Jewelry Gifts For Her\nPrincess Cut 1.00 ct VS2 Clarity I Color Diamond 14kt Gold Solitaire Pendant\nRated 4.6 out of 5 stars based on 73 reviews.\n...\nRound Brilliant 0.50 ct VS2 Clarity I Color Diamond 14kt Gold Solitaire Pendant White Gold\n...\nRound Brilliant 0.50 ctw VS2 Clarity G Color D...",
+    "source": "web",
+    "title": "Diamond Jewelry Gifts For Her",
+    "url": "https://www.costco.com/opt/diamond-jewelry-gifts-for-her"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Fine Diamond Jewelry\nRound Brilliant 1.00 ct VS2 Clarity I Color Diamond 14kt Gold Solitaire Pendant\nRated 4.8 out of 5 stars based on 133 reviews.\n(133)\n...\nRound Brilliant 10.00 ctw VS2 Clarity G Color Diamond 14kt Gold Eternity Strand Necklace Yellow Gold\nRated 4.4 out of 5 stars based on 186 r...",
+    "source": "web",
+    "title": "Fine Diamond Jewelry",
+    "url": "https://www.costco.com/opt/fine-diamond-jewelry"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Diamond Gifts\nRound Brilliant 0.50 ctw VS2 Clarity G Color Diamond 14kt White Gold Solitaire Pendant\n...\nRound Brilliant 0.50 ct VS2 Clarity I Color Diamond 14kt Gold Solitaire Pendant White Gold\n...\nPrincess Cut & Round Brilliant 1.00ctw VS2 Clarity G Color Diamond 14kt White Gold Necklace\nRated ...",
+    "source": "web",
+    "title": "Diamond Gifts - Costco Wholesale",
+    "url": "https://www.costco.com/opt/diamond-gifts"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "Colorless Diamond Stud Earrings | Costco\n- ### Costco Business Center\n...\n- Wall Décor\n...\nRound Brilliant 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Stud Earrings Yellow Gold\nRated 4.6 out of 5 stars based on 477 reviews.\n(477)\n...\nPrincess Cut 1.00 ctw VS2 Clarity I Color Diamond 14kt Gold Stu...",
+    "source": "web",
+    "title": "Colorless Diamond Stud Earrings - Costco Wholesale",
+    "url": "https://www.costco.com/opt/colorless-diamond-stud-earrings"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 40,
+   "cost": {
+    "input_tokens_cost": 0.00156,
+    "output_tokens_cost": 0.00024,
+    "request_cost": 0.0025,
+    "total_cost": 0.0043
+   },
+   "prompt_tokens": 141,
+   "search_context_size": "low",
+   "total_tokens": 181
+  }
+ }
+}

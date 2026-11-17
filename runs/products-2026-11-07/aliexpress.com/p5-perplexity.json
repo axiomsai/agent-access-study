@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+  "https://www.aliexpress.com/w/wholesale-items.html",
+  "https://www.aliexpress.com/index.html",
+  "https://www.aliexpress.com/w/wholesale-shop-usa.html",
+  "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+  "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+  "https://www.aliexpress.com/item/1005009119325367.html",
+  "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+  "https://www.aliexpress.com/item/3256807102500288.html?_randl_currency=USD&_randl_shipto=US&src=google",
+  "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+ ],
+ "cited_store": true,
+ "answer": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00513,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: UNKNOWN | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.aliexpress.com/w/wholesale-aliexpress-items.html",
+   "https://www.aliexpress.com/w/wholesale-items.html",
+   "https://www.aliexpress.com/index.html",
+   "https://www.aliexpress.com/w/wholesale-shop-usa.html",
+   "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html",
+   "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html",
+   "https://www.aliexpress.com/item/1005009119325367.html",
+   "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html",
+   "https://www.aliexpress.com/item/3256807102500288.html?_randl_currency=USD&_randl_shipto=US&src=google",
+   "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+  ],
+  "created": 1794082524,
+  "id": "resp_f1fb8037-9270-4cc4-a0ae-640b0ffccaf0",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Aliexpress items-AliExpress\n...\n### Men and women Balaclava Y2K Gothic Harajuku winter new item double hooded sweatshirt men's hooded mask zipper sportswear\naliexpress.com item 1005006771429820",
+    "source": "web",
+    "title": "Aliexpress items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-29",
+    "place_metadata": null,
+    "snippet": "Items-AliExpress\n...\n# Results for items\nThe search term items is commonly used on AliExpress to refer to products or goods available for purchase.",
+    "source": "web",
+    "title": "Items-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-items.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping\n0",
+    "source": "web",
+    "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online ...",
+    "url": "https://www.aliexpress.com/index.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Results for shop usa\n- ****Armrests****\nDesigned specifically for the Chevrolet Cruze (2008–2021), these double-layer armrests feature a durable **leather and ABS plastic construction**, offering both comfort and structural integrity.",
+    "source": "web",
+    "title": "Shop USA - AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-shop-usa.html"
+   },
+   {
+    "date": "2026-07-22",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "### https://www.aliexpress.us/item/3256806204597114.html? GatewayAdapt=glo2usa4itemAdapt",
+    "source": "web",
+    "title": "Koop https aliexpress met gratis verzending op ...",
+    "url": "https://nl.aliexpress.com/w/wholesale-https-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "**Answer:** An AliExpress.com item is a product listed on the AliExpress platform, which is accessible via the official website aliexpress.com.\nYou can identify it by checking the item URL, which should include aliexpress.com/item followed by a unique product ID.\n...\nFor instance, imagine you're a s...",
+    "source": "web",
+    "title": "Aliexpress com item-AliExpress",
+    "url": "https://www.aliexpress.com/w/wholesale-aliexpress-com-item.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm ...",
+    "url": "https://www.aliexpress.com/item/1005009119325367.html"
+   },
+   {
+    "date": "2026-09-18",
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "## Related Searches\nhttps www.aliexpress.com item 3256806768589834.html",
+    "source": "web",
+    "title": "www. aliexpress - Acquista www. aliexpress con spedizione gratuita ...",
+    "url": "https://it.aliexpress.com/w/wholesale-www.-aliexpress.html"
+   },
+   {
+    "date": "2026-01-08",
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Aliexpress\n...\nSorry, the page you requested can not be found:(",
+    "source": "web",
+    "title": "Aliexpress",
+    "url": "https://www.aliexpress.com/item/3256807102500288.html?_randl_currency=USD&_randl_shipto=US&src=google"
+   },
+   {
+    "date": "2026-01-20",
+    "last_updated": "2026-04-22",
+    "place_metadata": null,
+    "snippet": "Women's Yoga Two-Piece Set Long-Sleeve Wide-Leg Activewear Set Casual Home Yoga Set Coordinated Set",
+    "source": "web",
+    "title": "Acquista www aliexpress com con spedizione gratuita su AliExpress ...",
+    "url": "https://it.aliexpress.com/w/wholesale-www-aliexpress-com.html"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 18,
+   "cost": {
+    "input_tokens_cost": 0.00083,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00352
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 134
+  }
+ }
+}

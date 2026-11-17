@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+  "https://docs.business.amazon.com/docs/using-guided-buying",
+  "https://www.amazon.com/s?srs=19933327011",
+  "https://www.amazon.com/dp/s?k=dp",
+  "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+  "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+  "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp",
+  "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011",
+  "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart",
+  "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+ "cost_usd": 0.00516,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: error",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying",
+   "https://docs.business.amazon.com/docs/using-guided-buying",
+   "https://www.amazon.com/s?srs=19933327011",
+   "https://www.amazon.com/dp/s?k=dp",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L",
+   "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex",
+   "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp",
+   "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011",
+   "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart",
+   "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+  ],
+  "created": 1793905962,
+  "id": "resp_50afb237-bf2f-46c7-a83c-cea381af8804",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying",
+    "url": "https://docs.business.amazon.com/lang-ja_JP/docs/using-guided-buying"
+   },
+   {
+    "date": "2025-04-24",
+    "last_updated": "2026-10-26",
+    "place_metadata": null,
+    "snippet": "# Using guided buying\n## Step 2. Search for products\n}\n]\n}\n]\n},\n\"customerReviewsSummary\": {\n\"numberOfRatings\": null,\n\"starRating\": null\n},\n\"productDescription\": \"Amazon Basics Multipurpose Copy Printer Paper, 8.5 x 11 Inch 20Lb Paper - 3 Ream Case (5,000 Sheets), 92 GE Bright White\",\n…\n},\n...\n}\n],\n....",
+    "source": "web",
+    "title": "Using guided buying - What are Amazon Business APIs?",
+    "url": "https://docs.business.amazon.com/docs/using-guided-buying"
+   },
+   {
+    "date": null,
+    "last_updated": "2025-11-03",
+    "place_metadata": null,
+    "snippet": "Smart Home\nSecurity Systems\n...\nin Every Room\nBlink\nSmart Security",
+    "source": "web",
+    "title": "Amazon.com",
+    "url": "https://www.amazon.com/s?srs=19933327011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Amazon.com : dp\n...\n## IVANKY VESA Certified 8K DisplayPort Cable 1.4, 6.6ft DP Cable Supports HDR\nDisplay Port Cable, 8K@60Hz, 4K@240Hz, 2K@240Hz, HBR3, 32.4Gbps, HDCP 2.2, FreeSync G-Sync, for Gaming Monitor, Graphics, PC\n4.7*4.7 out of 5 stars*",
+    "source": "web",
+    "title": "Amazon.com: Dp",
+    "url": "https://www.amazon.com/dp/s?k=dp"
+   },
+   {
+    "date": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "# Searching and Browsing for Items\nAre you looking for a specific item?\nEnter a few words into the search box and select the magnifying glass icon.\nWe'll show you the matching results.",
+    "source": "web",
+    "title": "Searching and Browsing for Items",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GSUNWNFT2ALMPR3L"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-21",
+    "place_metadata": null,
+    "snippet": "Amazon.com\n...\n## Looking for something?\nPlease enter a valid quantity.\nReserved quantity cannot exceed desired quantity.",
+    "source": "web",
+    "title": "Check out my list on Amazon",
+    "url": "https://www.amazon.com/hz/wishlist/ls/17DURHCUTDAQK/ref=hz_ls_biz_ex"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com : amazon.co.jp\n# 1-48 of over 1,000 results for \"amazon.co.jp\"",
+    "source": "web",
+    "title": "Amazon.com: Amazon.co.jp",
+    "url": "https://www.amazon.com/amazon-co-jp/s?k=amazon.co.jp"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "## Laptop Screen Extender,15.6\" Portable Monitor, FHD 1080P Ultra-Slim Travel Monitor with Speakers, Triple Display Extension, Compatible with 13-17.3\" Laptops\n4.4*4.4 out of 5 stars*\n(213)\nPrice, product page$259.99$259.99\n...\n2. ## LTC Laptop Docking Station, 7-in-1 USB C Hub with Screen, Multiple...",
+    "source": "web",
+    "title": "Amazon.com: Laptop Accessories",
+    "url": "https://www.amazon.com/Laptop-Accessories/b?ie=UTF8&node=3011391011"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Amazon.com Shopping Cart\n# All Carts\n## Shopping Cart\n### No items saved for later\nThe price and availability of items at Amazon.com are subject to change.",
+    "source": "web",
+    "title": "Amazon.com Shopping Cart",
+    "url": "https://www.amazon.com/gp/aw/c/ref=aw_bottom_links_cart"
+   },
+   {
+    "date": "2010-03-26",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Amazon.com : amazon.co.uk\n# 1-48 of 358 results for \"amazon.co.uk\"",
+    "source": "web",
+    "title": "Amazon.co.uk",
+    "url": "https://www.amazon.com/amazon-co-uk/s?k=amazon.co.uk"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 46,
+   "cost": {
+    "input_tokens_cost": 0.00118,
+    "output_tokens_cost": 0.00025,
+    "request_cost": 0.0025,
+    "total_cost": 0.00393
+   },
+   "prompt_tokens": 115,
+   "search_context_size": "low",
+   "total_tokens": 161
+  }
+ }
+}

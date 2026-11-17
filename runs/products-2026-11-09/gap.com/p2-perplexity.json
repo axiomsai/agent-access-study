@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.gap.com/browse/product.do?pid=908929032",
+  "https://www.gap.com/browse/category.do?cid=1016138",
+  "https://bananarepublic.gap.com/",
+  "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338",
+  "https://www.gap.com/browse/category.do?cid=81692",
+  "https://www.gap.com/browse/product.do?pid=9085690020404",
+  "https://www.gap.com/browse/product.do?pid=8394820524002",
+  "https://www.gap.com/browse/product.do?pid=11847390120801",
+  "https://www.gap.com/browse/product.do?pid=11852500023103",
+  "https://www.gap.com/browse/product.do?pid=8435570120304"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Kids CashSoft Zip Sweater Hoodie | PRICE: $69.95 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.gap.com/browse/product.do?pid=908929032",
+   "https://www.gap.com/browse/category.do?cid=1016138",
+   "https://bananarepublic.gap.com/",
+   "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338",
+   "https://www.gap.com/browse/category.do?cid=81692",
+   "https://www.gap.com/browse/product.do?pid=9085690020404",
+   "https://www.gap.com/browse/product.do?pid=8394820524002",
+   "https://www.gap.com/browse/product.do?pid=11847390120801",
+   "https://www.gap.com/browse/product.do?pid=11852500023103",
+   "https://www.gap.com/browse/product.do?pid=8435570120304"
+  ],
+  "created": 1794249832,
+  "id": "resp_94a00d4d-8b47-4073-aa09-d92899807e3a",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Kids CashSoft Zip Sweater Hoodie\n# Kids CashSoft Zip Sweater Hoodie\n$69.95\n...\nIt's everyday luxury.\n- Supersoft knit cotton-blend full-zip sweater hoodie.\nIn a cropped length.\n- Hooded design.\n- Long sleeves.\n- Zipper front.\n- Ribbed hem.\n- Explore the Gap Gift Shop.\n- Product #908929",
+    "source": "web",
+    "title": "Kids CashSoft Zip Sweater Hoodie",
+    "url": "https://www.gap.com/browse/product.do?pid=908929032"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "We Picked These For You - Gap",
+    "url": "https://www.gap.com/browse/category.do?cid=1016138"
+   },
+   {
+    "date": "2023-01-01",
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Banana Republic | Timeless Style for Women’s & Men’s Clothing",
+    "source": "web",
+    "title": "Banana Republic",
+    "url": "https://bananarepublic.gap.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "# Beauty\nThere are currently no products that match your criteria.\nPlease try again.",
+    "source": "web",
+    "title": "Girls Beauty, Home & More Home - Gap",
+    "url": "https://www.gap.com/browse/girls/beauty-home-and-more/home?cid=3028099&style=3037338"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "The Holiday Kickoff Event: 40–60% off PJs, accessories & more",
+    "source": "web",
+    "title": "Get access to exclusive offers, new arrivals, and other perks.",
+    "url": "https://www.gap.com/browse/category.do?cid=81692"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "GapFit Pleated Easy Logo Pants | Gap\n...\n# GapFit Pleated Easy Logo Pants\n# GapFit Pleated Easy Logo Pants\n$79.95\n$79.95\n...\nCompared to virgin materials, using recycled materials helps reduce resource use and waste.\n- Product #908569",
+    "source": "web",
+    "title": "GapFit Pleated Easy Logo Pants",
+    "url": "https://www.gap.com/browse/product.do?pid=9085690020404"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Modern Crewneck Cardigan | Gap\n...\n# Modern Crewneck Cardigan\n# Modern Crewneck Cardigan\n$49.95\n...\nLight Heather Grey\n...\nOur soft & stretchy cotton-modal blend that hugs you just right.\nIt’s your new 7-days-a-week essential.\n- Soft, stretch cotton-modal blend cardigan in a slightly cropped length....",
+    "source": "web",
+    "title": "Modern Crewneck Cardigan - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8394820524002"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "Low Rise Corduroy '90s Loose Pants | Gap\n...\n# Low Rise Corduroy '90s Loose Pants\n# Low Rise Corduroy '90s Loose Pants\n$89.95\n$71.00\n...\n## Product details\n...\n- Fabric: 100% Cotton.\n...\nLearn more at gapinc.com/equity .\n- Product #1184739",
+    "source": "web",
+    "title": "Low Rise Corduroy '90s Loose Pants",
+    "url": "https://www.gap.com/browse/product.do?pid=11847390120801"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "High Rise Velvet '90s Slim Straight Pants | Gap\n...\n# High Rise Velvet '90s Slim Straight Pants\n# High Rise Velvet '90s Slim Straight Pants\n$89.95\n$89.95\n$71.00\n...\nCompared to virgin materials, using recycled materials helps reduce resource use and waste.\n...\n- Product #1185250",
+    "source": "web",
+    "title": "High Rise Velvet '90s Slim Straight Pants",
+    "url": "https://www.gap.com/browse/product.do?pid=11852500023103"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-15",
+    "place_metadata": null,
+    "snippet": "pid=af_banner&af_channel=af_web_banner&is_retargeted=true&is_retargeting=true&af_sub5=8435570120304&c=af_banner_campaign&http_referrer=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do",
+    "source": "web",
+    "title": "Sequin Cami - Gap",
+    "url": "https://www.gap.com/browse/product.do?pid=8435570120304"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 26,
+   "cost": {
+    "input_tokens_cost": 0.00084,
+    "output_tokens_cost": 0.00021,
+    "request_cost": 0.0025,
+    "total_cost": 0.00355
+   },
+   "prompt_tokens": 116,
+   "search_context_size": "low",
+   "total_tokens": 142
+  }
+ }
+}

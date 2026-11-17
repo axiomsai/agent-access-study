@@ -1,0 +1,60 @@
+{
+ "domain": "samsung.com",
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+ "idx": 4,
+ "at": "2026-11-05T13:31:20-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "13973 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Galaxy Z Flip8",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T13:44:57+00:00",
+   "age_days": 0,
+   "cost_usd": 0.13843
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Galaxy Z Flip8",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00061
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Galaxy Z Flip8",
+   "price": 1199.99,
+   "price_raw": "$1,199.99",
+   "stock": "UNKNOWN",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01226
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Galaxy Z Flip8",
+   "price": 1399.99,
+   "price_raw": "$1,399.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00514
+  }
+ }
+}

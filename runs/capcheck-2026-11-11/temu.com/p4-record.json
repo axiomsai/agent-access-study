@@ -1,0 +1,25 @@
+{
+ "domain": "temu.com",
+ "idx": 4,
+ "url": "https://www.temu.com/-kitchen-cabinet-cleaner-spray-suitable-for-wood-cabinets-grease--remover-with-foam-formula-gentle-safe-formula-for-painted-wood--suitable-for-cupboards-kitchen-stain-remover-for-cooking-oil-residue--required-g-607075086241388.html",
+ "arms": {
+  "A_capped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (the fetch tool rejected the address as too long, \"url_too_long\")",
+   "doc_chars": 0,
+   "input_tokens": 15809,
+   "cost_usd": 0.07046
+  },
+  "B_uncapped": {
+   "verdict": "blocked",
+   "why": "tool_error=url_too_long",
+   "price": null,
+   "opened": "NO: error (the fetch tool rejected the URL as too long)",
+   "doc_chars": 0,
+   "input_tokens": 15811,
+   "cost_usd": 0.07034
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\nProduct/Category Name: Beauty",
+ "finish": "STOP",
+ "cost_usd": 0.00048,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You\nProduct/Category Name: Beauty",
+       "thoughtSignature": "EnMKcQFpFH0T/HK5JHPCsset16mBMSIM0GuU+VFaDmx/LpX+NL0KHmjO9bwAQV64UzFCQxce8V68zsqTDqoTx7lR9fEqOhBv8YguDvU5OELFPfsKbwz0WBNoAgwxITd/BcoO1Npj51lCyCHXn6W8AOe7epRL"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.walgreens.com/",
+        "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 72,
+        "text": "Page Title: Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 73,
+        "endIndex": 102,
+        "text": "Product/Category Name: Beauty"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 64,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 4615,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 64
+    }
+   ],
+   "toolUsePromptTokenCount": 4496,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 4496
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "mw7yauWKC-Hqz7IPl5POsQE"
+ }
+}

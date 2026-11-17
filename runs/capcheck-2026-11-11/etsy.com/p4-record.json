@@ -1,0 +1,25 @@
+{
+ "domain": "etsy.com",
+ "idx": 4,
+ "url": "https://www.etsy.com/listing/4435842809",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "18046 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 118.48,
+   "opened": "YES",
+   "doc_chars": 18046,
+   "input_tokens": 38729,
+   "cost_usd": 0.16922
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "47376 chars, copy dated 2026-11-12 (0 days old)",
+   "price": 94.78,
+   "opened": "YES",
+   "doc_chars": 47376,
+   "input_tokens": 29574,
+   "cost_usd": 0.12878
+  }
+ }
+}

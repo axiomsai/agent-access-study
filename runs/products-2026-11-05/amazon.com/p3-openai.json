@@ -1,0 +1,165 @@
+{
+ "model": "gpt-5.4-mini-2026-03-17",
+ "actions": [
+  [
+   "completed",
+   "open_page",
+   "https://www.amazon.com/dp/B00MNV8E0C"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B00MNV8E0C"
+  ],
+  [
+   "completed",
+   "find_in_page",
+   "https://www.amazon.com/dp/B00MNV8E0C"
+  ]
+ ],
+ "answer": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: NONE | STOCK: IN STOCK | OPENED: YES",
+ "cost_usd": 0.03379,
+ "raw": {
+  "id": "resp_0fc601356d66ece2006aecd526f4bc87d1ba762f10e9969161",
+  "object": "response",
+  "created_at": 1793905959,
+  "status": "completed",
+  "access_programs": null,
+  "background": false,
+  "billing": {
+   "payer": "developer"
+  },
+  "completed_at": 1793905963,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "image": {
+   "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "moderation": null,
+  "output": [
+   {
+    "id": "ws_0fc601356d66ece2006aecd5279dec87d1a96cdf48630e7c1f",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "open_page",
+     "url": "https://www.amazon.com/dp/B00MNV8E0C"
+    }
+   },
+   {
+    "id": "ws_0fc601356d66ece2006aecd5285cec87d1b0d195650b842fea",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "priceblock_ourprice",
+     "url": "https://www.amazon.com/dp/B00MNV8E0C"
+    }
+   },
+   {
+    "id": "ws_0fc601356d66ece2006aecd529e78c87d1b3e94bd0430f9307",
+    "type": "web_search_call",
+    "status": "completed",
+    "action": {
+     "type": "find_in_page",
+     "pattern": "a-price",
+     "url": "https://www.amazon.com/dp/B00MNV8E0C"
+    }
+   },
+   {
+    "id": "msg_0fc601356d66ece2006aecd52b2b8c87d18344ef6df675f289",
+    "type": "message",
+    "status": "completed",
+    "content": [
+     {
+      "type": "output_text",
+      "annotations": [],
+      "logprobs": [],
+      "text": "NAME: Amazon Basics 48-Pack AA Alkaline High-Performance Batteries, 1.5 Volt, 10-Year Shelf Life, Long-lasting, No Leakage | PRICE: NONE | STOCK: IN STOCK | OPENED: YES"
+     }
+    ],
+    "phase": "final_answer",
+    "role": "assistant"
+   }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+   "context": "current_turn",
+   "effort": "none",
+   "mode": "standard",
+   "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+   "format": {
+    "type": "text"
+   },
+   "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+   "image_gen": {
+    "input_tokens": 0,
+    "input_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "output_tokens": 0,
+    "output_tokens_details": {
+     "image_tokens": 0,
+     "text_tokens": 0
+    },
+    "total_tokens": 0
+   },
+   "web_search": {
+    "num_requests": 0
+   }
+  },
+  "tools": [
+   {
+    "type": "web_search",
+    "return_token_budget": "default",
+    "search_content_types": [
+     "text"
+    ],
+    "search_context_size": "medium",
+    "user_location": {
+     "type": "approximate",
+     "city": null,
+     "country": "US",
+     "region": null,
+     "timezone": null
+    }
+   }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+   "input_tokens": 13059,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 4352
+   },
+   "output_tokens": 261,
+   "output_tokens_details": {
+    "reasoning_tokens": 210
+   },
+   "total_tokens": 13320
+  },
+  "user": null,
+  "metadata": {}
+ }
+}

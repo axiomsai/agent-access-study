@@ -1,0 +1,60 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/p/folgers-classic-roast-ground-coffee-medium-roast/0002550030407",
+ "idx": 4,
+ "at": "2026-11-05T13:41:05-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served",
+   "why": "17360 chars, copy dated 2026-11-05 (0 days old)",
+   "parsed": true,
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast, 25.9 Ounces",
+   "price": 16.99,
+   "price_raw": "$16.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-11-05T19:41:09+00:00",
+   "age_days": 0,
+   "cost_usd": 0.10356
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+   "price": 16.99,
+   "price_raw": "$16.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00053
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+   "price": 15.69,
+   "price_raw": "$15.69",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01203
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast",
+   "price": 16.99,
+   "price_raw": "$16.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00516
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page content did not load product details (likely due to bot detection/blocking).",
+ "finish": "STOP",
+ "cost_usd": 0.00031,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: Walgreens 24 Hour Allergy Relief Cetirizine Hydrochloride 10 mg Tablets | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: the page content did not load product details (likely due to bot detection/blocking).",
+       "thoughtSignature": "EnMKcQFpFH0TmI9HUFh9SVyh6j2CNHA/MiVkPgXzoabYSdNbnVq/jU0pYG7hB8zfLmpXrOU000zqsm3Hs3MQERH+pW1Mt9G5RtW1SnzzP61B3m2Tz9Dad+w8RZ52fU1s85jxNYEYi+UnRT8ZPAdo9WnQqlas"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.walgreens.com/store/c/walgreens-24-hour-allergy-relief-cetirizine-hydrochloride-10-mg-tablets/ID=300463396-product",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 166,
+   "candidatesTokenCount": 121,
+   "totalTokenCount": 2693,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 166
+    }
+   ],
+   "toolUsePromptTokenCount": 2406,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2406
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "n9nsatXTMtScqtsPw5egqQ0"
+ }
+}

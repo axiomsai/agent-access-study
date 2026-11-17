@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.lowes.com/",
+  "https://www.lowes.com/pd/Command-Satin-Nickel-Adhesive-Hook/1000028637",
+  "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716",
+  "https://www.lowes.com/pd/closetmaid-12-pack-21-in-shelving-hardware/1001167768",
+  "https://www.lowes.com/c/Tools",
+  "https://www.lowes.com/ple/all",
+  "https://www.lowes.com/pd/TOMCAT-Tomcat-Repellents-Rodent-Repellent/5020737657",
+  "https://www.lowes.com/pd/Char-Broil-Performance-Black-Liquid-Propane-Gas-Grill/5015291741",
+  "https://www.lowes.com/c/Home-decor",
+  "https://www.lowes.com/pl/small-appliances/specialty-appliances/personal-care-accessories/4420371379292"
+ ],
+ "cited_store": true,
+ "answer": "Lowe’s Home Improvement — Tools",
+ "cost_usd": 0.00506,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Lowe’s Home Improvement — Tools",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.lowes.com/",
+   "https://www.lowes.com/pd/Command-Satin-Nickel-Adhesive-Hook/1000028637",
+   "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716",
+   "https://www.lowes.com/pd/closetmaid-12-pack-21-in-shelving-hardware/1001167768",
+   "https://www.lowes.com/c/Tools",
+   "https://www.lowes.com/ple/all",
+   "https://www.lowes.com/pd/TOMCAT-Tomcat-Repellents-Rodent-Repellent/5020737657",
+   "https://www.lowes.com/pd/Char-Broil-Performance-Black-Liquid-Propane-Gas-Grill/5015291741",
+   "https://www.lowes.com/c/Home-decor",
+   "https://www.lowes.com/pl/small-appliances/specialty-appliances/personal-care-accessories/4420371379292"
+  ],
+  "created": 1793749456,
+  "id": "resp_8cca2a02-6eb4-4557-9b30-d303be6028c7",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Lowe’s Home Improvement\n...\nOur local stores do not honor online pricing.",
+    "source": "web",
+    "title": "Lowe's Home Improvement",
+    "url": "https://www.lowes.com/"
+   },
+   {
+    "date": "2026-10-14",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "Command Large Decorative Satin Nickel Adhesive Double Bath Hook (4-lb Capacity) BATH36-SN-ES at Lowes.com\n...\n# Command Large Decorative Satin Nickel Hanging Double bath hook 4.0-lb Capacity\nItem #782179 |\nModel #BATH36-SN-ES",
+    "source": "web",
+    "title": "Command Large Decorative Satin Nickel Adhesive Double Bath ...",
+    "url": "https://www.lowes.com/pd/Command-Satin-Nickel-Adhesive-Hook/1000028637"
+   },
+   {
+    "date": "2026-10-13",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "# Easy Track 12.0-in to 25.2-in W Open Shelf Tower Unit White Solid Shelving Wood Closet System\nItem #1262620 |\nModel #PH38-WH",
+    "source": "web",
+    "title": "Easy Track 1-ft to 2.1-ft W x 7-ft H White Solid Shelving Wood Closet ...",
+    "url": "https://www.lowes.com/pd/Easy-Track-2-1-ft-W-x-7-ft-H-White-Wood-Closet-Kit/1000731716"
+   },
+   {
+    "date": "2026-10-21",
+    "last_updated": "2026-11-01",
+    "place_metadata": null,
+    "snippet": "ClosetMaid 16-in White Fixed Mount Wire Shelving Hardware Kit 54166 at Lowes.com",
+    "source": "web",
+    "title": "ClosetMaid 16-in White Fixed Mount Wire Shelving Hardware Kit ...",
+    "url": "https://www.lowes.com/pd/closetmaid-12-pack-21-in-shelving-hardware/1001167768"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Tools for DIY Projects, Repairs & Construction | Lowe’s\n...\n# Tools",
+    "source": "web",
+    "title": "Tools for DIY Projects, Repairs & Construction",
+    "url": "https://www.lowes.com/c/Tools"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-02",
+    "place_metadata": null,
+    "snippet": "ALL Products at Lowe's\n...\nOur local stores do not honor online pricing.\n...\nFind My Store",
+    "source": "web",
+    "title": "ALL Products at Lowe's",
+    "url": "https://www.lowes.com/ple/all"
+   },
+   {
+    "date": "2026-01-14",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "TOMCAT Tomcat Repellents Rodent Repellent in the Animal & Rodent Control department at Lowes.com",
+    "source": "web",
+    "title": "TOMCAT Tomcat Repellents Rodent Repellent",
+    "url": "https://www.lowes.com/pd/TOMCAT-Tomcat-Repellents-Rodent-Repellent/5020737657"
+   },
+   {
+    "date": "2026-10-24",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Shop Charbroil Performance Series Black and Silver 4 -Burner Liquid Propane Gas Grill in the Gas Grills department at Lowe's.com.\n...\n# Charbroil Performance Series Black and Silver 4 -Burner Liquid Propane Gas Grill",
+    "source": "web",
+    "title": "Charbroil Performance Series Black and Silver 4 -Burner ...",
+    "url": "https://www.lowes.com/pd/Char-Broil-Performance-Black-Liquid-Propane-Gas-Grill/5015291741"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Home Decor - Lowe’s\n...\nOur local stores do not honor online pricing.\n...\n# Home Decor",
+    "source": "web",
+    "title": "Home Decor",
+    "url": "https://www.lowes.com/c/Home-decor"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Personal Care & Accessories at Lowes.com\n...\n# Personal Care & Accessories",
+    "source": "web",
+    "title": "Personal Care & Accessories at Lowes.com",
+    "url": "https://www.lowes.com/pl/small-appliances/specialty-appliances/personal-care-accessories/4420371379292"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 7,
+   "cost": {
+    "input_tokens_cost": 0.00056,
+    "output_tokens_cost": 3e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00309
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 64
+  }
+ }
+}

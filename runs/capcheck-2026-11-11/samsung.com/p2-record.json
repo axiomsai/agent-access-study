@@ -1,0 +1,25 @@
+{
+ "domain": "samsung.com",
+ "idx": 2,
+ "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+ "arms": {
+  "A_capped": {
+   "verdict": "served",
+   "why": "14543 chars, copy dated 2026-11-10 (1 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 14543,
+   "input_tokens": 23722,
+   "cost_usd": 0.10879
+  },
+  "B_uncapped": {
+   "verdict": "served",
+   "why": "14543 chars, copy dated 2026-11-10 (1 days old)",
+   "price": null,
+   "opened": "YES",
+   "doc_chars": 14543,
+   "input_tokens": 23874,
+   "cost_usd": 0.10924
+  }
+ }
+}

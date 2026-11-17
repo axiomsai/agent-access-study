@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8/sku/6667806",
+  "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+  "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8",
+  "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8/sku/6667806/reviews",
+  "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-meteor-silver/JJGWKYHTC8/sku/6667806/reviews",
+  "https://www.bestbuy.com/site/shop/touchscreen-chromebooks-for-kids",
+  "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=14%20chromebook%20laptop",
+  "https://www.bestbuy.com/site/all-laptops/chromebooks/pcmcat244900050010.c?id=pcmcat244900050010",
+  "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=chromebook%203",
+  "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=hp+chromebook"
+ ],
+ "cited_store": true,
+ "answer": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content did not show current stock status or a clearly current selling price",
+ "cost_usd": 0.00522,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page content did not show current stock status or a clearly current selling price",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8/sku/6667806",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8/sku/6667806/reviews",
+   "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-meteor-silver/JJGWKYHTC8/sku/6667806/reviews",
+   "https://www.bestbuy.com/site/shop/touchscreen-chromebooks-for-kids",
+   "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=14%20chromebook%20laptop",
+   "https://www.bestbuy.com/site/all-laptops/chromebooks/pcmcat244900050010.c?id=pcmcat244900050010",
+   "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=chromebook%203",
+   "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=hp+chromebook"
+  ],
+  "created": 1794080656,
+  "id": "resp_55851ef5-ec3b-48a3-884f-0cca8dfe1e3e",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-07-13",
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver - Best Buy\n1. Best Buy\n2. Computers & Tablets\n...\n# HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nModel: 14c-ce0013dx\nSKU: 6667806\n....",
+    "source": "web",
+    "title": "HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355",
+    "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8/sku/6667806"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver - Best Buy\n...\n# HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nModel: 14c-ce0013dx\nSKU: 6667806\nRating 4.6 out of 5 stars with 23 re...",
+    "source": "web",
+    "title": "Protect your laptop",
+    "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-storage-meteor-silver/JJGWKYHTC8"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-17",
+    "place_metadata": null,
+    "snippet": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB Storage Meteor Silver - Best Buy\n...\n# HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nModel: 14c-ce0013dx\nSKU: 6667806\n...\n$549.00$54900\n...\nSystem Memory ...",
+    "source": "web",
+    "title": "More options from Best Buy",
+    "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-19",
+    "place_metadata": null,
+    "snippet": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB UFS Storage Meteor Silver - Best Buy\n1643 County Road B2Roseville, MN 55113Open until 9 pm\n...\n## HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB UFS Storage - Meteor Silver\n- **Mo...",
+    "source": "web",
+    "title": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 ...",
+    "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-storage-meteor-silver/JJGWKYHTC8/sku/6667806/reviews"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "HP 14\" 2K Touchscreen 2 in 1 Chromebook Plus Intel Core 3 N355 8GB Memory 256GB UFS Meteor Silver 14c-ce0013dx - Best Buy\n...\n## HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB UFS - Meteor Silver\n- **Model:**\n14c-ce0013dx\n|\n- **SKU:**\n6667806\nRating 5 out of ...",
+    "source": "web",
+    "title": "Customer Ratings & Reviews",
+    "url": "https://www.bestbuy.com/product/hp-14-2k-touchscreen-2-in-1-chromebook-plus-intel-core-3-n355-8gb-memory-256gb-ufs-meteor-silver/JJGWKYHTC8/sku/6667806/reviews"
+   },
+   {
+    "date": "2022-11-15",
+    "last_updated": "2026-10-20",
+    "place_metadata": null,
+    "snippet": "10. ### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nSKU: JJGWKYHTC8\nRating 5 out of 5 stars with 19\nreviews\n*\n* (19)\n**Best** of the **best**...If I could buy it again I would buy it I **love** is the **best** of the **best**...**Gr...",
+    "source": "web",
+    "title": "Touchscreen Chromebooks For Kids - Best Buy",
+    "url": "https://www.bestbuy.com/site/shop/touchscreen-chromebooks-for-kids"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "- HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nRating 4.8 out of 5 stars with 19 reviews\n(19)\n$549.00$54900\nThe price was $679.00\n…\n...\n- ### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Sto...",
+    "source": "web",
+    "title": "14 chromebook laptop - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=14%20chromebook%20laptop"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nRating 4.6 out of 5 stars with 23 reviews\n4.6(23 reviews)\n$679.00$67900\n+ 2 offers for you\nMore options from $488.99\nGet it **tomorrow** • **FREE**",
+    "source": "web",
+    "title": "Chromebooks",
+    "url": "https://www.bestbuy.com/site/all-laptops/chromebooks/pcmcat244900050010.c?id=pcmcat244900050010"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "- ### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB Storage - Meteor Silver\nRating 4.8 out of 5 stars with 19 reviews\n4.8(19 reviews)\n$549.00$54900\nSave $130\nThe comparable value is Comp.\nValue: $679.00\n+ 3 offers for you\nMore options from $415.99",
+    "source": "web",
+    "title": "chromebook 3 - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=chromebook%203"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-16",
+    "place_metadata": null,
+    "snippet": "- Best Selling\n### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB UFS Storage - Meteor Silver\nRating 4.8 out of 5 stars with 17 reviews\n** 4.8(17 reviews)\nCompare\n...\n### HP - 14\" 2K Touchscreen 2-in-1 Chromebook Plus - Intel Core 3 N355 - 8GB Memory - 256GB ...",
+    "source": "web",
+    "title": "hp chromebook - Best Buy",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=hp+chromebook"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 68,
+   "cost": {
+    "input_tokens_cost": 0.00174,
+    "output_tokens_cost": 0.00039,
+    "request_cost": 0.0025,
+    "total_cost": 0.00463
+   },
+   "prompt_tokens": 152,
+   "search_context_size": "low",
+   "total_tokens": 220
+  }
+ }
+}

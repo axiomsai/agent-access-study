@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.depop.com/",
+  "https://www.depop.com/category/womens/",
+  "https://www.depop.com/products/shop_megs2closet-linen-colored-backless-top-pleated-ef0b/",
+  "https://www.depop.com/products/firerinx-c-h-r-o-m-cecc/",
+  "https://www.depop.com/products/s0cre_14i-kids-polo-ralph-lauren-red-7f3e/",
+  "https://www.depop.com/products/lvldogscloset-colorful-polka-dot-sundress-with-65cc/",
+  "https://www.depop.com/2sump/",
+  "https://www.depop.com/products/lovely_spruciqied-athleta-dark-bluenavy-athletic-wear-2e8b/",
+  "https://www.depop.com/brands/zaful/",
+  "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/"
+ ],
+ "cited_store": true,
+ "answer": "Depop - buy, sell, discover unique fashion — '80s[1]",
+ "cost_usd": 0.00507,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Depop - buy, sell, discover unique fashion — '80s[1]",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.depop.com/",
+   "https://www.depop.com/category/womens/",
+   "https://www.depop.com/products/shop_megs2closet-linen-colored-backless-top-pleated-ef0b/",
+   "https://www.depop.com/products/firerinx-c-h-r-o-m-cecc/",
+   "https://www.depop.com/products/s0cre_14i-kids-polo-ralph-lauren-red-7f3e/",
+   "https://www.depop.com/products/lvldogscloset-colorful-polka-dot-sundress-with-65cc/",
+   "https://www.depop.com/2sump/",
+   "https://www.depop.com/products/lovely_spruciqied-athleta-dark-bluenavy-athletic-wear-2e8b/",
+   "https://www.depop.com/brands/zaful/",
+   "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/"
+  ],
+  "created": 1793749487,
+  "id": "resp_02071549-37da-4c7a-8139-bd4a5922d656",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": "2026-10-11",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Depop - buy, sell, discover unique fashion\n- ### '80s\n...\n- ### '80s\n...\n# Buy preloved. Wear it your way\n49M+\nItems",
+    "source": "web",
+    "title": "Depop - buy, sell, discover unique fashion",
+    "url": "https://www.depop.com/"
+   },
+   {
+    "date": "2026-05-22",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Secondhand, Vintage & Preloved Women's Clothing | Depop\n- ### '80s\n...\n- ### '80s\n...\n# Women's Clothing\n(58.2M results)\nGet your next wardrobe update right here.\nFrom staples like dresses, shirts and jeans to the trending designer and vintage items.\nDenim for all seasons from 70s, 90s and 00s.\nShoe...",
+    "source": "web",
+    "title": "See All Womenswear",
+    "url": "https://www.depop.com/category/womens/"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Linen-Colored Backless Top & Pleated Mini Skirt...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\nLinen-Colored Backless Top & Pleated Mini Skirt Set\nStunning matching two-piece set in a light oatmeal / natural linen-colored fabric.\nFeatures a high-neck halter top with a dramatic cowl open back, paired with ...",
+    "source": "web",
+    "title": "Linen-Colored Backless Top & Pleated Mini Skirt... | Depop",
+    "url": "https://www.depop.com/products/shop_megs2closet-linen-colored-backless-top-pleated-ef0b/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "C h r o m e h e a r t necklace from 1999 and pendant...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "C h r o m e h e a r t necklace from 1999 and pendant... | Depop",
+    "url": "https://www.depop.com/products/firerinx-c-h-r-o-m-cecc/"
+   },
+   {
+    "date": "2026-10-01",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "kids Polo Ralph Lauren red polo shirt with...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Polo Ralph Lauren Kids Boys' Red Polo-shirts\n$11.20\nincl. marketplace fee\nSize 5 years\nExcellent condition\nPolo Ralph Lauren Kids\nThis seller often ships in 24 hours",
+    "source": "web",
+    "title": "kids Polo Ralph Lauren red polo shirt with... | Depop",
+    "url": "https://www.depop.com/products/s0cre_14i-kids-polo-ralph-lauren-red-7f3e/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Colorful polka dot sundress with front tie\nOPEN TO...\n| Depop\n- ### '80s\n...\n- ### '80s",
+    "source": "web",
+    "title": "Colorful polka dot sundress with front tie OPEN TO... | Depop",
+    "url": "https://www.depop.com/products/lvldogscloset-colorful-polka-dot-sundress-with-65cc/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "2sump's Shop | Depop\n- ### '80s\n...\n- ### '80s\n...\n# 2sump",
+    "source": "web",
+    "title": "2sump's Shop | Depop",
+    "url": "https://www.depop.com/2sump/"
+   },
+   {
+    "date": "2026-10-18",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Athleta dark blue/navy athletic wear pants Size 0...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Athleta Women's Black and Navy Leggings\n$5.95\nincl. marketplace fee\nSize 0\nLike new condition\nAthleta",
+    "source": "web",
+    "title": "Athleta dark blue/navy athletic wear pants Size 0... | Depop",
+    "url": "https://www.depop.com/products/lovely_spruciqied-athleta-dark-bluenavy-athletic-wear-2e8b/"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Zaful | Preloved & Secondhand Fashion | Depop\n- ### '80s\n...\n- ### '80s\n...\n# ZAFUL\n(16.8K results)\nInternational online store Zaful offers a broad spectrum of items – from apparel to accessories.\nLook out for preowned pieces from this seller selection on Depop.\nKeep an eye out for Zaful bikinis in ...",
+    "source": "web",
+    "title": "Zaful | Preloved & Secondhand Fashion",
+    "url": "https://www.depop.com/brands/zaful/"
+   },
+   {
+    "date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Sperry Crest Vibe casual slip-on/laced canvas...\n| Depop\n- ### '80s\n...\n- ### '80s\n...\n# Sperry Women's Purple Trainers\n$13.30\nincl. marketplace fee",
+    "source": "web",
+    "title": "Sperry Crest Vibe casual slip-on/laced canvas... | Depop",
+    "url": "https://www.depop.com/products/luxenthrfft-sperry-crest-vibe-casual-slip-onlaced-5546/"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.00075,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.0033
+   },
+   "prompt_tokens": 57,
+   "search_context_size": "low",
+   "total_tokens": 74
+  }
+ }
+}

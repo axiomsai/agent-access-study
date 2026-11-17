@@ -1,0 +1,89 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://www.cvs.com/",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "**Page Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\n**Product/Category Name:** Pharmacy",
+ "finish": "STOP",
+ "cost_usd": 0.00119,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "**Page Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information\n\n**Product/Category Name:** Pharmacy",
+       "thoughtSignature": "EnMKcQFpFH0ThpNdT0G1A/eQJYBZwu5dl6Fb4CWkTef+dVX8Eoi21TeoIaHGEnz4Lh5x9bbZYVAjSbg7fWHsCpbfyMh0wi5o+GEvVWVEEtUuaqOV9YddvZAelOfSGK4aMxa/7LtnopkrkokV7AXFwQipzNix"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://www.cvs.com/",
+        "title": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 84,
+        "text": "**Page Title:** CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 86,
+        "endIndex": 121,
+        "text": "**Product/Category Name:** Pharmacy"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ]
+    },
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://www.cvs.com/",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 62,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 11713,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 62
+    }
+   ],
+   "toolUsePromptTokenCount": 11596,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 11596
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "X3vvapqPNP6hz7IPnczP-AM"
+ }
+}

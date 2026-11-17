@@ -1,0 +1,60 @@
+{
+ "domain": "kroger.com",
+ "url": "https://www.kroger.com/p/dunkin-original-blend-medium-roast-ground-coffee/0088133400046",
+ "idx": 3,
+ "at": "2026-11-09T12:43:57-06:00",
+ "fetch": {
+  "claude": {
+   "verdict": "served_stale",
+   "why": "15209 chars, copy dated 2026-09-10 (59 days old)",
+   "parsed": true,
+   "name": "Dunkin’ Original Blend Medium Roast Ground Coffee, 12 Ounces",
+   "price": 10.99,
+   "price_raw": "$10.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": "2026-09-10T22:18:29+00:00",
+   "age_days": 59,
+   "cost_usd": 0.10471
+  },
+  "gemini": {
+   "verdict": "served",
+   "why": "URL_RETRIEVAL_STATUS_SUCCESS",
+   "parsed": true,
+   "name": "Dunkin' Original Blend Medium Roast Ground Coffee",
+   "price": 11.99,
+   "price_raw": "$11.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00056
+  },
+  "openai": {
+   "verdict": "served",
+   "why": "open_page on store",
+   "parsed": true,
+   "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+   "price": 11.99,
+   "price_raw": "$11.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.01205
+  },
+  "perplexity": {
+   "verdict": "indexed",
+   "why": "store page cited from Perplexity's search index (not a live fetch)",
+   "parsed": true,
+   "name": "Dunkin’ Original Blend Medium Roast Ground Coffee",
+   "price": 11.99,
+   "price_raw": "$11.99",
+   "stock": "IN STOCK",
+   "opened": "YES",
+   "retrieved_at": null,
+   "age_days": null,
+   "cost_usd": 0.00516
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.instacart.com/categories",
+  "https://www.instacart.com/",
+  "https://www.instacart.com/products/41579-crystal-hot-sauce-32-oz",
+  "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces",
+  "https://www.instacart.com/products/7260?retailerSlug=shop-n-save-wilkins-sns-50582368190435",
+  "https://www.instacart.com/landing",
+  "https://www.instacart.com/categories/316-food/1268-deli/1283-deli-meats/1297-prosciutto?brand=principe",
+  "https://www.instacart.com/categories/316-food?page=11745",
+  "https://www.instacart.com/categories/243-beverages/255-juice/257-fruit-juice/271-prune-juice?brand=schnucks",
+  "https://www.instacart.com/categories/316-food/1326-dairy/2471-creams/1354-whipped-cream?brand=classic-cream"
+ ],
+ "cited_store": true,
+ "answer": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n\nGrocery",
+ "cost_usd": 0.00508,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n\nGrocery",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.instacart.com/categories",
+   "https://www.instacart.com/",
+   "https://www.instacart.com/products/41579-crystal-hot-sauce-32-oz",
+   "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces",
+   "https://www.instacart.com/products/7260?retailerSlug=shop-n-save-wilkins-sns-50582368190435",
+   "https://www.instacart.com/landing",
+   "https://www.instacart.com/categories/316-food/1268-deli/1283-deli-meats/1297-prosciutto?brand=principe",
+   "https://www.instacart.com/categories/316-food?page=11745",
+   "https://www.instacart.com/categories/243-beverages/255-juice/257-fruit-juice/271-prune-juice?brand=schnucks",
+   "https://www.instacart.com/categories/316-food/1326-dairy/2471-creams/1354-whipped-cream?brand=classic-cream"
+  ],
+  "created": 1794079611,
+  "id": "resp_96250423-cdba-4996-87a9-2168d80695ae",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "# Same-day delivery and pickup options by Instacart are available from these categories and more",
+    "source": "web",
+    "title": "Same-Day Delivery or Pickup on Grocery, Alcohol, Home ...",
+    "url": "https://www.instacart.com/categories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Instacart | Grocery Delivery or Pickup from Local Stores Near You\n# Order groceries for delivery or pickup today\n...\n## All stores in San Francisco Bay Area\nScan the QR code with your camera.\n...\n## Grocery delivery you can count on\n### Choose what you want\nSelect items from your favorite grocery st...",
+    "source": "web",
+    "title": "Senorio De Sarria Chardonny - Instacart",
+    "url": "https://www.instacart.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Crystal Hot Sauce (32 fl oz) Delivery or Pickup Near Me - Instacart\n...\n1. Condiments\n2. Sauces\nCrystal Hot Sauce",
+    "source": "web",
+    "title": "Crystal Hot Sauce (32 fl oz) Delivery or Pickup Near Me - Instacart",
+    "url": "https://www.instacart.com/products/41579-crystal-hot-sauce-32-oz"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Sauces Products Near Me - Delivery or Pickup | Instacart\n...\n# Sauces Delivery or Pickup",
+    "source": "web",
+    "title": "Sauces Products Near Me - Delivery or Pickup | Instacart",
+    "url": "https://www.instacart.com/categories/316-food/844-pantry/1043-condiments/1130-sauces"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Shop 'n Save Chobani Plain Nonfat Greek Yogurt Same-Day Delivery | Instacart\n94105\n0\nChobani Plain Nonfat Greek Yogurt\n$1.995.3 oz\n...\n# Chobani Plain Nonfat Greek Yogurt\n5.3 oz\n• $0.38/oz\n...\nCurrent price: $1.99$1.99\n...\n## Ingredients\nEstimated price is approximate and provided only for reference...",
+    "source": "web",
+    "title": "Shop 'n Save Chobani Plain Nonfat Greek Yogurt Same-Day Delivery",
+    "url": "https://www.instacart.com/products/7260?retailerSlug=shop-n-save-wilkins-sns-50582368190435"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Instacart\n...\nExcludes restaurants.\nItem isn't available in 94105",
+    "source": "web",
+    "title": "Instacart",
+    "url": "https://www.instacart.com/landing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Principe Prosciutto Delivery or Pickup\n## Principe Prosciutto Near Me\nOrder Principe Prosciutto from local and national retailers near you and enjoy on-demand, contactless delivery or pickup within 2 hours.",
+    "source": "web",
+    "title": "Principe Prosciutto Products Near Me - Delivery or Pickup",
+    "url": "https://www.instacart.com/categories/316-food/1268-deli/1283-deli-meats/1297-prosciutto?brand=principe"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "Food Products Near Me - Delivery or Pickup | Page 11745 | Instacart\n# Food Delivery or Pickup",
+    "source": "web",
+    "title": "Food Products Near Me - Delivery or Pickup | Page 11745 - Instacart",
+    "url": "https://www.instacart.com/categories/316-food?page=11745"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Schnucks Prune Juice Delivery or Pickup\n## Schnucks Prune Juice Near Me\nBuy your favorite Schnucks Prune Juice online with Instacart.",
+    "source": "web",
+    "title": "Schnucks Prune Juice Delivery or Pickup - Instacart",
+    "url": "https://www.instacart.com/categories/243-beverages/255-juice/257-fruit-juice/271-prune-juice?brand=schnucks"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-06",
+    "place_metadata": null,
+    "snippet": "# Classic Cream Whipped Cream Delivery or Pickup\n...\n## Classic Cream Whipped Cream Near Me\nBuy your favorite Classic Cream Whipped Cream online with Instacart.\nOrder Classic Cream Whipped Cream from local and national retailers near you and enjoy on-demand, contactless delivery or pickup within 2 h...",
+    "source": "web",
+    "title": "Classic Cream Whipped ...",
+    "url": "https://www.instacart.com/categories/316-food/1326-dairy/2471-creams/1354-whipped-cream?brand=classic-cream"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 17,
+   "cost": {
+    "input_tokens_cost": 0.00062,
+    "output_tokens_cost": 5e-05,
+    "request_cost": 0.0025,
+    "total_cost": 0.00317
+   },
+   "prompt_tokens": 58,
+   "search_context_size": "low",
+   "total_tokens": 75
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "model": "gemini-3.1-flash-lite",
+ "url_status": [
+  [
+   "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FWatermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html&risk-id=E4948108270842838145",
+   "URL_RETRIEVAL_STATUS_SUCCESS"
+  ]
+ ],
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: Access blocked (bot/security challenge detected)",
+ "finish": "STOP",
+ "cost_usd": 0.00125,
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: Access blocked (bot/security challenge detected)",
+       "thoughtSignature": "EnMKcQFpFH0T7+NgT6yyXsQzhxlDB0xHZAg/H0ArNSawEB1xmRZ9ZD0PvIObWoK09jSS95hEsoLM1ELT+ho61JVCYZ9SKRJ6/BJaPmO9k3hEWSkyEY6XCKIf9XeQn6Q7GvslT4kV648ylBDJC2V4+zLfEV/V"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "urlContextMetadata": {
+     "urlMetadata": [
+      {
+       "retrievedUrl": "https://us.shein.com/risk/challenge?captcha_type=903&redirection=https%3A%2F%2Fus.shein.com%2FWatermelon-Slush-Ball-Squeeze-Toy-Soft-Crunchy-Texture-Stress-Relief-Fidget-Toy-For-ASMR-ADHD-Sensory-Toy-For-Kids-Teens-Adult-Women-Office-Desk-Accessory-Birthday-Party-Gift-Halloween-Toy-Easter-Gift-Christmas-Gift-Valentine-s-Day-Gift-p-560261832.html&risk-id=E4948108270842838145",
+       "urlRetrievalStatus": "URL_RETRIEVAL_STATUS_SUCCESS"
+      }
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 216,
+   "candidatesTokenCount": 147,
+   "totalTokenCount": 12103,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 216
+    }
+   ],
+   "toolUsePromptTokenCount": 11740,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 11740
+    }
+   ],
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.1-flash-lite",
+  "responseId": "0IXvasTZO8Hmz7IP8_WuqQs"
+ }
+}

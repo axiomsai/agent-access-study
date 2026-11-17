@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/c",
+  "https://www.etsy.com/market/etsy.com",
+  "https://www.etsy.com/shop/LittleInkaTextiles?from_page=listing",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/affordable_vase",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+  "https://www.etsy.com/",
+  "https://www.etsy.com/market/everyday_accessories",
+  "https://www.etsy.com/c/accessories",
+  "https://www.etsy.com/c/clothing"
+ ],
+ "cited_store": true,
+ "answer": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in results",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: NONE | PRICE: NONE | STOCK: UNKNOWN | OPENED: NO: page not found in results",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/c",
+   "https://www.etsy.com/market/etsy.com",
+   "https://www.etsy.com/shop/LittleInkaTextiles?from_page=listing",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/affordable_vase",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1",
+   "https://www.etsy.com/",
+   "https://www.etsy.com/market/everyday_accessories",
+   "https://www.etsy.com/c/accessories",
+   "https://www.etsy.com/c/clothing"
+  ],
+  "created": 1793906217,
+  "id": "resp_278f543a-04b9-4514-8c41-2e9a4ba02b7f",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "All Categories - Etsy\n# All Categories\nHome & Living\n(1,000+ items)\n- ### Blind Psychic Reading - No Questions Asked, Accurate Same Hour Reading, Deep Intuitive Insights, Spirit Guide Messages, Detail PDF Download\n(9,972)\nStar Seller\nSale Price $6.30 $6.30\n$18.00 Original Price $18.00 (65% off)\nMedi...",
+    "source": "web",
+    "title": "All Categories - Etsy",
+    "url": "https://www.etsy.com/c"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "# Etsy.com\n989+ items\nSort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "LittleInkaTextiles - Etsy\n# LittleInkaTextiles\nStar Seller\nStar Sellers have an outstanding track record for providing a great customer experience—they consistently earned 5-star reviews, shipped orders on time, and replied quickly to any messages they received.\nAustin, Texas\n...\n241\n...\nMighty Ande...",
+    "source": "web",
+    "title": "LittleInkaTextiles - Etsy",
+    "url": "https://www.etsy.com/shop/LittleInkaTextiles?from_page=listing"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "# Etsy. Com\n599+ items\n- ## Handmade Red & White Fused Glass Christmas Tree Ornament with Snowflake or 2025 Year Charm Winter Holiday Decor only at SoapAndDish.Etsy.com",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": "2026-10-15",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "Affordable Vase - Etsy\n# Affordable Vase\n2,000+ items",
+    "source": "web",
+    "title": "Affordable Vase - Etsy",
+    "url": "https://www.etsy.com/market/affordable_vase"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "# Etsy&\n5,000+ items\nSort by: Relevancy Sort by: Relevancy\n...\n- Lowest Price\n- Highest Price",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Everyday Accessories - Etsy\n# Everyday Accessories\n5,000+ items",
+    "source": "web",
+    "title": "Everyday Accessories - Etsy",
+    "url": "https://www.etsy.com/market/everyday_accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Accessories - Etsy\n# Accessories\n- ### Custom Text Embroidered Hat, Personalized Saying Cap, Vintage Baseball Hat, Gift For New Dad Mom, Camp Bachelorette Hat, Mothers Day Gift",
+    "source": "web",
+    "title": "Accessories",
+    "url": "https://www.etsy.com/c/accessories"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Clothing - Etsy\n# Clothing\nClothing for adults and kids—we got you covered",
+    "source": "web",
+    "title": "Clothing",
+    "url": "https://www.etsy.com/c/clothing"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 22,
+   "cost": {
+    "input_tokens_cost": 0.00084,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00353
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 136
+  }
+ }
+}

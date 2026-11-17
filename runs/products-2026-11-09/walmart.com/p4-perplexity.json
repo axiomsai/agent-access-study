@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.walmart.com/ip/Apple-AirTag-1-Pack-2nd-Generation/19390102536",
+  "https://www.walmart.com/?itemId=134450965",
+  "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3",
+  "https://www.walmart.com/?itemId=1106819677",
+  "https://www.walmart.com/ip/Apple-AirTag-1-Pack/5396499207",
+  "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241",
+  "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008",
+  "https://www.walmart.com/?ret=/ip/lampara-led-con-figuras-de-anime-en-3d-iron-man-spiderman-figuras-de-accion-de-disney-lampara-led-para-dormitorio-de-ninos-juguetes-modelo-de-decoracion-regalo-para-ninos/00840522601135",
+  "https://www.walmart.com/?ret=/ip/avion-de-combate-mig-29-a-escala-1-72-con-soporte-de-exhibicion-decoracion-para-el-hogar/00078560759287",
+  "https://www.walmart.com/?ret=/ip/Plastic-Organizer-Bin-Green-plastic-basket-offers-sturdy-daily-open-storage-Compact-container-works-for-Kitchen-Vanity-and-Shelf-Decor/21011462037"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00522,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup | PRICE: $23.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.walmart.com/ip/Apple-AirTag-1-Pack-2nd-Generation/19390102536",
+   "https://www.walmart.com/?itemId=134450965",
+   "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3",
+   "https://www.walmart.com/?itemId=1106819677",
+   "https://www.walmart.com/ip/Apple-AirTag-1-Pack/5396499207",
+   "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241",
+   "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008",
+   "https://www.walmart.com/?ret=/ip/lampara-led-con-figuras-de-anime-en-3d-iron-man-spiderman-figuras-de-accion-de-disney-lampara-led-para-dormitorio-de-ninos-juguetes-modelo-de-decoracion-regalo-para-ninos/00840522601135",
+   "https://www.walmart.com/?ret=/ip/avion-de-combate-mig-29-a-escala-1-72-con-soporte-de-exhibicion-decoracion-para-el-hogar/00078560759287",
+   "https://www.walmart.com/?ret=/ip/Plastic-Organizer-Bin-Green-plastic-basket-offers-sturdy-daily-open-storage-Compact-container-works-for-Kitchen-Vanity-and-Shelf-Decor/21011462037"
+  ],
+  "created": 1794248488,
+  "id": "resp_8139d013-6285-4083-b56e-f92cf41b031d",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "Apple, Item Tracker, 2nd Generation, for Keys Wallet & More - Walmart.com\n- $0.00\n...\nHero image 0 of Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, 0 of 9\nApple\n# Apple AirTag (2nd Generation) – 1 Pack Item...",
+    "source": "web",
+    "title": "Apple, Item Tracker, 2nd Generation, for Keys Wallet & More - Walmart",
+    "url": "https://www.walmart.com/ip/Apple-AirTag-1-Pack-2nd-Generation/19390102536"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-31",
+    "place_metadata": null,
+    "snippet": "- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Pr...",
+    "source": "web",
+    "title": "Save Money. Live better. - Walmart",
+    "url": "https://www.walmart.com/?itemId=134450965"
+   },
+   {
+    "date": "2026-01-10",
+    "last_updated": "2026-10-13",
+    "place_metadata": null,
+    "snippet": "### Open Box Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $17.00 Was $22.00\n** Add\nPrice Now $17.00 Was $22.00\nNow$1700$22.00\nOpen Box Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys...",
+    "source": "web",
+    "title": "Apple New Bluetooth Tracking Devices for Cell Phones - Walmart.com",
+    "url": "https://www.walmart.com/browse/cell-phones/tracking-devices/apple/new/1105910_133161_9220901/YnJhbmQ6QXBwbGV8fG9mZmVyX2NvbmRpdGlvbl9ncm91cF9jb2Rlc19maWx0ZXJfdjA6TmV3"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-10-30",
+    "place_metadata": null,
+    "snippet": "## Discover Great Brands\nView all\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple AirTag (2nd Generation) – 1 Pack Item T...",
+    "source": "web",
+    "title": "Walmart | Save Money. Live better.",
+    "url": "https://www.walmart.com/?itemId=1106819677"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Apple, AirTag, White, Item Tracker with Find My, Bluetooth, Waterproof - Walmart.com\n...\nHero image 0 of (Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup, 0 of 9\n# (Open Box) Apple AirTag (1st Generat...",
+    "source": "web",
+    "title": "(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup - Walmart.com",
+    "url": "https://www.walmart.com/ip/Apple-AirTag-1-Pack/5396499207"
+   },
+   {
+    "date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "Apple AirTag (2nd Generation) – 4 Pack Item Trackers, Precision Finding up to 1.5× Range, Key, Wallet & Luggage Finder, One-Tap Setup - Walmart Business Supplies\n- $0.00\n...\n# Apple AirTag (2nd Generation) – 4 Pack Item Trackers, Precision Finding up to 1.5× Range, Key, Wallet & Luggage Finder, One-...",
+    "source": "web",
+    "title": "Apple AirTag (2nd Generation) – 4 Pack Item Trackers ...",
+    "url": "https://business.walmart.com/ip/Apple-AirTag-4-Pack-2nd-Generation/19319566241"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Finder, One-Tap iPhone/iPad Setup\nAdd\n$35.00\ncurrent price $35.00\n(Open Box) Apple AirTag (1st Generation) – 1 Pack Item Tracker with Apple Find My, Bluetooth Key, Wallet & Luggage Find...",
+    "source": "web",
+    "title": "Premium Tracking Devices - Essential Business Tools for ...",
+    "url": "https://business.walmart.com/browse/technology/tracking-devices/4306450_2869529_8048877_8494148_6019008"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-04",
+    "place_metadata": null,
+    "snippet": "## Discover Great Brands\n- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nAdd\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple AirTag (2nd Generation) – 1 Pack Item Tracker fo...",
+    "source": "web",
+    "title": "Save Money. Live better.",
+    "url": "https://www.walmart.com/?ret=/ip/lampara-led-con-figuras-de-anime-en-3d-iron-man-spiderman-figuras-de-accion-de-disney-lampara-led-para-dormitorio-de-ninos-juguetes-modelo-de-decoracion-regalo-para-ninos/00840522601135"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-09",
+    "place_metadata": null,
+    "snippet": "- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precis...",
+    "source": "web",
+    "title": "Save Money. Live better.",
+    "url": "https://www.walmart.com/?ret=/ip/avion-de-combate-mig-29-a-escala-1-72-con-soporte-de-exhibicion-decoracion-para-el-hogar/00078560759287"
+   },
+   {
+    "date": "2026-10-05",
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "- ### Apple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precision Finding up to 1.5× Range, One-Tap iPhone/iPad Setup, Price Now $23.00 Was $28.00\nPrice Now $23.00 Was $28.00\nNow$2300$28.00\nApple AirTag (2nd Generation) – 1 Pack Item Tracker for Keys, Wallet & More, Precis...",
+    "source": "web",
+    "title": "Save Money. Live better.",
+    "url": "https://www.walmart.com/?ret=/ip/Plastic-Organizer-Bin-Green-plastic-basket-offers-sturdy-daily-open-storage-Compact-container-works-for-Kitchen-Vanity-and-Shelf-Decor/21011462037"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 58,
+   "cost": {
+    "input_tokens_cost": 0.0017800000000000001,
+    "output_tokens_cost": 0.00038,
+    "request_cost": 0.0025,
+    "total_cost": 0.00466
+   },
+   "prompt_tokens": 158,
+   "search_context_size": "low",
+   "total_tokens": 216
+  }
+ }
+}

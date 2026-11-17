@@ -1,0 +1,154 @@
+{
+ "model": "sonar",
+ "citations": [
+  "https://www.etsy.com/",
+  "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup",
+  "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek",
+  "https://www.etsy.com/de-en/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1",
+  "https://www.etsy.com/listing/?etsrc=sdt",
+  "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+  "https://www.etsy.com/market/etsy.com",
+  "https://help.etsy.com/hc/en-us/articles/115015627947-How-to-Search-for-Items-and-Shops-on-Etsy",
+  "https://www.etsy.com/market/etsy._com?page=2",
+  "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+ ],
+ "cited_store": true,
+ "answer": "NAME: Personalized ceramic hand painted cup | PRICE: $35.00 | STOCK: UNKNOWN | OPENED: YES",
+ "cost_usd": 0.00514,
+ "raw": {
+  "choices": [
+   {
+    "delta": {
+     "content": "",
+     "role": "assistant"
+    },
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "NAME: Personalized ceramic hand painted cup | PRICE: $35.00 | STOCK: UNKNOWN | OPENED: YES",
+     "role": "assistant"
+    }
+   }
+  ],
+  "citations": [
+   "https://www.etsy.com/",
+   "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup",
+   "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek",
+   "https://www.etsy.com/de-en/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1",
+   "https://www.etsy.com/listing/?etsrc=sdt",
+   "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1",
+   "https://www.etsy.com/market/etsy.com",
+   "https://help.etsy.com/hc/en-us/articles/115015627947-How-to-Search-for-Items-and-Shops-on-Etsy",
+   "https://www.etsy.com/market/etsy._com?page=2",
+   "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+  ],
+  "created": 1794248730,
+  "id": "resp_0048ff05-fb11-43be-94a6-251d87705a98",
+  "model": "sonar",
+  "object": "chat.completion",
+  "search_results": [
+   {
+    "date": null,
+    "last_updated": null,
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n...\n# Find a gift that feels like them\n## What is Etsy?\n### A community doing good\nEtsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items.\nWe’re also a community pushing for...",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts ...",
+    "url": "https://www.etsy.com/"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-05-18",
+    "place_metadata": null,
+    "snippet": "Personalized Ceramic Hand Painted Cup - Etsy\n- Homepage\n- Art & Collectibles\n- Fine Art Ceramics\n...\nALICJACERAMICS 5 out of 5 stars (881) 881 reviews\nPersonalized ceramic hand painted cup\n$35.00\n...\n### Similar items on Etsy",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy",
+    "url": "https://www.etsy.com/listing/1736171915/personalized-ceramic-hand-painted-cup"
+   },
+   {
+    "date": "2025-03-04",
+    "last_updated": "2025-09-20",
+    "place_metadata": null,
+    "snippet": "Cena:160,16 zł\n# Personalizowany ceramiczny kubek malowany ręcznie\nSprzedawca na medal\n### Co wyróżnia produkt\nPersonalizowane kubki.\nSą idealnymi prezentami na dzień ojca, prezentami dla druhen, prezentami rocznicowymi.\nMogę napisać krótką wiadomość, ale powiedziałbym, że maksymalnie 5 słów, w prze...",
+    "source": "web",
+    "title": "Personalizowany ceramiczny kubek malowany ręcznie",
+    "url": "https://www.etsy.com/pl/listing/1736171915/personalizowany-ceramiczny-kubek"
+   },
+   {
+    "date": "2026-11-02",
+    "last_updated": "2026-11-03",
+    "place_metadata": null,
+    "snippet": "Personalized Ceramic Hand Painted Cup - Etsy.de\n- Fine Art Ceramics\n...\n- Try to refresh the page or come back later.\n# Personalized ceramic hand painted cup\n20+ views in the last 24 hours\nPrice:€53,40\nLoading\nVAT included (where applicable), plus shipping\nALICJACERAMICS\nStar Seller\n...\n## Item deta...",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy.de",
+    "url": "https://www.etsy.com/de-en/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalized+gift&etp=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-07",
+    "place_metadata": null,
+    "snippet": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone\n...\n# Find a gift that feels like them\n## What is Etsy?\n### A community doing good\nEtsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items.\nWe’re also a community pushing for...",
+    "source": "web",
+    "title": "Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",
+    "url": "https://www.etsy.com/listing/?etsrc=sdt"
+   },
+   {
+    "date": "2026-10-10",
+    "last_updated": "2026-10-25",
+    "place_metadata": null,
+    "snippet": "Personalized Ceramic Hand Painted Cup - Etsy Ireland\n- Fine Art Ceramics\n...\n- Try to refresh the page or come back later.\n# Personalized ceramic hand painted cup\n20+ views in the last 24 hours\nPrice:€51.65\nLoading\nVAT included (where applicable), plus postage\nALICJACERAMICS\nStar Seller\nStar Sellers...",
+    "source": "web",
+    "title": "Personalized Ceramic Hand Painted Cup - Etsy Ireland",
+    "url": "https://www.etsy.com/ie/listing/1736171915/personalized-ceramic-hand-painted-cup?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=personalised+gift&etp=1"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-05",
+    "place_metadata": null,
+    "snippet": "Etsy.com - Etsy\n# Etsy.com\n968+ items\n...\n## Common Questions\nYes!",
+    "source": "web",
+    "title": "Etsy.com",
+    "url": "https://www.etsy.com/market/etsy.com"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-10-27",
+    "place_metadata": null,
+    "snippet": "# How to Search for Items and Shops on Etsy\nThe search bar on the top of Etsy.com and the Etsy app is your gateway to discovering our marketplace of unique handmade and vintage items.\nExplore thousands of Etsy shops from all over the world–or connect with local sellers from your own country.\n## How ...",
+    "source": "web",
+    "title": "How to Search for Items and Shops on Etsy",
+    "url": "https://help.etsy.com/hc/en-us/articles/115015627947-How-to-Search-for-Items-and-Shops-on-Etsy"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-06-07",
+    "place_metadata": null,
+    "snippet": "Etsy.\nCom - Etsy - Page 2\n# Etsy. Com\n599+ items\n- ## Handmade Red & White Fused Glass Christmas Tree Ornament with Snowflake or 2025 Year Charm Winter Holiday Decor only at SoapAndDish.Etsy.com\n...\n- ## Natural Real porcupine quills plumesnfeathers in Sizes 6-7\" and 7-8\" . https://realplumesnfeathe...",
+    "source": "web",
+    "title": "Etsy. Com - Etsy - Page 2",
+    "url": "https://www.etsy.com/market/etsy._com?page=2"
+   },
+   {
+    "date": null,
+    "last_updated": "2026-11-08",
+    "place_metadata": null,
+    "snippet": "Etsy& - Etsy\n# Etsy&\n5,000+ items",
+    "source": "web",
+    "title": "Etsy& - Etsy",
+    "url": "https://www.etsy.com/market/etsy&?is_star_seller=1&explicit=1"
+   }
+  ],
+  "usage": {
+   "completion_tokens": 24,
+   "cost": {
+    "input_tokens_cost": 0.00142,
+    "output_tokens_cost": 0.00019,
+    "request_cost": 0.0025,
+    "total_cost": 0.00411
+   },
+   "prompt_tokens": 114,
+   "search_context_size": "low",
+   "total_tokens": 138
+  }
+ }
+}
