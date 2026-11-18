@@ -3,7 +3,7 @@
 Most AI tools couldn't access 5 of 20 big stores, and often got the price wrong. This repository holds every file behind that study, so anyone can check every number and run the same method again.
 
 - **The write-up:** https://axioms.ai/research/agent-access-study/
-- **Author:** Karen Spinner, Head of Applied AI Research, Axioms.ai
+- **Authors:** Karen Spinner, Head of Applied AI Research, Axioms.ai (designed and ran the study); Dakota Nunley, Head of Search Product, Axioms.ai (advised)
 - **Run days:** Thu Nov 5, Sat Nov 7 and Mon Nov 9, 2026, plus a control run on Wed Nov 11
 
 ## What we tested
@@ -89,7 +89,7 @@ The locked files are published byte for byte, so a few internal notes stay in th
 
 ## Disclosure
 
-Karen Spinner designed and ran this study at Axioms.ai. Axioms.ai makes Product.ai, an AI shopping product that competes with AI shopping answers like those tested here. It also runs SimplyCodes, a coupon site that earns most of the company's revenue. So we have a commercial stake in how accurately AI tools report prices, and that is why every file is here.
+Karen Spinner designed and ran this study at Axioms.ai, with advice from Dakota Nunley. Axioms.ai makes Product.ai, an AI shopping product that competes with AI shopping answers like those tested here. It also runs SimplyCodes, a coupon site that earns most of the company's revenue. So we have a commercial stake in how accurately AI tools report prices, and that is why every file is here.
 
 ## Rerunning it
 
