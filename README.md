@@ -1,6 +1,6 @@
 # Agent Access Study: data, scripts and the locked plan
 
-Most AI tools couldn't access 5 of 20 big stores, and often got the price wrong. This repository holds every file behind that study, so anyone can check or rerun every number.
+Most AI tools couldn't access 5 of 20 big stores, and often got the price wrong. This repository holds every file behind that study, so anyone can check every number and run the same method again.
 
 - **The write-up:** https://axioms.ai/research/agent-access-study/
 - **Author:** Karen Spinner, Head of Applied AI Research, Axioms.ai
@@ -36,13 +36,32 @@ The CSV has one row per try (1,200 rows). `tools/build_tries_csv.py` builds it f
 | `raw_response` | The raw API response for that try |
 | `note` | Notes from dated amendments (for example, the Depop buyer-fee regrade) |
 
+## What the outcomes mean
+
+| `chart_outcome` | Rule |
+|---|---|
+| Price matched | The tool got into the page and its price equals the control browser's selling price to the cent |
+| Price wrong | The tool got into the page and gave any other price. This includes quoting the regular price while the page showed a sale price (`final_outcome` = `matched_other_listed_price`) |
+| Got in, no price | Both coders (or our ruling) say the tool reached the page but its answer gave no price |
+| Turned away | The tool got an error, a refusal, a bot check or captcha, or an empty page shell. Errors from the tool itself count too, such as Anthropic's `url_not_allowed` at Amazon, AliExpress and Target, because the shopper gets no page either way. If a turned-away answer still quoted a price (`price_while_blocked`, mostly Perplexity from its search index), the price is never graded |
+| Not graded | The control browser was blocked or found no price (`ungradable`), or the page's structured-data price and visible price differed (`price_conflict`), so no answer on that page counts as right or wrong |
+
+Access comes from the two coders: when they agree, their call stands; when they disagree, our ruling in `rulings.csv` decides. A price is graded only when the final access is "opened". `final.py` holds these rules in code, and `PREREG.md` holds them in words with the date of each change.
+
+## Read the numbers with these limits
+
+- Perplexity's Sonar answers from Perplexity's search index, not a live visit, so a miss can mean the page was not in the index rather than a store block.
+- We capped Anthropic's web fetch at 6,000 tokens of page text; the other tools had no cap. The Nov 11 control run (`runs/capcheck-2026-11-11/`) measures what the cap changed.
+- One control browser read per page per day is the truth. A price can change between the control read and a tool's fetch (they were at most 30 minutes apart).
+- The stores come from Semrush's US retail traffic ranking as we read it on Nov 3, 2026 (`source-archive/`), five product pages each. They are not a sample of all stores.
+
 ## What else is here
 
 | Path | What it is |
 |---|---|
 | `PREREG.md`, `LOCK.txt` | The study plan and its hash ledger. Dated amendments sit below the original text of `PREREG.md`. |
 | `locked-2026-11-03/` | The Nov 3 versions of `PREREG.md`, `grade.py` and `code_fetch.py`, so you can check them against the first hashes in `LOCK.txt` |
-| `stores.yaml` | The frozen list of 21 stores: 100 product URLs from 20 stores, plus Instacart's homepage only |
+| `stores.yaml` | The frozen store list: five product URLs for each of the 20 stores tested. It also lists Instacart, which shows no product page without a delivery address, so only its homepage was fetched and it is not in the 1,200 tries |
 | `pilot.py`, `products.py`, `control.js`, `control_sink.py` | Collection: the API calls and verbatim prompts, the robots.txt check, and the Chrome price reader |
 | `grade.py`, `code_fetch.py`, `final.py`, `results.py`, `capcheck.py` | Grading: the cent-level price grader, the cross-lab coder harness, the final outcome rules, the `RESULTS.json` builder, and the Nov 11 control run |
 | `runs/products-2026-11-{05,07,09}/` | Each run day: raw responses per page and tool, `graded.json`, `coding.jsonl`, `rulings.csv`, `final.json`, and Day 1's `pre-amendment/` files |
@@ -74,13 +93,17 @@ Karen Spinner designed and ran this study at Axioms.ai. Axioms.ai makes Product.
 
 ## Rerunning it
 
-The scripts need Python 3 with `pyyaml`, `requests` and `anthropic`, plus your own API keys for Anthropic, Google, OpenAI and Perplexity. `pilot.py` reads them from the `.env` path named near its top, so put a `.env` there or point that line at your own file (which changes its hash). The coder harness imports `common.py`, so run it with `PYTHONPATH=vendor`:
+The scripts need Python 3 with `pyyaml`, `requests` and `anthropic` (`pip install pyyaml requests anthropic`), plus your own API keys for Anthropic, Google, OpenAI and Perplexity. `pilot.py` reads them from the `.env` path named near its top, so put a `.env` there or point that line at your own file (which changes its hash). The coder harness imports `common.py`, so run it with `PYTHONPATH=vendor`:
 
 ```
 PYTHONPATH=vendor python3 code_fetch.py runs/products-2026-11-05
 ```
 
 `tools/build_tries_csv.py` and the CSV need nothing beyond Python 3. The store pages and prices will have changed since November 2026, so a new run measures the tools as they are now.
+
+## How to cite
+
+Spinner, K. (2026). *Agent Access Study: most AI tools couldn't access 5 of 20 big stores, and often got the price wrong.* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
 
 ## License
 
