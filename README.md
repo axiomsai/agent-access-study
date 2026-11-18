@@ -103,7 +103,7 @@ PYTHONPATH=vendor python3 code_fetch.py runs/products-2026-11-05
 
 ## How to cite
 
-Spinner, K. (2026). *Agent Access Study: most AI tools couldn't access 5 of 20 big stores, and often got the price wrong.* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
+Spinner, K., & Nunley, D. (2026). *Agent Access Study: most AI tools couldn't access 5 of 20 big stores, and often got the price wrong.* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
 
 ## License
 
