@@ -2,7 +2,7 @@
 
 Most AI tools couldn't access 5 of 20 big stores, and often got the price wrong. This repository holds every file behind that study, so anyone can check every number and run the same method again.
 
-- **The write-up:** https://axioms.ai/research/agent-access-study/
+- **The write-up:** https://product.ai/research/agent-access-study/ (an interactive version is on https://axioms.ai/research/agent-access-study/)
 - **Authors:** Karen Spinner, Head of Applied AI Research, Axioms.ai (designed and ran the study); Dakota Nunley, Head of Search Product, Axioms.ai (advised)
 - **Run days:** Thu Nov 5, Sat Nov 7 and Mon Nov 9, 2026, plus a control run on Wed Nov 11
 
@@ -135,7 +135,7 @@ The coders are AI models, so a new coding run can label a few answers differentl
 
 ## How to cite
 
-Spinner, K., & Nunley, D. (2026). *Agent Access Study: Can AI tools get into online stores and get the right prices?* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
+Spinner, K., & Nunley, D. (2026). *Agent Access Study: Can AI tools get into online stores and get the right prices?* Product.ai. https://product.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
 
 ## License
 
