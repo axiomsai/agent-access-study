@@ -135,7 +135,7 @@ The coders are AI models, so a new coding run can label a few answers differentl
 
 ## How to cite
 
-Spinner, K., & Nunley, D. (2026). *Agent Access Study: Can AI tools find the right price on store pages?* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
+Spinner, K., & Nunley, D. (2026). *Agent Access Study: Can AI tools get into online stores and get the right prices?* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
 
 ## License
 
