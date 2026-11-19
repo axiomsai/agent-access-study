@@ -17,7 +17,7 @@ We sent four AI companies' page-reading tools to the same 100 product pages, fiv
 | OpenAI | Responses API web search | gpt-5.4-mini |
 | Perplexity | Sonar, with a store domain filter (answers from its search index) | sonar |
 
-We report the tools in two groups. Anthropic's web fetch and Google's URL context are built to read the page at a URL. OpenAI's web search and Perplexity's Sonar are search tools: they answer from what a search returns, and neither says whether it visited the page. At Amazon, OpenAI's tool returned product content on 14 of 15 tries although Amazon's robots.txt disallows all three of OpenAI's agent names, and it repeated the same wrong prices on different days, which fits an answer from stored search results.
+We report the tools in two groups. Anthropic's web fetch and Google's URL context are built to read web pages. OpenAI's web search and Perplexity's Sonar are search tools that answer from what a search returns, and neither says whether it visited the page. At Amazon, OpenAI's tool returned product content on 14 of 15 tries although Amazon's robots.txt disallows all three of OpenAI's agent names, and it repeated the same wrong prices on different days, which is consistent with answers from stored search results.
 
 ## Start here: `data/tries.csv`
 
@@ -81,7 +81,7 @@ Access comes from the two coders: when they agree, their label stands; when they
 
 ## An internal study
 
-Before the first counted run, we wrote the store list, product links, prompt and grading rules into a study plan (`PREREG.md`) and locked it on November 3, 2026, with SHA-256 hashes recorded in `LOCK.txt`. This is an internal study. We did not register the plan with anyone, and it makes no prediction: it fixes the method, and we report what the method found. The lock date is our own record; the hashes show that the files have not changed since we published them. Changes after the lock are dated amendments below the original text of `PREREG.md`.
+Before the first counted run, we wrote the store list, product links, prompt and grading rules into a study plan (`PREREG.md`) and locked it on November 3, 2026, with SHA-256 hashes recorded in `LOCK.txt`. This is an internal study. We did not register the plan with anyone, and it makes no prediction. It fixes the method, and we report what the method found. The lock date is our own record, and the hashes show that the files have not changed since we published them. Changes after the lock are dated amendments below the original text of `PREREG.md`.
 
 To check a file:
 
@@ -95,11 +95,13 @@ The locked files are published byte for byte, so a few internal notes stay in th
 
 ## How the control prices were taken
 
-Within 30 minutes of each store's fetches, Karen Spinner opened the store's five product pages in a signed-out Chrome browser on her laptop. Claude in Chrome, Anthropic's browser extension, loaded each page and ran `control.js`, which returns the page's structured-data (schema.org Offer) price, the first price-like element, the first price after the product title and a captcha flag. The same session copied each result into `runs/control-<date>/control-transcribed.jsonl`: `ld_price` and `page_price` come from the script's output; when the page showed both a sale and a regular price, the session read the second price from the page into `alt_prices`; `note` holds what it saw (a sign-in wall, a redirect, a configurator). We did not save the script's raw output apart from that file. `RUNBOOK.md` step 3 is the procedure. Anthropic's extension took the control reads for every tool, including Anthropic's own; no company's model labeled its own tool's answers.
+Within 30 minutes of each store's fetches, Karen Spinner opened the store's five product pages in a signed-out Chrome browser on her laptop. Claude in Chrome, Anthropic's browser extension, loaded each page and ran `control.js`, which returns the page's structured-data (schema.org Offer) price, the first price-like element, the first price after the product title and a captcha flag. The same session copied each result into `runs/control-<date>/control-transcribed.jsonl`: `ld_price` and `page_price` come from the script's output. When the page showed both a sale and a regular price, the session read the second price from the page into `alt_prices`; `note` holds what it saw (a sign-in wall, a redirect, a configurator). We did not save the script's raw output apart from that file. `RUNBOOK.md` step 3 is the procedure. Anthropic's extension captured the control reads for every tool, including Anthropic's own. No company's model labeled its own tool's answers.
 
 ## Disclosure
 
 Karen Spinner designed and ran this study at Axioms.ai, with advice from Dakota Nunley. Axioms.ai makes Product.ai, an AI shopping product that competes with AI shopping answers like those tested here. It also runs SimplyCodes, a coupon site that earns most of the company's revenue. So we have a commercial stake in how accurately AI tools report prices, and that is why every file is here.
+
+This study was prepared with some assistance from Claude family models (Anthropic). Claude Haiku 5.5 was also one of the three coders, and Claude in Chrome captured the control reads, as described above.
 
 ## Rebuilding the numbers
 
@@ -133,7 +135,7 @@ The coders are AI models, so a new coding run can label a few answers differentl
 
 ## How to cite
 
-Spinner, K., & Nunley, D. (2026). *Agent Access Study: most AI tools couldn't access 5 of 20 big stores, and often got the price wrong.* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
+Spinner, K., & Nunley, D. (2026). *Agent Access Study: Do AI agents find the right price when they search the web?* Axioms.ai. https://axioms.ai/research/agent-access-study/ Data: https://github.com/axiomsai/agent-access-study
 
 ## License
 
