@@ -17,7 +17,7 @@ We sent four AI companies' page-reading tools to the same 100 product pages, fiv
 | OpenAI | Responses API web search | gpt-5.4-mini |
 | Perplexity | Sonar, with a store domain filter (answers from its search index) | sonar |
 
-We report the tools in two groups. Anthropic's web fetch and Google's URL context are built to read web pages. OpenAI's web search and Perplexity's Sonar are search tools that answer from what a search returns, and neither says whether it visited the page. At Amazon, OpenAI's tool returned product content on 14 of 15 tries although Amazon's robots.txt disallows all three of OpenAI's agent names, and it repeated the same wrong prices on different days, which is consistent with answers from stored search results.
+We report the tools in two groups. Anthropic's web fetch and Google's URL context are built to read web pages. OpenAI's web search and Perplexity's Sonar are search tools that answer from what a search returns. OpenAI's tool logs an "open page" step on every try, but not whether that step reached the store or read a stored copy, and Perplexity's answers from its search index. At Amazon, OpenAI's tool returned product content on 14 of 15 tries although Amazon's robots.txt disallows all three of OpenAI's agent names, and it repeated the same wrong prices on different days, which is consistent with answers from stored search results.
 
 ## Start here: `data/tries.csv`
 
@@ -31,7 +31,7 @@ The CSV has one row per try (1,200 rows). `tools/build_tries_csv.py` builds it f
 | `final_outcome` | The finer outcome from `final.py` (for example `price_while_blocked` and `matched_other_listed_price`, which the charts count as Turned away and Price wrong) |
 | `final_access` | The access class after coding and rulings |
 | `coder_1`, `coder_1_access`, `coder_2`, `coder_2_access` | The two blind AI coders. Neither came from the lab whose tool produced the answer. |
-| `ruling`, `ruling_reason` | Our team's decision where the coders disagreed, and the reason (from `rulings.csv`) |
+| `ruling`, `ruling_reason` | Our team's decision where the coders disagreed, and the reason (from `rulings.csv`). Splits between "refused" and "challenge" are settled by a standing rule in `final.py`, and 22 of them have no row |
 | `price_given`, `control_price`, `other_store_prices` | The tool's price, the control browser's price, and any other prices the store's page showed |
 | `copy_age_days` | Days between the stored copy and the fetch (Anthropic's tool only; it is the only tool that dates its copy) |
 | `tool_said_opened` | The tool's own first line on whether it opened the page |
@@ -53,6 +53,7 @@ Access comes from the two coders: when they agree, their label stands; when they
 ## Read the numbers with these limits
 
 - Perplexity's Sonar answers from Perplexity's search index, and OpenAI's web search answers through a search, so a miss can mean the page was not in their search results rather than a store block.
+- The robots.txt we read for AliExpress was aliexpress.com's, but the product pages we tested are on aliexpress.us. Every robots.txt check is for the homepage path.
 - We capped Anthropic's web fetch at 6,000 tokens of page text; the other tools had no cap. In the Nov 11 control run (`runs/capcheck-2026-11-11/`), removing the cap cut Anthropic's no-price pages from 43 to 34 of 100 and raised the pages where it gave a price from 28 to 40. Anthropic's counted results all carry the cap.
 - We changed the rules three times after data came in, each as a dated amendment in `PREREG.md` with the first-pass files kept. After Nov 5, pages whose structured-data price and on-screen price differed stopped being judged, and the coders' prompt for copy dates was fixed. After Nov 7, the coders' access label decided which prices count, which kept 47 Perplexity prices out of grading. After Nov 9, Depop's Nov 5 item price counted as right (our browser saw the item price plus Depop's buyer fee), which moved three OpenAI answers from wrong to right (137 to 140 of 178).
 - The control browser was driven by Claude in Chrome, Anthropic's browser extension (see the control section below).
@@ -74,7 +75,7 @@ Access comes from the two coders: when they agree, their label stands; when they
 | `runs/pilot-2026-11-*/`, `runs/products-2026-11-03/`, `runs/smoke-*` | Homepage runs and the Nov 3 pilots before the lock (not counted) |
 | `runs/capcheck-2026-11-11/` | The control run with and without the 6,000-token page-text cap we set on Anthropic's tool |
 | `runs/RESULTS.json`, `runs/TALLY.md` | The study's lead numbers (`RESULTS.json`), and the run log written as each day finished (`TALLY.md`) |
-| `FOOTNOTES.md` | All 20 footnotes on the raw data |
+| `FOOTNOTES.md` | All 22 footnotes on the raw data |
 | `source-archive/` | The store ranking as we read it on Nov 3 |
 | `vendor/common.py` | The vendor API callers the coder harness imports, as they stood during the runs (from our Agent Grounding Study tools) |
 | `tools/build_tries_csv.py` | Builds `data/tries.csv` |
