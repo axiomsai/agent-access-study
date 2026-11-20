@@ -21,7 +21,7 @@ We report the tools in two groups. Anthropic's web fetch and Google's URL contex
 
 ## Start here: `data/tries.csv`
 
-The CSV has one row per try (1,200 rows). `tools/build_tries_csv.py` builds it from the run files in this repository and prints per-tool totals that match Figure 1 of the write-up.
+The CSV has one row per try (1,200 rows). This repository is its source; product.ai serves an identical copy at https://product.ai/research/agent-access-study/assets/tries.csv (SHA-256 `404f040cd166182516b9e2dc15375df88e432500be095c67701cd54cf949a6d4`). `tools/build_tries_csv.py` builds it from the run files in this repository and prints per-tool totals that match Figure 1 of the write-up.
 
 | Column | What it holds |
 |---|---|
