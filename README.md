@@ -1,4 +1,4 @@
-# Agent Access Study: data, scripts and the locked plan
+# Agent Access Study: data, scripts and the methodology
 
 Most AI tools couldn't access 5 of 20 big stores, and often got the price wrong. This repository holds every file behind that study, so anyone can check every number and run the same method again.
 
